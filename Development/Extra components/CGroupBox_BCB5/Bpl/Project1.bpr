@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.05.03"/>
+    <PROJECT value="Project1.exe"/>
+    <OBJFILES value="Project1.obj Unit1.obj"/>
+    <RESFILES value="Project1.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) Unit1.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="VCLX50.lib RXCTL5.lib VCLDB50.lib Extra.lib VCL50.lib"/>
+    <SPARELIBS value="VCL50.lib Extra.lib VCLDB50.lib RXCTL5.lib VCLX50.lib"/>
+    <PACKAGES value="VCL50.bpi VCLX50.bpi VCLDB50.bpi VCLBDE50.bpi VCLDBX50.bpi RXCTL5.bpi 
+      VCLADO50.bpi RXDB5.bpi RXBDE5.bpi Extra.bpi Leds.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="tlink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT"/>
+    <MAINSOURCE value="Project1.cpp"/>
+    <INCLUDEPATH value="D:\CBuilder5\Projects\;$(BCB)\include;$(BCB)\include\vcl;$(BCB)\RX\Units;Extra;Leds;$(BCB)\dagGrid\CBuilder5"/>
+    <LIBPATH value="D:\CBuilder5\Projects\;Extra;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\dagGrid\CBuilder5;$(BCB)\RX\Units"/>
+    <WARNINGS value="-w-par"/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-ID:\CBuilder5\Projects\. -I$(BCB)\include -I$(BCB)\include\vcl 
+      -I$(BCB)\RX\Units -IExtra -ILeds -I$(BCB)\dagGrid\CBuilder5 -src_suffix 
+      cpp -D_DEBUG -boa"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\vcl50.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -c 
+      -tW -tWM"/>
+    <PFLAGS value="-$YD -$W -$O- -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zd"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn -v"/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+  </LINKER>
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=2057
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[Excluded Packages]
+E:\Bpl\Leds\Leds.bpl=Led components
+$(BCB)\Bin\bcbsmp50.bpl=Borland C++ Sample Components
+
+[HistoryLists\hlIncludePath]
+Count=9
+Item0=D:\CBuilder5\Projects\;$(BCB)\include;$(BCB)\include\vcl;$(BCB)\RX\Units;Extra;Leds;$(BCB)\dagGrid\CBuilder5
+Item1=D:\CBuilder5\Projects;$(BCB)\include;$(BCB)\include\vcl;$(BCB)\RX\Units;Extra;Leds;$(BCB)\dagGrid\CBuilder5
+Item2=$(BCB)\include;$(BCB)\include\vcl;$(BCB)\RX\Units\;E:\Bpl\Extra\;E:\Bpl\Leds\;E:\Bpl\;$(BCB)\dagGrid\CBuilder5
+Item3=$(BCB)\include;$(BCB)\include\vcl;E:\RX\Units\;E:\Bpl\Extra\;E:\Bpl\Leds\;E:\Bpl\;$(BCB)\dagGrid\CBuilder5
+Item4=$(BCB)\include;$(BCB)\include\vcl;E:\RX\Units\;E:\Bpl\Extra\;E:\Bpl\Leds\;E:\Bpl\;..\dagGrid\CBuilder5
+Item5=$(BCB)\include;$(BCB)\include\vcl;E:\RX\Units\;E:\Bpl\Extra\;E:\Bpl\Leds\;E:\Bpl\;D:\CBuilder5\dagGrid\CBuilder5
+Item6=$(BCB)\include;$(BCB)\include\vcl;E:\RX\Units\;E:\Bpl\Extra\;E:\Bpl\Leds\
+Item7=$(BCB)\include;$(BCB)\include\vcl;D:\CBuilder5\RX\Units;E:\Bpl\Extra;E:\Bpl\Leds
+Item8=$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=8
+Item0=D:\CBuilder5\Projects\;Extra;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\dagGrid\CBuilder5;$(BCB)\RX\Units
+Item1=;;;;;;;;D:\CBuilder5\Projects;;;;;;Extra;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\dagGrid\CBuilder5;$(BCB)\RX\Units
+Item2=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\dagGrid\CBuilder5;$(BCB)\RX\Units;E:\Bpl\
+Item3=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;E:\Bpl\;..\dagGrid\CBuilder5;..\RX\Units
+Item4=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;E:\Bpl\;..\dagGrid\CBuilder5;D:\CBuilder5\RX\Units
+Item5=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;E:\Bpl\;..\dagGrid\CBuilder5
+Item6=$(BCB)\lib\obj;$(BCB)\lib;E:\Bpl;D:\CBuilder5\dagGrid\CBuilder5
+Item7=$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

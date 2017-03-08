@@ -1,0 +1,339 @@
+<HTML>
+<HEAD>
+<title>Faculty of Theology</title>
+<script type='text/javascript' src='table.js'></script>
+</HEAD>
+<img style='LEFT: 103px' height='71' hspace='0' src='up_logo.gif' width=270 border=0>
+<FONT FACE='Arial'>
+<address><font size='5'><strong>Lecture Timetable - Faculty of Theology</strong></font></address>
+<address><font size='2'>
+<script type='text/javascript' src='filectime.js'></script>
+</font></address>
+<p><font size='2'>CTRL + F (Find text on this page)</font></p>
+<p><address><font size='2'><a href='http://www.up.ac.za/services/academic-admin/support/webreg/2011/2011r004.pdf' target=_blank>Timetable notes and abbreviations</a>
+<font size='2'><a href='http://wrb.up.ac.za:90/plts.xls' target=_blank> / Personal Lecture Timetable Schedule</a>
+<font size='2'><a href='http://web.up.ac.za/interactivemaps/mapeng/index.html' target=_blank> / University Map</a></address></p>
+<a href='javascript:window.history.back(-1)'><strong> Back</strong></a><address><font size='2'><strong>Click on any underlined column heading to sort. (Click once - sort ascending / Click twice - sort descending)</font></strong></address>
+<table id='myTable' class='table-autosort:0 table-autofilter' border=1>
+<thead>
+<tr>
+<th class='table-sortable:default'><u>Year / Module / Group / Lang / A No</u></th>
+<th class='table-filterable'>Type</th>
+<th class='table-filterable'>Day</th>
+<th class='table-filterable table-sortable:default'><u>Start-Time</u></th>
+<th>End-Time</th>
+<th class='table-filterable table-sortable:default'><u>Venue</u></th>
+<th class='table-sortable:default'><u>Lecturer</u></th>
+</tr>
+</thead>
+<tbody>
+<tr><td>2/BYT 251/LG01/B/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology1-11</td><td>S2 / Stander,HF</td></tr>
+<tr><td>1/TEO 102/G01/B/T1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>GW/HB 1-13</td><td>N4 / Niemandt,CJP & D3 / Dreyer,Y & B3 / Buitendag,J</td></tr>
+<tr><td>1/BYA 110/G02/E/T1</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Teologie/Theology1-11</td><td>M8 Meyer,EE</td></tr>
+<tr><td>3/SCR 362/G01/E/L1</td><td>K1/Q1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>GW/HB 1-5</td><td>M7 / Meiring,A</td></tr>
+<tr><td>2/PTH 220/G01/A/L1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 4-16</td><td>W3/ Wepener,C</td></tr>
+<tr><td>3/DET 343/G01/E/L1</td><td>K3/Q3</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-28</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>8/KGS 820/G04/B/L1</td><td>K4/Q4</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>8/DCE 810/G02/B/L1</td><td>K2/Q2</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-10</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>4/DCE 452/G02/E/L1</td><td>K2/Q2</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>V13/Vellem,V</td></tr>
+<tr><td>4/TEO 456/G02/E/L1</td><td>K2/Q2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>M3 / Masango,M</td></tr>
+<tr><td>3/PTL 342/G01/E/L1</td><td>K2/Q2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>W3/ Wepener,C</td></tr>
+<tr><td>1/OTW 110/G02/E/L1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology 1-28</td><td>M8 Meyer,EE</td></tr>
+<tr><td>Z/NT TEKS-K4/G01/A/L1</td><td>K4/Q4</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>GW/HB 1-5</td><td>K3 / Kok,J</td></tr>
+<tr><td>Z/NT TEKS-K1/G01/A/L1</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology2-10</td><td>S3 / Steyn,G(Gert)</td></tr>
+<tr><td>Z/OT NT TEXT-K4/G01/A/L1</td><td>K4/Q4</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology 1-19</td><td>S3 / Steyn,G(Gert) & G2 / Groenewald,A(Alphonso)</td></tr>
+<tr><td>3/DET 344/G01/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>V13/Vellem,V & F1 / Fourie,W</td></tr>
+<tr><td>Z/OT NT TEXT-K4/G04/E/L1</td><td>K4/Q4</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology1-11</td><td>K3 / Kok,J & V7 / Venter,PM</td></tr>
+<tr><td>4/PRT 452/G01/B/L1</td><td>K2/Q2</td><td>Friday</td><td>09:30:00</td><td>12:30:00</td><td>GW/HB 1-12</td><td>C1 / Carstens,C</td></tr>
+<tr><td>2/GRK 210/G02/E/L1</td><td>S1</td><td>Monday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-10</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>1/GRK 110/G02/E/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>1/HEB 110/G02/E/L3</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-13</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>4/DCE 451/G01/A/L1</td><td>K1/Q1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>V14/van Wyk,T & V13/Vellem,V</td></tr>
+<tr><td>2/HEB 210/G01/A/L2</td><td>S1</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Teologie/Theology 1-9</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>4/KGS 451/G01/A/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-12</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>2/GSW 210/G01/A/L1</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>B5 / Beyers,J & N4 / Niemandt,CJP(4317734)</td></tr>
+<tr><td>2/PTH 210/G02/E/L1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology1-11</td><td>M3 / Masango,M</td></tr>
+<tr><td>2/NTW 220/G01/A/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>Nuwe Herv dosent</td></tr>
+<tr><td>2/GSW 220/G02/E/L1</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology 2-1</td><td>K2/Kgatla,T</td></tr>
+<tr><td>4/GSW 454/G01/B/L1</td><td>K4/Q4</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology 2-1</td><td>K2/Kgatla,T</td></tr>
+<tr><td>3/SEW 344/G01/E/L1</td><td>K4/Q4</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology 2-1</td><td>K2/Kgatla,T</td></tr>
+<tr><td>3/PTL 344/G01/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>W3/ Wepener,C</td></tr>
+<tr><td>8/KGS 820/G03/B/L1</td><td>K4/Q4</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>4/NTW 453/G01/A/L1</td><td>K3/Q3</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>K3 / Kok,J</td></tr>
+<tr><td>1/GRK 120/G01/A/L3</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>GW/HB 4-10</td><td>S5 / Swart,GJ & S2 / Stander,HF</td></tr>
+<tr><td>1/GRK 120/G01/A/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>GW/HB 4-10</td><td>S2 / Stander,HF & S5 / Swart,GJ</td></tr>
+<tr><td>3/SET 351/G01/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>V13/Vellem,V & V14/van Wyk,T</td></tr>
+<tr><td>2/CHI 214/G01/E/L1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-6</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>2/OTW 210/G01/E/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-6</td><td>V7 / Venter,PM</td></tr>
+<tr><td>8/KGS 810/G01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology2-10</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>1/GRK 120/G02/E/L4</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>S5 / Swart,GJ & S2 / Stander,HF</td></tr>
+<tr><td>2/DCE 220/G01/A/L1</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>V14/van Wyk,T</td></tr>
+<tr><td>1/BYA 120/G01/A/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>K3 / Kok,J & V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>1/BYA 120/G02/E/L1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>K3 / Kok,J & V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>2/GRK 220/G01/A/L2</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology 1-28</td><td>S2 / Stander,HF</td></tr>
+<tr><td>8/PRT 820/G01/B/L1</td><td>K3/Q3</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology2-10</td><td>W3/ Wepener,C</td></tr>
+<tr><td>4/GSW 453/G02/E/L1</td><td>K3/Q3</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>V5 / Van Niekerk,AS</td></tr>
+<tr><td>1/PTH 110/G02/E/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>D3 / Dreyer,Y</td></tr>
+<tr><td>3/PTL 343/G01/E/L1</td><td>K3/Q3</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>M9/ Meylahn,J</td></tr>
+<tr><td>3/SET 352/G01/E/L1</td><td>K2/Q2</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>F1 / Fourie,W & V13/Vellem,V</td></tr>
+<tr><td>3/CHS 352/G01/E/L1</td><td>K2/Q2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>D5 / Duncan,G</td></tr>
+<tr><td>8/NTW 810/G02/B/L1</td><td>K2/Q2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-13</td><td>V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>4/DCE 452/G01/A/L1</td><td>K2/Q2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>F1 / Fourie,W</td></tr>
+<tr><td>Z/PV PF/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>09:30:00</td><td>13:30:00</td><td>Raadpleeg/Consult Dept</td><td></td></tr>
+<tr><td>1/BYA 124/G01/E/L1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>K3 / Kok,J & V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>4/GSW 452/G01/A/L1</td><td>K2/Q2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>B5 / Beyers,J</td></tr>
+<tr><td>2/GRK 210/G02/E/L3</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>GW/HB 4-15</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>1/GRK 110/G01/A/L3</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 3-24</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>2/OTW 220/G01/A/L1</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>GW/HB 1-6</td><td>M2 / Mahlangu,E</td></tr>
+<tr><td>2/OTW 210/G02/A/L1</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>2/GSW 220/G01/A/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology 1-9</td><td>K2/Kgatla,T</td></tr>
+<tr><td>2/CHS 220/G01/A/L1</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-10</td><td>D5 / Duncan,G</td></tr>
+<tr><td>4/KGS 453/G02/E/L1</td><td>K3/Q3</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>3/CHS 353/G01/E/L1</td><td>K3/Q3</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>3/NTW 321/G02/E/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>GW/HB 1-13</td><td>S3 / Steyn,G(Gert)</td></tr>
+<tr><td>2/OTW 224/G01/E/L1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 1-12</td><td>M2 / Mahlangu,E</td></tr>
+<tr><td>3/SEW 343/G01/E/L1</td><td>K3/Q3</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>V5 / Van Niekerk,AS</td></tr>
+<tr><td>3/PRT 357/G02/E/L1</td><td>K3/Q3</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-38</td><td>W3/ Wepener,C</td></tr>
+<tr><td>3/BYT 320/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>GW/HB 1-10</td><td>S2 / Stander,HF & P2 / Prinsloo,GTM</td></tr>
+<tr><td>4/NTW 451/G02/E/L1</td><td>K1/Q1</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-13</td><td>K3 / Kok,J</td></tr>
+<tr><td>3/CHI 341/G01/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>D5 / Duncan,G</td></tr>
+<tr><td>4/KGS 451/G02/E/L1</td><td>K1/Q1</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology2-28</td><td>D5 / Duncan,G</td></tr>
+<tr><td>3/MIS 351/G01/E/L1</td><td>K1/Q1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>B5 / Beyers,J</td></tr>
+<tr><td>4/PRT 451/G01/A/L1</td><td>K1/Q1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-13</td><td>W3/ Wepener,C</td></tr>
+<tr><td>2/DET 214/G01/E/L1</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-6</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>Z/OT NT TEXT-K3/G04/E/L1</td><td>K3/Q3</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology2-28</td><td>K3 / Kok,J & G2 / Groenewald,A(Alphonso)</td></tr>
+<tr><td>Z/OT NT TEXT-K3/G03/E/L1</td><td>K3/Q3</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology2-10</td><td>S3 / Steyn,G(Gert) & H2 / Human,DJ</td></tr>
+<tr><td>4/KGS 454/G01/B/L1</td><td>K4/Q4</td><td>Monday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology2-38</td><td>D5 / Duncan,G</td></tr>
+<tr><td>4/DCE 454/G01/A/L1</td><td>K4/Q4</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>F1 / Fourie,W</td></tr>
+<tr><td>1/AIM 111/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Raadpleeg/Consult Dept</td><td></td></tr>
+<tr><td>Z/OT Kennis/G02/E/L1</td><td>J/Y</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Teologie/Theology 1-19</td><td></td></tr>
+<tr><td>2/CYE 210/G01/A/L1</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-6</td><td>L3/Lizamore, D</td></tr>
+<tr><td>1/BYA 124/G01/E/T1</td><td>S2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 1-7</td><td>V4 / Van Eck,E(Ernest),Dr & K3 / Kok,J</td></tr>
+<tr><td>1/TEO 101/G01/B/T1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology1-11</td><td></td></tr>
+<tr><td>2/DCE 220/G02/E/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-7</td><td>V14/van Wyk,T</td></tr>
+<tr><td>8/OTW 820/G01/B/L1</td><td>K3/Q3</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>3/PTH 353/G01/E/L1</td><td>K3/Q3</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>M9/ Meylahn,J</td></tr>
+<tr><td>3/PTH 352/G01/E/L1</td><td>K2/Q2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>W3/ Wepener,C</td></tr>
+<tr><td>4/KGS 452/G01/B/L1</td><td>K2/Q2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology 1-28</td><td>D5 / Duncan,G</td></tr>
+<tr><td>Z/OT TEKS-K4/G01/A/L1</td><td>K4/Q4</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>3/NTW 321/G01/A/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>S3 / Steyn,G(Gert)</td></tr>
+<tr><td>1/DCE 120/G02/E/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-5</td><td>V14/van Wyk,T & F1 / Fourie,W</td></tr>
+<tr><td>2/HEB 210/G02/E/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Teologie/Theology2-10</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>1/GRK 110/G02/E/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology2-38</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>3/OTW 311/G02/E/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-6</td><td>V7 / Venter,PM</td></tr>
+<tr><td>2/GRK 210/G02/E/L2</td><td>S1</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Teologie/Theology1-11</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>1/GRK 110/G01/A/L2</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 3-24</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>2/NTW 220/G02/E/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>GW/HB 1-13</td><td>Nuwe Herv dosent</td></tr>
+<tr><td>8/NTW 820/G02/B/L1</td><td>K4/Q4</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology 1-19</td><td>K3 / Kok,J</td></tr>
+<tr><td>8/GSW 820/G02/B/L1</td><td>K4/Q4</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>N4 / Niemandt,CJP(4317734)</td></tr>
+<tr><td>3/SCR 353/G01/E/L1</td><td>K3/Q3</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-16</td><td>K2/Kgatla,T</td></tr>
+<tr><td>3/OUN 343/G01/E/L1</td><td>K3/Q3</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-38</td><td>H2 / Human,DJ</td></tr>
+<tr><td>3/ONM 353/G01/E/L1</td><td>K3/Q3</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-38</td><td>H2 / Human,DJ</td></tr>
+<tr><td>8/DCE 820/G01/B/L1</td><td>K3/Q3</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>3/BYT 320/G01/B/L2</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>GW/HB 1-7</td><td>S2 / Stander,HF & P2 / Prinsloo,GTM</td></tr>
+<tr><td>3/PTH 351/G01/E/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>W3/ Wepener,C</td></tr>
+<tr><td>8/DCE 810/G01/B/L1</td><td>K1/Q1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-12</td><td>V14/van Wyk,T</td></tr>
+<tr><td>3/OUN 341/G01/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>M2 / Mahlangu,E</td></tr>
+<tr><td>1/GRK 110/G01/A/L4</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology2-10</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>Z/OT NT TEXT-K1/G01/A/L1</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM & V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>1/CHI 114/G01/E/L1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 1-13</td><td>D5 / Duncan,G</td></tr>
+<tr><td>4/TEO 454/G01/A/L1</td><td>K4/Q4</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>2/GRK 220/G02/E/L2</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Teologie/Theology1-11</td><td>S2 / Stander,HF</td></tr>
+<tr><td>1/HEB 120/G02/E/L1</td><td>S2</td><td>Monday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-6</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>2/GRK 220/G02/E/L3</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 1-6</td><td>S2 / Stander,HF</td></tr>
+<tr><td>3/PFN 310/G01/A/L1</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-6</td><td>L3/Lizamore, D</td></tr>
+<tr><td>1/BYA 114/G01/E/T1</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Teologie/Theology1-11</td><td>M8 Meyer,EE</td></tr>
+<tr><td>3/SCR 352/G01/E/L1</td><td>K1/Q1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>GW/HB 1-5</td><td>M7 / Meiring,A</td></tr>
+<tr><td>8/KGS 810/G03/B/L1</td><td>K2/Q2</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>GW/HB 1-5</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>3/SEW 342/G01/E/L1</td><td>K2/Q2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology2-38</td><td>K2/Kgatla,T</td></tr>
+<tr><td>Z/NT TEKS-K3/G01/A/L1</td><td>K3/Q3</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology2-10</td><td>V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>Z/OT TEKS-K3/G01/A/L1</td><td>K3/Q3</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>Z/OT NT TEXT-K2/G03/E/L1</td><td>K2/Q2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology2-28</td><td>K3 / Kok,J & H2 / Human,DJ</td></tr>
+<tr><td>Z/OT NT TEXT-K1/G04/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Teologie/Theology2-38</td><td>K3 / Kok,J & M8 Meyer,EE</td></tr>
+<tr><td>3/SET 354/G01/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>V13/Vellem,V & F1 / Fourie,W</td></tr>
+<tr><td>1/OTW 110/G01/A/L1</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology 1-28</td><td>M8 Meyer,EE</td></tr>
+<tr><td>1/TEO 101/G01/B/L1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology 2-1</td><td>V15 /Veldsman, DP & D5 / Duncan,G & F1 / Fourie,W</td></tr>
+<tr><td>2/CHS 210/G01/A/L1</td><td>S1</td><td>Monday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology1-11</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>1/NTW 120/G02/E/L1</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology 1-9</td><td>V4 / Van Eck,E(Ernest),Dr & S3 / Steyn,G(Gert)</td></tr>
+<tr><td>3/BYT 310/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>15:30:00</td><td>GW/HB 1-10</td><td>B2 / Botha,PJ & P2 / Prinsloo,GTM</td></tr>
+<tr><td>4/KGS 453/G01/A/L1</td><td>K3/Q3</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology1-11</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>3/MIS 354/G01/E/L1</td><td>K4/Q4</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology 2-1</td><td>K2/Kgatla,T</td></tr>
+<tr><td>4/OTW 453/G02/E/L1</td><td>K3/Q3</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology1-38</td><td>G2 / Groenewald,A(Alphonso)</td></tr>
+<tr><td>3/MIS 353/G01/E/L1</td><td>K3/Q3</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>V5 / Van Niekerk,AS</td></tr>
+<tr><td>1/GSW 120/G01/A/L1</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology 1-28</td><td>B5 / Beyers,J & N4 / Niemandt,CJP(4317734)</td></tr>
+<tr><td>4/OTW 452/G02/E/L1</td><td>K2/Q2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>M8 Meyer,EE</td></tr>
+<tr><td>2/NTW 214/G01/E/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-6</td><td>K2/Kgatla,T</td></tr>
+<tr><td>2/CHS 210/G02/E/L1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-6</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>1/HEB 110/G01/A/L4</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 4-7</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>Z/OT NT TEXT-K1/G02/A/L1</td><td>K1/Q1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology1-11</td><td>M8 Meyer,EE & K3 / Kok,J</td></tr>
+<tr><td>2/HEB 220/G02/E/L3</td><td>S2</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology 1-28</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>2/GRK 220/G01/A/L3</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>GW/HB 3-24</td><td>S2 / Stander,HF</td></tr>
+<tr><td>1/TEO 124/G01/B/T1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>GW/HB 1-13</td><td>D3 / Dreyer,Y & B3 / Buitendag,J & N4 / Niemandt,CJP</td></tr>
+<tr><td>1/TEO 114/G01/B/T1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology1-11</td><td></td></tr>
+<tr><td>2/GSW 224/G01/E/L1</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology 2-1</td><td>K2/Kgatla,T</td></tr>
+<tr><td>1/GRK 120/G01/A/L4</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology2-10</td><td>S5 / Swart,GJ & S2 / Stander,HF</td></tr>
+<tr><td>2/CHI 224/G01/E/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>GW/HB 1-7</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>4/GSW 452/G02/E/L1</td><td>K2/Q2</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology 1-9</td><td>B5 / Beyers,J</td></tr>
+<tr><td>4/NTW 452/G01/A/L1</td><td>K2/Q2</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-13</td><td>K3 / Kok,J</td></tr>
+<tr><td>Z/OT NT TEXT-K2/G04/E/L1</td><td>K2/Q2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>K3 / Kok,J & M8 Meyer,EE</td></tr>
+<tr><td>1/BYA 114/G01/E/L1</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>M8 Meyer,EE</td></tr>
+<tr><td>1/GRK 110/G02/E/L4</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 1-7</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>2/HEB 210/G02/E/L3</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 1-10</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>4/OTW 451/G01/A/L1</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology 1-19</td><td>Le Roux,Jurie</td></tr>
+<tr><td>8/PRT 810/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>M9/ Meylahn,J</td></tr>
+<tr><td>2/PTH 210/G01/A/L1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 4-11</td><td>M3 / Masango,M</td></tr>
+<tr><td>2/NTW 210/G02/A/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>GW/HB 1-6</td><td>K2/Kgatla,T</td></tr>
+<tr><td>8/PRT 820/G02/B/L1</td><td>K4/Q4</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>M5 / Müller,J</td></tr>
+<tr><td>8/NTW 820/G01/B/L1</td><td>K3/Q3</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>3/OTW 321/G01/A/L1</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>GW/HB 1-6</td><td>H2 / Human,DJ</td></tr>
+<tr><td>1/HEB 120/G01/A/L2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 3-14</td><td></td></tr>
+<tr><td>2/NTW 210/G01/E/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-6</td><td>K2/Kgatla,T</td></tr>
+<tr><td>8/GSW 810/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>B5 / Beyers,J</td></tr>
+<tr><td>1/HEB 110/G01/A/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 3-14</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>4/GSW 451/G02/E/L1</td><td>K1/Q1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>B5 / Beyers,J</td></tr>
+<tr><td>2/PTL 214/G01/E/L1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology1-11</td><td>M3 / Masango,M</td></tr>
+<tr><td>Z/OT NT TEXT-K1/G03/E/L1</td><td>K1/Q1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology2-28</td><td>V4 / Van Eck,E(Ernest),Dr & V7 / Venter,PM</td></tr>
+<tr><td>Z/OT NT TEXT-K2/G02/A/L1</td><td>K2/Q2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Teologie/Theology1-11</td><td>M8 Meyer,EE & K3 / Kok,J</td></tr>
+<tr><td>Z/OT NT TEXT-K2/G01/A/L1</td><td>K2/Q2</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Teologie/Theology1-11</td><td>K3 / Kok,J & H2 / Human,DJ</td></tr>
+<tr><td>4/PRT 458/G01/B/L1</td><td>K4/Q4</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology2-10</td><td>M3 / Masango,M</td></tr>
+<tr><td>4/OTW 454/G02/E/L1</td><td>K4/Q4</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology2-28</td><td>V7 / Venter,PM</td></tr>
+<tr><td>1/DET 124/G01/E/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-5</td><td>F1 / Fourie,W & V14/van Wyk,T</td></tr>
+<tr><td>1/TEO 124/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology 1-9</td><td>D3 / Dreyer,Y & N4 / Niemandt,CJP & B3 / Buitendag,J</td></tr>
+<tr><td>2/HEB 220/G01/A/L2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology 1-19</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>1/BYA 110/G02/E/L1</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>M8 Meyer,EE</td></tr>
+<tr><td>1/AIM 101/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Raadpleeg/Consult Dept</td><td></td></tr>
+<tr><td>1/AIM 121/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Raadpleeg/Consult Dept</td><td></td></tr>
+<tr><td>Z/NT Kennis/G02/E/L1</td><td>J/Y</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Teologie/Theology 1-28</td><td></td></tr>
+<tr><td>Z/OT Kennis/G01/A/L1</td><td>J/Y</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Teologie/Theology 1-19</td><td></td></tr>
+<tr><td>3/SCR 362/G01/E/L2</td><td>K1/Q1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>GW/HB 1-5</td><td>M7 / Meiring,A</td></tr>
+<tr><td>3/SCR 352/G01/E/L2</td><td>K1/Q1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>GW/HB 1-5</td><td>M7 / Meiring,A</td></tr>
+<tr><td>4/TEO 453/G01/A/L1</td><td>K3/Q3</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>D3 / Dreyer,Y</td></tr>
+<tr><td>8/KGS 820/G01/B/L1</td><td>K3/Q3</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>3/DET 342/G01/E/L1</td><td>K2/Q2</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>F1 / Fourie,W & V13/Vellem,V</td></tr>
+<tr><td>8/PRT 810/G02/B/L1</td><td>K2/Q2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>W3/ Wepener,C</td></tr>
+<tr><td>4/NTW 452/G02/E/L1</td><td>K2/Q2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>K3 / Kok,J & M2 / Mahlangu,E</td></tr>
+<tr><td>3/OUN 342/G01/E/L1</td><td>K2/Q2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>M2 / Mahlangu,E & K3 / Kok,J</td></tr>
+<tr><td>3/MIS 352/G01/E/L1</td><td>K2/Q2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology2-38</td><td>K2/Kgatla,T</td></tr>
+<tr><td>Z/NT TEKS-K2/G01/A/L1</td><td>K2/Q2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>Z/OT WORSHIP/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>09:30:00</td><td>11:00:00</td><td>Teologie/Theology2-10</td><td></td></tr>
+<tr><td>4/DCE 454/G02/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>V13/Vellem,V</td></tr>
+<tr><td>2/GRK 220/G01/A/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology2-10</td><td>S2 / Stander,HF</td></tr>
+<tr><td>8/KGS 810/G02/B/L1</td><td>K2/Q2</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-28</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>4/OTW 452/G01/A/L1</td><td>K2/Q2</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 4-16</td><td>M8 Meyer,EE</td></tr>
+<tr><td>3/NTW 311/G01/A/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>GW/HB 1-6</td><td>K1 / Kok,K & V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>2/GRK 210/G01/A/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 4-10</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>1/HEB 110/G01/A/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>GW/HB 3-24</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>3/OUN 344/G01/E/L1</td><td>K4/Q4</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-28</td><td>G2 / Groenewald,A(Alphonso)</td></tr>
+<tr><td>4/TEO 454/G02/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>3/CHI 344/G01/E/L1</td><td>K4/Q4</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology2-28</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>3/CHI 343/G01/E/L1</td><td>K3/Q3</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>4/OTW 453/G01/A/L1</td><td>K3/Q3</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 1-5</td><td>G2 / Groenewald,A(Alphonso)</td></tr>
+<tr><td>2/HEB 220/G01/A/L3</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 4-16</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>1/TEO 102/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology 1-9</td><td>N4 / Niemandt,CJP & D3 / Dreyer,Y & B3 / Buitendag,J</td></tr>
+<tr><td>4/DCE 453/G01/A/L1</td><td>K3/Q3</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>8/GSW 820/G01/B/L1</td><td>K3/Q3</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 4-11</td><td>V5 / Van Niekerk,AS</td></tr>
+<tr><td>3/PRT 357/G01/A/L1</td><td>K3/Q3</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-10</td><td>W3/ Wepener,C</td></tr>
+<tr><td>3/SCR 351/G01/E/L1</td><td>K2/Q2</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology 1-9</td><td>B5 / Beyers,J</td></tr>
+<tr><td>3/DET 341/G01/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>V14/van Wyk,T & V13/Vellem,V</td></tr>
+<tr><td>4/PRT 451/G02/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>W3/ Wepener,C</td></tr>
+<tr><td>2/GSW 214/G01/E/L1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>N4 / Niemandt,CJP & B5 / Beyers,J</td></tr>
+<tr><td>4/OTW 451/G02/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Teologie/Theology2-38</td><td>Le Roux,Jurie</td></tr>
+<tr><td>1/HEB 110/G01/A/L3</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 3-14</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>4/DCE 451/G02/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>V13/Vellem,V & V14/van Wyk,T</td></tr>
+<tr><td>2/GRK 210/G01/A/L2</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Teologie/Theology 1-9</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>3/ONM 351/G01/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>M2 / Mahlangu,E</td></tr>
+<tr><td>1/PTL 114/G01/E/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>D3 / Dreyer,Y</td></tr>
+<tr><td>Z/OT NT TEXT-K4/G03/E/L1</td><td>K4/Q4</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>S3 / Steyn,G(Gert) & G2 / Groenewald,A(Alphonso)</td></tr>
+<tr><td>Z/OT NT TEXT-K3/G01/A/L1</td><td>K3/Q3</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>S3 / Steyn,G(Gert) & H2 / Human,DJ</td></tr>
+<tr><td>4/NTW 454/G02/E/L1</td><td>K4/Q4</td><td>Friday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-28</td><td>K3 / Kok,J</td></tr>
+<tr><td>4/OTW 454/G01/A/L1</td><td>K4/Q4</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>V7 / Venter,PM</td></tr>
+<tr><td>1/HEB 120/G02/E/L3</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 3-14</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>1/HEB 120/G02/E/L2</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>GW/HB 1-6</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>2/GRK 220/G02/E/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology2-10</td><td>S2 / Stander,HF</td></tr>
+<tr><td>1/BYA 110/G01/A/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology 1-25</td><td>M8 Meyer,EE</td></tr>
+<tr><td>Z/NT Kennis/G01/A/L1</td><td>J/Y</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Teologie/Theology 1-19</td><td></td></tr>
+<tr><td>2/CYE 210/G02/E/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>GW/HB 1-6</td><td>L3/Lizamore, D</td></tr>
+<tr><td>4/KGS 451/G03/A/L1</td><td>K1/Q1</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-10</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>2/PTL 224/G01/E/L1</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-7</td><td>W3/ Wepener,C</td></tr>
+<tr><td>4/NTW 453/G02/E/L1</td><td>K3/Q3</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>K3 / Kok,J</td></tr>
+<tr><td>4/DCE 453/G02/E/L1</td><td>K3/Q3</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-28</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>3/SET 353/G01/E/L1</td><td>K3/Q3</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-28</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>8/KGS 820/G02/B/L1</td><td>K3/Q3</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>1/HEB 120/G01/A/L3</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 4-10</td><td></td></tr>
+<tr><td>3/OTW 321/G02/E/L1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 1-12</td><td>H2 / Human,DJ</td></tr>
+<tr><td>4/PRT 453/G02/E/L1</td><td>K3/Q3</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>M9/ Meylahn,J</td></tr>
+<tr><td>4/PRT 453/G01/A/L1</td><td>K3/Q3</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology 1-19</td><td>M9/ Meylahn,J</td></tr>
+<tr><td>1/HEB 120/G01/A/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>GW/HB 4-10</td><td></td></tr>
+<tr><td>3/CHI 342/G01/E/L1</td><td>K2/Q2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>D5 / Duncan,G</td></tr>
+<tr><td>8/GSW 810/G02/B/L1</td><td>K2/Q2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>K2/Kgatla,T</td></tr>
+<tr><td>Z/OT TEKS-K2/G01/A/L1</td><td>K2/Q2</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>2/CHS 220/G02/E/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>GW/HB 1-7</td><td>D5 / Duncan,G</td></tr>
+<tr><td>4/TEO 456/G01/A/L1</td><td>K2/Q2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>M3 / Masango,M</td></tr>
+<tr><td>1/GRK 110/G02/E/L3</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Teologie/Theology2-38</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>1/HEB 110/G02/E/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>GW/HB 1-12</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>1/HEB 110/G02/E/L2</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-13</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>2/HEB 210/G01/A/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>GW/HB 4-5</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>1/DCE 120/G01/A/L1</td><td>S2</td><td>Wednesday</td><td>10:30:00</td><td>12:30:00</td><td>GW/HB 1-4</td><td>F1 / Fourie,W & V14/van Wyk,T</td></tr>
+<tr><td>1/NTW 120/G01/A/L1</td><td>S2</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>S3 / Steyn,G(Gert) & V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>3/PTH 354/G01/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>W3/ Wepener,C</td></tr>
+<tr><td>3/SCR 354/G01/E/L1</td><td>K4/Q4</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-28</td><td>B5 / Beyers,J</td></tr>
+<tr><td>3/CHS 354/G01/E/L1</td><td>K4/Q4</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology2-28</td><td>V3 / Van der Merwe,J</td></tr>
+<tr><td>2/OTW 220/G02/E/L1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 1-12</td><td>M2 / Mahlangu,E</td></tr>
+<tr><td>1/TEO 114/G01/B/L1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology 2-1</td><td>V15 /Veldsman, DP & D5 / Duncan,G & B3 / Buitendag,J</td></tr>
+<tr><td>1/GRK 120/G01/A/L2</td><td>S2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology 2-1</td><td>S5 / Swart,GJ & S2 / Stander,HF</td></tr>
+<tr><td>4/GSW 453/G01/A/L1</td><td>K3/Q3</td><td>Friday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-10</td><td>V5 / Van Niekerk,AS</td></tr>
+<tr><td>3/CHS 351/G01/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>D5 / Duncan,G</td></tr>
+<tr><td>2/OTW 214/G01/E/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>GW/HB 1-6</td><td>V7 / Venter,PM</td></tr>
+<tr><td>3/NTW 311/G02/E/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-6</td><td>V4 / Van Eck,E(Ernest),D & K3 / Kok,J</td></tr>
+<tr><td>2/GSW 210/G02/E/L1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>B5 / Beyers,J & N4 / Niemandt,CJP</td></tr>
+<tr><td>1/CHS 110/G02/E/L1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>GW/HB 1-13</td><td>D5 / Duncan,G</td></tr>
+<tr><td>4/GSW 451/G01/A/L1</td><td>K1/Q1</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-28</td><td>B5 / Beyers,J</td></tr>
+<tr><td>3/PTL 341/G01/E/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>W3/ Wepener,C</td></tr>
+<tr><td>2/DCE 210/G02/E/L1</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-6</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>Z/OT NT TEXT-K3/G02/A/L1</td><td>K3/Q3</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology1-11</td><td>G2 / Groenewald,A(Alphonso) & K3 / Kok,J</td></tr>
+<tr><td>4/NTW 454/G01/A/L1</td><td>K4/Q4</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>K3 / Kok,J</td></tr>
+<tr><td>1/OTW 114/G01/E/L1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology 1-28</td><td>M8 Meyer,EE</td></tr>
+<tr><td>1/HEB 120/G02/E/L4</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>GW/HB 1-7</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>1/GRK 120/G02/E/L1</td><td>S2</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>S5 / Swart,GJ & S2 / Stander,HF</td></tr>
+<tr><td>1/GRK 120/G02/E/L3</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Teologie/Theology1-11</td><td>S5 / Swart,GJ & S2 / Stander,HF</td></tr>
+<tr><td>2/CYE 214/G01/E/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>GW/HB 1-6</td><td>L3/Lizamore, D</td></tr>
+<tr><td>2/BYT 251/LG02/B/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Teologie/Theology1-11</td><td>S2 / Stander,HF</td></tr>
+<tr><td>1/BYA 120/G02/E/T1</td><td>S2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 1-7</td><td>V4 / Van Eck,E(Ernest),Dr & K3 / Kok,J</td></tr>
+<tr><td>2/DET 224/G01/E/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-7</td><td>V14/van Wyk,T</td></tr>
+<tr><td>4/TEO 453/G03/E/L1</td><td>K3/Q3</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-38</td><td>D3 / Dreyer,Y</td></tr>
+<tr><td>1/GSW 120/G02/E/L1</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology1-11</td><td>B5 / Beyers,J & N4 / Niemandt,CJP</td></tr>
+<tr><td>3/ONM 352/G01/E/L1</td><td>K2/Q2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-28</td><td>M2 / Mahlangu,E & K3 / Kok,J</td></tr>
+<tr><td>8/OTW 810/G02/B/L1</td><td>K2/Q2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>Z/OT TEKS-K1/G01/A/L1</td><td>K1/Q1</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology2-10</td><td>H2 / Human,DJ</td></tr>
+<tr><td>1/PTH 110/G01/A/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology1-11</td><td>D3 / Dreyer,Y</td></tr>
+<tr><td>2/HEB 210/G02/E/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Teologie/Theology2-28</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>2/GRK 210/G01/A/L3</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>GW/HB 4-14</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>2/HEB 210/G01/A/L3</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>GW/HB 1-4</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>3/BYT 310/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-6</td><td>B2 / Botha,PJ & P2 / Prinsloo,GTM</td></tr>
+<tr><td>4/NTW 451/G01/A/L1</td><td>K1/Q1</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Teologie/Theology1-11</td><td>K3 / Kok,J</td></tr>
+<tr><td>3/OTW 311/G01/A/L1</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>2/PTH 220/G02/E/L1</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>GW/HB 1-7</td><td>W3/ Wepener,C</td></tr>
+<tr><td>3/ONM 354/G01/E/L1</td><td>K4/Q4</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-28</td><td>G2 / Groenewald,A(Alphonso)</td></tr>
+<tr><td>8/OTW 820/G02/B/L1</td><td>K4/Q4</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-10</td><td>V7 / Venter,PM</td></tr>
+<tr><td>8/DCE 820/G02/B/L1</td><td>K4/Q4</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology2-10</td><td>F1 / Fourie,W & V14/van Wyk,T</td></tr>
+<tr><td>2/NTW 224/G01/E/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>GW/HB 1-13</td><td>Nuwe Herv dosent</td></tr>
+<tr><td>2/HEB 220/G01/A/L1</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>GW/HB 4-10</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>1/HEB 120/G01/A/L4</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 4-11</td><td></td></tr>
+<tr><td>8/NTW 810/G01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Teologie/Theology2-10</td><td>S3 / Steyn,G(Gert)</td></tr>
+<tr><td>2/DCE 210/G01/A/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology 1-28</td><td>V15 /Veldsman, DP</td></tr>
+<tr><td>3/SEW 341/G01/E/L1</td><td>K1/Q1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology2-38</td><td>B5 / Beyers,J</td></tr>
+<tr><td>8/OTW 810/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>H2 / Human,DJ</td></tr>
+<tr><td>1/CHS 110/G01/A/L1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>D2 / Dreyer,W</td></tr>
+<tr><td>1/GRK 110/G01/A/L1</td><td>S1</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Teologie/Theology2-10</td><td>S5 / Swart,GJ</td></tr>
+<tr><td>1/GSW 124/G01/E/L1</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Teologie/Theology1-11</td><td>B5 / Beyers,J & N4 / Niemandt,CJP</td></tr>
+<tr><td>1/HEB 110/G02/E/L4</td><td>S1</td><td>Friday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-13</td><td>P2 / Prinsloo,GTM</td></tr>
+<tr><td>Z/OT NT TEXT-K4/G02/A/L1</td><td>K4/Q4</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Teologie/Theology1-11</td><td>K3 / Kok,J & V7 / Venter,PM</td></tr>
+<tr><td>1/NTW 124/G01/E/L1</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Teologie/Theology 1-9</td><td>S3 / Steyn,G(Gert) & V4 / Van Eck,E(Ernest),Dr</td></tr>
+<tr><td>2/HEB 220/G02/E/L1</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Teologie/Theology2-28</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>2/HEB 220/G02/E/L2</td><td>S2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>GW/HB 1-6</td><td>B2 / Botha,PJ</td></tr>
+<tr><td>1/GRK 120/G02/E/L2</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>GW/HB 1-12</td><td>S2 / Stander,HF & S5 / Swart,GJ</td></tr>
+<tr><td>3/PFN 310/G02/E/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>GW/HB 1-6</td><td>L3/Lizamore, D</td></tr>
+</tbody>
+</FONT>
+</table>
+</HTML>

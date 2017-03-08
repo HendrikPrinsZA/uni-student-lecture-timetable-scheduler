@@ -1,0 +1,729 @@
+<HTML>
+<HEAD>
+<title>Mamelodi Campus</title>
+<script type='text/javascript' src='table.js'></script>
+</HEAD>
+<img style='LEFT: 103px' height='71' hspace='0' src='up_logo.gif' width=270 border=0>
+<FONT FACE='Arial'>
+<address><font size='5'><strong>Lecture Timetable - Mamelodi Campus</strong></font></address>
+<address><font size='2'>
+<script type='text/javascript' src='filectime.js'></script>
+</font></address>
+<p><font size='2'>CTRL + F (Find text on this page)</font></p>
+<p><address><font size='2'><a href='http://www.up.ac.za/services/academic-admin/support/webreg/2011/2011r004.pdf' target=_blank>Timetable notes and abbreviations</a>
+<font size='2'><a href='http://wrb.up.ac.za:90/plts.xls' target=_blank> / Personal Lecture Timetable Schedule</a>
+<font size='2'><a href='http://web.up.ac.za/interactivemaps/mapeng/index.html' target=_blank> / University Map</a></address></p>
+<a href='javascript:window.history.back(-1)'><strong> Back</strong></a><address><font size='2'><strong>Click on any underlined column heading to sort. (Click once - sort ascending / Click twice - sort descending)</font></strong></address>
+<table id='myTable' class='table-autosort:0 table-autofilter' border=1>
+<thead>
+<tr>
+<th class='table-sortable:default'><u>Year / Module / Group / Lang / A No</u></th>
+<th class='table-filterable'>Type</th>
+<th class='table-filterable'>Day</th>
+<th class='table-filterable table-sortable:default'><u>Start-Time</u></th>
+<th>End-Time</th>
+<th class='table-filterable table-sortable:default'><u>Venue</u></th>
+<th class='table-filterable table-sortable:default'><u>Study Program</u></th>
+</tr>
+</thead>
+<tbody>
+<tr><td>WST 133 S1 Mamelodi</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>IT Lab Red</td><td></td></tr>
+<tr><td>WTW 144 S2 Mamelodi</td><td>S2</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Red</td><td></td></tr>
+<tr><td>WTW 144 S2 Mamelodi</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>C2</td><td></td></tr>
+<tr><td>KRITZINGER/QUENTON S1 D0 15:00 - 17:00</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>A1</td><td></td></tr>
+<tr><td>WTW 144 S2 Mamelodi</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>C2</td><td></td></tr>
+<tr><td>KRITZINGER/QUENTON S1 DO NAS FAKULTEIT</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>A2</td><td></td></tr>
+<tr><td>1/WST 133/G106/E/P1</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>Mam IT Lab GREY</td><td>BCOM</td></tr>
+<tr><td>1/WST 133/G106/E/T1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>10:00:00</td><td>IT Labs Lecture Hall 2</td><td>BCOM</td></tr>
+<tr><td>1/WST 133/G107/E/T1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>IT Labs Lecture Hall 2</td><td>BSIT</td></tr>
+<tr><td>1/LST 133/G117/E/L1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>IT Labs Lecture Hall 1</td><td>BCOM</td></tr>
+<tr><td>1/MLB 133/G108/E/P1</td><td>S1</td><td>Wednesday</td><td>11:00:00</td><td>13:00:00</td><td>Biology Lab</td><td>BPHY</td></tr>
+<tr><td>KRITZINGER/QUENTON S1 DO NAS FAKULTEIT</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>17:00:00</td><td>C6</td><td></td></tr>
+<tr><td>KRITZINGER/QUENTON S1 WO NAS FAKULTEIT</td><td>S1</td><td>Wednesday</td><td>15:00:00</td><td>17:00:00</td><td>B3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>A1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>A2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>A3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>A4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>A5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>B2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>B3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>B4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>C1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>C2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>C3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>C4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>C5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/27 MAMELODI</td><td></td><td>Wednesday</td><td>07:30:00</td><td>16:00:00</td><td>C6</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>B2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>B3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>B4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/30 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C6</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>A1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>A2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>A3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>A4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>A5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>B2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>B3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>B4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>C1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>C2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>C3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>C4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>C5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/26 MAMELODI</td><td></td><td>Tuesday</td><td>07:30:00</td><td>16:00:00</td><td>C6</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>A5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>B2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>B3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>B4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/10/13 MAMELODI</td><td></td><td>Saturday</td><td>07:30:00</td><td>16:00:00</td><td>C6</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>A1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>A2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>A3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>A4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>A5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>B2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>B3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>B4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>C1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>C2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>C3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>C4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>C5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/28 MAMELODI</td><td></td><td>Thursday</td><td>07:30:00</td><td>16:00:00</td><td>C6</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>A1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>A2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>A3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>A4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>A5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>B2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>B3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>B4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>C1</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>C2</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>C3</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>C4</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>C5</td><td></td></tr>
+<tr><td>CRONJE/WILLEM 2012/06/29 MAMELODI</td><td></td><td>Friday</td><td>07:30:00</td><td>16:00:00</td><td>C6</td><td></td></tr>
+<tr><td>1/INL 143/G103/E/T1</td><td>S2</td><td>Tuesday</td><td>14:00:00</td><td>15:00:00</td><td>C4</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G103/E/T2</td><td>S1</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>C3</td><td>BBIS</td></tr>
+<tr><td>1/COS 143/G107/E/T1</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>13:00:00</td><td>C5</td><td>BBIS</td></tr>
+<tr><td>1/LST 143/G116/E/L1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>IT Labs Lecture Hall 2</td><td>BBIS</td></tr>
+<tr><td>1/AIM 111/G116/E/P1</td><td>S1</td><td>Monday</td><td>15:00:00</td><td>17:00:00</td><td>IT Lab Red</td><td>BBIS</td></tr>
+<tr><td>1/AIM 121/G116/E/P1</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>IT Lab Red</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G105/E/L5</td><td>S1</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>A5</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G104/E/L2</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>A1</td><td>BSIT</td></tr>
+<tr><td>1/WST 143/G103/E/L2</td><td>S2</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>A3</td><td>BPHY</td></tr>
+<tr><td>1/WST 143/G101/E/L2</td><td>S2</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>A3</td><td>BMAT</td></tr>
+<tr><td>1/FRK 133/G101/E/L3</td><td>S1</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/CMY 133/G102/E/L2</td><td>S1</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>B3</td><td>BBIO,BSIT</td></tr>
+<tr><td>1/LST 133/G117/E/L2</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>14:00:00</td><td>IT Labs Lecture Hall 1</td><td>BCOM</td></tr>
+<tr><td>1/AIM 111/G111/E/P1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>10:00:00</td><td>IT Lab Red</td><td>BCOM</td></tr>
+<tr><td>1/AIM 111/G106/E/P1</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>12:00:00</td><td>IT Lab Green</td><td>BPHY</td></tr>
+<tr><td>1/AIM 111/G103/E/P1</td><td>S1</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Red</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G109/E/P4</td><td>S1</td><td>Thursday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G108/E/P4</td><td>S1</td><td>Wednesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G103/E/P4</td><td>S1</td><td>Tuesday</td><td>16:00:00</td><td>17:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G110/E/P3</td><td>S1</td><td>Tuesday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/PHY 133/G110/E/P1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/PHY 133/G106/E/P1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>WTW 144 S2 Mamelodi</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>10:00:00</td><td>C2</td><td></td></tr>
+<tr><td>1/LST 133/G106/E/L2</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 133/G107/E/L1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>12:00:00</td><td>LST Classroom 2</td><td>BSIT</td></tr>
+<tr><td>1/LST 133/G102/E/L1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 2</td><td>BMAT</td></tr>
+<tr><td>1/FRK 143/G101/E/T2</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/LST 143/G115/E/L2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>LST Classroom 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 143/G114/E/L2</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>IT Labs Lecture Hall 2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G101/E/P1</td><td>S2</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Red/Yellow</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G102/E/L2</td><td>S2</td><td>Tuesday</td><td>14:00:00</td><td>15:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G103/E/T2</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G105/E/T1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G103/E/T1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G101/E/P1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>17:00:00</td><td>Chemistry Lab</td><td>BMAT,BSIT</td></tr>
+<tr><td>1/AIM 121/G107/E/P1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>IT Lab Red</td><td>BSIT</td></tr>
+<tr><td>1/FRK 143/G101/E/L4</td><td>S2</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/FRK 143/G102/E/L1</td><td>S2</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 133/G101/E/L4</td><td>S1</td><td>Thursday</td><td>09:00:00</td><td>10:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/FRK 133/G102/E/L2</td><td>S1</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 133/G101/E/L1</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/COS 143/G103/E/T1</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>C5</td><td>BPHY</td></tr>
+<tr><td>1/COS 143/G103/E/P2</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>16:00:00</td><td>IT Lab Blue/Green</td><td>BSIT</td></tr>
+<tr><td>1/MLB 143/G101/E/L1</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>A3</td><td>BMAT,BPHY,BSIT</td></tr>
+<tr><td>1/MLB 133/G105/E/P1</td><td>S1</td><td>Thursday</td><td>10:00:00</td><td>12:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G115/E/T1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G111/E/T1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/WTW 133/G110/E/T1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>C2</td><td>BCOM</td></tr>
+<tr><td>1/WTW 133/G103/E/T1</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G106/E/P1</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>IT Lab Red/Yellow</td><td>BSIT</td></tr>
+<tr><td>1/WTW 133/G106/E/L4</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/WTW 133/G108/E/L2</td><td>S1</td><td>Thursday</td><td>10:00:00</td><td>11:00:00</td><td>A2</td><td>BCOM</td></tr>
+<tr><td>1/WTW 133/G104/E/L1</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>A2</td><td>BBIO</td></tr>
+<tr><td>1/COS 133/G104/E/T1</td><td>S1</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>C6</td><td>BSIT</td></tr>
+<tr><td>1/COS 133/G101/E/T1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>14:00:00</td><td>C5</td><td>BMAT</td></tr>
+<tr><td>1/COS 133/G103/E/L2</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/CMY 143/G106/E/T3</td><td>S2</td><td>Wednesday</td><td>10:00:00</td><td>11:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G109/E/T1</td><td>S2</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G106/E/T1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G105/E/T1</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G107/E/T3</td><td>S1</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G105/E/T2</td><td>S1</td><td>Thursday</td><td>11:00:00</td><td>12:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G103/E/T2</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>15:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/WST 133/G101/E/L4</td><td>S1</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>A3</td><td>BMAT,BPHY</td></tr>
+<tr><td>1/WST 133/G101/E/L1</td><td>S1</td><td>Monday</td><td>16:00:00</td><td>17:00:00</td><td>A3</td><td>BMAT,BPHY</td></tr>
+<tr><td>1/SIT 143/G101/E/P1</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>11:00:00</td><td>IT Lab Blue</td><td>BSIT</td></tr>
+<tr><td>1/SIT 143/G101/E/L1</td><td>S2</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>A3</td><td>BBIS,BCOM,BSIT</td></tr>
+<tr><td>1/SIT 133/G101/E/L2</td><td>S1</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>A3</td><td>BBIS,BCOM,BSIT</td></tr>
+<tr><td>1/PHY 144/G101/E/P4</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G102/E/P3</td><td>S2</td><td>Wednesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G101/E/P3</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G103/E/P1</td><td>S2</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G104/E/P5</td><td>S2</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G104/E/P4</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G101/E/P3</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 143/G103/E/P1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G103/E/P1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/MLB 143/G105/E/T1</td><td>S2</td><td>Monday</td><td>15:00:00</td><td>17:00:00</td><td>C2</td><td>BBIO</td></tr>
+<tr><td>1/COS 133/G107/E/T1</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>12:00:00</td><td>C5</td><td>BBIS</td></tr>
+<tr><td>1/WTW 143/G106/E/P1</td><td>S2</td><td>Thursday</td><td>16:00:00</td><td>17:00:00</td><td>IT Lab Red/Yellow</td><td>BBIS</td></tr>
+<tr><td>1/LST 133/G116/E/L1</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>IT Labs Lecture Hall 1</td><td>BBIS</td></tr>
+<tr><td>1/PHY 133/G110/E/P5</td><td>S1</td><td>Wednesday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/WTW 143/G103/E/L2</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G105/E/L2</td><td>S2</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>A4</td><td>BCOM</td></tr>
+<tr><td>1/WTW 144/G101/E/L3</td><td>S2</td><td>Wednesday</td><td>15:00:00</td><td>16:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>KRITZINGER Q Mr S1</td><td>S1</td><td>Wednesday</td><td>10:00:00</td><td>11:00:00</td><td>C3</td><td></td></tr>
+<tr><td>1/AIM 111/G110/E/P1</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>14:00:00</td><td>IT Lab Red</td><td>BCOM</td></tr>
+<tr><td>1/AIM 111/G104/E/P1</td><td>S1</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Green</td><td>BPHY</td></tr>
+<tr><td>1/AIM 111/G101/E/P1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>IT Lab Green</td><td>BMAT</td></tr>
+<tr><td>1/PHY 133/G102/E/P5</td><td>S1</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G107/E/P4</td><td>S1</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G104/E/P4</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G110/E/P4</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/PHY 133/G106/E/P3</td><td>S1</td><td>Thursday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G101/E/P2</td><td>S1</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 133/G109/E/P1</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/LST 143/G106/E/L1</td><td>S2</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 143/G101/E/L1</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 1</td><td>BMAT</td></tr>
+<tr><td>1/LST 133/G113/E/L1</td><td>S1</td><td>Wednesday</td><td>15:00:00</td><td>17:00:00</td><td>LST Classroom 2</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G112/E/L1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G110/E/L1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>LST Classroom 1</td><td>BCOM</td></tr>
+<tr><td>1/INL 143/G101/E/T1</td><td>S2</td><td>Tuesday</td><td>14:00:00</td><td>15:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G101/E/T2</td><td>S1</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G101/E/P1</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>IT Lab Green</td><td>BBIS</td></tr>
+<tr><td>1/FRK 143/G102/E/T2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/WST 143/G102/E/L3</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>1/WST 143/G102/E/L2</td><td>S2</td><td>Tuesday</td><td>14:00:00</td><td>15:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>1/WTW 144/G104/E/T2</td><td>S2</td><td>Thursday</td><td>12:00:00</td><td>14:00:00</td><td>A1</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G102/E/T1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>13:00:00</td><td>A5</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G104/E/L4</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>A1</td><td>BSIT</td></tr>
+<tr><td>1/CMY 133/G106/E/T1</td><td>S1</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G101/E/T1</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>B4</td><td>BMAT</td></tr>
+<tr><td>1/CMY 133/G104/E/P1</td><td>S1</td><td>Tuesday</td><td>14:00:00</td><td>17:00:00</td><td>Chemistry Lab</td><td>BBIO</td></tr>
+<tr><td>1/AIM 121/G115/E/P1</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>11:00:00</td><td>IT Lab Red</td><td>BBIO</td></tr>
+<tr><td>1/AIM 121/G114/E/P1</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>IT Lab Red</td><td>BBIO</td></tr>
+<tr><td>1/AIM 121/G109/E/P1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>IT Lab Red</td><td>BBIS</td></tr>
+<tr><td>1/AIM 121/G105/E/P1</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Green</td><td>BPHY</td></tr>
+<tr><td>1/AIM 121/G104/E/P1</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Green</td><td>BPHY</td></tr>
+<tr><td>1/AIM 121/G103/E/P1</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Red</td><td>BPHY</td></tr>
+<tr><td>1/FRK 143/G101/E/L3</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>16:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/MLB 133/G102/E/T1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>C5</td><td>BPHY</td></tr>
+<tr><td>1/MLB 133/G104/E/P1</td><td>S1</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G101/E/L2</td><td>S1</td><td>Wednesday</td><td>16:00:00</td><td>17:00:00</td><td>A3</td><td>BMAT,BPHY,BSIT</td></tr>
+<tr><td>1/WTW 143/G103/E/L3</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G102/E/L4</td><td>S2</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>A5</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G103/E/L1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G114/E/T1</td><td>S1</td><td>Monday</td><td>10:00:00</td><td>12:00:00</td><td>C2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G101/E/P1</td><td>S1</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>IT Lab Red/Yellow</td><td>BMAT</td></tr>
+<tr><td>1/WTW 133/G103/E/L4</td><td>S1</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G102/E/L1</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>A2</td><td>BPHY</td></tr>
+<tr><td>1/COS 143/G102/E/L1</td><td>S2</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>C4</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/COS 133/G106/E/T1</td><td>S1</td><td>Monday</td><td>15:00:00</td><td>17:00:00</td><td>C5</td><td>BBIS</td></tr>
+<tr><td>1/CMY 143/G110/E/T2</td><td>S2</td><td>Thursday</td><td>16:00:00</td><td>17:00:00</td><td>B2</td><td>BSIT</td></tr>
+<tr><td>1/CMY 143/G103/E/T2</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G108/E/T1</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G104/E/T1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G101/E/T1</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>B2</td><td>BMAT</td></tr>
+<tr><td>1/CMY 143/G102/E/P1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>11:00:00</td><td>Chemistry Lab</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G101/E/P1</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>17:00:00</td><td>Chemistry Lab</td><td>BMAT,BSIT</td></tr>
+<tr><td>1/CMY 133/G110/E/T3</td><td>S1</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>B4</td><td>BSIT</td></tr>
+<tr><td>1/CMY 133/G102/E/T3</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>15:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/SIT 143/G103/E/P1</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>11:00:00</td><td>IT Lab Blue/Green</td><td>BCOM</td></tr>
+<tr><td>1/PHY 144/G103/E/P2</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G106/E/P4</td><td>S2</td><td>Wednesday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/PHY 143/G105/E/P4</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G101/E/P4</td><td>S2</td><td>Wednesday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 143/G104/E/P1</td><td>S2</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/INL 133/G104/E/T1</td><td>S1</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>C1</td><td>BBIS</td></tr>
+<tr><td>1/WST 133/G102/E/L2</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>1/WTW 133/G102/E/L2</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>A2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G103/E/L2</td><td>S1</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G108/E/L5</td><td>S1</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>A2</td><td>BCOM</td></tr>
+<tr><td>1/WTW 143/G102/E/L3</td><td>S2</td><td>Thursday</td><td>16:00:00</td><td>17:00:00</td><td>A5</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G106/E/L2</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>A2</td><td>BBIS</td></tr>
+<tr><td>1/FRK 143/G102/E/L2</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 133/G102/E/L4</td><td>S1</td><td>Thursday</td><td>16:00:00</td><td>17:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/WST 143/G103/E/L3</td><td>S2</td><td>Wednesday</td><td>10:00:00</td><td>11:00:00</td><td>A3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G110/E/T1</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>C5</td><td>BCOM</td></tr>
+<tr><td>1/WTW 143/G107/E/T1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>13:00:00</td><td>C5</td><td>BSIT</td></tr>
+<tr><td>1/AIM 111/G102/E/P1</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>14:00:00</td><td>IT Lab Green</td><td>BMAT</td></tr>
+<tr><td>1/PHY 133/G104/E/P5</td><td>S1</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G103/E/P5</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G102/E/P4</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G104/E/P3</td><td>S1</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G103/E/P3</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G103/E/P2</td><td>S1</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/FRK 133/G103/E/T2</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>14:00:00</td><td>C1</td><td>BMAT</td></tr>
+<tr><td>1/LST 143/G103/E/L2</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>13:00:00</td><td>IT Labs Lecture Hall 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 143/G112/E/L1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G110/E/L2</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 1</td><td>BCOM</td></tr>
+<tr><td>1/LST 133/G111/E/L1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>LST Classroom 2</td><td>BCOM</td></tr>
+<tr><td>1/LST 133/G108/E/L1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 2</td><td>BSIT</td></tr>
+<tr><td>1/LST 133/G101/E/L1</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 133/G108/E/P5</td><td>S1</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 143/G104/E/L2</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>LST Classroom 1</td><td>BPHY</td></tr>
+<tr><td>1/WTW 144/G104/E/T1</td><td>S2</td><td>Monday</td><td>15:00:00</td><td>17:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G103/E/T1</td><td>S2</td><td>Tuesday</td><td>09:00:00</td><td>11:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G101/E/T2</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>C2</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G103/E/L4</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G105/E/L4</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>A4</td><td>BCOM</td></tr>
+<tr><td>1/CMY 133/G102/E/L1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>B3</td><td>BBIO,BSIT</td></tr>
+<tr><td>1/AIM 121/G108/E/P1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>IT Lab Green</td><td>BSIT</td></tr>
+<tr><td>1/MLB 143/G105/E/P1</td><td>S2</td><td>Thursday</td><td>10:00:00</td><td>12:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G106/E/T1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>C6</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G103/E/P1</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G102/E/P1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>Biology Lab</td><td>BPHY</td></tr>
+<tr><td>1/MLB 133/G102/E/L2</td><td>S1</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>A3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G101/E/L1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/WTW 133/G106/E/T1</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>C2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G102/E/T1</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>B4</td><td>BMAT</td></tr>
+<tr><td>1/WTW 133/G102/E/P1</td><td>S1</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Blue/Green</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G107/E/L5</td><td>S1</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>A1</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G105/E/L4</td><td>S1</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>A5</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G104/E/L5</td><td>S1</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>A2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G101/E/L3</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>15:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/WTW 133/G105/E/L2</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>A5</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G103/E/L3</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G107/E/L1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>A1</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G106/E/L1</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/WTW 133/G101/E/L1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/WST 143/G102/E/P1</td><td>S2</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Red</td><td>BMAT</td></tr>
+<tr><td>1/COS 143/G101/E/L1</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>C4</td><td>BMAT</td></tr>
+<tr><td>1/COS 133/G102/E/T1</td><td>S1</td><td>Thursday</td><td>10:00:00</td><td>12:00:00</td><td>C5</td><td>BMAT</td></tr>
+<tr><td>1/COS 133/G101/E/P2</td><td>S1</td><td>Tuesday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Blue/Green</td><td>BMAT</td></tr>
+<tr><td>1/COS 133/G103/E/P1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Blue/Green</td><td>BSIT</td></tr>
+<tr><td>1/COS 133/G101/E/L1</td><td>S1</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>C4</td><td>BMAT</td></tr>
+<tr><td>1/CMY 143/G105/E/T2</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G102/E/T2</td><td>S2</td><td>Thursday</td><td>14:00:00</td><td>15:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G103/E/T1</td><td>S2</td><td>Monday</td><td>16:00:00</td><td>17:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G102/E/T1</td><td>S2</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G101/E/L1</td><td>S2</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>B3</td><td>BMAT,BPHY</td></tr>
+<tr><td>1/CMY 133/G109/E/T1</td><td>S1</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G108/E/T1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G107/E/T1</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/WST 143/G101/E/L4</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>A3</td><td>BMAT</td></tr>
+<tr><td>1/WST 133/G103/E/T1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>IT Labs Lecture Hall 1</td><td>BPHY</td></tr>
+<tr><td>1/SIT 133/G102/E/P1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>12:00:00</td><td>IT Lab Red/Yellow</td><td>BBIS</td></tr>
+<tr><td>1/SIT 133/G101/E/L1</td><td>S1</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>A3</td><td>BBIS,BCOM,BSIT</td></tr>
+<tr><td>1/PHY 144/G102/E/P5</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G101/E/P2</td><td>S2</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G101/E/L1</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>10:00:00</td><td>ARENA</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G105/E/P3</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G104/E/P1</td><td>S1</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G102/E/P1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/MLB 143/G107/E/T1</td><td>S2</td><td>Wednesday</td><td>15:00:00</td><td>17:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/INL 143/G104/E/T2</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>C4</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G104/E/T2</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>C1</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G103/E/T1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>C3</td><td>BBIS</td></tr>
+<tr><td>1/WTW 143/G112/E/T2</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>10:00:00</td><td>C1</td><td>BBIS</td></tr>
+<tr><td>1/WTW 143/G112/E/T1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>C1</td><td>BBIS</td></tr>
+<tr><td>1/WTW 143/G106/E/L1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>A2</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G116/E/T1</td><td>S1</td><td>Tuesday</td><td>09:00:00</td><td>11:00:00</td><td>B4</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G108/E/L3</td><td>S1</td><td>Thursday</td><td>11:00:00</td><td>12:00:00</td><td>A2</td><td>BCOM</td></tr>
+<tr><td>1/WST 133/G102/E/L3</td><td>S1</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>1/COS 143/G103/E/L2</td><td>S2</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/AIM 111/G113/E/P1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>IT Lab Red</td><td>BBIO</td></tr>
+<tr><td>1/AIM 111/G112/E/P1</td><td>S1</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>IT Lab Red</td><td>BBIO</td></tr>
+<tr><td>1/AIM 111/G108/E/P1</td><td>S1</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>IT Lab Green</td><td>BSIT</td></tr>
+<tr><td>1/AIM 111/G107/E/P1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>IT Lab Green</td><td>BSIT</td></tr>
+<tr><td>1/PHY 133/G109/E/P5</td><td>S1</td><td>Thursday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G107/E/P5</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G105/E/P4</td><td>S1</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G109/E/P3</td><td>S1</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G105/E/P3</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G108/E/P2</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G106/E/P2</td><td>S1</td><td>Thursday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G105/E/P2</td><td>S1</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G108/E/P1</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 143/G115/E/L1</td><td>S2</td><td>Tuesday</td><td>10:00:00</td><td>12:00:00</td><td>LST Classroom 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 143/G114/E/L1</td><td>S2</td><td>Monday</td><td>10:00:00</td><td>12:00:00</td><td>IT Labs Lecture Hall 2</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G111/E/L2</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 2</td><td>BCOM</td></tr>
+<tr><td>1/LST 133/G105/E/L2</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>14:00:00</td><td>LST Classroom 1</td><td>BPHY</td></tr>
+<tr><td>1/LST 133/G114/E/L1</td><td>S1</td><td>Tuesday</td><td>14:00:00</td><td>16:00:00</td><td>LST Classroom 3</td><td>BBIO</td></tr>
+<tr><td>1/INL 133/G101/E/L3</td><td>S1</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G101/E/L2</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>15:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G101/E/L1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G106/E/L5</td><td>S1</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/LST 143/G110/E/L2</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 1</td><td>BCOM</td></tr>
+<tr><td>1/WTW 144/G103/E/T2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>C5</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G101/E/T1</td><td>S2</td><td>Monday</td><td>12:00:00</td><td>14:00:00</td><td>C2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G101/E/L4</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G101/E/L1</td><td>S2</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G106/E/T1</td><td>S2</td><td>Monday</td><td>10:00:00</td><td>12:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G102/E/T1</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>B4</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G101/E/T1</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>C2</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G105/E/P1</td><td>S2</td><td>Wednesday</td><td>16:00:00</td><td>17:00:00</td><td>IT Lab Blue/Green</td><td>BCOM</td></tr>
+<tr><td>1/AIM 121/G111/E/P1</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>IT Lab Green</td><td>BCOM</td></tr>
+<tr><td>1/AIM 121/G102/E/P1</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>IT Lab Green</td><td>BMAT</td></tr>
+<tr><td>1/FRK 143/G102/E/L4</td><td>S2</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 143/G102/E/L3</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>10:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 143/G101/E/L1</td><td>S2</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/FRK 133/G102/E/T2</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>14:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 133/G102/E/L3</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>16:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/COS 143/G102/E/P2</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>11:00:00</td><td>IT Lab Red/Yellow</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/MLB 143/G107/E/P1</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>10:00:00</td><td>Biology Lab</td><td>BSIT</td></tr>
+<tr><td>1/MLB 143/G103/E/P1</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G104/E/T1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>C2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G104/E/T1</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>C1</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G108/E/P1</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>IT Lab Red/Yellow</td><td>BCOM</td></tr>
+<tr><td>1/WTW 133/G107/E/P1</td><td>S1</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>IT Lab Red/Yellow</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G102/E/L3</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>A2</td><td>BPHY</td></tr>
+<tr><td>1/WST 143/G101/E/T1</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>IT Labs Lecture Hall 1</td><td>BMAT</td></tr>
+<tr><td>1/COS 143/G102/E/P1</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Red/Yellow</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/COS 143/G101/E/P1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>11:00:00</td><td>IT Lab Blue/Green</td><td>BMAT</td></tr>
+<tr><td>1/COS 133/G103/E/P2</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Blue/Green</td><td>BSIT</td></tr>
+<tr><td>1/COS 133/G102/E/P1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Red/Yellow</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/COS 133/G101/E/P1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>11:00:00</td><td>IT Lab Blue/Green</td><td>BMAT</td></tr>
+<tr><td>1/COS 133/G103/E/L1</td><td>S1</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/CMY 143/G104/E/T3</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>10:00:00</td><td>IT Labs Lecture Hall 2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G102/E/T3</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G101/E/T3</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>B2</td><td>BMAT</td></tr>
+<tr><td>1/CMY 143/G102/E/L1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>B3</td><td>BBIO,BSIT</td></tr>
+<tr><td>1/CMY 133/G102/E/T2</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/WST 143/G101/E/P1</td><td>S2</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Green</td><td>BMAT</td></tr>
+<tr><td>1/WST 133/G101/E/T1</td><td>S1</td><td>Thursday</td><td>10:00:00</td><td>12:00:00</td><td>IT Labs Lecture Hall 1</td><td>BMAT</td></tr>
+<tr><td>1/WST 133/G104/E/P1</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Red</td><td>BCOM</td></tr>
+<tr><td>1/PHY 144/G104/E/P4</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G105/E/P5</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G103/E/P5</td><td>S2</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G102/E/P2</td><td>S2</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 3</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G101/E/P2</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 143/G105/E/P1</td><td>S2</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G101/E/L1</td><td>S1</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>ARENA</td><td>BBIO,BMAT,BPHY,BSIT</td></tr>
+<tr><td>1/WTW 143/G106/E/L3</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>A2</td><td>BBIS</td></tr>
+<tr><td>1/WTW 143/G106/E/L4</td><td>S2</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>A2</td><td>BBIS</td></tr>
+<tr><td>1/WTW 144/G102/E/L3</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>16:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G101/E/L2</td><td>S1</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/WST 143/G102/E/L4</td><td>S2</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>1/WTW 143/G108/E/T1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>13:00:00</td><td>C6</td><td>BSIT</td></tr>
+<tr><td>1/AIM 111/G115/E/P1</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>13:00:00</td><td>Mam IT Lab GREY</td><td>BBIO</td></tr>
+<tr><td>1/AIM 111/G109/E/P1</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>IT Lab Red</td><td>BBIS</td></tr>
+<tr><td>1/PHY 133/G106/E/P4</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G107/E/P3</td><td>S1</td><td>Wednesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G107/E/P1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/FRK 133/G101/E/T1</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>SKHONDE/ZANDILE 2012/05/31</td><td></td><td>Thursday</td><td>09:00:00</td><td>11:00:00</td><td>A1</td><td></td></tr>
+<tr><td>SKHONDE/ZANDILE 2012/05/30</td><td></td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>A1</td><td></td></tr>
+<tr><td>CONRADIE/WANDA S2</td><td>S2</td><td>Wednesday</td><td>15:00:00</td><td>17:00:00</td><td>B3</td><td></td></tr>
+<tr><td>1/LST 143/G102/E/L2</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>IT Labs Lecture Hall 1</td><td>BMAT</td></tr>
+<tr><td>1/LST 143/G113/E/L1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 2</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G115/E/L2</td><td>S1</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 2</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G104/E/L2</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>LST Classroom 1</td><td>BPHY</td></tr>
+<tr><td>1/LST 133/G105/E/L1</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>LST Classroom 1</td><td>BPHY</td></tr>
+<tr><td>1/INL 143/G102/E/T2</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 143/G101/E/L1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G102/E/T1</td><td>S1</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G101/E/T1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/PHY 144/G103/E/P5</td><td>S2</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/WST 143/G102/E/L1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>1/LST 143/G112/E/L2</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 143/G107/E/L2</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 2</td><td>BSIT</td></tr>
+<tr><td>1/LST 143/G106/E/L2</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 144/G102/E/L4</td><td>S2</td><td>Thursday</td><td>09:00:00</td><td>10:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G101/E/L2</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G102/E/L1</td><td>S2</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>C3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G111/E/T2</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>C2</td><td>BCOM</td></tr>
+<tr><td>1/WTW 143/G110/E/T2</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>C5</td><td>BCOM</td></tr>
+<tr><td>1/WTW 143/G109/E/T2</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>A5</td><td>BBIS</td></tr>
+<tr><td>1/WTW 143/G107/E/T2</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>C5</td><td>BSIT</td></tr>
+<tr><td>1/WTW 143/G102/E/T2</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>C5</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G101/E/P1</td><td>S2</td><td>Monday</td><td>16:00:00</td><td>17:00:00</td><td>IT Lab Red/Yellow</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G101/E/L4</td><td>S2</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G102/E/L2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>16:00:00</td><td>A5</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G101/E/L3</td><td>S2</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/CMY 133/G102/E/P1</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>15:00:00</td><td>Chemistry Lab</td><td>BPHY</td></tr>
+<tr><td>1/AIM 121/G101/E/P1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Green</td><td>BMAT</td></tr>
+<tr><td>1/FRK 133/G102/E/T1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>12:00:00</td><td>IT Labs Lecture Hall 2</td><td>BCOM</td></tr>
+<tr><td>1/COS 143/G101/E/T1</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>C5</td><td>BMAT</td></tr>
+<tr><td>1/COS 143/G103/E/P1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Blue/Green</td><td>BSIT</td></tr>
+<tr><td>1/MLB 143/G101/E/P1</td><td>S2</td><td>Tuesday</td><td>10:00:00</td><td>12:00:00</td><td>Biology Lab</td><td>BMAT</td></tr>
+<tr><td>1/MLB 143/G102/E/L2</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>A3</td><td>BBIO</td></tr>
+<tr><td>1/MLB 143/G101/E/L2</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>A3</td><td>BMAT,BPHY,BSIT</td></tr>
+<tr><td>1/MLB 133/G105/E/T1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>C1</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G103/E/T1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>C6</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G101/E/L2</td><td>S2</td><td>Wednesday</td><td>12:00:00</td><td>13:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G105/E/L1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>A4</td><td>BCOM</td></tr>
+<tr><td>1/WTW 133/G113/E/T1</td><td>S1</td><td>Monday</td><td>10:00:00</td><td>12:00:00</td><td>C5</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G109/E/T1</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>C5</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G105/E/T1</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>C2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G103/E/P1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>IT Lab Red/Yellow</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G108/E/L4</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>A2</td><td>BCOM</td></tr>
+<tr><td>1/WTW 133/G101/E/L4</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>1/WTW 133/G104/E/L4</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>A2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G103/E/L1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WST 143/G105/E/T1</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>IT Labs Lecture Hall 1</td><td>BCOM</td></tr>
+<tr><td>1/WST 143/G104/E/T1</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>IT Labs Lecture Hall 1</td><td>BCOM</td></tr>
+<tr><td>1/WST 143/G104/E/P1</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>IT Lab Green</td><td>BCOM</td></tr>
+<tr><td>1/WST 143/G103/E/P1</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>IT Lab Red/Yellow</td><td>BPHY,BSIT</td></tr>
+<tr><td>1/CMY 143/G107/E/T3</td><td>S2</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G108/E/T2</td><td>S2</td><td>Wednesday</td><td>16:00:00</td><td>17:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G104/E/T2</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>IT Labs Lecture Hall 2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G107/E/T1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G104/E/P1</td><td>S2</td><td>Tuesday</td><td>14:00:00</td><td>17:00:00</td><td>Chemistry Lab</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G110/E/T2</td><td>S1</td><td>Tuesday</td><td>14:00:00</td><td>15:00:00</td><td>B4</td><td>BSIT</td></tr>
+<tr><td>1/CMY 133/G108/E/T2</td><td>S1</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/WST 133/G104/E/T1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>10:00:00</td><td>IT Labs Lecture Hall 1</td><td>BCOM</td></tr>
+<tr><td>1/PHY 144/G103/E/P3</td><td>S2</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G102/E/P2</td><td>S2</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G104/E/P1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G101/E/P1</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G103/E/P4</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G106/E/P3</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/PHY 143/G104/E/P2</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G106/E/P1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/PHY 143/G102/E/P1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 3</td><td>BPHY</td></tr>
+<tr><td>1/INL 143/G104/E/T1</td><td>S2</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>C4</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G106/E/L3</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/FRK 143/G101/E/L2</td><td>S2</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/WST 143/G103/E/L4</td><td>S2</td><td>Thursday</td><td>10:00:00</td><td>11:00:00</td><td>A3</td><td>BPHY</td></tr>
+<tr><td>1/WST 143/G103/E/L1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>A3</td><td>BPHY</td></tr>
+<tr><td>1/WST 133/G102/E/L4</td><td>S1</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>1/PHY 133/G101/E/P5</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 133/G101/E/P4</td><td>S1</td><td>Wednesday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 133/G108/E/P3</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G104/E/P2</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 143/G111/E/L1</td><td>S2</td><td>Tuesday</td><td>09:00:00</td><td>11:00:00</td><td>IT Labs Lecture Hall 2</td><td>BCOM</td></tr>
+<tr><td>1/LST 143/G110/E/L1</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>13:00:00</td><td>LST Classroom 2</td><td>BCOM</td></tr>
+<tr><td>1/LST 143/G109/E/L1</td><td>S2</td><td>Monday</td><td>08:00:00</td><td>10:00:00</td><td>IT Labs Lecture Hall 2</td><td>BBIS</td></tr>
+<tr><td>1/LST 143/G108/E/L1</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>11:00:00</td><td>IT Labs Lecture Hall 1</td><td>BSIT</td></tr>
+<tr><td>1/LST 143/G107/E/L1</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 2</td><td>BSIT</td></tr>
+<tr><td>1/LST 133/G113/E/L2</td><td>S1</td><td>Thursday</td><td>10:00:00</td><td>12:00:00</td><td>LST Classroom 2</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G108/E/L2</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 1</td><td>BSIT</td></tr>
+<tr><td>1/LST 133/G115/E/L1</td><td>S1</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>LST Classroom 3</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G109/E/L1</td><td>S1</td><td>Tuesday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 1</td><td>BBIS</td></tr>
+<tr><td>1/LST 133/G106/E/L1</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 133/G104/E/L1</td><td>S1</td><td>Monday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 1</td><td>BPHY</td></tr>
+<tr><td>1/INL 143/G102/E/T1</td><td>S2</td><td>Monday</td><td>10:00:00</td><td>11:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 143/G101/E/L2</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/MLB 133/G101/E/L1</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>A3</td><td>BMAT,BPHY,BSIT</td></tr>
+<tr><td>1/LST 143/G109/E/L2</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>10:00:00</td><td>IT Labs Lecture Hall 2</td><td>BBIS</td></tr>
+<tr><td>1/WTW 144/G102/E/T2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G101/E/T2</td><td>S2</td><td>Thursday</td><td>10:00:00</td><td>12:00:00</td><td>C2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 144/G102/E/P1</td><td>S2</td><td>Thursday</td><td>14:00:00</td><td>15:00:00</td><td>IT Lab Red/Yellow</td><td>BBIO</td></tr>
+<tr><td>1/WTW 143/G104/E/T2</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>C6</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G105/E/T1</td><td>S2</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>A5</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G102/E/P1</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>IT Lab Red/Yellow</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G105/E/L3</td><td>S2</td><td>Thursday</td><td>10:00:00</td><td>11:00:00</td><td>A4</td><td>BCOM</td></tr>
+<tr><td>1/CMY 133/G104/E/T1</td><td>S1</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G105/E/P1</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>11:00:00</td><td>Chemistry Lab</td><td>BBIO</td></tr>
+<tr><td>1/AIM 121/G113/E/P1</td><td>S2</td><td>Friday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Green</td><td>BBIO</td></tr>
+<tr><td>1/AIM 121/G112/E/P1</td><td>S2</td><td>Thursday</td><td>12:00:00</td><td>14:00:00</td><td>IT Lab Red</td><td>BBIO</td></tr>
+<tr><td>1/AIM 121/G110/E/P1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>13:00:00</td><td>IT Lab Red</td><td>BCOM</td></tr>
+<tr><td>1/AIM 121/G106/E/P1</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>10:00:00</td><td>IT Lab Red</td><td>BPHY</td></tr>
+<tr><td>1/FRK 143/G102/E/T1</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>14:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/COS 143/G105/E/T1</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>C6</td><td>BSIT</td></tr>
+<tr><td>1/MLB 143/G104/E/P1</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G106/E/P1</td><td>S1</td><td>Wednesday</td><td>15:00:00</td><td>17:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G102/E/L1</td><td>S1</td><td>Monday</td><td>16:00:00</td><td>17:00:00</td><td>B3</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G101/E/T1</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>B2</td><td>BMAT</td></tr>
+<tr><td>1/WTW 133/G107/E/L4</td><td>S1</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>A1</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G102/E/L5</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>A2</td><td>BPHY</td></tr>
+<tr><td>1/WST 143/G105/E/P1</td><td>S2</td><td>Tuesday</td><td>16:00:00</td><td>17:00:00</td><td>IT Lab Red</td><td>BCOM</td></tr>
+<tr><td>1/COS 133/G102/E/P2</td><td>S1</td><td>Thursday</td><td>08:00:00</td><td>11:00:00</td><td>IT Lab Red/Yellow</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/COS 133/G101/E/L2</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>C4</td><td>BMAT</td></tr>
+<tr><td>1/CMY 143/G109/E/T3</td><td>S2</td><td>Thursday</td><td>10:00:00</td><td>11:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G109/E/T2</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G107/E/T2</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G101/E/T2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>16:00:00</td><td>B2</td><td>BMAT</td></tr>
+<tr><td>1/CMY 143/G110/E/T1</td><td>S2</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>B2</td><td>BSIT</td></tr>
+<tr><td>1/CMY 133/G109/E/T3</td><td>S1</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G103/E/T3</td><td>S1</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G101/E/T3</td><td>S1</td><td>Thursday</td><td>09:00:00</td><td>10:00:00</td><td>B4</td><td>BMAT</td></tr>
+<tr><td>1/WST 133/G102/E/T1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>IT Labs Lecture Hall 2</td><td>BMAT</td></tr>
+<tr><td>1/SIT 143/G102/E/P1</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>14:00:00</td><td>IT Lab Blue</td><td>BBIS</td></tr>
+<tr><td>1/SIT 143/G101/E/L2</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>12:00:00</td><td>A3</td><td>BBIS,BCOM,BSIT</td></tr>
+<tr><td>1/PHY 144/G104/E/P5</td><td>S2</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G103/E/P4</td><td>S2</td><td>Wednesday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G104/E/P3</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G104/E/P2</td><td>S2</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 144/G102/E/P1</td><td>S2</td><td>Monday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G102/E/P5</td><td>S2</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 3</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G101/E/P5</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 143/G106/E/P2</td><td>S2</td><td>Tuesday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/PHY 143/G103/E/P2</td><td>S2</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G101/E/P1</td><td>S2</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 143/G101/E/L1</td><td>S2</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>ARENA</td><td>BMAT,BPHY,BSIT</td></tr>
+<tr><td>1/MLB 143/G106/E/T1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>C6</td><td>BBIO</td></tr>
+<tr><td>1/MLB 143/G103/E/T1</td><td>S2</td><td>Monday</td><td>15:00:00</td><td>17:00:00</td><td>C6</td><td>BBIO</td></tr>
+<tr><td>1/MLB 143/G102/E/T1</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>C6</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G101/E/L2</td><td>S1</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>B3</td><td>BMAT,BPHY</td></tr>
+<tr><td>1/PHY 143/G106/E/P5</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/INL 143/G103/E/T2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>16:00:00</td><td>C4</td><td>BBIS</td></tr>
+<tr><td>1/LST 143/G116/E/L2</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>IT Labs Lecture Hall 2</td><td>BBIS</td></tr>
+<tr><td>1/LST 133/G116/E/L2</td><td>S1</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>IT Labs Lecture Hall 2</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G102/E/L4</td><td>S1</td><td>Tuesday</td><td>09:00:00</td><td>10:00:00</td><td>A2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G107/E/L2</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>A1</td><td>BBIS</td></tr>
+<tr><td>1/CMY 143/G101/E/L2</td><td>S2</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>B3</td><td>BMAT,BPHY</td></tr>
+<tr><td>1/AIM 111/G114/E/P1</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>IT Lab Red</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G106/E/P5</td><td>S1</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G101/E/P3</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/PHY 133/G109/E/P2</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G107/E/P2</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 133/G102/E/P2</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>16:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/FRK 133/G103/E/T1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>C1</td><td>BMAT</td></tr>
+<tr><td>1/LST 143/G104/E/L1</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>LST Classroom 1</td><td>BPHY</td></tr>
+<tr><td>1/LST 133/G107/E/L2</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 2</td><td>BSIT</td></tr>
+<tr><td>1/LST 133/G101/E/L2</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 1</td><td>BMAT</td></tr>
+<tr><td>1/LST 133/G103/E/L1</td><td>S1</td><td>Monday</td><td>09:00:00</td><td>11:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/INL 143/G101/E/T2</td><td>S2</td><td>Thursday</td><td>15:00:00</td><td>16:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/INL 143/G101/E/P1</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>16:00:00</td><td>IT Lab Red</td><td>BBIS</td></tr>
+<tr><td>1/INL 133/G102/E/T2</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/LST 143/G113/E/L2</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>LST Classroom 2</td><td>BBIO</td></tr>
+<tr><td>1/LST 143/G111/E/L2</td><td>S2</td><td>Wednesday</td><td>10:00:00</td><td>12:00:00</td><td>IT Labs Lecture Hall 2</td><td>BCOM</td></tr>
+<tr><td>1/LST 143/G105/E/L2</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G104/E/T1</td><td>S2</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G104/E/P1</td><td>S2</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>IT Lab Red/Yellow</td><td>BSIT</td></tr>
+<tr><td>1/WTW 143/G103/E/P1</td><td>S2</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Blue/Green</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G103/E/P1</td><td>S1</td><td>Thursday</td><td>14:00:00</td><td>17:00:00</td><td>Chemistry Lab</td><td>BPHY</td></tr>
+<tr><td>1/COS 143/G106/E/T1</td><td>S2</td><td>Tuesday</td><td>09:00:00</td><td>11:00:00</td><td>C5</td><td>BBIS</td></tr>
+<tr><td>1/COS 143/G102/E/T1</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>14:00:00</td><td>C5</td><td>BMAT</td></tr>
+<tr><td>1/MLB 143/G102/E/P1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>16:00:00</td><td>Biology Lab</td><td>BPHY</td></tr>
+<tr><td>1/MLB 143/G102/E/L1</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>A3</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G101/E/P1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>12:00:00</td><td>Biology Lab</td><td>BMAT</td></tr>
+<tr><td>1/WTW 143/G102/E/L1</td><td>S2</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>A5</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G108/E/T1</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>C6</td><td>BSIT</td></tr>
+<tr><td>1/WTW 133/G105/E/P1</td><td>S1</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>IT Lab Red/Yellow</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G104/E/P1</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>IT Lab Red/Yellow</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G103/E/L5</td><td>S1</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>C3</td><td>BPHY</td></tr>
+<tr><td>1/WTW 133/G105/E/L3</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>A5</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G104/E/L3</td><td>S1</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>A2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G108/E/L1</td><td>S1</td><td>Monday</td><td>16:00:00</td><td>17:00:00</td><td>A2</td><td>BCOM</td></tr>
+<tr><td>1/WTW 133/G105/E/L1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>A5</td><td>BBIO</td></tr>
+<tr><td>1/WST 143/G103/E/T1</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>IT Labs Lecture Hall 1</td><td>BPHY,BSIT</td></tr>
+<tr><td>1/COS 143/G101/E/L2</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>09:00:00</td><td>C4</td><td>BMAT</td></tr>
+<tr><td>1/COS 133/G102/E/L1</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>C4</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/CMY 143/G103/E/T3</td><td>S2</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G106/E/T2</td><td>S2</td><td>Tuesday</td><td>11:00:00</td><td>12:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G103/E/P1</td><td>S2</td><td>Thursday</td><td>14:00:00</td><td>17:00:00</td><td>Chemistry Lab</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G108/E/T3</td><td>S1</td><td>Wednesday</td><td>16:00:00</td><td>17:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G106/E/T3</td><td>S1</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G105/E/T3</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G104/E/T3</td><td>S1</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G109/E/T2</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>16:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G107/E/T2</td><td>S1</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>B4</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G104/E/T2</td><td>S1</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>B2</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G101/E/T2</td><td>S1</td><td>Wednesday</td><td>08:00:00</td><td>09:00:00</td><td>B4</td><td>BMAT</td></tr>
+<tr><td>1/WST 143/G101/E/L1</td><td>S2</td><td>Monday</td><td>14:00:00</td><td>15:00:00</td><td>A3</td><td>BMAT</td></tr>
+<tr><td>1/WST 133/G105/E/P1</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>IT Lab Red</td><td>BCOM</td></tr>
+<tr><td>1/WST 133/G101/E/L3</td><td>S1</td><td>Thursday</td><td>08:00:00</td><td>09:00:00</td><td>A3</td><td>BMAT,BPHY</td></tr>
+<tr><td>1/WST 133/G101/E/L2</td><td>S1</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>A3</td><td>BMAT,BPHY</td></tr>
+<tr><td>1/PHY 144/G101/E/P5</td><td>S2</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>Physics Lab 2</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G102/E/P4</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 3</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G104/E/P3</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G102/E/P3</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 3</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G105/E/P1</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/WST 133/G102/E/L1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>13:00:00</td><td>A3</td><td>BCOM,BSIT</td></tr>
+<tr><td>IMMELMAN/SUSAN 2012/05/30</td><td></td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>A4</td><td></td></tr>
+<tr><td>1/PHY 133/G110/E/P2</td><td>S1</td><td></td><td></td><td></td><td>Physics Lab 2</td><td>BSIT</td></tr>
+<tr><td>1/WTW 133/G104/E/L2</td><td>S1</td><td>Tuesday</td><td>13:00:00</td><td>14:00:00</td><td>A2</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G101/E/L5</td><td>S1</td><td>Friday</td><td>11:00:00</td><td>12:00:00</td><td>A1</td><td>BMAT</td></tr>
+<tr><td>IMMELMAN/SUSAN 2012/05/31</td><td></td><td>Thursday</td><td>09:00:00</td><td>11:00:00</td><td>A4</td><td></td></tr>
+<tr><td>1/WTW 143/G111/E/T1</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>C2</td><td>BCOM</td></tr>
+<tr><td>1/WTW 143/G109/E/T1</td><td>S2</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>A5</td><td>BBIS</td></tr>
+<tr><td>1/AIM 111/G105/E/P1</td><td>S1</td><td>Monday</td><td>12:00:00</td><td>14:00:00</td><td>IT Lab Green</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G105/E/P5</td><td>S1</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G102/E/P3</td><td>S1</td><td>Tuesday</td><td>16:00:00</td><td>17:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/FRK 143/G103/E/T2</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>12:00:00</td><td>C1</td><td>BMAT</td></tr>
+<tr><td>1/FRK 143/G103/E/T1</td><td>S2</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>C1</td><td>BMAT</td></tr>
+<tr><td>YANI/BRIDGETTE 2012/05/30</td><td></td><td>Wednesday</td><td>11:00:00</td><td>13:00:00</td><td>B4</td><td></td></tr>
+<tr><td>1/LST 143/G101/E/L2</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>LST Classroom 1</td><td>BMAT</td></tr>
+<tr><td>1/LST 143/G105/E/L1</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 143/G103/E/L1</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>IT Labs Lecture Hall 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 143/G102/E/L1</td><td>S2</td><td>Monday</td><td>11:00:00</td><td>13:00:00</td><td>IT Labs Lecture Hall 1</td><td>BMAT</td></tr>
+<tr><td>1/LST 133/G114/E/L2</td><td>S1</td><td>Thursday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 3</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G112/E/L2</td><td>S1</td><td>Thursday</td><td>10:00:00</td><td>12:00:00</td><td>LST Classroom 1</td><td>BBIO</td></tr>
+<tr><td>1/LST 133/G109/E/L2</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>12:00:00</td><td>LST Classroom 1</td><td>BBIS</td></tr>
+<tr><td>1/LST 133/G103/E/L2</td><td>S1</td><td>Thursday</td><td>15:00:00</td><td>17:00:00</td><td>LST Classroom 2</td><td>BPHY</td></tr>
+<tr><td>1/LST 133/G102/E/L2</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>LST Classroom 2</td><td>BMAT</td></tr>
+<tr><td>1/INL 143/G101/E/L3</td><td>S2</td><td>Thursday</td><td>12:00:00</td><td>13:00:00</td><td>C2</td><td>BBIS</td></tr>
+<tr><td>1/LST 143/G108/E/L2</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>14:00:00</td><td>IT Labs Lecture Hall 1</td><td>BSIT</td></tr>
+<tr><td>1/WTW 143/G108/E/T2</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>C6</td><td>BSIT</td></tr>
+<tr><td>1/WTW 143/G106/E/T2</td><td>S2</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G105/E/T2</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>15:00:00</td><td>A5</td><td>BPHY</td></tr>
+<tr><td>1/WTW 143/G103/E/T1</td><td>S2</td><td>Tuesday</td><td>13:00:00</td><td>15:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G102/E/T1</td><td>S1</td><td>Monday</td><td>15:00:00</td><td>16:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 133/G101/E/L1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>B3</td><td>BMAT,BPHY</td></tr>
+<tr><td>SWART/ALTA 2012/05/25</td><td></td><td>Friday</td><td>15:00:00</td><td>16:30:00</td><td>B4</td><td></td></tr>
+<tr><td>1/FRK 143/G101/E/T1</td><td>S2</td><td>Thursday</td><td>13:00:00</td><td>15:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 133/G101/E/T2</td><td>S1</td><td>Friday</td><td>10:00:00</td><td>12:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/FRK 133/G101/E/L2</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>C3</td><td>BCOM,BMAT</td></tr>
+<tr><td>1/FRK 133/G102/E/L1</td><td>S1</td><td>Monday</td><td>13:00:00</td><td>14:00:00</td><td>C1</td><td>BCOM</td></tr>
+<tr><td>1/COS 143/G104/E/T1</td><td>S2</td><td>Tuesday</td><td>12:00:00</td><td>14:00:00</td><td>C6</td><td>BSIT</td></tr>
+<tr><td>1/COS 143/G101/E/P2</td><td>S2</td><td>Tuesday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Blue/Green</td><td>BMAT</td></tr>
+<tr><td>1/MLB 143/G101/E/T1</td><td>S2</td><td>Wednesday</td><td>15:00:00</td><td>17:00:00</td><td>C6</td><td>BMAT</td></tr>
+<tr><td>1/MLB 143/G106/E/P1</td><td>S2</td><td>Wednesday</td><td>15:00:00</td><td>17:00:00</td><td>Biology Lab</td><td>BBIO</td></tr>
+<tr><td>1/MLB 133/G107/E/T1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>10:00:00</td><td>C5</td><td>BSIT</td></tr>
+<tr><td>1/MLB 133/G101/E/T1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>16:00:00</td><td>C6</td><td>BMAT</td></tr>
+<tr><td>1/MLB 133/G107/E/P1</td><td>S1</td><td>Monday</td><td>08:00:00</td><td>10:00:00</td><td>Biology Lab</td><td>BSIT</td></tr>
+<tr><td>1/CMY 143/G102/E/L2</td><td>S2</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>B3</td><td>BBIO,BSIT</td></tr>
+<tr><td>1/WTW 143/G104/E/L3</td><td>S2</td><td>Wednesday</td><td>11:00:00</td><td>12:00:00</td><td>A1</td><td>BSIT</td></tr>
+<tr><td>1/WTW 143/G104/E/L1</td><td>S2</td><td>Tuesday</td><td>10:00:00</td><td>11:00:00</td><td>A1</td><td>BSIT</td></tr>
+<tr><td>1/WTW 133/G112/E/T1</td><td>S1</td><td>Monday</td><td>10:00:00</td><td>12:00:00</td><td>C6</td><td>BBIO</td></tr>
+<tr><td>1/WTW 133/G107/E/T1</td><td>S1</td><td>Tuesday</td><td>15:00:00</td><td>17:00:00</td><td>C5</td><td>BSIT</td></tr>
+<tr><td>1/WTW 133/G107/E/L3</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>A1</td><td>BBIS</td></tr>
+<tr><td>1/WTW 133/G106/E/L2</td><td>S1</td><td>Tuesday</td><td>12:00:00</td><td>13:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/WST 143/G102/E/T1</td><td>S2</td><td>Thursday</td><td>11:00:00</td><td>13:00:00</td><td>IT Labs Lecture Hall 2</td><td>BMAT</td></tr>
+<tr><td>1/COS 143/G102/E/L2</td><td>S2</td><td>Friday</td><td>10:00:00</td><td>11:00:00</td><td>C4</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/COS 143/G103/E/L1</td><td>S2</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>C4</td><td>BSIT</td></tr>
+<tr><td>1/COS 133/G105/E/T1</td><td>S1</td><td>Tuesday</td><td>10:00:00</td><td>12:00:00</td><td>C5</td><td>BSIT</td></tr>
+<tr><td>1/COS 133/G103/E/T1</td><td>S1</td><td>Wednesday</td><td>09:00:00</td><td>11:00:00</td><td>C5</td><td>BPHY</td></tr>
+<tr><td>1/COS 133/G102/E/L2</td><td>S1</td><td>Thursday</td><td>13:00:00</td><td>14:00:00</td><td>C4</td><td>BBIS,BPHY</td></tr>
+<tr><td>1/CMY 143/G110/E/T3</td><td>S2</td><td>Friday</td><td>09:00:00</td><td>10:00:00</td><td>B2</td><td>BSIT</td></tr>
+<tr><td>1/CMY 143/G108/E/T3</td><td>S2</td><td>Thursday</td><td>08:00:00</td><td>09:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 143/G105/E/T3</td><td>S2</td><td>Friday</td><td>14:00:00</td><td>15:00:00</td><td>B4</td><td>BPHY</td></tr>
+<tr><td>1/CMY 143/G105/E/P1</td><td>S2</td><td>Friday</td><td>08:00:00</td><td>11:00:00</td><td>Chemistry Lab</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G106/E/T2</td><td>S1</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>B2</td><td>BBIO</td></tr>
+<tr><td>1/CMY 133/G110/E/T1</td><td>S1</td><td>Tuesday</td><td>08:00:00</td><td>09:00:00</td><td>B4</td><td>BSIT</td></tr>
+<tr><td>1/WST 143/G101/E/L3</td><td>S2</td><td>Thursday</td><td>10:00:00</td><td>11:00:00</td><td>A3</td><td>BMAT</td></tr>
+<tr><td>1/WST 133/G105/E/T1</td><td>S1</td><td>Tuesday</td><td>14:00:00</td><td>16:00:00</td><td>IT Labs Lecture Hall 2</td><td>BCOM</td></tr>
+<tr><td>1/WST 133/G103/E/P1</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>IT Lab Blue/Green</td><td>BPHY,BSIT</td></tr>
+<tr><td>1/WST 133/G102/E/P1</td><td>S1</td><td>Friday</td><td>13:00:00</td><td>14:00:00</td><td>Mam IT Lab GREY</td><td>BMAT</td></tr>
+<tr><td>1/WST 133/G101/E/P1</td><td>S1</td><td>Friday</td><td>12:00:00</td><td>13:00:00</td><td>Mam IT Lab GREY</td><td>BMAT</td></tr>
+<tr><td>1/SIT 133/G103/E/P1</td><td>S1</td><td>Wednesday</td><td>14:00:00</td><td>17:00:00</td><td>IT Lab Blue/Green</td><td>BCOM</td></tr>
+<tr><td>1/SIT 133/G101/E/P1</td><td>S1</td><td>Thursday</td><td>08:00:00</td><td>11:00:00</td><td>IT Lab Blue/Green</td><td>BSIT</td></tr>
+<tr><td>1/PHY 144/G102/E/P4</td><td>S2</td><td>Thursday</td><td>10:00:00</td><td>11:00:00</td><td>Physics Lab 1</td><td>BBIO</td></tr>
+<tr><td>1/PHY 143/G103/E/P3</td><td>S2</td><td>Wednesday</td><td>13:00:00</td><td>14:00:00</td><td>Physics Lab 2</td><td>BPHY</td></tr>
+<tr><td>1/PHY 143/G105/E/P2</td><td>S2</td><td>Monday</td><td>16:00:00</td><td>17:00:00</td><td>Physics Lab 1</td><td>BPHY</td></tr>
+<tr><td>1/PHY 133/G101/E/P1</td><td>S1</td><td>Monday</td><td>11:00:00</td><td>12:00:00</td><td>Physics Lab 1</td><td>BMAT</td></tr>
+<tr><td>1/MLB 143/G104/E/T1</td><td>S2</td><td>Monday</td><td>15:00:00</td><td>17:00:00</td><td>C5</td><td>BBIO</td></tr>
+</tbody>
+</FONT>
+</table>
+</HTML>

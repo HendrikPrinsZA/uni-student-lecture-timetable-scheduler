@@ -1,0 +1,5572 @@
+@COM 420,4,2,
+#1,B
+2,21,Ing/Eng III -3/C4
+2,22,Ing/Eng III -3/C4
+3,21,Ing/Eng III -3/C4
+3,22,Ing/Eng III -3/C4
+@COM 420 T,4,2,
+#1,B
+4,21,Ing/Eng III - 6/C4
+4,22,Ing/Eng III - 6/C4
+@BIE 320,3,2,
+#1,B
+1,9,Ing/Eng II 1-1/B3
+1,10,Ing/Eng II 1-1/B3
+2,7,Ing/Eng II 1-5/B3
+2,8,Ing/Eng II 1-5/B3
+4,7,Ing/Eng II 3-40/B3
+4,8,Ing/Eng II 3-40/B3
+@CSC 411 P,4,1,
+#1,B
+1,9,Raadpleeg/Consult Dept/C4
+1,10,Raadpleeg/Consult Dept/C4
+1,11,Raadpleeg/Consult Dept/C4
+1,12,Raadpleeg/Consult Dept/C4
+1,13,Raadpleeg/Consult Dept/C4
+1,14,Raadpleeg/Consult Dept/C4
+1,15,Raadpleeg/Consult Dept/C4
+1,16,Raadpleeg/Consult Dept/C4
+1,17,Raadpleeg/Consult Dept/C4
+1,18,Raadpleeg/Consult Dept/C4
+1,19,Raadpleeg/Consult Dept/C4
+1,20,Raadpleeg/Consult Dept/C4
+3,9,Raadpleeg/Consult Dept/C4
+3,10,Raadpleeg/Consult Dept/C4
+3,11,Raadpleeg/Consult Dept/C4
+3,12,Raadpleeg/Consult Dept/C4
+3,13,Raadpleeg/Consult Dept/C4
+3,14,Raadpleeg/Consult Dept/C4
+3,15,Raadpleeg/Consult Dept/C4
+3,16,Raadpleeg/Consult Dept/C4
+3,17,Raadpleeg/Consult Dept/C4
+3,18,Raadpleeg/Consult Dept/C4
+3,19,Raadpleeg/Consult Dept/C4
+3,20,Raadpleeg/Consult Dept/C4
+5,11,Raadpleeg/Consult Dept/C4
+5,12,Raadpleeg/Consult Dept/C4
+5,13,Raadpleeg/Consult Dept/C4
+5,14,Raadpleeg/Consult Dept/C4
+5,15,Raadpleeg/Consult Dept/C4
+5,16,Raadpleeg/Consult Dept/C4
+5,17,Raadpleeg/Consult Dept/C4
+5,18,Raadpleeg/Consult Dept/C4
+5,19,Raadpleeg/Consult Dept/C4
+5,20,Raadpleeg/Consult Dept/C4
+@ERP 420,4,2,
+#1,B
+1,13,Ing/Eng II 1-1/R4
+1,14,Ing/Eng II 1-1/R4
+2,7,Ing/Eng II 2-37/R4
+2,8,Ing/Eng II 2-37/R4
+4,15,Ing/Eng II 3-31/R4
+4,16,Ing/Eng II 3-31/R4
+@JPO 126,1,2,
+#1,B
+3,17,Ing/Eng II 4-38/s1
+3,18,Ing/Eng II 4-38/s1
+#2,B
+2,11,Ing/Eng III -3/b1c1
+2,12,Ing/Eng III -3/b1c1
+#3,B
+2,17,Ing/Eng III - 5/e1n1p1r1z1
+2,18,Ing/Eng III - 5/e1n1p1r1z1
+#4,B
+2,9,Ing/Eng II 4-38/m1
+2,10,Ing/Eng II 4-38/m1
+@JPO 116,1,1,
+#1,B
+2,5,Ing/Eng II 3-40/s1
+2,6,Ing/Eng II 3-40/s1
+#2,B
+2,13,Ing/Eng II 3-40/b1c1
+2,14,Ing/Eng II 3-40/b1c1
+#3,B
+2,15,Ing/Eng II 2-37/e1n1p1r1z1
+2,16,Ing/Eng II 2-37/e1n1p1r1z1
+#4,B
+2,9,Ing/Eng II 2-37/m1
+2,10,Ing/Eng II 2-37/m1
+@HAS 110,1,1,
+#1,A
+3,17,Ing/Eng III - 6/b1s1 B1E1N1P1S1Z1
+3,18,Ing/Eng III - 6/b1s1 B1E1N1P1S1Z1
+4,9,Louwsaal/Louw hall/b1s1 B1E1N1P1S1Z1
+4,10,Louwsaal/Louw hall/b1s1 B1E1N1P1S1Z1
+#2,A
+3,9,Ing/Eng III - 6/c1e1m1n1p1r1z1 C1M1R1
+3,10,Ing/Eng III - 6/c1e1m1n1p1r1z1 C1M1R1
+5,9,Ing/Eng III - 6/c1e1m1n1p1r1z1 C1M1R1
+5,10,Ing/Eng III - 6/c1e1m1n1p1r1z1 C1M1R1
+#3,E
+2,19,Ing/Eng III - 1/s1 B1C1E1M1N1P1R1Z1
+2,20,Ing/Eng III - 1/s1 B1C1E1M1N1P1R1Z1
+4,11,Ing/Eng III - 1/s1 B1C1E1M1N1P1R1Z1
+4,12,Ing/Eng III - 1/s1 B1C1E1M1N1P1R1Z1
+#4,E
+3,11,Ing/Eng III - 1/b1c1e1m1n1p1r1z1 S1
+3,12,Ing/Eng III - 1/b1c1e1m1n1p1r1z1 S1
+5,1,Ing/Eng III - 1/b1c1e1m1n1p1r1z1 S1
+5,2,Ing/Eng III - 1/b1c1e1m1n1p1r1z1 S1
+@CPS 410,4,1,
+#1,A
+1,5,Ing/Eng II 1-2/C4
+1,6,Ing/Eng II 1-2/C4
+3,7,Ing/Eng II 4-30/C4
+3,8,Ing/Eng II 4-30/C4
+5,3,Raadpleeg/Consult Dept/C4
+5,4,Raadpleeg/Consult Dept/C4
+#2,E
+1,3,Ing/Eng II 4-36/C4
+1,4,Ing/Eng II 4-36/C4
+3,3,Ing/Eng II 3-25/C4
+3,4,Ing/Eng II 3-25/C4
+5,5,Ing/Eng II 1-1/C4
+5,6,Ing/Eng II 1-1/C4
+@WTW 263,2,2,
+#1,A
+2,1,Ing/Eng II 2-37/b3c3m2n3s2 C2E2N2Z2
+2,2,Ing/Eng II 2-37/b3c3m2n3s2 C2E2N2Z2
+5,1,Ing/Eng II 3-40/b3c3m2n3s2 C2E2N2Z2
+5,2,Ing/Eng II 3-40/b3c3m2n3s2 C2E2N2Z2
+#2,A
+1,3,Ing/Eng III- 4/b2c2m3p3z2z3 B2M2P2
+1,4,Ing/Eng III- 4/b2c2m3p3z2z3 B2M2P2
+5,1,Ing/Eng III - 5/b2c2m3p3z2z3 B2M2P2
+5,2,Ing/Eng III - 5/b2c2m3p3z2z3 B2M2P2
+#3,E
+3,5,Ing/Eng III -3/e2e3m2n3p3r3s3z3 E2R2Z2
+3,6,Ing/Eng III -3/e2e3m2n3p3r3s3z3 E2R2Z2
+5,9,AE Anneks/Annex/e2e3m2n3p3r3s3z3 E2R2Z2
+5,10,AE Anneks/Annex/e2e3m2n3p3r3s3z3 E2R2Z2
+#4,E
+1,1,Ing/Eng III - 2/b3c3n2p2s2z2 B2C2
+1,2,Ing/Eng III - 2/b3c3n2p2s2z2 B2C2
+3,1,Ing/Eng III- 4/b3c3n2p2s2z2 B2C2
+3,2,Ing/Eng III- 4/b3c3n2p2s2z2 B2C2
+#5,A
+3,3,Thuto 1-1/e2e3n2p2r2r3s3 R2S2
+3,4,Thuto 1-1/e2e3n2p2r2r3s3 R2S2
+5,11,Thuto 3-1/e2e3n2p2r2r3s3 R2S2
+5,12,Thuto 3-1/e2e3n2p2r2r3s3 R2S2
+#6,E
+1,15,Ing/Eng III - 1/c2m3r2 M2P2
+1,16,Ing/Eng III - 1/c2m3r2 M2P2
+3,13,Ing/Eng III -3/c2m3r2 M2P2
+3,14,Ing/Eng III -3/c2m3r2 M2P2
+#7,E
+2,3,AE Anneks/Annex/b2 N2S2
+2,4,AE Anneks/Annex/b2 N2S2
+5,9,GW/HB 4-3/b2 N2S2
+5,10,GW/HB 4-3/b2 N2S2
+@SBZ 420,4,2,
+#1,B
+3,5,Ing/Eng III - 6/S4
+3,6,Ing/Eng III - 6/S4
+3,7,Ing/Eng III - 6/S4
+3,8,Ing/Eng III - 6/S4
+3,9,Ing/Eng III - 6/S4
+3,10,Ing/Eng III - 6/S4
+4,1,Ing/Eng III - 7/S4
+4,2,Ing/Eng III - 7/S4
+4,3,Ing/Eng III - 7/S4
+4,4,Ing/Eng III - 7/S4
+4,5,Ing/Eng III - 7/S4
+4,6,Ing/Eng III - 7/S4
+@WTW 158,1,1,
+#1,A
+1,1,Ing/Eng III - 1/b1c1m1n1s1 B1S1
+1,2,Ing/Eng III - 1/b1c1m1n1s1 B1S1
+2,3,Ing/Eng III - 6/b1c1m1n1s1 B1S1
+2,4,Ing/Eng III - 6/b1c1m1n1s1 B1S1
+3,19,Ing/Eng III - 6/b1c1m1n1s1 B1S1
+3,20,Ing/Eng III - 6/b1c1m1n1s1 B1S1
+5,7,Ing/Eng III - 1/b1c1m1n1s1 B1S1
+5,8,Ing/Eng III - 1/b1c1m1n1s1 B1S1
+#2,A
+1,1,Ing/Eng III -3/e1r1z1 E1R1Z1
+1,2,Ing/Eng III -3/e1r1z1 E1R1Z1
+2,3,Ing/Eng III -3/e1r1z1 E1R1Z1
+2,4,Ing/Eng III -3/e1r1z1 E1R1Z1
+4,1,Ing/Eng III - 2/e1r1z1 E1R1Z1
+4,2,Ing/Eng III - 2/e1r1z1 E1R1Z1
+5,7,Ing/Eng III - 6/e1r1z1 E1R1Z1
+5,8,Ing/Eng III - 6/e1r1z1 E1R1Z1
+#3,A
+1,1,Ing/Eng III - 2/p1 C1M1N1P1
+1,2,Ing/Eng III - 2/p1 C1M1N1P1
+2,3,Ing/Eng III - 2/p1 C1M1N1P1
+2,4,Ing/Eng III - 2/p1 C1M1N1P1
+3,5,Ing/Eng III - 2/p1 C1M1N1P1
+3,6,Ing/Eng III - 2/p1 C1M1N1P1
+4,1,Ing/Eng III- 4/p1 C1M1N1P1
+4,2,Ing/Eng III- 4/p1 C1M1N1P1
+#4,E
+1,1,Ing/Eng III - 7/e1r1 E1Z1
+1,2,Ing/Eng III - 7/e1r1 E1Z1
+3,13,Ing/Eng III - 5/e1r1 E1Z1
+3,14,Ing/Eng III - 5/e1r1 E1Z1
+4,15,Ing/Eng III - 5/e1r1 E1Z1
+4,16,Ing/Eng III - 5/e1r1 E1Z1
+5,7,Ing/Eng III - 5/e1r1 E1Z1
+5,8,Ing/Eng III - 5/e1r1 E1Z1
+#5,E
+1,1,Ing/Eng III- 4/s1z1 R1S1
+1,2,Ing/Eng III- 4/s1z1 R1S1
+2,3,Ing/Eng III- 4/s1z1 R1S1
+2,4,Ing/Eng III- 4/s1z1 R1S1
+3,3,Ing/Eng II 4-38/s1z1 R1S1
+3,4,Ing/Eng II 4-38/s1z1 R1S1
+5,9,Ing/Eng III- 4/s1z1 R1S1
+5,10,Ing/Eng III- 4/s1z1 R1S1
+#6,E
+1,1,AE Oudit/Audit/m1 M1
+1,2,AE Oudit/Audit/m1 M1
+2,7,Ing/Eng III - 6/m1 M1
+2,8,Ing/Eng III - 6/m1 M1
+4,7,Regsgebou/Law building 1-54/m1 M1
+4,8,Regsgebou/Law building 1-54/m1 M1
+5,9,AE Oudit/Audit/m1 M1
+5,10,AE Oudit/Audit/m1 M1
+#7,E
+1,1,VD Bijlsaal/VD Bijl hall/b1n1p1 B1N1P1
+1,2,VD Bijlsaal/VD Bijl hall/b1n1p1 B1N1P1
+3,13,Ing/Eng III -3/b1n1p1 B1N1P1
+3,14,Ing/Eng III -3/b1n1p1 B1N1P1
+4,13,Eeufees/Centenary 4/b1n1p1 B1N1P1
+4,14,Eeufees/Centenary 4/b1n1p1 B1N1P1
+5,7,Noordsaal/North hall/b1n1p1 B1N1P1
+5,8,Noordsaal/North hall/b1n1p1 B1N1P1
+#8,E
+1,3,Ing/Eng III- 4/c1 C1
+1,4,Ing/Eng III- 4/c1 C1
+2,15,Ing/Eng III- 4/c1 C1
+2,16,Ing/Eng III- 4/c1 C1
+4,13,Ing/Eng III- 4/c1 C1
+4,14,Ing/Eng III- 4/c1 C1
+5,5,Ing/Eng III- 4/c1 C1
+5,6,Ing/Eng III- 4/c1 C1
+@CHM 172 P,1,2,
+#1,B
+1,15,Groot Chemie/Large Chemistry/e1m1n1n1p1z1z1 M1
+1,16,Groot Chemie/Large Chemistry/e1m1n1n1p1z1z1 M1
+1,17,Groot Chemie/Large Chemistry/e1m1n1n1p1z1z1 M1
+1,18,Groot Chemie/Large Chemistry/e1m1n1n1p1z1z1 M1
+1,19,Groot Chemie/Large Chemistry/e1m1n1n1p1z1z1 M1
+1,20,Groot Chemie/Large Chemistry/e1m1n1n1p1z1z1 M1
+#2,B
+4,15,Groot Chemie/Large Chemistry/e1m1 B1
+4,16,Groot Chemie/Large Chemistry/e1m1 B1
+4,17,Groot Chemie/Large Chemistry/e1m1 B1
+4,18,Groot Chemie/Large Chemistry/e1m1 B1
+4,19,Groot Chemie/Large Chemistry/e1m1 B1
+4,20,Groot Chemie/Large Chemistry/e1m1 B1
+#3,B
+1,15,Suidsaal/South hall/e1m1n1n1p1z1z1 M1
+1,16,Suidsaal/South hall/e1m1n1n1p1z1z1 M1
+1,17,Suidsaal/South hall/e1m1n1n1p1z1z1 M1
+1,18,Suidsaal/South hall/e1m1n1n1p1z1z1 M1
+1,19,Suidsaal/South hall/e1m1n1n1p1z1z1 M1
+1,20,Suidsaal/South hall/e1m1n1n1p1z1z1 M1
+@NMP 310 P,3,1,
+#1,B
+5,7,Ing/Eng II 3-40/N3P3
+5,8,Ing/Eng II 3-40/N3P3
+5,9,Ing/Eng II 3-40/N3P3
+5,10,Ing/Eng II 3-40/N3P3
+5,11,Ing/Eng II 3-40/N3P3
+5,12,Ing/Eng II 3-40/N3P3
+5,13,Ing/Eng II 3-40/N3P3
+5,14,Ing/Eng II 3-40/N3P3
+#2,B
+3,9,Raadpleeg/Consult Dept/N3
+3,10,Raadpleeg/Consult Dept/N3
+3,11,Raadpleeg/Consult Dept/N3
+3,12,Raadpleeg/Consult Dept/N3
+3,13,Raadpleeg/Consult Dept/N3
+3,14,Raadpleeg/Consult Dept/N3
+#3,A
+1,5,Raadpleeg/Consult Dept/N3
+1,6,Raadpleeg/Consult Dept/N3
+1,7,Raadpleeg/Consult Dept/N3
+1,8,Raadpleeg/Consult Dept/N3
+1,9,Raadpleeg/Consult Dept/N3
+1,10,Raadpleeg/Consult Dept/N3
+@JPO 122 T,1,2,
+#1,B
+3,9,Ing/Eng II 1-1/b1r1
+3,10,Ing/Eng II 1-1/b1r1
+4,7,Ing/Eng II 1-1/b1r1
+4,8,Ing/Eng II 1-1/b1r1
+5,15,Ing/Eng II 1-5/b1r1
+5,16,Ing/Eng II 1-5/b1r1
+#2,B
+3,15,Ing/Eng II 4-30/s1
+3,16,Ing/Eng II 4-30/s1
+4,9,Ing/Eng II 3-40/s1
+4,10,Ing/Eng II 3-40/s1
+5,9,Ing/Eng II 1-1/s1
+5,10,Ing/Eng II 1-1/s1
+#3,B
+2,11,Ing/Eng II 3-40/s1
+2,12,Ing/Eng II 3-40/s1
+3,5,Ing/Eng II 3-31/s1
+3,6,Ing/Eng II 3-31/s1
+5,13,Ing/Eng II 1-1/s1
+5,14,Ing/Eng II 1-1/s1
+#4,B
+2,7,Ing/Eng II 4-36/c1
+2,8,Ing/Eng II 4-36/c1
+4,15,Ing/Eng II 4-38/c1
+4,16,Ing/Eng II 4-38/c1
+5,7,Ing/Eng II 4-21/c1
+5,8,Ing/Eng II 4-21/c1
+@JPO 112 T,1,1,
+#1,B
+1,11,Ing/Eng II 2-27/b2c2e2
+1,12,Ing/Eng II 2-27/b2c2e2
+3,3,GW/HB 4-14/b2c2e2
+3,4,GW/HB 4-14/b2c2e2
+4,17,Ing/Eng II 3-31/b2c2e2
+4,18,Ing/Eng II 3-31/b2c2e2
+#2,B
+3,9,Ing/Eng II 4-30/s2
+3,10,Ing/Eng II 4-30/s2
+4,1,Ing/Eng II 3-34/s2
+4,2,Ing/Eng II 3-34/s2
+5,5,Ing/Eng II 2-27/s2
+5,6,Ing/Eng II 2-27/s2
+#3,B
+1,13,Ing/Eng II 4-30/m2
+1,14,Ing/Eng II 4-30/m2
+2,3,Ing/Eng II 3-31/m2
+2,4,Ing/Eng II 3-31/m2
+5,7,Ing/Eng II 4-30/m2
+5,8,Ing/Eng II 4-30/m2
+#4,B
+1,17,Ing/Eng II 3-34/n2p2r2z2
+1,18,Ing/Eng II 3-34/n2p2r2z2
+2,19,Ing/Eng II 2-27/n2p2r2z2
+2,20,Ing/Eng II 2-27/n2p2r2z2
+4,11,Ing/Eng II 3-34/n2p2r2z2
+4,12,Ing/Eng II 3-34/n2p2r2z2
+@CTD 223,2,2,
+#1,A
+1,9,Ing/Eng II 4-30/c3 C2
+1,10,Ing/Eng II 4-30/c3 C2
+2,5,Ing/Eng II 3-31/c3 C2
+2,6,Ing/Eng II 3-31/c3 C2
+3,3,Ing/Eng II 3-31/c3 C2
+3,4,Ing/Eng II 3-31/c3 C2
+4,13,Ing/Eng II 3-31/c3 C2
+4,14,Ing/Eng II 3-31/c3 C2
+#2,E
+1,3,Ing/Eng II 2-36/c3 C2
+1,4,Ing/Eng II 2-36/c3 C2
+2,3,Ing/Eng II 3-34/c3 C2
+2,4,Ing/Eng II 3-34/c3 C2
+3,5,Ing/Eng II 4-38/c3 C2
+3,6,Ing/Eng II 4-38/c3 C2
+4,5,Ing/Eng II 4-21/c3 C2
+4,6,Ing/Eng II 4-21/c3 C2
+@SWK 210,2,1,
+#1,E
+1,11,Ing/Eng III -3/c3p3 C2
+1,12,Ing/Eng III -3/c3p3 C2
+3,1,Ing/Eng II 2-27/c3p3 C2
+3,2,Ing/Eng II 2-27/c3p3 C2
+3,3,Ing/Eng II 2-27/c3p3 C2
+3,4,Ing/Eng II 2-27/c3p3 C2
+3,7,Ing/Eng III -3/c3p3 C2
+3,8,Ing/Eng III -3/c3p3 C2
+4,7,Ing/Eng III -3/c3p3 C2
+4,8,Ing/Eng III -3/c3p3 C2
+5,1,Ing/Eng III -3/c3p3 C2
+5,2,Ing/Eng III -3/c3p3 C2
+#2,E
+1,9,Ing/Eng III - 1/s3 P2S2
+1,10,Ing/Eng III - 1/s3 P2S2
+2,1,Ing/Eng III - 5/s3 P2S2
+2,2,Ing/Eng III - 5/s3 P2S2
+4,1,Ing/Eng III - 5/s3 P2S2
+4,2,Ing/Eng III - 5/s3 P2S2
+5,3,Ing/Eng III -3/s3 P2S2
+5,4,Ing/Eng III -3/s3 P2S2
+5,5,Ing/Eng III -3/s3 P2S2
+5,6,Ing/Eng III -3/s3 P2S2
+5,11,Ing/Eng III - 5/s3 P2S2
+5,12,Ing/Eng III - 5/s3 P2S2
+#3,A
+1,7,GW/HB 4-1/c3p3s3 C2P2S2
+1,8,GW/HB 4-1/c3p3s3 C2P2S2
+2,1,Ing/Eng III - 2/c3p3s3 C2P2S2
+2,2,Ing/Eng III - 2/c3p3s3 C2P2S2
+3,1,Ing/Eng III -3/c3p3s3 C2P2S2
+3,2,Ing/Eng III -3/c3p3s3 C2P2S2
+3,15,Ing/Eng III - 2/c3p3s3 C2P2S2
+3,16,Ing/Eng III - 2/c3p3s3 C2P2S2
+3,17,Noordsaal/North hall/c3p3s3 C2P2S2
+3,18,Noordsaal/North hall/c3p3s3 C2P2S2
+3,19,Noordsaal/North hall/c3p3s3 C2P2S2
+3,20,Noordsaal/North hall/c3p3s3 C2P2S2
+@MTV 410 P,4,1,
+#1,B
+5,7,Ing/Eng III- 4/M4
+5,8,Ing/Eng III- 4/M4
+@SVC 412,4,1,
+#1,B
+1,3,GW/HB 4-3/S4
+1,4,GW/HB 4-3/S4
+2,9,Ing/Eng III- 4/S4
+2,10,Ing/Eng III- 4/S4
+2,11,Ing/Eng III - 6/S4
+2,12,Ing/Eng III - 6/S4
+2,13,Ing/Eng III - 6/S4
+2,14,Ing/Eng III - 6/S4
+@WTW 263 P,2,2,
+#1,A
+2,12,Teologie/Theology 2-1/m2 S2
+2,13,Teologie/Theology 2-1/m2 S2
+2,14,Teologie/Theology 2-1/m2 S2
+#2,B
+2,9,Ing/Eng III - 7/b3s3 Z2
+2,10,Ing/Eng III - 7/b3s3 Z2
+2,11,Ing/Eng III - 7/b3s3 Z2
+#3,B
+3,7,Ing/Eng II 3-40/m2s2s2 B2
+3,8,Ing/Eng II 3-40/m2s2s2 B2
+3,9,Ing/Eng II 3-40/m2s2s2 B2
+#4,B
+3,17,Ing/Eng II 3-40/c3e2n2p2r2 C2
+3,18,Ing/Eng II 3-40/c3e2n2p2r2 C2
+3,19,Ing/Eng II 3-40/c3e2n2p2r2 C2
+#5,B
+4,7,Teologie/Theology 1-25/b2 N2P2
+4,8,Teologie/Theology 1-25/b2 N2P2
+4,9,Teologie/Theology 1-25/b2 N2P2
+#6,B
+2,15,Ing/Eng II 4-38/e3r3 E2
+2,16,Ing/Eng II 4-38/e3r3 E2
+2,17,Ing/Eng II 4-38/e3r3 E2
+#7,B
+2,9,IT 2-25/m3p3z3 R2
+2,10,IT 2-25/m3p3z3 R2
+2,11,IT 2-25/m3p3z3 R2
+#8,B
+4,7,Ing/Eng III - 6/c2z2 M2
+4,8,Ing/Eng III - 6/c2z2 M2
+4,9,Ing/Eng III - 6/c2z2 M2
+#9,B
+4,3,Te Watersaal/Te Water hall/S2
+4,4,Te Watersaal/Te Water hall/S2
+4,5,Te Watersaal/Te Water hall/S2
+#10,B
+1,7,Ing/Eng II 3-34/n3 M2
+1,8,Ing/Eng II 3-34/n3 M2
+1,9,Ing/Eng II 3-34/n3 M2
+#11,B
+3,7,Ing/Eng II 2-37/B2
+3,8,Ing/Eng II 2-37/B2
+3,9,Ing/Eng II 2-37/B2
+#12,B
+3,7,Ing/Eng II 4-21/B2
+3,8,Ing/Eng II 4-21/B2
+3,9,Ing/Eng II 4-21/B2
+#13,A
+1,7,Teologie/Theology 1-28/M2
+1,8,Teologie/Theology 1-28/M2
+1,9,Teologie/Theology 1-28/M2
+#14,B
+4,3,Noordsaal/North hall/S2
+4,4,Noordsaal/North hall/S2
+4,5,Noordsaal/North hall/S2
+#15,B
+4,3,Ing/Eng II 1-2/S2
+4,4,Ing/Eng II 1-2/S2
+4,5,Ing/Eng II 1-2/S2
+#16,B
+4,3,Ing/Eng II 2-36/S2
+4,4,Ing/Eng II 2-36/S2
+4,5,Ing/Eng II 2-36/S2
+#17,B
+4,7,Ing/Eng II 4-36/M2
+4,8,Ing/Eng II 4-36/M2
+4,9,Ing/Eng II 4-36/M2
+#18,B
+4,7,Ing/Eng III - 5/M2
+4,8,Ing/Eng III - 5/M2
+4,9,Ing/Eng III - 5/M2
+#19,B
+4,7,Ing/Eng II 1-2/M2
+4,8,Ing/Eng II 1-2/M2
+4,9,Ing/Eng II 1-2/M2
+@WTW 238 P,2,2,
+#1,A
+4,3,GW/HB 4-13/S2
+4,4,GW/HB 4-13/S2
+4,5,GW/HB 4-13/S2
+4,6,GW/HB 4-13/S2
+#2,B
+2,15,Ing/Eng II 3-34/b3c3z3 Z2
+2,16,Ing/Eng II 3-34/b3c3z3 Z2
+2,17,Ing/Eng II 3-34/b3c3z3 Z2
+2,18,Ing/Eng II 3-34/b3c3z3 Z2
+#3,B
+5,13,IT 2-25/s3 B2
+5,14,IT 2-25/s3 B2
+5,15,IT 2-25/s3 B2
+5,16,IT 2-25/s3 B2
+#4,E
+1,13,Ing/Eng II 2-36/C2
+1,14,Ing/Eng II 2-36/C2
+1,15,Ing/Eng II 2-36/C2
+1,16,Ing/Eng II 2-36/C2
+#5,B
+2,9,Ing/Eng III - 1/e3r3 P2
+2,10,Ing/Eng III - 1/e3r3 P2
+2,11,Ing/Eng III - 1/e3r3 P2
+2,12,Ing/Eng III - 1/e3r3 P2
+#6,B
+3,7,Mullersaal/Muller hall/m3p3 E2
+3,8,Mullersaal/Muller hall/m3p3 E2
+3,9,Mullersaal/Muller hall/m3p3 E2
+3,10,Mullersaal/Muller hall/m3p3 E2
+#7,B
+2,15,Ing/Eng II 3-40/R2
+2,16,Ing/Eng II 3-40/R2
+2,17,Ing/Eng II 3-40/R2
+2,18,Ing/Eng II 3-40/R2
+#8,A
+4,3,Teologie/Theology 1-9/S2
+4,4,Teologie/Theology 1-9/S2
+4,5,Teologie/Theology 1-9/S2
+4,6,Teologie/Theology 1-9/S2
+#9,E
+1,17,Ing/Eng II 2-36/M2
+1,18,Ing/Eng II 2-36/M2
+1,19,Ing/Eng II 2-36/M2
+1,20,Ing/Eng II 2-36/M2
+#10,E
+4,13,Ing/Eng II 3-34/S2
+4,14,Ing/Eng II 3-34/S2
+4,15,Ing/Eng II 3-34/S2
+4,16,Ing/Eng II 3-34/S2
+#11,A
+1,13,AE Anneks/Annex/M2
+1,14,AE Anneks/Annex/M2
+1,15,AE Anneks/Annex/M2
+1,16,AE Anneks/Annex/M2
+#12,B
+5,13,Ing/Eng II 4-36/n3 N2
+5,14,Ing/Eng II 4-36/n3 N2
+5,15,Ing/Eng II 4-36/n3 N2
+5,16,Ing/Eng II 4-36/n3 N2
+#13,A
+1,13,Teologie/Theology 1-9/C2
+1,14,Teologie/Theology 1-9/C2
+1,15,Teologie/Theology 1-9/C2
+1,16,Teologie/Theology 1-9/C2
+#14,E
+1,17,Ing/Eng II 2-37/M2
+1,18,Ing/Eng II 2-37/M2
+1,19,Ing/Eng II 2-37/M2
+1,20,Ing/Eng II 2-37/M2
+#15,A
+1,13,Ing/Eng II 4-38/M2
+1,14,Ing/Eng II 4-38/M2
+1,15,Ing/Eng II 4-38/M2
+1,16,Ing/Eng II 4-38/M2
+#16,A
+2,9,Ing/Eng II 2-37/M2
+2,10,Ing/Eng II 2-37/M2
+2,11,Ing/Eng II 2-37/M2
+2,12,Ing/Eng II 2-37/M2
+#17,E
+3,7,Ing/Eng II 2-27/M2
+3,8,Ing/Eng II 2-27/M2
+3,9,Ing/Eng II 2-27/M2
+3,10,Ing/Eng II 2-27/M2
+#18,E
+4,13,Ing/Eng II 2-37/S2
+4,14,Ing/Eng II 2-37/S2
+4,15,Ing/Eng II 2-37/S2
+4,16,Ing/Eng II 2-37/S2
+@WST 111,1,1,
+#1,A
+1,3,GW/HB 4-9/r1 R1
+1,4,GW/HB 4-9/r1 R1
+2,13,Theronsaal/Theron hall/r1 R1
+2,14,Theronsaal/Theron hall/r1 R1
+4,5,GW/HB 4-9/r1 R1
+4,6,GW/HB 4-9/r1 R1
+5,5,GW/HB 3-15/r1 R1
+5,6,GW/HB 3-15/r1 R1
+#2,E
+2,1,GW/HB 4-2/r2
+2,2,GW/HB 4-2/r2
+3,13,Eeufees/Centenary 3/r2
+3,14,Eeufees/Centenary 3/r2
+4,15,Eeufees/Centenary 4/r2
+4,16,Eeufees/Centenary 4/r2
+5,9,Eeufees/Centenary 6/r2
+5,10,Eeufees/Centenary 6/r2
+#3,E
+2,13,Eeufees/Centenary 1/r1 R1
+2,14,Eeufees/Centenary 1/r1 R1
+3,9,Eeufees/Centenary 1/r1 R1
+3,10,Eeufees/Centenary 1/r1 R1
+4,1,Te Watersaal/Te Water hall/r1 R1
+4,2,Te Watersaal/Te Water hall/r1 R1
+5,3,Eeufees/Centenary 2/r1 R1
+5,4,Eeufees/Centenary 2/r1 R1
+@ESP 411 P,4,1,
+#1,B
+2,7,CAEC Lab & Elek/Elec Lab A/R4Z4
+2,8,CAEC Lab & Elek/Elec Lab A/R4Z4
+2,9,CAEC Lab & Elek/Elec Lab A/R4Z4
+2,10,CAEC Lab & Elek/Elec Lab A/R4Z4
+2,11,CAEC Lab & Elek/Elec Lab A/R4Z4
+2,12,CAEC Lab & Elek/Elec Lab A/R4Z4
+@JPO 152 T,1,1,
+#1,B
+1,9,Ing/Eng II 4-21/m1
+1,10,Ing/Eng II 4-21/m1
+4,5,Ing/Eng II 1-1/m1
+4,6,Ing/Eng II 1-1/m1
+5,11,Ing/Eng II 1-2/m1
+5,12,Ing/Eng II 1-2/m1
+#2,B
+2,11,Ing/Eng II 1-2/m1
+2,12,Ing/Eng II 1-2/m1
+4,13,Ing/Eng II 1-1/m1
+4,14,Ing/Eng II 1-1/m1
+5,13,Ing/Eng II 1-1/m1
+5,14,Ing/Eng II 1-1/m1
+#3,B
+2,7,Ing/Eng II 3-31/n1p1
+2,8,Ing/Eng II 3-31/n1p1
+4,3,Ing/Eng II 1-2/n1p1
+4,4,Ing/Eng II 1-2/n1p1
+5,15,Ing/Eng II 1-1/n1p1
+5,16,Ing/Eng II 1-1/n1p1
+#4,B
+1,11,Ing/Eng II 4-21/e1z1
+1,12,Ing/Eng II 4-21/e1z1
+4,7,Ing/Eng II 4-30/e1z1
+4,8,Ing/Eng II 4-30/e1z1
+5,5,Teologie/Theology 1-9/e1z1
+5,6,Teologie/Theology 1-9/e1z1
+@ESP 411,4,1,
+#1,B
+1,5,Ing/Eng III -3/R4Z4
+1,6,Ing/Eng III -3/R4Z4
+3,1,Ing/Eng II 2-36/R4Z4
+3,2,Ing/Eng II 2-36/R4Z4
+4,1,Ing/Eng II 2-36/R4Z4
+4,2,Ing/Eng II 2-36/R4Z4
+5,3,Ing/Eng II 2-36/R4Z4
+5,4,Ing/Eng II 2-36/R4Z4
+@ENE 410,4,1,
+#1,B
+1,9,Ing/Eng II 4-38/Z4
+1,10,Ing/Eng II 4-38/Z4
+2,5,Ing/Eng II 2-37/Z4
+2,6,Ing/Eng II 2-37/Z4
+3,5,Ing/Eng II 2-27/Z4
+3,6,Ing/Eng II 2-27/Z4
+5,9,Ing/Eng II 2-37/Z4
+5,10,Ing/Eng II 2-37/Z4
+@EKK 410,4,1,
+#1,B
+1,7,Ing/Eng II 3-34/E4
+1,8,Ing/Eng II 3-34/E4
+4,5,Ing/Eng II 3-31/E4
+4,6,Ing/Eng II 3-31/E4
+4,7,Ing/Eng II 4-21/E4
+4,8,Ing/Eng II 4-21/E4
+5,7,Ing/Eng II 1-2/E4
+5,8,Ing/Eng II 1-2/E4
+@EAS 410,4,1,
+#1,B
+1,3,Ing/Eng II 4-30/R4
+1,4,Ing/Eng II 4-30/R4
+3,3,Ing/Eng II 1-2/R4
+3,4,Ing/Eng II 1-2/R4
+4,5,Ing/Eng II 1-2/R4
+4,6,Ing/Eng II 1-2/R4
+5,5,Ing/Eng II 3-34/R4
+5,6,Ing/Eng II 3-34/R4
+@EBN 122 P,1,2,
+#1,B
+2,7,CAEC Lab & Ing/Eng II 4-39/E1
+2,8,CAEC Lab & Ing/Eng II 4-39/E1
+2,9,CAEC Lab & Ing/Eng II 4-39/E1
+2,10,CAEC Lab & Ing/Eng II 4-39/E1
+2,11,CAEC Lab & Ing/Eng II 4-39/E1
+2,12,CAEC Lab & Ing/Eng II 4-39/E1
+#2,B
+3,11,CAEC Lab & Ing/Eng II 4-39/P1
+3,12,CAEC Lab & Ing/Eng II 4-39/P1
+3,13,CAEC Lab & Ing/Eng II 4-39/P1
+3,14,CAEC Lab & Ing/Eng II 4-39/P1
+3,15,CAEC Lab & Ing/Eng II 4-39/P1
+3,16,CAEC Lab & Ing/Eng II 4-39/P1
+#3,B
+3,5,CAEC Lab & Ing/Eng II 4-39/S1
+3,6,CAEC Lab & Ing/Eng II 4-39/S1
+3,7,CAEC Lab & Ing/Eng II 4-39/S1
+3,8,CAEC Lab & Ing/Eng II 4-39/S1
+3,9,CAEC Lab & Ing/Eng II 4-39/S1
+3,10,CAEC Lab & Ing/Eng II 4-39/S1
+#4,B
+4,15,CAEC Lab & Ing/Eng II 4-39/N1Z1
+4,16,CAEC Lab & Ing/Eng II 4-39/N1Z1
+4,17,CAEC Lab & Ing/Eng II 4-39/N1Z1
+4,18,CAEC Lab & Ing/Eng II 4-39/N1Z1
+4,19,CAEC Lab & Ing/Eng II 4-39/N1Z1
+4,20,CAEC Lab & Ing/Eng II 4-39/N1Z1
+#5,B
+2,15,CAEC Lab & Ing/Eng II 4-39/C1
+2,16,CAEC Lab & Ing/Eng II 4-39/C1
+2,17,CAEC Lab & Ing/Eng II 4-39/C1
+2,18,CAEC Lab & Ing/Eng II 4-39/C1
+2,19,CAEC Lab & Ing/Eng II 4-39/C1
+2,20,CAEC Lab & Ing/Eng II 4-39/C1
+#6,B
+1,13,CAEC Lab & Ing/Eng II 4-39/C1
+1,14,CAEC Lab & Ing/Eng II 4-39/C1
+1,15,CAEC Lab & Ing/Eng II 4-39/C1
+1,16,CAEC Lab & Ing/Eng II 4-39/C1
+1,17,CAEC Lab & Ing/Eng II 4-39/C1
+1,18,CAEC Lab & Ing/Eng II 4-39/C1
+@NMC 113 T,1,1,
+#1,A
+2,5,Groot Chemie/Large Chemistry/E1N1P1S1Z1
+2,6,Groot Chemie/Large Chemistry/E1N1P1S1Z1
+#2,E
+1,3,Ing/Eng III -3/N1P1S1
+1,4,Ing/Eng III -3/N1P1S1
+#3,E
+4,13,Ing/Eng III - 6/E1Z1
+4,14,Ing/Eng III - 6/E1Z1
+@WTW 238,2,2,
+#1,A
+1,3,Ing/Eng II 3-40/b3c3e3n3 C2E2N2Z2
+1,4,Ing/Eng II 3-40/b3c3e3n3 C2E2N2Z2
+2,13,Ing/Eng III- 4/b3c3e3n3 C2E2N2Z2
+2,14,Ing/Eng III- 4/b3c3e3n3 C2E2N2Z2
+3,5,Ing/Eng II 2-37/b3c3e3n3 C2E2N2Z2
+3,6,Ing/Eng II 2-37/b3c3e3n3 C2E2N2Z2
+4,5,Ing/Eng III - 6/b3c3e3n3 C2E2N2Z2
+4,6,Ing/Eng III - 6/b3c3e3n3 C2E2N2Z2
+#2,A
+2,1,Ing/Eng III- 4/m3p3s3z3 B2M2P2
+2,2,Ing/Eng III- 4/m3p3s3z3 B2M2P2
+3,11,Ing/Eng III- 4/m3p3s3z3 B2M2P2
+3,12,Ing/Eng III- 4/m3p3s3z3 B2M2P2
+4,5,Ing/Eng III -3/m3p3s3z3 B2M2P2
+4,6,Ing/Eng III -3/m3p3s3z3 B2M2P2
+5,5,Ing/Eng III -3/m3p3s3z3 B2M2P2
+5,6,Ing/Eng III -3/m3p3s3z3 B2M2P2
+#3,E
+1,9,AE Anneks/Annex/r3 E2R2Z2
+1,10,AE Anneks/Annex/r3 E2R2Z2
+3,15,AE Anneks/Annex/r3 E2R2Z2
+3,16,AE Anneks/Annex/r3 E2R2Z2
+4,11,Ing/Eng III - 5/r3 E2R2Z2
+4,12,Ing/Eng III - 5/r3 E2R2Z2
+5,11,AE Anneks/Annex/r3 E2R2Z2
+5,12,AE Anneks/Annex/r3 E2R2Z2
+#4,E
+1,11,AE Anneks/Annex/b3c3e3p3z3 B2C2
+1,12,AE Anneks/Annex/b3c3e3p3z3 B2C2
+2,1,Noordsaal/North hall/b3c3e3p3z3 B2C2
+2,2,Noordsaal/North hall/b3c3e3p3z3 B2C2
+3,13,Ing/Eng III - 6/b3c3e3p3z3 B2C2
+3,14,Ing/Eng III - 6/b3c3e3p3z3 B2C2
+5,3,Ing/Eng III - 6/b3c3e3p3z3 B2C2
+5,4,Ing/Eng III - 6/b3c3e3p3z3 B2C2
+#5,A
+1,7,Teologie/Theology 1-25/r3 R2S2
+1,8,Teologie/Theology 1-25/r3 R2S2
+3,5,Ing/Eng III - 1/r3 R2S2
+3,6,Ing/Eng III - 1/r3 R2S2
+4,1,Ing/Eng III- 4/r3 R2S2
+4,2,Ing/Eng III- 4/r3 R2S2
+5,5,Ing/Eng III - 5/r3 R2S2
+5,6,Ing/Eng III - 5/r3 R2S2
+#6,E
+1,1,Suidsaal/South hall/m3 M2P2
+1,2,Suidsaal/South hall/m3 M2P2
+2,3,Ing/Eng III - 6/m3 M2P2
+2,4,Ing/Eng III - 6/m3 M2P2
+3,5,Thuto 1-2/m3 M2P2
+3,6,Thuto 1-2/m3 M2P2
+4,13,Ing/Eng III - 6/m3 M2P2
+4,14,Ing/Eng III - 6/m3 M2P2
+#7,E
+1,5,Ing/Eng III - 5/n3s3 N2S2
+1,6,Ing/Eng III - 5/n3s3 N2S2
+2,13,Ing/Eng III -3/n3s3 N2S2
+2,14,Ing/Eng III -3/n3s3 N2S2
+3,7,Ing/Eng III - 1/n3s3 N2S2
+3,8,Ing/Eng III - 1/n3s3 N2S2
+5,3,Ing/Eng III -3/n3s3 N2S2
+5,4,Ing/Eng III -3/n3s3 N2S2
+@NEC 310 P,3,1,
+#1,B
+1,15,Ing/Eng II 4-36/N3
+1,16,Ing/Eng II 4-36/N3
+1,17,Ing/Eng II 4-36/N3
+1,18,Ing/Eng II 4-36/N3
+1,19,Ing/Eng II 4-36/N3
+1,20,Ing/Eng II 4-36/N3
+@CPS 420,4,2,
+#1,A
+1,9,Ing/Eng II 3-25/C4
+1,10,Ing/Eng II 3-25/C4
+2,3,Ing/Eng II 2-36/C4
+2,4,Ing/Eng II 2-36/C4
+5,7,Ing/Eng II 3-25/C4
+5,8,Ing/Eng II 3-25/C4
+5,9,Ing/Eng II 3-25/C4
+5,10,Ing/Eng II 3-25/C4
+#2,E
+1,11,Ing/Eng II 1-2/C4
+1,12,Ing/Eng II 1-2/C4
+2,5,Ing/Eng II 4-30/C4
+2,6,Ing/Eng II 4-30/C4
+4,7,Ing/Eng II 4-30/C4
+4,8,Ing/Eng II 4-30/C4
+4,9,Ing/Eng II 4-30/C4
+4,10,Ing/Eng II 4-30/C4
+@CPB 410,4,1,
+#1,A
+2,9,Ing/Eng II 1-1/C4
+2,10,Ing/Eng II 1-1/C4
+3,3,Ing/Eng II 1-5/C4
+3,4,Ing/Eng II 1-5/C4
+4,11,Ing/Eng II 3-25/C4
+4,12,Ing/Eng II 3-25/C4
+5,5,Ing/Eng II 3-25/C4
+5,6,Ing/Eng II 3-25/C4
+#2,E
+2,11,Ing/Eng II 1-1/C4
+2,12,Ing/Eng II 1-1/C4
+3,5,Ing/Eng II 3-25/C4
+3,6,Ing/Eng II 3-25/C4
+4,13,Ing/Eng II 3-25/C4
+4,14,Ing/Eng II 3-25/C4
+5,7,Ing/Eng II 3-25/C4
+5,8,Ing/Eng II 3-25/C4
+@ERD 320,3,2,
+#1,B
+1,11,Ing/Eng II 3-34/R3
+1,12,Ing/Eng II 3-34/R3
+3,11,Ing/Eng II 3-31/R3
+3,12,Ing/Eng II 3-31/R3
+@JPO 121,1,2,
+#1,B
+2,13,Ing/Eng II 3-43/c2
+2,14,Ing/Eng II 3-43/c2
+@EPE 321,3,2,
+#1,A
+1,9,Ing/Eng II 2-36/R3
+1,10,Ing/Eng II 2-36/R3
+3,1,Ing/Eng II 3-31/R3
+3,2,Ing/Eng II 3-31/R3
+4,3,Ing/Eng II 3-31/R3
+4,4,Ing/Eng II 3-31/R3
+5,7,Ing/Eng II 2-36/R3
+5,8,Ing/Eng II 2-36/R3
+#2,E
+1,1,Ing/Eng II 3-43/R3
+1,2,Ing/Eng II 3-43/R3
+2,3,Ing/Eng II 3-27/R3
+2,4,Ing/Eng II 3-27/R3
+3,5,Ing/Eng II 3-27/R3
+3,6,Ing/Eng II 3-27/R3
+5,9,Ing/Eng II 3-27/R3
+5,10,Ing/Eng II 3-27/R3
+@MPR 213 T,2,1,
+#1,B
+4,15,NW2 Rek/Comp lab 1,2/b3 B2
+4,16,NW2 Rek/Comp lab 1,2/b3 B2
+4,17,NW2 Rek/Comp lab 1,2/b3 B2
+4,18,NW2 Rek/Comp lab 1,2/b3 B2
+4,19,NW2 Rek/Comp lab 1,2/b3 B2
+4,20,NW2 Rek/Comp lab 1,2/b3 B2
+#2,B
+1,17,NW2 Rek/Comp lab 2,3,4/c3s3 C2
+1,18,NW2 Rek/Comp lab 2,3,4/c3s3 C2
+1,19,NW2 Rek/Comp lab 2,3,4/c3s3 C2
+1,20,NW2 Rek/Comp lab 2,3,4/c3s3 C2
+1,21,NW2 Rek/Comp lab 2,3,4/c3s3 C2
+1,22,NW2 Rek/Comp lab 2,3,4/c3s3 C2
+#3,B
+5,13,NW2 Rek/Comp lab 1,2/m3 M2
+5,14,NW2 Rek/Comp lab 1,2/m3 M2
+5,15,NW2 Rek/Comp lab 1,2/m3 M2
+5,16,NW2 Rek/Comp lab 1,2/m3 M2
+5,17,NW2 Rek/Comp lab 1,2/m3 M2
+5,18,NW2 Rek/Comp lab 1,2/m3 M2
+#4,B
+3,9,NW2 Rek/Comp lab 1,2/n3p3 N2P2
+3,10,NW2 Rek/Comp lab 1,2/n3p3 N2P2
+3,11,NW2 Rek/Comp lab 1,2/n3p3 N2P2
+3,12,NW2 Rek/Comp lab 1,2/n3p3 N2P2
+3,13,NW2 Rek/Comp lab 1,2/n3p3 N2P2
+3,14,NW2 Rek/Comp lab 1,2/n3p3 N2P2
+#5,B
+2,1,NW2 Rek/Comp lab 2,3,4/M2
+2,2,NW2 Rek/Comp lab 2,3,4/M2
+2,3,NW2 Rek/Comp lab 2,3,4/M2
+2,4,NW2 Rek/Comp lab 2,3,4/M2
+2,5,NW2 Rek/Comp lab 2,3,4/M2
+2,6,NW2 Rek/Comp lab 2,3,4/M2
+#6,B
+1,9,NW2 Rek/Comp Lab 1/S3
+1,10,NW2 Rek/Comp Lab 1/S3
+1,11,NW2 Rek/Comp Lab 1/S3
+1,12,NW2 Rek/Comp Lab 1/S3
+1,13,NW2 Rek/Comp Lab 1/S3
+1,14,NW2 Rek/Comp Lab 1/S3
+#7,B
+1,9,NW2 Rek/Comp lab 2,3,4/S3
+1,10,NW2 Rek/Comp lab 2,3,4/S3
+1,11,NW2 Rek/Comp lab 2,3,4/S3
+1,12,NW2 Rek/Comp lab 2,3,4/S3
+1,13,NW2 Rek/Comp lab 2,3,4/S3
+1,14,NW2 Rek/Comp lab 2,3,4/S3
+@EDC 310,3,2,
+#1,A
+1,5,Ing/Eng II 3-40/R3
+1,6,Ing/Eng II 3-40/R3
+2,7,Ing/Eng II 3-34/R3
+2,8,Ing/Eng II 3-34/R3
+4,1,Ing/Eng II 4-36/R3
+4,2,Ing/Eng II 4-36/R3
+5,3,Ing/Eng II 2-37/R3
+5,4,Ing/Eng II 2-37/R3
+#2,E
+1,3,Ing/Eng II 4-36/R3
+1,4,Ing/Eng II 4-36/R3
+2,1,Ing/Eng II 3-34/R3
+2,2,Ing/Eng II 3-34/R3
+4,13,Ing/Eng II 4-36/R3
+4,14,Ing/Eng II 4-36/R3
+5,1,Ing/Eng II 3-34/R3
+5,2,Ing/Eng II 3-34/R3
+@NMM 320,3,2,
+#1,B
+1,3,Ing/Eng II 3-28/N3
+1,4,Ing/Eng II 3-28/N3
+4,3,Ing/Eng II 3-27/N3
+4,4,Ing/Eng II 3-27/N3
+5,5,Ing/Eng II 3-27/N3
+5,6,Ing/Eng II 3-27/N3
+@NMC 313,3,1,
+#1,B
+1,13,Ing/Eng II 1-1/N3
+1,14,Ing/Eng II 1-1/N3
+2,11,Ing/Eng II 1-5/N3
+2,12,Ing/Eng II 1-5/N3
+4,3,Ing/Eng II 3-31/N3
+4,4,Ing/Eng II 3-31/N3
+5,5,Ing/Eng II 1-5/N3
+5,6,Ing/Eng II 1-5/N3
+@MSY 310,3,1,
+#1,B
+2,5,Louwsaal/Louw hall/M3
+2,6,Louwsaal/Louw hall/M3
+3,9,Eeufees/Centenary 5/M3
+3,10,Eeufees/Centenary 5/M3
+4,5,AE Anneks/Annex/M3
+4,6,AE Anneks/Annex/M3
+@JPO 126 T,1,2,
+#1,B
+1,9,Ing/Eng II 4-21/b1r1
+1,10,Ing/Eng II 4-21/b1r1
+3,7,NW2 Rek/Comp Lab 1/b1r1
+3,8,NW2 Rek/Comp Lab 1/b1r1
+4,3,Ing/Eng II 1-1/b1r1
+4,4,Ing/Eng II 1-1/b1r1
+#2,B
+2,11,NW2 Rek/Comp lab 3,4/e1z1
+2,12,NW2 Rek/Comp lab 3,4/e1z1
+3,13,Ing/Eng II 1-1/e1z1
+3,14,Ing/Eng II 1-1/e1z1
+5,3,Ing/Eng II 1-5/e1z1
+5,4,Ing/Eng II 1-5/e1z1
+#3,B
+1,3,Ing/Eng II 4-21/m1
+1,4,Ing/Eng II 4-21/m1
+3,11,Ing/Eng II 1-2/m1
+3,12,Ing/Eng II 1-2/m1
+5,11,NW2 Rek/Comp Lab 1/m1
+5,12,NW2 Rek/Comp Lab 1/m1
+#4,B
+1,3,Ing/Eng II 3-31/m1
+1,4,Ing/Eng II 3-31/m1
+3,11,Ing/Eng II 4-36/m1
+3,12,Ing/Eng II 4-36/m1
+5,11,NW2 Rek/Comp lab 3,4/m1
+5,12,NW2 Rek/Comp lab 3,4/m1
+#5,B
+1,11,Ing/Eng II 3-31/s1
+1,12,Ing/Eng II 3-31/s1
+3,1,NW2 Rek/Comp Lab 1/s1
+3,2,NW2 Rek/Comp Lab 1/s1
+4,7,Ing/Eng II 4-38/s1
+4,8,Ing/Eng II 4-38/s1
+#6,B
+1,11,Ing/Eng II 4-30/s1
+1,12,Ing/Eng II 4-30/s1
+3,1,NW2 Rek/Comp Lab 2/s1
+3,2,NW2 Rek/Comp Lab 2/s1
+4,7,GW/HB 3-23/s1
+4,8,GW/HB 3-23/s1
+#7,B
+2,9,Ing/Eng II 1-1/c1
+2,10,Ing/Eng II 1-1/c1
+3,5,NW2 Rek/Comp Lab 1/c1
+3,6,NW2 Rek/Comp Lab 1/c1
+4,13,Ing/Eng II 1-5/c1
+4,14,Ing/Eng II 1-5/c1
+#8,B
+1,9,Ing/Eng II 1-5/n1p1
+1,10,Ing/Eng II 1-5/n1p1
+3,5,NW2 Rek/Comp Lab 2/n1p1
+3,6,NW2 Rek/Comp Lab 2/n1p1
+4,9,Ing/Eng II 3-34/n1p1
+4,10,Ing/Eng II 3-34/n1p1
+@MTX 221,2,2,
+#1,A
+1,1,Ing/Eng III- 4/b3m3p3 B2M2P2
+1,2,Ing/Eng III- 4/b3m3p3 B2M2P2
+2,3,Ing/Eng III - 5/b3m3p3 B2M2P2
+2,4,Ing/Eng III - 5/b3m3p3 B2M2P2
+4,1,Ing/Eng III - 5/b3m3p3 B2M2P2
+4,2,Ing/Eng III - 5/b3m3p3 B2M2P2
+5,3,Ing/Eng III - 1/b3m3p3 B2M2P2
+5,4,Ing/Eng III - 1/b3m3p3 B2M2P2
+#2,E
+1,13,Ing/Eng III - 6/b3m3p3 B2M2P2
+1,14,Ing/Eng III - 6/b3m3p3 B2M2P2
+2,7,Ing/Eng III - 6/b3m3p3 B2M2P2
+2,8,Ing/Eng III - 6/b3m3p3 B2M2P2
+3,11,Ing/Eng III - 6/b3m3p3 B2M2P2
+3,12,Ing/Eng III - 6/b3m3p3 B2M2P2
+5,1,Ing/Eng III - 1/b3m3p3 B2M2P2
+5,2,Ing/Eng III - 1/b3m3p3 B2M2P2
+@EPE 321 P,3,2,
+#1,B
+1,13,Netwerke/Networks Lab/R3
+1,14,Netwerke/Networks Lab/R3
+1,15,Netwerke/Networks Lab/R3
+1,16,Netwerke/Networks Lab/R3
+1,17,Netwerke/Networks Lab/R3
+1,18,Netwerke/Networks Lab/R3
+@MSD 210,2,1,
+#1,A
+1,1,Ing/Eng III - 6/b3e3m3n3p3z3 B2E2M2N2P2Z2
+1,2,Ing/Eng III - 6/b3e3m3n3p3z3 B2E2M2N2P2Z2
+2,17,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+2,18,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+4,13,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+4,14,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+#2,E
+1,3,Ing/Eng III - 6/b3e3m3n3p3z3 B2E2M2N2P2Z2
+1,4,Ing/Eng III - 6/b3e3m3n3p3z3 B2E2M2N2P2Z2
+3,17,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+3,18,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+4,5,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+4,6,Ing/Eng III - 1/b3e3m3n3p3z3 B2E2M2N2P2Z2
+@EDF 320 P,3,2,
+#1,B
+1,1,Elek/Elec Lab/E3
+1,2,Elek/Elec Lab/E3
+1,3,Elek/Elec Lab/E3
+1,4,Elek/Elec Lab/E3
+1,5,Elek/Elec Lab/E3
+1,6,Elek/Elec Lab/E3
+@CHM 181,1,2,
+#1,A
+1,5,Ing/Eng II 3-34/c2 C1
+1,6,Ing/Eng II 3-34/c2 C1
+2,5,Ing/Eng III -3/c2 C1
+2,6,Ing/Eng III -3/c2 C1
+4,13,Ing/Eng II 4-30/c2 C1
+4,14,Ing/Eng II 4-30/c2 C1
+5,7,Ing/Eng II 2-27/c2 C1
+5,8,Ing/Eng II 2-27/c2 C1
+#2,E
+1,11,Ing/Eng II 2-36/c2 C1
+1,12,Ing/Eng II 2-36/c2 C1
+2,7,Teologie/Theology 1-25/c2 C1
+2,8,Teologie/Theology 1-25/c2 C1
+4,11,Ing/Eng II 3-40/c2 C1
+4,12,Ing/Eng II 3-40/c2 C1
+5,11,Ing/Eng III - 2/c2 C1
+5,12,Ing/Eng III - 2/c2 C1
+@JPO 115,1,1,
+#1,B
+2,5,Ing/Eng II 1-1/r1r2
+2,6,Ing/Eng II 1-1/r1r2
+@CHM 171 P,1,1,
+#1,A
+2,7,Noordsaal/North hall/b1c1 P1
+2,8,Noordsaal/North hall/b1c1 P1
+2,9,Noordsaal/North hall/b1c1 P1
+2,10,Noordsaal/North hall/b1c1 P1
+2,11,Noordsaal/North hall/b1c1 P1
+2,12,Noordsaal/North hall/b1c1 P1
+#2,A
+4,15,Noordsaal/North hall/s1 C1E1N1S1Z1
+4,16,Noordsaal/North hall/s1 C1E1N1S1Z1
+4,17,Noordsaal/North hall/s1 C1E1N1S1Z1
+4,18,Noordsaal/North hall/s1 C1E1N1S1Z1
+4,19,Noordsaal/North hall/s1 C1E1N1S1Z1
+4,20,Noordsaal/North hall/s1 C1E1N1S1Z1
+#3,E
+2,7,Suidsaal/South hall/c1
+2,8,Suidsaal/South hall/c1
+2,9,Suidsaal/South hall/c1
+2,10,Suidsaal/South hall/c1
+2,11,Suidsaal/South hall/c1
+2,12,Suidsaal/South hall/c1
+#4,E
+5,13,Groot Chemie/Large Chemistry/b1s1 C1E1N1P1S1Z1
+5,14,Groot Chemie/Large Chemistry/b1s1 C1E1N1P1S1Z1
+5,15,Groot Chemie/Large Chemistry/b1s1 C1E1N1P1S1Z1
+5,16,Groot Chemie/Large Chemistry/b1s1 C1E1N1P1S1Z1
+5,17,Groot Chemie/Large Chemistry/b1s1 C1E1N1P1S1Z1
+5,18,Groot Chemie/Large Chemistry/b1s1 C1E1N1P1S1Z1
+@CPR 420,4,2,
+#1,A
+1,7,Ing/Eng II 1-5/C4
+1,8,Ing/Eng II 1-5/C4
+3,7,Ing/Eng II 1-5/C4
+3,8,Ing/Eng II 1-5/C4
+#2,E
+1,13,Ing/Eng II 1-5/C4
+1,14,Ing/Eng II 1-5/C4
+3,11,Ing/Eng II 1-5/C4
+3,12,Ing/Eng II 1-5/C4
+@PMY 311 P,3,1,
+#1,B
+3,15,Ing/Eng II 3-25/P3
+3,16,Ing/Eng II 3-25/P3
+3,17,Ing/Eng II 3-25/P3
+3,18,Ing/Eng II 3-25/P3
+3,19,Ing/Eng II 3-25/P3
+3,20,Ing/Eng II 3-25/P3
+@NMC 113 P,1,1,
+#1,B
+3,7,Raadpleeg/Consult Dept/E1
+3,8,Raadpleeg/Consult Dept/E1
+3,9,Raadpleeg/Consult Dept/E1
+3,10,Raadpleeg/Consult Dept/E1
+3,11,Raadpleeg/Consult Dept/E1
+3,12,Raadpleeg/Consult Dept/E1
+#2,B
+2,7,Raadpleeg/Consult Dept/S1
+2,8,Raadpleeg/Consult Dept/S1
+2,9,Raadpleeg/Consult Dept/S1
+2,10,Raadpleeg/Consult Dept/S1
+2,11,Raadpleeg/Consult Dept/S1
+2,12,Raadpleeg/Consult Dept/S1
+#3,B
+4,1,Raadpleeg/Consult Dept/S1
+4,2,Raadpleeg/Consult Dept/S1
+4,3,Raadpleeg/Consult Dept/S1
+4,4,Raadpleeg/Consult Dept/S1
+4,5,Raadpleeg/Consult Dept/S1
+4,6,Raadpleeg/Consult Dept/S1
+#4,B
+1,15,Raadpleeg/Consult Dept/Z1
+1,16,Raadpleeg/Consult Dept/Z1
+1,17,Raadpleeg/Consult Dept/Z1
+1,18,Raadpleeg/Consult Dept/Z1
+1,19,Raadpleeg/Consult Dept/Z1
+1,20,Raadpleeg/Consult Dept/Z1
+#5,B
+3,7,Raadpleeg/Consult Dept/P1
+3,8,Raadpleeg/Consult Dept/P1
+3,9,Raadpleeg/Consult Dept/P1
+3,10,Raadpleeg/Consult Dept/P1
+3,11,Raadpleeg/Consult Dept/P1
+3,12,Raadpleeg/Consult Dept/P1
+#6,B
+1,15,Raadpleeg/Consult Dept/N1
+1,16,Raadpleeg/Consult Dept/N1
+1,17,Raadpleeg/Consult Dept/N1
+1,18,Raadpleeg/Consult Dept/N1
+1,19,Raadpleeg/Consult Dept/N1
+1,20,Raadpleeg/Consult Dept/N1
+@NMC 113,1,1,
+#1,A
+1,11,Ing/Eng III - 1/E1N1P1S1Z1
+1,12,Ing/Eng III - 1/E1N1P1S1Z1
+2,1,Ing/Eng III - 1/E1N1P1S1Z1
+2,2,Ing/Eng III - 1/E1N1P1S1Z1
+3,3,Ing/Eng III - 6/E1N1P1S1Z1
+3,4,Ing/Eng III - 6/E1N1P1S1Z1
+3,15,Ing/Eng III - 1/E1N1P1S1Z1
+3,16,Ing/Eng III - 1/E1N1P1S1Z1
+#2,E
+1,11,Ing/Eng III - 6/N1P1S1
+1,12,Ing/Eng III - 6/N1P1S1
+2,5,Ing/Eng III - 6/N1P1S1
+2,6,Ing/Eng III - 6/N1P1S1
+4,9,Ing/Eng III - 6/N1P1S1
+4,10,Ing/Eng III - 6/N1P1S1
+5,3,Ing/Eng III- 4/N1P1S1
+5,4,Ing/Eng III- 4/N1P1S1
+#3,E
+1,7,Eeufees/Centenary 5/E1Z1
+1,8,Eeufees/Centenary 5/E1Z1
+2,7,Ing/Eng III -3/E1Z1
+2,8,Ing/Eng III -3/E1Z1
+3,3,Ing/Eng III -3/E1Z1
+3,4,Ing/Eng III -3/E1Z1
+4,1,Ing/Eng III -3/E1Z1
+4,2,Ing/Eng III -3/E1Z1
+@CIR 310 T,3,1,
+#1,B
+1,11,Ing/Eng III - 5/C3
+1,12,Ing/Eng III - 5/C3
+1,13,Ing/Eng III - 5/C3
+1,14,Ing/Eng III - 5/C3
+@EBN 122,1,2,
+#1,A
+1,19,Ing/Eng III - 6/C1E1N1P1S1Z1
+1,20,Ing/Eng III - 6/C1E1N1P1S1Z1
+2,13,Ing/Eng III - 6/C1E1N1P1S1Z1
+2,14,Ing/Eng III - 6/C1E1N1P1S1Z1
+3,1,Ing/Eng III - 6/C1E1N1P1S1Z1
+3,2,Ing/Eng III - 6/C1E1N1P1S1Z1
+5,9,Ing/Eng III - 6/C1E1N1P1S1Z1
+5,10,Ing/Eng III - 6/C1E1N1P1S1Z1
+#2,E
+1,3,Ing/Eng III - 1/C1E1N1P1S1Z1
+1,4,Ing/Eng III - 1/C1E1N1P1S1Z1
+2,1,Ing/Eng III - 1/C1E1N1P1S1Z1
+2,2,Ing/Eng III - 1/C1E1N1P1S1Z1
+3,3,Ing/Eng III - 1/C1E1N1P1S1Z1
+3,4,Ing/Eng III - 1/C1E1N1P1S1Z1
+5,1,Louwsaal/Louw hall/C1E1N1P1S1Z1
+5,2,Louwsaal/Louw hall/C1E1N1P1S1Z1
+@COS 121,1,2,
+#1,A
+2,13,IT 4-3/
+2,14,IT 4-3/
+3,11,IT 4-3/
+3,12,IT 4-3/
+4,5,GW/HB 4-9/
+4,6,GW/HB 4-9/
+5,1,IT 4-3/
+5,2,IT 4-3/
+#2,E
+1,7,IT 4-5/
+1,8,IT 4-5/
+3,9,Eeufees/Centenary 5/
+3,10,Eeufees/Centenary 5/
+4,19,IT 4-5/
+4,20,IT 4-5/
+5,11,IT 4-4/
+5,12,IT 4-4/
+@MOW 217,2,1,
+#1,A
+1,19,Ing/Eng III - 6/b3m3 B2M2
+1,20,Ing/Eng III - 6/b3m3 B2M2
+3,5,Ing/Eng III- 4/b3m3 B2M2
+3,6,Ing/Eng III- 4/b3m3 B2M2
+4,7,Ing/Eng III - 1/b3m3 B2M2
+4,8,Ing/Eng III - 1/b3m3 B2M2
+#2,E
+2,15,Ing/Eng III - 1/b3m3 B2M2
+2,16,Ing/Eng III - 1/b3m3 B2M2
+3,1,Ing/Eng III - 6/b3m3 B2M2
+3,2,Ing/Eng III - 6/b3m3 B2M2
+3,19,Ing/Eng III- 4/b3m3 B2M2
+3,20,Ing/Eng III- 4/b3m3 B2M2
+@CIR 123,1,2,
+#1,A
+1,7,Ing/Eng II 3-31/c2 C1
+1,8,Ing/Eng II 3-31/c2 C1
+4,1,Ing/Eng II 2-27/c2 C1
+4,2,Ing/Eng II 2-27/c2 C1
+#2,E
+1,5,Eeufees/Centenary 4/c2 C1
+1,6,Eeufees/Centenary 4/c2 C1
+4,5,Ing/Eng II 4-38/c2 C1
+4,6,Ing/Eng II 4-38/c2 C1
+@CHM 172,1,2,
+#1,A
+1,5,Suidsaal/South hall/e1m1n1p1z1 B1M1
+1,6,Suidsaal/South hall/e1m1n1p1z1 B1M1
+2,13,Suidsaal/South hall/e1m1n1p1z1 B1M1
+2,14,Suidsaal/South hall/e1m1n1p1z1 B1M1
+4,1,Suidsaal/South hall/e1m1n1p1z1 B1M1
+4,2,Suidsaal/South hall/e1m1n1p1z1 B1M1
+5,9,Louwsaal/Louw hall/e1m1n1p1z1 B1M1
+5,10,Louwsaal/Louw hall/e1m1n1p1z1 B1M1
+#2,E
+1,7,Groot Chemie/Large Chemistry/e1m1n1p1z1 B1M1
+1,8,Groot Chemie/Large Chemistry/e1m1n1p1z1 B1M1
+3,3,Eeufees/Centenary 1/e1m1n1p1z1 B1M1
+3,4,Eeufees/Centenary 1/e1m1n1p1z1 B1M1
+4,5,Roossaal/Roos hall/e1m1n1p1z1 B1M1
+4,6,Roossaal/Roos hall/e1m1n1p1z1 B1M1
+5,1,VD Bijlsaal/VD Bijl hall/e1m1n1p1z1 B1M1
+5,2,VD Bijlsaal/VD Bijl hall/e1m1n1p1z1 B1M1
+@WTW 168,1,2,
+#1,A
+2,1,Ing/Eng III - 2/e1r1z1 E1R1Z1
+2,2,Ing/Eng III - 2/e1r1z1 E1R1Z1
+5,11,Ing/Eng II 4-38/e1r1z1 E1R1Z1
+5,12,Ing/Eng II 4-38/e1r1z1 E1R1Z1
+#2,A
+2,1,Ing/Eng III -3/c1n1s1 C1N1S1
+2,2,Ing/Eng III -3/c1n1s1 C1N1S1
+4,5,Ing/Eng III- 4/c1n1s1 C1N1S1
+4,6,Ing/Eng III- 4/c1n1s1 C1N1S1
+#3,A
+2,1,AE Anneks/Annex/b1m1p1 B1M1P1
+2,2,AE Anneks/Annex/b1m1p1 B1M1P1
+5,3,AE Anneks/Annex/b1m1p1 B1M1P1
+5,4,AE Anneks/Annex/b1m1p1 B1M1P1
+#4,E
+3,1,Ing/Eng III - 2/c1n1 C1N1
+3,2,Ing/Eng III - 2/c1n1 C1N1
+5,9,Suidsaal/South hall/c1n1 C1N1
+5,10,Suidsaal/South hall/c1n1 C1N1
+#5,E
+1,1,Ing/Eng III - 5/e1r1z1 E1R1Z1
+1,2,Ing/Eng III - 5/e1r1z1 E1R1Z1
+5,11,Ing/Eng III -3/e1r1z1 E1R1Z1
+5,12,Ing/Eng III -3/e1r1z1 E1R1Z1
+#6,E
+2,11,Ing/Eng III - 5/m1 M1
+2,12,Ing/Eng III - 5/m1 M1
+5,3,Ing/Eng III - 5/m1 M1
+5,4,Ing/Eng III - 5/m1 M1
+#7,E
+1,1,Ing/Eng II 2-37/b1p1 B1P1
+1,2,Ing/Eng II 2-37/b1p1 B1P1
+3,1,Ing/Eng II 2-36/b1p1 B1P1
+3,2,Ing/Eng II 2-36/b1p1 B1P1
+#8,E
+1,1,GW/HB 4-1/s1 S1
+1,2,GW/HB 4-1/s1 S1
+4,5,Ing/Eng II 2-37/s1 S1
+4,6,Ing/Eng II 2-37/s1 S1
+@COS 110 P,1,2,
+#1,B
+2,18,Raadpleeg/Consult Dept/
+2,19,Raadpleeg/Consult Dept/
+2,20,Raadpleeg/Consult Dept/
+#2,B
+2,15,Raadpleeg/Consult Dept/
+2,16,Raadpleeg/Consult Dept/
+2,17,Raadpleeg/Consult Dept/
+#3,B
+4,7,Raadpleeg/Consult Dept/R1
+4,8,Raadpleeg/Consult Dept/R1
+4,9,Raadpleeg/Consult Dept/R1
+#4,B
+4,10,Raadpleeg/Consult Dept/
+4,11,Raadpleeg/Consult Dept/
+4,12,Raadpleeg/Consult Dept/
+#5,B
+5,16,Raadpleeg/Consult Dept/r2
+5,17,Raadpleeg/Consult Dept/r2
+5,18,Raadpleeg/Consult Dept/r2
+#6,B
+3,15,Raadpleeg/Consult Dept/
+3,16,Raadpleeg/Consult Dept/
+3,17,Raadpleeg/Consult Dept/
+3,18,Raadpleeg/Consult Dept/
+3,19,Raadpleeg/Consult Dept/
+3,20,Raadpleeg/Consult Dept/
+#7,B
+5,15,Raadpleeg/Consult Dept/
+5,16,Raadpleeg/Consult Dept/
+5,17,Raadpleeg/Consult Dept/
+5,18,Raadpleeg/Consult Dept/
+5,19,Raadpleeg/Consult Dept/
+5,20,Raadpleeg/Consult Dept/
+@COS 110,1,2,
+#1,A
+2,3,IT 4-5/r2 R1
+2,4,IT 4-5/r2 R1
+4,13,Eeufees/Centenary 1/r2 R1
+4,14,Eeufees/Centenary 1/r2 R1
+5,3,IT 4-4/r2 R1
+5,4,IT 4-4/r2 R1
+#2,E
+3,11,IT 4-1/
+3,12,IT 4-1/
+4,1,IT 4-1/
+4,2,IT 4-1/
+5,5,IT 4-1/
+5,6,IT 4-1/
+#3,E
+1,3,Thuto 1-1/r2 R1
+1,4,Thuto 1-1/r2 R1
+2,1,Eeufees/Centenary 1/r2 R1
+2,2,Eeufees/Centenary 1/r2 R1
+4,17,Eeufees/Centenary 1/r2 R1
+4,18,Eeufees/Centenary 1/r2 R1
+@SWK 122,1,2,
+#1,A
+1,9,Thuto 3-1/b2e2p2 E1P1Z1
+1,10,Thuto 3-1/b2e2p2 E1P1Z1
+2,3,Thuto 3-1/b2e2p2 E1P1Z1
+2,4,Thuto 3-1/b2e2p2 E1P1Z1
+2,17,VD Bijlsaal/VD Bijl hall/b2p2 B1P1
+2,18,VD Bijlsaal/VD Bijl hall/b2p2 B1P1
+2,19,VD Bijlsaal/VD Bijl hall/b2p2 B1P1
+2,20,VD Bijlsaal/VD Bijl hall/b2p2 B1P1
+4,3,Thuto 1-1/b2e2p2 E1P1Z1
+4,4,Thuto 1-1/b2e2p2 E1P1Z1
+5,5,Ing/Eng III - 6/b2e2p2 E1P1Z1
+5,6,Ing/Eng III - 6/b2e2p2 E1P1Z1
+#2,A
+1,15,Ing/Eng III - 6/s2z2 B1S1
+1,16,Ing/Eng III - 6/s2z2 B1S1
+2,11,Ing/Eng III- 4/s2z2 B1S1
+2,12,Ing/Eng III- 4/s2z2 B1S1
+3,17,Ing/Eng III- 4/s2z2 B1S1
+3,18,Ing/Eng III- 4/s2z2 B1S1
+5,5,Ing/Eng III- 4/s2z2 B1S1
+5,6,Ing/Eng III- 4/s2z2 B1S1
+5,17,Ing/Eng II 4-38/c2n2s2 C1N1
+5,18,Ing/Eng II 4-38/c2n2s2 C1N1
+5,19,Ing/Eng II 4-38/c2n2s2 C1N1
+5,20,Ing/Eng II 4-38/c2n2s2 C1N1
+#3,E
+2,13,Ing/Eng III - 1/b2s2 C1
+2,14,Ing/Eng III - 1/b2s2 C1
+3,5,Eeufees/Centenary 3/b2s2 C1
+3,6,Eeufees/Centenary 3/b2s2 C1
+4,1,Eeufees/Centenary 3/b2s2 C1
+4,2,Eeufees/Centenary 3/b2s2 C1
+5,5,EB/EMB 4-152/b2s2 C1
+5,6,EB/EMB 4-152/b2s2 C1
+5,13,Ing/Eng II 4-38/e2z2 E1Z1
+5,14,Ing/Eng II 4-38/e2z2 E1Z1
+5,15,Ing/Eng II 4-38/e2z2 E1Z1
+5,16,Ing/Eng II 4-38/e2z2 E1Z1
+#4,A
+1,19,Ing/Eng III - 1/m2 S1Z1
+1,20,Ing/Eng III - 1/m2 S1Z1
+2,7,Ing/Eng III - 1/m2 S1Z1
+2,8,Ing/Eng III - 1/m2 S1Z1
+3,1,Eeufees/Centenary 1/m2 S1Z1
+3,2,Eeufees/Centenary 1/m2 S1Z1
+3,17,Ing/Eng II 2-37/m2 M1
+3,18,Ing/Eng II 2-37/m2 M1
+3,19,Ing/Eng II 2-37/m2 M1
+3,20,Ing/Eng II 2-37/m2 M1
+5,7,Ing/Eng III - 6/m2 S1Z1
+5,8,Ing/Eng III - 6/m2 S1Z1
+#5,E
+1,17,AE Anneks/Annex/e2z2 E1
+1,18,AE Anneks/Annex/e2z2 E1
+2,3,Eeufees/Centenary 6/e2z2 E1
+2,4,Eeufees/Centenary 6/e2z2 E1
+2,17,Ing/Eng II 2-37/b2s2 C1
+2,18,Ing/Eng II 2-37/b2s2 C1
+2,19,Ing/Eng II 2-37/b2s2 C1
+2,20,Ing/Eng II 2-37/b2s2 C1
+4,5,EB/EMB 4-152/e2z2 E1
+4,6,EB/EMB 4-152/e2z2 E1
+5,5,Ing/Eng III - 1/e2z2 E1
+5,6,Ing/Eng III - 1/e2z2 E1
+#6,E
+1,7,Suidsaal/South hall/m2 S1Z1
+1,8,Suidsaal/South hall/m2 S1Z1
+1,9,AE Oudit/Audit/c2n2p2 B1N1P1
+1,10,AE Oudit/Audit/c2n2p2 B1N1P1
+3,5,AE Oudit/Audit/c2n2p2 B1N1P1
+3,6,AE Oudit/Audit/c2n2p2 B1N1P1
+4,13,Groot Chemie/Large Chemistry/c2n2p2 B1N1P1
+4,14,Groot Chemie/Large Chemistry/c2n2p2 B1N1P1
+5,5,Groot Chemie/Large Chemistry/c2n2p2 B1N1P1
+5,6,Groot Chemie/Large Chemistry/c2n2p2 B1N1P1
+#7,E
+3,7,Ing/Eng II 4-38/e2z2 E1
+3,8,Ing/Eng II 4-38/e2z2 E1
+3,9,Ing/Eng II 4-38/e2z2 E1
+3,10,Ing/Eng II 4-38/e2z2 E1
+#8,E
+2,17,Ing/Eng III - 2/c2n2p2 B1N1P1
+2,18,Ing/Eng III - 2/c2n2p2 B1N1P1
+2,19,Ing/Eng III - 2/c2n2p2 B1N1P1
+2,20,Ing/Eng III - 2/c2n2p2 B1N1P1
+#9,A
+4,1,Ing/Eng II 2-37/S1
+4,2,Ing/Eng II 2-37/S1
+4,3,Ing/Eng II 2-37/S1
+4,4,Ing/Eng II 2-37/S1
+#10,E
+2,5,Ing/Eng III - 5/M1
+2,6,Ing/Eng III - 5/M1
+2,7,Ing/Eng III - 5/M1
+2,8,Ing/Eng III - 5/M1
+#11,A
+1,11,Ing/Eng II 2-36/
+1,12,Ing/Eng II 2-36/
+3,1,Ing/Eng III - 5/
+3,2,Ing/Eng III - 5/
+3,3,Ing/Eng III - 5/
+3,4,Ing/Eng III - 5/
+3,7,Ing/Eng II 2-27/
+3,8,Ing/Eng II 2-27/
+4,7,Ing/Eng II 2-27/
+4,8,Ing/Eng II 2-27/
+5,1,Ing/Eng II 2-37/
+5,2,Ing/Eng II 2-37/
+#12,E
+1,9,Ing/Eng II 2-27/
+1,10,Ing/Eng II 2-27/
+2,1,Ing/Eng II 2-27/
+2,2,Ing/Eng II 2-27/
+4,1,Ing/Eng III - 1/
+4,2,Ing/Eng III - 1/
+5,3,Noordsaal/North hall/
+5,4,Noordsaal/North hall/
+5,5,Noordsaal/North hall/
+5,6,Noordsaal/North hall/
+5,11,Ing/Eng II 4-38/
+5,12,Ing/Eng II 4-38/
+@COS 222,2,2,
+#1,A
+1,3,GW/HB 4-6/r3 R2
+1,4,GW/HB 4-6/r3 R2
+2,3,IT 2-26/r3 R2
+2,4,IT 2-26/r3 R2
+2,5,IT 2-26/r3 R2
+2,6,IT 2-26/r3 R2
+5,7,GW/HB 4-15/r3 R2
+5,8,GW/HB 4-15/r3 R2
+#2,E
+1,11,GW/HB 4-3/r3 R2
+1,12,GW/HB 4-3/r3 R2
+2,3,IT 4-4/r3 R2
+2,4,IT 4-4/r3 R2
+4,5,GW/HB 4-12/r3 R2
+4,6,GW/HB 4-12/r3 R2
+4,7,GW/HB 4-12/r3 R2
+4,8,GW/HB 4-12/r3 R2
+@COS 212,2,1,
+#1,A
+1,5,IT 2-25/r3 R2
+1,6,IT 2-25/r3 R2
+2,13,IT 4-3/r3 R2
+2,14,IT 4-3/r3 R2
+4,1,IT 2-24/r3 R2
+4,2,IT 2-24/r3 R2
+5,1,GW/HB 4-8/r3 R2
+5,2,GW/HB 4-8/r3 R2
+#2,E
+1,19,IT 4-4/r3 R2
+1,20,IT 4-4/r3 R2
+3,3,GW/HB 4-1/r3 R2
+3,4,GW/HB 4-1/r3 R2
+4,19,IT 2-26/
+4,20,IT 2-26/
+5,7,IT 4-5/r3 R2
+5,8,IT 4-5/r3 R2
+@CIR 211,2,1,
+#1,A
+1,1,Ing/Eng II 1-2/c3 C2
+1,2,Ing/Eng II 1-2/c3 C2
+2,3,Mullersaal/Muller hall/c3 C2
+2,4,Mullersaal/Muller hall/c3 C2
+3,5,Ing/Eng II 3-31/c3 C2
+3,6,Ing/Eng II 3-31/c3 C2
+#2,E
+1,3,Ing/Eng II 2-37/c3 C2
+1,4,Ing/Eng II 2-37/c3 C2
+2,3,Mullersaal/Muller hall/c3 C2
+2,4,Mullersaal/Muller hall/c3 C2
+4,1,Ing/Eng II 2-27/c3 C2
+4,2,Ing/Eng II 2-27/c3 C2
+@BES 220,2,2,
+#1,A
+1,5,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+1,6,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+3,1,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+3,2,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+5,9,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+5,10,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+#2,E
+2,5,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+2,6,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+4,1,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+4,2,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+5,7,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+5,8,Ing/Eng III - 1/b3c3e3m3n3p3s3z3 B2C2E2M2N2P2S2Z2
+@IPI 410 T,4,1,
+#1,B
+3,15,Louwsaal/Louw hall/B4E4R4Z4
+3,16,Louwsaal/Louw hall/B4E4R4Z4
+3,17,Louwsaal/Louw hall/B4E4R4Z4
+3,18,Louwsaal/Louw hall/B4E4R4Z4
+#2,B
+5,13,Roossaal/Roos hall/B4M4N4P4S4
+5,14,Roossaal/Roos hall/B4M4N4P4S4
+5,15,Roossaal/Roos hall/B4M4N4P4S4
+5,16,Roossaal/Roos hall/B4M4N4P4S4
+@WTW 258 P,2,1,
+#1,B
+2,7,Ing/Eng II 3-40/b2s2 E2R2
+2,8,Ing/Eng II 3-40/b2s2 E2R2
+2,9,Ing/Eng II 3-40/b2s2 E2R2
+2,10,Ing/Eng II 3-40/b2s2 E2R2
+2,11,Ing/Eng II 3-40/b2s2 E2R2
+2,12,Ing/Eng II 3-40/b2s2 E2R2
+#3,A
+3,15,Teologie/Theology 2-1/M2
+3,16,Teologie/Theology 2-1/M2
+3,17,Teologie/Theology 2-1/M2
+3,18,Teologie/Theology 2-1/M2
+3,19,Teologie/Theology 2-1/M2
+3,20,Teologie/Theology 2-1/M2
+#4,B
+4,17,Ing/Eng II 4-21/r2z2 N2P2
+4,18,Ing/Eng II 4-21/r2z2 N2P2
+4,19,Ing/Eng II 4-21/r2z2 N2P2
+4,20,Ing/Eng II 4-21/r2z2 N2P2
+4,21,Ing/Eng II 4-21/r2z2 N2P2
+4,22,Ing/Eng II 4-21/r2z2 N2P2
+#5,B
+2,7,Teologie/Theology 2-1/c2e2m2p2 Z2
+2,8,Teologie/Theology 2-1/c2e2m2p2 Z2
+2,9,Teologie/Theology 2-1/c2e2m2p2 Z2
+2,10,Teologie/Theology 2-1/c2e2m2p2 Z2
+2,11,Teologie/Theology 2-1/c2e2m2p2 Z2
+2,12,Teologie/Theology 2-1/c2e2m2p2 Z2
+#6,A
+3,7,Wisk/Maths 1-1/B2
+3,8,Wisk/Maths 1-1/B2
+3,9,Wisk/Maths 1-1/B2
+3,10,Wisk/Maths 1-1/B2
+3,11,Wisk/Maths 1-1/B2
+3,12,Wisk/Maths 1-1/B2
+#8,A
+4,15,Ing/Eng II 3-40/C2
+4,16,Ing/Eng II 3-40/C2
+4,17,Ing/Eng II 3-40/C2
+4,18,Ing/Eng II 3-40/C2
+4,19,Ing/Eng II 3-40/C2
+4,20,Ing/Eng II 3-40/C2
+#9,E
+3,7,Ing/Eng II 4-38/M2
+3,8,Ing/Eng II 4-38/M2
+3,9,Ing/Eng II 4-38/M2
+3,10,Ing/Eng II 4-38/M2
+3,11,Ing/Eng II 4-38/M2
+3,12,Ing/Eng II 4-38/M2
+#10,B
+4,15,GW/HB 4-9/S2
+4,16,GW/HB 4-9/S2
+4,17,GW/HB 4-9/S2
+4,18,GW/HB 4-9/S2
+4,19,GW/HB 4-9/S2
+4,20,GW/HB 4-9/S2
+#11,E
+4,15,Ing/Eng II 3-34/S2
+4,16,Ing/Eng II 3-34/S2
+4,17,Ing/Eng II 3-34/S2
+4,18,Ing/Eng II 3-34/S2
+4,19,Ing/Eng II 3-34/S2
+4,20,Ing/Eng II 3-34/S2
+#12,A
+3,15,Ing/Eng II 3-34/M2
+3,16,Ing/Eng II 3-34/M2
+3,17,Ing/Eng II 3-34/M2
+3,18,Ing/Eng II 3-34/M2
+3,19,Ing/Eng II 3-34/M2
+3,20,Ing/Eng II 3-34/M2
+#13,E
+3,7,Ing/Eng II 3-40/B2
+3,8,Ing/Eng II 3-40/B2
+3,9,Ing/Eng II 3-40/B2
+3,10,Ing/Eng II 3-40/B2
+3,11,Ing/Eng II 3-40/B2
+3,12,Ing/Eng II 3-40/B2
+#14,E
+3,7,Ing/Eng II 3-34/M2
+3,8,Ing/Eng II 3-34/M2
+3,9,Ing/Eng II 3-34/M2
+3,10,Ing/Eng II 3-34/M2
+3,11,Ing/Eng II 3-34/M2
+3,12,Ing/Eng II 3-34/M2
+#15,E
+4,15,Ing/Eng II 4-36/C2
+4,16,Ing/Eng II 4-36/C2
+4,17,Ing/Eng II 4-36/C2
+4,18,Ing/Eng II 4-36/C2
+4,19,Ing/Eng II 4-36/C2
+4,20,Ing/Eng II 4-36/C2
+#16,E
+4,15,Ing/Eng II 2-27/C2
+4,16,Ing/Eng II 2-27/C2
+4,17,Ing/Eng II 2-27/C2
+4,18,Ing/Eng II 2-27/C2
+4,19,Ing/Eng II 2-27/C2
+4,20,Ing/Eng II 2-27/C2
+#17,B
+1,11,Ing/Eng II 3-34/n2 S2
+1,12,Ing/Eng II 3-34/n2 S2
+1,13,Ing/Eng II 3-34/n2 S2
+1,14,Ing/Eng II 3-34/n2 S2
+1,15,Ing/Eng II 3-34/n2 S2
+1,16,Ing/Eng II 3-34/n2 S2
+#18,A
+1,11,Regsgebou/Law building 2-42/S2
+1,12,Regsgebou/Law building 2-42/S2
+1,13,Regsgebou/Law building 2-42/S2
+1,14,Regsgebou/Law building 2-42/S2
+1,15,Regsgebou/Law building 2-42/S2
+1,16,Regsgebou/Law building 2-42/S2
+@ERS 220,2,2,
+#1,A
+1,1,Ing/Eng II 3-40/e3r3z3 E2R2Z2
+1,2,Ing/Eng II 3-40/e3r3z3 E2R2Z2
+3,15,Ing/Eng II 2-27/e3r3z3 E2R2Z2
+3,16,Ing/Eng II 2-27/e3r3z3 E2R2Z2
+4,7,Ing/Eng III- 4/e3r3z3 E2R2Z2
+4,8,Ing/Eng III- 4/e3r3z3 E2R2Z2
+5,13,Ing/Eng II 2-27/e3r3z3 E2R2Z2
+5,14,Ing/Eng II 2-27/e3r3z3 E2R2Z2
+#2,E
+1,5,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+1,6,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+3,3,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+3,4,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+4,3,Eeufees/Centenary 1/e3r3z3 E2R2Z2
+4,4,Eeufees/Centenary 1/e3r3z3 E2R2Z2
+5,5,Mullersaal/Muller hall/e3r3z3 E2R2Z2
+5,6,Mullersaal/Muller hall/e3r3z3 E2R2Z2
+@JPO 127,1,2,
+#1,B
+1,9,Ing/Eng II 4-36/r2
+1,10,Ing/Eng II 4-36/r2
+@MBB 410,4,2,
+#1,B
+1,7,Ing/Eng III- 4/M4M4
+1,8,Ing/Eng III- 4/M4M4
+2,7,Ing/Eng III -3/M4M4
+2,8,Ing/Eng III -3/M4M4
+4,3,Ing/Eng III - 2/M4M4
+4,4,Ing/Eng III - 2/M4M4
+@JPO 125 T,1,2,
+#1,B
+1,13,Ing/Eng II 3-34/b2c2z2
+1,14,Ing/Eng II 3-34/b2c2z2
+2,15,Ing/Eng II 1-1/b2c2z2
+2,16,Ing/Eng II 1-1/b2c2z2
+3,3,Ing/Eng II 1-2/b2c2z2
+3,4,Ing/Eng II 1-2/b2c2z2
+#2,B
+1,7,Ing/Eng II 3-40/s2
+1,8,Ing/Eng II 3-40/s2
+4,3,Ing/Eng II 4-30/s2
+4,4,Ing/Eng II 4-30/s2
+5,9,Ing/Eng II 1-2/s2
+5,10,Ing/Eng II 1-2/s2
+#3,B
+1,17,Ing/Eng II 3-34/m2
+1,18,Ing/Eng II 3-34/m2
+2,17,Ing/Eng II 4-21/m2
+2,18,Ing/Eng II 4-21/m2
+4,1,Ing/Eng II 1-2/m2
+4,2,Ing/Eng II 1-2/m2
+#4,B
+1,19,Ing/Eng II 3-31/b2e2n2p2
+1,20,Ing/Eng II 3-31/b2e2n2p2
+2,11,Ing/Eng II 4-30/b2e2n2p2
+2,12,Ing/Eng II 4-30/b2e2n2p2
+4,15,Ing/Eng II 1-5/b2e2n2p2
+4,16,Ing/Eng II 1-5/b2e2n2p2
+@SBM 321 P,3,2,
+#1,B
+4,9,Louwsaal/Louw hall/S3
+4,10,Louwsaal/Louw hall/S3
+4,11,Louwsaal/Louw hall/S3
+4,12,Louwsaal/Louw hall/S3
+5,1,Mullersaal/Muller hall/S3
+5,2,Mullersaal/Muller hall/S3
+@SBM 321,3,2,
+#1,B
+1,11,Ing/Eng III - 1/S3
+1,12,Ing/Eng III - 1/S3
+1,13,Ing/Eng III - 1/S3
+1,14,Ing/Eng III - 1/S3
+3,7,AE Anneks/Annex/S3
+3,8,AE Anneks/Annex/S3
+@GLY 155 P,1,1,
+#1,B
+4,7,Min Wet/Science 3-46/P3
+4,8,Min Wet/Science 3-46/P3
+4,9,Min Wet/Science 3-46/P3
+4,10,Min Wet/Science 3-46/P3
+4,11,Min Wet/Science 3-46/P3
+4,12,Min Wet/Science 3-46/P3
+#2,B
+3,9,Min Wet/Science 3-46/P3
+3,10,Min Wet/Science 3-46/P3
+3,11,Min Wet/Science 3-46/P3
+3,12,Min Wet/Science 3-46/P3
+3,13,Min Wet/Science 3-46/P3
+3,14,Min Wet/Science 3-46/P3
+#3,B
+1,13,Min Wet/Science 3-46/P3
+1,14,Min Wet/Science 3-46/P3
+1,15,Min Wet/Science 3-46/P3
+1,16,Min Wet/Science 3-46/P3
+1,17,Min Wet/Science 3-46/P3
+1,18,Min Wet/Science 3-46/P3
+#4,B
+2,15,Min Wet/Science 3-46/
+2,16,Min Wet/Science 3-46/
+2,17,Min Wet/Science 3-46/
+2,18,Min Wet/Science 3-46/
+2,19,Min Wet/Science 3-46/
+2,20,Min Wet/Science 3-46/
+@COS 153 P,1,1,
+#1,B
+3,1,Raadpleeg/Consult Dept/r2
+3,2,Raadpleeg/Consult Dept/r2
+3,3,Raadpleeg/Consult Dept/r2
+3,4,Raadpleeg/Consult Dept/r2
+3,5,Raadpleeg/Consult Dept/r2
+3,6,Raadpleeg/Consult Dept/r2
+3,7,Raadpleeg/Consult Dept/r2
+3,8,Raadpleeg/Consult Dept/r2
+@COS 153,1,1,
+#1,B
+2,9,GW/HB 3-23/r2
+2,10,GW/HB 3-23/r2
+2,11,GW/HB 3-23/r2
+2,12,GW/HB 3-23/r2
+@CHM 171,1,1,
+#1,A
+1,9,Roossaal/Roos hall/b1c1s1 C1E1N1P1S1Z1
+1,10,Roossaal/Roos hall/b1c1s1 C1E1N1P1S1Z1
+3,1,Roossaal/Roos hall/b1c1s1 C1E1N1P1S1Z1
+3,2,Roossaal/Roos hall/b1c1s1 C1E1N1P1S1Z1
+4,13,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+4,14,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+5,5,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+5,6,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+#2,E
+1,9,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+1,10,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+3,1,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+3,2,Groot Chemie/Large Chemistry/b1c1s1 C1E1N1P1S1Z1
+4,3,Thuto 3-1/b1c1s1 C1E1N1P1S1Z1
+4,4,Thuto 3-1/b1c1s1 C1E1N1P1S1Z1
+5,11,Thuto 3-1/b1c1s1 C1E1N1P1S1Z1
+5,12,Thuto 3-1/b1c1s1 C1E1N1P1S1Z1
+@EIR 211,2,1,
+#1,A
+1,13,Ing/Eng II 4-21/e3r3z3 E2R2Z2
+1,14,Ing/Eng II 4-21/e3r3z3 E2R2Z2
+3,3,Ing/Eng II 4-21/e3r3z3 E2R2Z2
+3,4,Ing/Eng II 4-21/e3r3z3 E2R2Z2
+5,3,Ing/Eng II 4-21/e3r3z3 E2R2Z2
+5,4,Ing/Eng II 4-21/e3r3z3 E2R2Z2
+#2,E
+1,11,Ing/Eng III- 4/e3r3z3 E2R2Z2
+1,12,Ing/Eng III- 4/e3r3z3 E2R2Z2
+2,13,Ing/Eng III - 1/e3r3z3 E2R2Z2
+2,14,Ing/Eng III - 1/e3r3z3 E2R2Z2
+4,9,Ing/Eng III- 4/e3r3z3 E2R2Z2
+4,10,Ing/Eng III- 4/e3r3z3 E2R2Z2
+@SHC 310,3,1,
+#1,B
+1,5,Ing/Eng III - 6/S3
+1,6,Ing/Eng III - 6/S3
+4,17,Ing/Eng III - 6/S3
+4,18,Ing/Eng III - 6/S3
+4,19,Ing/Eng III - 6/S3
+4,20,Ing/Eng III - 6/S3
+5,3,Eeufees/Centenary 1/S3
+5,4,Eeufees/Centenary 1/S3
+@JPO 161 T,1,2,
+#1,B
+2,15,Ing/Eng II 4-21/m1
+2,16,Ing/Eng II 4-21/m1
+3,9,Ing/Eng II 3-25/m1
+3,10,Ing/Eng II 3-25/m1
+4,3,Ing/Eng II 3-25/m1
+4,4,Ing/Eng II 3-25/m1
+#2,B
+2,7,Ing/Eng II 1-1/m1
+2,8,Ing/Eng II 1-1/m1
+3,7,Ing/Eng II 3-34/m1
+3,8,Ing/Eng II 3-34/m1
+4,13,Ing/Eng II 1-2/m1
+4,14,Ing/Eng II 1-2/m1
+#3,B
+2,11,Ing/Eng II 1-5/n1p1
+2,12,Ing/Eng II 1-5/n1p1
+3,13,Ing/Eng II 1-5/n1p1
+3,14,Ing/Eng II 1-5/n1p1
+4,11,Ing/Eng II 1-1/n1p1
+4,12,Ing/Eng II 1-1/n1p1
+#4,B
+1,13,Ing/Eng II 3-31/e1z1
+1,14,Ing/Eng II 3-31/e1z1
+2,19,Ing/Eng II 1-2/e1z1
+2,20,Ing/Eng II 1-2/e1z1
+3,1,Ing/Eng II 1-5/e1z1
+3,2,Ing/Eng II 1-5/e1z1
+@EBN 111,1,1,
+#1,A
+1,7,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+1,8,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+2,1,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+2,2,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+3,13,VD Bijlsaal/VD Bijl hall/b2c2e2m2n2p2r2s2z2 B1M1R1
+3,14,VD Bijlsaal/VD Bijl hall/b2c2e2m2n2p2r2s2z2 B1M1R1
+5,3,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+5,4,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+#2,E
+1,3,Roossaal/Roos hall/b2c2e2m2n2p2r2s2z2 B1M1R1
+1,4,Roossaal/Roos hall/b2c2e2m2n2p2r2s2z2 B1M1R1
+2,17,Roossaal/Roos hall/b2c2e2m2n2p2r2s2z2 B1M1R1
+2,18,Roossaal/Roos hall/b2c2e2m2n2p2r2s2z2 B1M1R1
+4,3,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+4,4,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+5,1,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+5,2,Ing/Eng III - 6/b2c2e2m2n2p2r2s2z2 B1M1R1
+@BPZ 421,4,2,
+#1,B
+1,1,Ing/Eng II 4-38/B4
+1,2,Ing/Eng II 4-38/B4
+1,3,Ing/Eng II 4-38/B4
+1,4,Ing/Eng II 4-38/B4
+1,5,Ing/Eng II 4-38/B4
+1,6,Ing/Eng II 4-38/B4
+1,7,Ing/Eng II 4-38/B4
+1,8,Ing/Eng II 4-38/B4
+3,3,Ing/Eng II 4-36/B4
+3,4,Ing/Eng II 4-36/B4
+3,5,Ing/Eng II 4-36/B4
+3,6,Ing/Eng II 4-36/B4
+@BON 410,4,1,
+#1,B
+1,9,Ing/Eng II 3-40/B4
+1,10,Ing/Eng II 3-40/B4
+1,11,Ing/Eng II 3-40/B4
+1,12,Ing/Eng II 3-40/B4
+3,3,Ing/Eng II 3-34/B4
+3,4,Ing/Eng II 3-34/B4
+3,5,Ing/Eng II 3-34/B4
+3,6,Ing/Eng II 3-34/B4
+4,5,Ing/Eng III - 5/B4
+4,6,Ing/Eng III - 5/B4
+4,7,Ing/Eng III - 5/B4
+4,8,Ing/Eng III - 5/B4
+@BSS 410,4,2,
+#1,B
+1,9,Ing/Eng III - 5/B4
+1,10,Ing/Eng III - 5/B4
+1,11,Ing/Eng III - 5/B4
+1,12,Ing/Eng III - 5/B4
+3,1,Ing/Eng II 2-27/B4
+3,2,Ing/Eng II 2-27/B4
+4,11,Ing/Eng II 4-38/B4
+4,12,Ing/Eng II 4-38/B4
+5,7,Ing/Eng II 3-40/B4
+5,8,Ing/Eng II 3-40/B4
+@WTW 258,2,1,
+#1,A
+3,5,GW/HB 4-3/p2s2z2 N2S2Z2
+3,6,GW/HB 4-3/p2s2z2 N2S2Z2
+5,1,GW/HB 4-3/p2s2z2 N2S2Z2
+5,2,GW/HB 4-3/p2s2z2 N2S2Z2
+#2,A
+1,9,Eeufees/Centenary 6/r2 C2M2P2
+1,10,Eeufees/Centenary 6/r2 C2M2P2
+4,9,AE Anneks/Annex/r2 C2M2P2
+4,10,AE Anneks/Annex/r2 C2M2P2
+#3,A
+2,5,Thuto 1-1/b2c2e2m2n2 B2E2R2
+2,6,Thuto 1-1/b2c2e2m2n2 B2E2R2
+4,9,Ing/Eng III -3/b2c2e2m2n2 B2E2R2
+4,10,Ing/Eng III -3/b2c2e2m2n2 B2E2R2
+#4,E
+1,5,Ing/Eng III- 4/b2c2 N2P2
+1,6,Ing/Eng III- 4/b2c2 N2P2
+3,7,Ing/Eng III - 5/b2c2 N2P2
+3,8,Ing/Eng III - 5/b2c2 N2P2
+#5,E
+2,3,Ing/Eng II 2-37/e2r2s2z2 E2S2
+2,4,Ing/Eng II 2-37/e2r2s2z2 E2S2
+5,7,Suidsaal/South hall/e2r2s2z2 E2S2
+5,8,Suidsaal/South hall/e2r2s2z2 E2S2
+#6,E
+2,1,GW/HB 4-1/m2 B2C2R2
+2,2,GW/HB 4-1/m2 B2C2R2
+4,13,AE Anneks/Annex/m2 B2C2R2
+4,14,AE Anneks/Annex/m2 B2C2R2
+#7,E
+1,15,AE Anneks/Annex/n2p2 M2Z2
+1,16,AE Anneks/Annex/n2p2 M2Z2
+3,3,Eeufees/Centenary 5/n2p2 M2Z2
+3,4,Eeufees/Centenary 5/n2p2 M2Z2
+@WTW 168 P,1,2,
+#1,A
+1,13,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,14,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,15,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,16,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,17,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,18,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+#2,A
+3,7,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,8,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,9,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,10,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,11,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,12,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+#3,A
+4,7,Ing/Eng II 2-27/P1S1
+4,8,Ing/Eng II 2-27/P1S1
+4,9,Ing/Eng II 2-27/P1S1
+4,10,Ing/Eng II 2-27/P1S1
+4,11,Ing/Eng II 2-27/P1S1
+4,12,Ing/Eng II 2-27/P1S1
+#4,A
+4,15,GW/HB 4-6/m1 C1
+4,16,GW/HB 4-6/m1 C1
+4,17,GW/HB 4-6/m1 C1
+4,18,GW/HB 4-6/m1 C1
+4,19,GW/HB 4-6/m1 C1
+4,20,GW/HB 4-6/m1 C1
+#5,E
+1,13,Ing/Eng II 3-40/b1m1r1 R1
+1,14,Ing/Eng II 3-40/b1m1r1 R1
+1,15,Ing/Eng II 3-40/b1m1r1 R1
+1,16,Ing/Eng II 3-40/b1m1r1 R1
+1,17,Ing/Eng II 3-40/b1m1r1 R1
+1,18,Ing/Eng II 3-40/b1m1r1 R1
+#6,E
+3,7,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,8,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,9,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,10,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,11,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,12,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+#7,E
+4,15,Ing/Eng II 4-21/C1P1S1
+4,16,Ing/Eng II 4-21/C1P1S1
+4,17,Ing/Eng II 4-21/C1P1S1
+4,18,Ing/Eng II 4-21/C1P1S1
+4,19,Ing/Eng II 4-21/C1P1S1
+4,20,Ing/Eng II 4-21/C1P1S1
+#8,E
+4,15,Ing/Eng II 3-40/M1S1
+4,16,Ing/Eng II 3-40/M1S1
+4,17,Ing/Eng II 3-40/M1S1
+4,18,Ing/Eng II 3-40/M1S1
+4,19,Ing/Eng II 3-40/M1S1
+4,20,Ing/Eng II 3-40/M1S1
+#9,E
+4,7,GW/HB 4-6/S1
+4,8,GW/HB 4-6/S1
+4,9,GW/HB 4-6/S1
+4,10,GW/HB 4-6/S1
+4,11,GW/HB 4-6/S1
+4,12,GW/HB 4-6/S1
+#10,E
+3,15,Ing/Eng II 3-34/e1 E1
+3,16,Ing/Eng II 3-34/e1 E1
+3,17,Ing/Eng II 3-34/e1 E1
+3,18,Ing/Eng II 3-34/e1 E1
+3,19,Ing/Eng II 3-34/e1 E1
+3,20,Ing/Eng II 3-34/e1 E1
+#11,A
+2,15,Ing/Eng II 2-36/M1
+2,16,Ing/Eng II 2-36/M1
+2,17,Ing/Eng II 2-36/M1
+2,18,Ing/Eng II 2-36/M1
+2,19,Ing/Eng II 2-36/M1
+2,20,Ing/Eng II 2-36/M1
+@SBZ 221,2,2,
+#1,B
+1,3,Noordsaal/North hall/s3 S2
+1,4,Noordsaal/North hall/s3 S2
+1,11,Ing/Eng III -3/s3 S2
+1,12,Ing/Eng III -3/s3 S2
+@MVS 311,3,1,
+#1,B
+1,7,Ing/Eng III -3/B3
+1,8,Ing/Eng III -3/B3
+2,5,Ing/Eng III - 1/B3
+2,6,Ing/Eng III - 1/B3
+4,15,Ing/Eng III - 6/B3
+4,16,Ing/Eng III - 6/B3
+@BUY 321,3,2,
+#1,B
+1,3,Teologie/Theology 1-9/B3
+1,4,Teologie/Theology 1-9/B3
+1,5,Teologie/Theology 1-9/B3
+1,6,Teologie/Theology 1-9/B3
+2,9,Ing/Eng II 4-21/B3
+2,10,Ing/Eng II 4-21/B3
+2,11,Ing/Eng II 4-21/B3
+2,12,Ing/Eng II 4-21/B3
+5,1,NW2 Rek/Comp Lab 1/B3
+5,2,NW2 Rek/Comp Lab 1/B3
+5,3,NW2 Rek/Comp Lab 1/B3
+5,4,NW2 Rek/Comp Lab 1/B3
+@BOB 310,3,1,
+#1,B
+3,17,Ing/Eng II 2-37/B3
+3,18,Ing/Eng II 2-37/B3
+3,19,Ing/Eng II 2-37/B3
+3,20,Ing/Eng II 2-37/B3
+4,1,Ing/Eng II 4-38/B3
+4,2,Ing/Eng II 4-38/B3
+4,3,Ing/Eng II 4-38/B3
+4,4,Ing/Eng II 4-38/B3
+@BLK 320,3,2,
+#1,B
+3,1,Teologie/Theology 1-25/B3
+3,2,Teologie/Theology 1-25/B3
+3,3,Teologie/Theology 1-25/B3
+3,4,Teologie/Theology 1-25/B3
+5,5,Teologie/Theology 1-25/B3
+5,6,Teologie/Theology 1-25/B3
+5,7,Teologie/Theology 1-25/B3
+5,8,Teologie/Theology 1-25/B3
+@CKN 321,3,2,
+#1,B
+1,11,Ing/Eng II 1-1/C3
+1,12,Ing/Eng II 1-1/C3
+2,5,Ing/Eng II 2-37/C3
+2,6,Ing/Eng II 2-37/C3
+4,13,Ing/Eng II 1-1/C3
+4,14,Ing/Eng II 1-1/C3
+4,15,Ing/Eng II 1-1/C3
+4,16,Ing/Eng II 1-1/C3
+@PMY 311,3,1,
+#1,B
+1,11,Ing/Eng II 3-25/P3
+1,12,Ing/Eng II 3-25/P3
+2,13,Ing/Eng II 3-25/P3
+2,14,Ing/Eng II 3-25/P3
+2,15,Ing/Eng II 3-25/P3
+2,16,Ing/Eng II 3-25/P3
+4,3,Ing/Eng II 3-25/P3
+4,4,Ing/Eng II 3-25/P3
+@CPA 310,3,1,
+#1,A
+1,7,Ing/Eng II 2-37/C3C4
+1,8,Ing/Eng II 2-37/C3C4
+3,5,Ing/Eng II 2-37/C3C4
+3,6,Ing/Eng II 2-37/C3C4
+4,13,Ing/Eng II 2-37/C3C4
+4,14,Ing/Eng II 2-37/C3C4
+5,7,Ing/Eng III - 2/C3C4
+5,8,Ing/Eng III - 2/C3C4
+#2,E
+1,5,Ing/Eng II 3-40/C3C4
+1,6,Ing/Eng II 3-40/C3C4
+3,7,Ing/Eng III- 4/C3C4
+3,8,Ing/Eng III- 4/C3C4
+4,11,Ing/Eng III- 4/C3C4
+4,12,Ing/Eng III- 4/C3C4
+5,3,Suidsaal/South hall/C3C4
+5,4,Suidsaal/South hall/C3C4
+@BSS 310,3,1,
+#1,A
+4,7,Thuto 3-1/B3C3E3M3N3R3Z3
+4,8,Thuto 3-1/B3C3E3M3N3R3Z3
+4,9,Thuto 3-1/B3C3E3M3N3R3Z3
+4,10,Thuto 3-1/B3C3E3M3N3R3Z3
+4,11,Thuto 3-1/C3E3M3N3R3Z3
+4,12,Thuto 3-1/C3E3M3N3R3Z3
+#2,E
+1,1,Louwsaal/Louw hall/B3M3N3
+1,2,Louwsaal/Louw hall/B3M3N3
+2,9,Ing/Eng III - 6/M3N3
+2,10,Ing/Eng III - 6/M3N3
+3,15,VD Bijlsaal/VD Bijl hall/B3M3N3
+3,16,VD Bijlsaal/VD Bijl hall/B3M3N3
+#3,E
+1,9,Ing/Eng III - 6/C3E3P3R3Z3
+1,10,Ing/Eng III - 6/C3E3P3R3Z3
+4,1,Ing/Eng III - 6/C3E3P3R3Z3
+4,2,Ing/Eng III - 6/C3E3P3R3Z3
+5,15,Ing/Eng III - 6/C3E3P3R3Z3
+5,16,Ing/Eng III - 6/C3E3P3R3Z3
+@GLY 161,1,2,
+#1,A
+1,1,Teologie/Theology 1-25/P3
+1,2,Teologie/Theology 1-25/P3
+2,3,VD Bijlsaal/VD Bijl hall/P3
+2,4,VD Bijlsaal/VD Bijl hall/P3
+4,13,Teologie/Theology 1-25/P3
+4,14,Teologie/Theology 1-25/P3
+5,9,Teologie/Theology 1-25/P3
+5,10,Teologie/Theology 1-25/P3
+#2,E
+2,1,Te Watersaal/Te Water hall/P3
+2,2,Te Watersaal/Te Water hall/P3
+3,15,Louwsaal/Louw hall/P3
+3,16,Louwsaal/Louw hall/P3
+3,17,Louwsaal/Louw hall/P3
+3,18,Louwsaal/Louw hall/P3
+5,9,Te Watersaal/Te Water hall/P3
+5,10,Te Watersaal/Te Water hall/P3
+@WST 111 P,1,1,
+#1,A
+1,11,Regsgebou/Law building 1-31/r1
+1,12,Regsgebou/Law building 1-31/r1
+1,13,Regsgebou/Law building 1-31/r1
+1,14,Regsgebou/Law building 1-31/r1
+1,15,Raadpleeg/Consult Dept/r1
+1,16,Raadpleeg/Consult Dept/r1
+#2,E
+1,7,GW/HB 4-15/r1r2 R1
+1,8,GW/HB 4-15/r1r2 R1
+1,9,GW/HB 4-15/r1r2 R1
+1,10,GW/HB 4-15/r1r2 R1
+1,11,Raadpleeg/Consult Dept/r1r2 R1
+1,12,Raadpleeg/Consult Dept/r1r2 R1
+#3,E
+3,17,EB/EMB 4-151/
+3,18,EB/EMB 4-151/
+3,19,EB/EMB 4-151/
+3,20,EB/EMB 4-151/
+3,21,Raadpleeg/Consult Dept/
+3,22,Raadpleeg/Consult Dept/
+#4,A
+4,9,Noordsaal/North hall/R1
+4,10,Noordsaal/North hall/R1
+4,11,Noordsaal/North hall/R1
+4,12,Noordsaal/North hall/R1
+4,13,Raadpleeg/Consult Dept/R1
+4,14,Raadpleeg/Consult Dept/R1
+@WTW 161 P,1,2,
+#1,A
+1,13,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,14,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,15,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,16,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,17,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+1,18,Teologie/Theology 2-1/b1c1r1s1 R1Z1
+#2,A
+3,7,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,8,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,9,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,10,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,11,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+3,12,Ing/Eng II 2-36/e1n1p1z1 B1E1N1
+#3,A
+4,7,Ing/Eng II 2-27/P1S1
+4,8,Ing/Eng II 2-27/P1S1
+4,9,Ing/Eng II 2-27/P1S1
+4,10,Ing/Eng II 2-27/P1S1
+4,11,Ing/Eng II 2-27/P1S1
+4,12,Ing/Eng II 2-27/P1S1
+#4,A
+4,15,GW/HB 4-6/m1 C1
+4,16,GW/HB 4-6/m1 C1
+4,17,GW/HB 4-6/m1 C1
+4,18,GW/HB 4-6/m1 C1
+4,19,GW/HB 4-6/m1 C1
+4,20,GW/HB 4-6/m1 C1
+#5,E
+1,13,Ing/Eng II 3-40/b1m1r1 R1
+1,14,Ing/Eng II 3-40/b1m1r1 R1
+1,15,Ing/Eng II 3-40/b1m1r1 R1
+1,16,Ing/Eng II 3-40/b1m1r1 R1
+1,17,Ing/Eng II 3-40/b1m1r1 R1
+1,18,Ing/Eng II 3-40/b1m1r1 R1
+#6,E
+3,7,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,8,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,9,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,10,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,11,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+3,12,Ing/Eng III - 7/c1n1p1s1z1 B1N1Z1
+#7,E
+4,15,Ing/Eng II 4-21/C1P1S1
+4,16,Ing/Eng II 4-21/C1P1S1
+4,17,Ing/Eng II 4-21/C1P1S1
+4,18,Ing/Eng II 4-21/C1P1S1
+4,19,Ing/Eng II 4-21/C1P1S1
+4,20,Ing/Eng II 4-21/C1P1S1
+#8,E
+4,15,Ing/Eng II 3-40/M1
+4,16,Ing/Eng II 3-40/M1
+4,17,Ing/Eng II 3-40/M1
+4,18,Ing/Eng II 3-40/M1
+4,19,Ing/Eng II 3-40/M1
+4,20,Ing/Eng II 3-40/M1
+#9,E
+4,7,GW/HB 4-6/S1
+4,8,GW/HB 4-6/S1
+4,9,GW/HB 4-6/S1
+4,10,GW/HB 4-6/S1
+4,11,GW/HB 4-6/S1
+4,12,GW/HB 4-6/S1
+#10,E
+3,15,Ing/Eng II 3-34/e1 E1
+3,16,Ing/Eng II 3-34/e1 E1
+3,17,Ing/Eng II 3-34/e1 E1
+3,18,Ing/Eng II 3-34/e1 E1
+3,19,Ing/Eng II 3-34/e1 E1
+3,20,Ing/Eng II 3-34/e1 E1
+#11,A
+2,15,Ing/Eng II 2-36/M1
+2,16,Ing/Eng II 2-36/M1
+2,17,Ing/Eng II 2-36/M1
+2,18,Ing/Eng II 2-36/M1
+2,19,Ing/Eng II 2-36/M1
+2,20,Ing/Eng II 2-36/M1
+@PSC 411,4,1,
+#1,B
+4,3,Ing/Eng II 3-43/P4
+4,4,Ing/Eng II 3-43/P4
+4,5,Ing/Eng II 3-43/P4
+4,6,Ing/Eng II 3-43/P4
+@MVE 420,4,2,
+#1,B
+1,1,Ing/Eng II 4-21/M4
+1,2,Ing/Eng II 4-21/M4
+4,7,Ing/Eng II 4-21/M4
+4,8,Ing/Eng II 4-21/M4
+4,9,Ing/Eng II 4-21/M4
+4,10,Ing/Eng II 4-21/M4
+@JPO 116 T,1,1,
+#1,B
+1,13,Ing/Eng II 1-5/b1
+1,14,Ing/Eng II 1-5/b1
+3,15,Ing/Eng II 1-1/b1
+3,16,Ing/Eng II 1-1/b1
+4,1,NW2 Rek/Comp lab 3,4/b1
+4,2,NW2 Rek/Comp lab 3,4/b1
+#2,B
+2,1,Ing/Eng II 1-1/e1r1z1
+2,2,Ing/Eng II 1-1/e1r1z1
+3,5,Ing/Eng II 1-1/e1r1z1
+3,6,Ing/Eng II 1-1/e1r1z1
+4,13,NW2 Rek/Comp lab 3,4/e1r1z1
+4,14,NW2 Rek/Comp lab 3,4/e1r1z1
+#3,B
+1,7,Ing/Eng II 4-36/m1
+1,8,Ing/Eng II 4-36/m1
+3,7,Ing/Eng II 3-31/m1
+3,8,Ing/Eng II 3-31/m1
+4,3,NW2 Rek/Comp Lab 1/m1
+4,4,NW2 Rek/Comp Lab 1/m1
+#4,B
+1,7,Ing/Eng II 1-1/m1
+1,8,Ing/Eng II 1-1/m1
+3,7,Ing/Eng II 1-1/m1
+3,8,Ing/Eng II 1-1/m1
+4,3,NW2 Rek/Comp Lab 2/m1
+4,4,NW2 Rek/Comp Lab 2/m1
+#5,B
+1,3,Ing/Eng II 3-31/s1
+1,4,Ing/Eng II 3-31/s1
+3,9,Ing/Eng II 1-2/s1
+3,10,Ing/Eng II 1-2/s1
+5,3,NW2 Rek/Comp Lab 1/s1
+5,4,NW2 Rek/Comp Lab 1/s1
+#6,B
+1,3,Ing/Eng II 3-34/s1
+1,4,Ing/Eng II 3-34/s1
+3,9,Ing/Eng II 1-1/s1
+3,10,Ing/Eng II 1-1/s1
+5,3,NW2 Rek/Comp Lab 2/s1
+5,4,NW2 Rek/Comp Lab 2/s1
+#7,B
+3,3,Ing/Eng III- 4/c1
+3,4,Ing/Eng III- 4/c1
+4,1,NW2 Rek/Comp Lab 1/c1
+4,2,NW2 Rek/Comp Lab 1/c1
+#8,B
+1,9,Ing/Eng II 4-30/n1p1
+1,10,Ing/Eng II 4-30/n1p1
+4,5,Ing/Eng II 3-40/n1p1
+4,6,Ing/Eng II 3-40/n1p1
+5,11,NW2 Rek/Comp Lab 1/n1p1
+5,12,NW2 Rek/Comp Lab 1/n1p1
+@COS 216,2,1,
+#1,A
+1,19,IT 2-24/r3 R2
+1,20,IT 2-24/r3 R2
+2,1,IT 2-24/r3 R2
+2,2,IT 2-24/r3 R2
+3,1,IT 2-25/r3 R2
+3,2,IT 2-25/r3 R2
+5,5,GW/HB 4-15/r3 R2
+5,6,GW/HB 4-15/r3 R2
+#2,E
+1,3,GW/HB 4-1/r3 R2
+1,4,GW/HB 4-1/r3 R2
+3,1,IT 4-5/r3 R2
+3,2,IT 4-5/r3 R2
+4,1,GW/HB 4-3/
+4,2,GW/HB 4-3/
+5,3,Teologie/Theology 1-25/r3 R2
+5,4,Teologie/Theology 1-25/r3 R2
+@NMM 320 P,3,2,
+#1,B
+3,15,Raadpleeg/Consult Dept/N3
+3,16,Raadpleeg/Consult Dept/N3
+3,17,Raadpleeg/Consult Dept/N3
+3,18,Raadpleeg/Consult Dept/N3
+3,19,Raadpleeg/Consult Dept/N3
+3,20,Raadpleeg/Consult Dept/N3
+@CKN 321 T,3,2,
+#1,B
+1,13,Ing/Eng II 2-37/C3
+1,14,Ing/Eng II 2-37/C3
+1,15,Ing/Eng II 2-37/C3
+1,16,Ing/Eng II 2-37/C3
+@CTD 223 P,2,2,
+#1,B
+3,7,Ing/Eng III - 5/c3 C2
+3,8,Ing/Eng III - 5/c3 C2
+3,9,Ing/Eng III - 5/c3 C2
+3,10,Ing/Eng III - 5/c3 C2
+3,11,Ing/Eng III - 5/c3 C2
+3,12,Ing/Eng III - 5/c3 C2
+@FSK 176,1,2,
+#1,A
+1,3,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+1,4,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+2,5,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+2,6,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+3,3,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+3,4,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+5,1,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+5,2,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+#2,E
+1,5,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+1,6,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+2,13,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+2,14,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+4,1,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+4,2,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+5,3,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+5,4,AE Oudit/Audit/b1c1r1s1 E1N1P1R1S1Z1
+@SGM 221 T,2,2,
+#1,B
+3,17,Eeufees/Centenary 3/s3 S2
+3,18,Eeufees/Centenary 3/s3 S2
+@ENE 310,3,1,
+#1,A
+1,5,Ing/Eng II 4-36/E3R3Z3
+1,6,Ing/Eng II 4-36/E3R3Z3
+3,7,Ing/Eng II 2-36/E3R3Z3
+3,8,Ing/Eng II 2-36/E3R3Z3
+4,1,Ing/Eng II 4-36/E3R3Z3
+4,2,Ing/Eng II 4-36/E3R3Z3
+5,3,Ing/Eng II 4-36/E3R3Z3
+5,4,Ing/Eng II 4-36/E3R3Z3
+#2,E
+1,13,Ing/Eng II 3-40/E3R3Z3
+1,14,Ing/Eng II 3-40/E3R3Z3
+3,5,Ing/Eng II 4-38/E3R3Z3
+3,6,Ing/Eng II 4-38/E3R3Z3
+4,3,Ing/Eng II 3-40/E3R3Z3
+4,4,Ing/Eng II 3-40/E3R3Z3
+5,13,Ing/Eng II 4-38/E3R3Z3
+5,14,Ing/Eng II 4-38/E3R3Z3
+@EMZ 320,3,2,
+#1,A
+1,9,Ing/Eng II 1-2/Z3
+1,10,Ing/Eng II 1-2/Z3
+2,1,Ing/Eng II 3-31/Z3
+2,2,Ing/Eng II 3-31/Z3
+4,5,Ing/Eng II 2-27/Z3
+4,6,Ing/Eng II 2-27/Z3
+5,5,Ing/Eng II 4-30/Z3
+5,6,Ing/Eng II 4-30/Z3
+#2,E
+1,11,Ing/Eng II 4-36/Z3
+1,12,Ing/Eng II 4-36/Z3
+2,13,Ing/Eng II 3-31/Z3
+2,14,Ing/Eng II 3-31/Z3
+4,1,Ing/Eng II 3-31/Z3
+4,2,Ing/Eng II 3-31/Z3
+5,3,Ing/Eng II 4-30/Z3
+5,4,Ing/Eng II 4-30/Z3
+@EMZ 310,3,1,
+#1,A
+1,9,Ing/Eng II 3-34/E3Z3
+1,10,Ing/Eng II 3-34/E3Z3
+2,1,Ing/Eng II 3-31/E3Z3
+2,2,Ing/Eng II 3-31/E3Z3
+4,5,Ing/Eng II 4-30/E3Z3
+4,6,Ing/Eng II 4-30/E3Z3
+5,5,Ing/Eng II 3-31/E3Z3
+5,6,Ing/Eng II 3-31/E3Z3
+#2,E
+1,5,Ing/Eng III - 1/E3Z3
+1,6,Ing/Eng III - 1/E3Z3
+2,13,Ing/Eng II 4-38/E3Z3
+2,14,Ing/Eng II 4-38/E3Z3
+4,7,Ing/Eng II 3-40/E3Z3
+4,8,Ing/Eng II 3-40/E3Z3
+5,3,Ing/Eng II 4-38/E3Z3
+5,4,Ing/Eng II 4-38/E3Z3
+@EMS 310,3,1,
+#1,A
+1,7,Ing/Eng II 4-30/Z3
+1,8,Ing/Eng II 4-30/Z3
+3,1,Ing/Eng II 2-37/Z3
+3,2,Ing/Eng II 2-37/Z3
+4,3,Ing/Eng II 4-36/Z3
+4,4,Ing/Eng II 4-36/Z3
+5,7,Ing/Eng II 2-27/Z3
+5,8,Ing/Eng II 2-27/Z3
+#2,E
+1,3,Ing/Eng II 4-38/Z3
+1,4,Ing/Eng II 4-38/Z3
+3,3,Ing/Eng II 2-36/Z3
+3,4,Ing/Eng II 2-36/Z3
+4,5,Ing/Eng II 1-5/Z3
+4,6,Ing/Eng II 1-5/Z3
+5,1,Ing/Eng II 4-38/Z3
+5,2,Ing/Eng II 4-38/Z3
+@JPO 115 T,1,1,
+#1,B
+2,7,Ing/Eng II 1-1/r1r2
+2,8,Ing/Eng II 1-1/r1r2
+4,7,Ing/Eng II 1-1/r1r2
+4,8,Ing/Eng II 1-1/r1r2
+5,11,Ing/Eng II 1-5/r1r2
+5,12,Ing/Eng II 1-5/r1r2
+@BPZ 220,2,2,
+#1,A
+1,11,Ing/Eng II 2-27/b3 B2
+1,12,Ing/Eng II 2-27/b3 B2
+3,3,Ing/Eng II 3-40/b3 B2
+3,4,Ing/Eng II 3-40/b3 B2
+4,3,Ing/Eng II 2-27/b3 B2
+4,4,Ing/Eng II 2-27/b3 B2
+#2,E
+1,5,Ing/Eng II 2-36/b3 B2
+1,6,Ing/Eng II 2-36/b3 B2
+3,5,Ing/Eng II 2-36/b3 B2
+3,6,Ing/Eng II 2-36/b3 B2
+4,13,Ing/Eng II 2-27/b3 B2
+4,14,Ing/Eng II 2-27/b3 B2
+@PEE 410 P,4,1,
+#1,B
+3,11,Ing/Eng II 3-28/P4
+3,12,Ing/Eng II 3-28/P4
+3,13,Ing/Eng II 3-28/P4
+3,14,Ing/Eng II 3-28/P4
+@PSZ 410 P,4,1,
+#1,B
+4,11,Ing/Eng II 3-43/P4
+4,12,Ing/Eng II 3-43/P4
+4,13,Ing/Eng II 3-43/P4
+4,14,Ing/Eng II 3-43/P4
+@EAI 320,3,1,
+#1,A
+1,3,Ing/Eng II 1-2/R3
+1,4,Ing/Eng II 1-2/R3
+2,7,Ing/Eng II 1-5/R3
+2,8,Ing/Eng II 1-5/R3
+3,3,Ing/Eng II 3-31/R3
+3,4,Ing/Eng II 3-31/R3
+5,1,Ing/Eng II 4-36/R3
+5,2,Ing/Eng II 4-36/R3
+#2,E
+1,5,Ing/Eng II 1-5/R3
+1,6,Ing/Eng II 1-5/R3
+2,9,Ing/Eng II 3-25/R3
+2,10,Ing/Eng II 3-25/R3
+3,7,Ing/Eng II 3-25/R3
+3,8,Ing/Eng II 3-25/R3
+4,7,Ing/Eng II 3-25/R3
+4,8,Ing/Eng II 3-25/R3
+@PMY 320,3,2,
+#1,B
+1,13,Ing/Eng II 4-21/P3
+1,14,Ing/Eng II 4-21/P3
+1,15,Ing/Eng II 1-2/P3
+1,16,Ing/Eng II 1-2/P3
+2,11,Ing/Eng II 1-1/P3
+2,12,Ing/Eng II 1-1/P3
+5,1,Ing/Eng II 4-21/P3
+5,2,Ing/Eng II 4-21/P3
+5,3,Ing/Eng II 4-21/P3
+5,4,Ing/Eng II 4-21/P3
+@CIR 310,3,1,
+#1,A
+1,3,Ing/Eng II 1-5/C3
+1,4,Ing/Eng II 1-5/C3
+3,3,Ing/Eng II 4-36/C3
+3,4,Ing/Eng II 4-36/C3
+4,3,Ing/Eng II 1-1/C3
+4,4,Ing/Eng II 1-1/C3
+5,3,Ing/Eng II 2-27/C3
+5,4,Ing/Eng II 2-27/C3
+#2,E
+1,1,Ing/Eng II 4-36/C3
+1,2,Ing/Eng II 4-36/C3
+3,1,Ing/Eng II 4-36/C3
+3,2,Ing/Eng II 4-36/C3
+4,13,Ing/Eng II 4-36/C3
+4,14,Ing/Eng II 4-36/C3
+5,5,Ing/Eng II 4-36/C3
+5,6,Ing/Eng II 4-36/C3
+@CPN 321,3,2,
+#1,A
+1,5,Ing/Eng II 4-30/C3
+1,6,Ing/Eng II 4-30/C3
+2,1,Ing/Eng II 1-1/C3
+2,2,Ing/Eng II 1-1/C3
+3,3,Ing/Eng II 1-5/C3
+3,4,Ing/Eng II 1-5/C3
+5,1,Ing/Eng II 1-1/C3
+5,2,Ing/Eng II 1-1/C3
+#2,E
+1,3,Ing/Eng II 4-30/C3
+1,4,Ing/Eng II 4-30/C3
+2,3,Ing/Eng II 4-30/C3
+2,4,Ing/Eng II 4-30/C3
+3,5,Ing/Eng II 2-27/C3
+3,6,Ing/Eng II 2-27/C3
+5,3,Ing/Eng II 3-40/C3
+5,4,Ing/Eng II 3-40/C3
+@NMC 123,1,2,
+#1,A
+1,11,AE Oudit/Audit/b2e2m2n2p2s2z2 B1M1
+1,12,AE Oudit/Audit/b2e2m2n2p2s2z2 B1M1
+3,5,Louwsaal/Louw hall/b2e2m2n2p2s2z2 B1M1
+3,6,Louwsaal/Louw hall/b2e2m2n2p2s2z2 B1M1
+3,15,Ing/Eng III - 1/b2e2m2n2p2s2z2 B1M1
+3,16,Ing/Eng III - 1/b2e2m2n2p2s2z2 B1M1
+4,13,Suidsaal/South hall/b2e2m2n2p2s2z2 B1M1
+4,14,Suidsaal/South hall/b2e2m2n2p2s2z2 B1M1
+5,7,GW/HB 4-2/b2e2m2n2p2s2z2 B1M1
+5,8,GW/HB 4-2/b2e2m2n2p2s2z2 B1M1
+#2,E
+1,3,Ing/Eng III - 6/b2e2m2n2p2s2z2 B1M1
+1,4,Ing/Eng III - 6/b2e2m2n2p2s2z2 B1M1
+2,1,Ing/Eng III - 6/b2e2m2n2p2s2z2 B1M1
+2,2,Ing/Eng III - 6/b2e2m2n2p2s2z2 B1M1
+2,9,Ing/Eng III - 6/b2e2m2n2p2s2z2 B1M1
+2,10,Ing/Eng III - 6/b2e2m2n2p2s2z2 B1M1
+3,15,Thuto 1-1/b2e2m2n2p2s2z2 B1M1
+3,16,Thuto 1-1/b2e2m2n2p2s2z2 B1M1
+5,11,Ing/Eng III - 1/b2e2m2n2p2s2z2 B1M1
+5,12,Ing/Eng III - 1/b2e2m2n2p2s2z2 B1M1
+@EBN 111 P,1,1,
+#1,B
+3,7,CAEC Lab & Ing/Eng II 4-39/n2p2 B1
+3,8,CAEC Lab & Ing/Eng II 4-39/n2p2 B1
+3,9,CAEC Lab & Ing/Eng II 4-39/n2p2 B1
+3,10,CAEC Lab & Ing/Eng II 4-39/n2p2 B1
+3,11,CAEC Lab & Ing/Eng II 4-39/n2p2 B1
+3,12,CAEC Lab & Ing/Eng II 4-39/n2p2 B1
+#2,B
+3,15,CAEC Lab & Ing/Eng II 4-39/r2 B1
+3,16,CAEC Lab & Ing/Eng II 4-39/r2 B1
+3,17,CAEC Lab & Ing/Eng II 4-39/r2 B1
+3,18,CAEC Lab & Ing/Eng II 4-39/r2 B1
+3,19,CAEC Lab & Ing/Eng II 4-39/r2 B1
+3,20,CAEC Lab & Ing/Eng II 4-39/r2 B1
+#3,B
+1,9,CAEC Lab & Ing/Eng II 4-39/z2 M1
+1,10,CAEC Lab & Ing/Eng II 4-39/z2 M1
+1,11,CAEC Lab & Ing/Eng II 4-39/z2 M1
+1,12,CAEC Lab & Ing/Eng II 4-39/z2 M1
+1,13,CAEC Lab & Ing/Eng II 4-39/z2 M1
+1,14,CAEC Lab & Ing/Eng II 4-39/z2 M1
+#4,B
+5,13,CAEC Lab & Ing/Eng II 4-39/e2 M1R1R1
+5,14,CAEC Lab & Ing/Eng II 4-39/e2 M1R1R1
+5,15,CAEC Lab & Ing/Eng II 4-39/e2 M1R1R1
+5,16,CAEC Lab & Ing/Eng II 4-39/e2 M1R1R1
+5,17,CAEC Lab & Ing/Eng II 4-39/e2 M1R1R1
+5,18,CAEC Lab & Ing/Eng II 4-39/e2 M1R1R1
+#5,B
+1,15,CAEC Lab & Ing/Eng II 4-39/b2c2m2s2
+1,16,CAEC Lab & Ing/Eng II 4-39/b2c2m2s2
+1,17,CAEC Lab & Ing/Eng II 4-39/b2c2m2s2
+1,18,CAEC Lab & Ing/Eng II 4-39/b2c2m2s2
+1,19,CAEC Lab & Ing/Eng II 4-39/b2c2m2s2
+1,20,CAEC Lab & Ing/Eng II 4-39/b2c2m2s2
+@CHM 226 P,2,2,
+#1,B
+4,7,Raadpl/Consult Dept/c3 C2
+4,8,Raadpl/Consult Dept/c3 C2
+4,9,Raadpl/Consult Dept/c3 C2
+4,10,Raadpl/Consult Dept/c3 C2
+4,11,Raadpl/Consult Dept/c3 C2
+4,12,Raadpl/Consult Dept/c3 C2
+4,15,Raadpl/Consult Dept/c3 C2
+4,16,Raadpl/Consult Dept/c3 C2
+4,17,Raadpl/Consult Dept/c3 C2
+4,18,Raadpl/Consult Dept/c3 C2
+4,19,Raadpl/Consult Dept/c3 C2
+4,20,Raadpl/Consult Dept/c3 C2
+@CHM 215 P,2,1,
+#1,A
+5,5,Raadpleeg/Consult Dept/c3 C2
+5,6,Raadpleeg/Consult Dept/c3 C2
+5,7,Raadpleeg/Consult Dept/c3 C2
+5,8,Raadpleeg/Consult Dept/c3 C2
+5,9,Raadpleeg/Consult Dept/c3 C2
+5,10,Raadpleeg/Consult Dept/c3 C2
+5,11,Raadpleeg/Consult Dept/c3 C2
+5,12,Raadpleeg/Consult Dept/c3 C2
+5,13,Raadpleeg/Consult Dept/c3 C2
+5,14,Raadpleeg/Consult Dept/c3 C2
+5,15,Raadpleeg/Consult Dept/c3 C2
+5,16,Raadpleeg/Consult Dept/c3 C2
+#2,E
+2,5,Raadpl/Consult Dept/c3 C2
+2,6,Raadpl/Consult Dept/c3 C2
+2,7,Raadpl/Consult Dept/c3 C2
+2,8,Raadpl/Consult Dept/c3 C2
+2,9,Raadpl/Consult Dept/c3 C2
+2,10,Raadpl/Consult Dept/c3 C2
+2,11,Raadpl/Consult Dept/c3 C2
+2,12,Raadpl/Consult Dept/c3 C2
+2,13,Raadpl/Consult Dept/c3 C2
+2,14,Raadpl/Consult Dept/c3 C2
+2,15,Raadpl/Consult Dept/c3 C2
+2,16,Raadpl/Consult Dept/c3 C2
+@ENR 320,3,2,
+#1,B
+1,15,Ing/Eng II 4-36/E3
+1,16,Ing/Eng II 4-36/E3
+2,9,Ing/Eng III- 4/E3
+2,10,Ing/Eng III- 4/E3
+3,7,Ing/Eng II 4-36/E3
+3,8,Ing/Eng II 4-36/E3
+5,3,Ing/Eng II 4-36/E3
+5,4,Ing/Eng II 4-36/E3
+@ERP 420 P,4,2,
+#1,B
+5,7,Ing/Eng II 4-36/R4
+5,8,Ing/Eng II 4-36/R4
+5,9,Ing/Eng II 4-36/R4
+5,10,Ing/Eng II 4-36/R4
+5,11,Ing/Eng II 4-36/R4
+5,12,Ing/Eng II 4-36/R4
+@SEV 421,4,2,
+#1,B
+1,7,Ing/Eng III - 7/S4
+1,8,Ing/Eng III - 7/S4
+1,9,Ing/Eng III - 7/S4
+1,10,Ing/Eng III - 7/S4
+2,7,Eeufees/Centenary 4/S4
+2,8,Eeufees/Centenary 4/S4
+2,9,Eeufees/Centenary 4/S4
+2,10,Eeufees/Centenary 4/S4
+3,1,GW/HB 4-3/S4
+3,2,GW/HB 4-3/S4
+3,3,GW/HB 4-3/S4
+3,4,GW/HB 4-3/S4
+@MIA 320,3,2,
+#1,B
+4,9,Roossaal/Roos hall/b3e3m3p3z3 B3C3E3M3N3P3R3Z3
+4,10,Roossaal/Roos hall/b3e3m3p3z3 B3C3E3M3N3P3R3Z3
+4,11,Roossaal/Roos hall/b3e3m3p3z3 B3C3E3M3N3P3R3Z3
+4,12,Roossaal/Roos hall/b3e3m3p3z3 B3C3E3M3N3P3R3Z3
+@EAD 410 P,4,1,
+#1,B
+3,9,Elek/Elec Lab/E4
+3,10,Elek/Elec Lab/E4
+3,11,Elek/Elec Lab/E4
+3,12,Elek/Elec Lab/E4
+3,13,Elek/Elec Lab/E4
+3,14,Elek/Elec Lab/E4
+@MIA 320 T,3,2,
+#1,B
+1,7,Ing/Eng III - 6/b3e3m3p3z3 B3C3E3M3N3P3R3Z3
+1,8,Ing/Eng III - 6/b3e3m3p3z3 B3C3E3M3N3P3R3Z3
+@HAS 120,1,2,
+#1,A
+1,13,Roossaal/Roos hall/n1p1 B1C1N1P1S1
+1,14,Roossaal/Roos hall/n1p1 B1C1N1P1S1
+5,13,Ing/Eng III - 6/n1p1 B1C1N1P1S1
+5,14,Ing/Eng III - 6/n1p1 B1C1N1P1S1
+#2,A
+1,7,Ing/Eng III - 1/b1c1e1m1r1s1z1 E1M1R1Z1
+1,8,Ing/Eng III - 1/b1c1e1m1r1s1z1 E1M1R1Z1
+4,11,Ing/Eng III - 1/b1c1e1m1r1s1z1 E1M1R1Z1
+4,12,Ing/Eng III - 1/b1c1e1m1r1s1z1 E1M1R1Z1
+#3,E
+2,5,Ing/Eng III - 7/c1e1n1p1s1z1 E1N1P1S1Z1
+2,6,Ing/Eng III - 7/c1e1n1p1s1z1 E1N1P1S1Z1
+4,3,IT 2-23/c1e1n1p1s1z1 E1N1P1S1Z1
+4,4,IT 2-23/c1e1n1p1s1z1 E1N1P1S1Z1
+#4,E
+2,3,Ing/Eng III - 1/b1m1r1 B1C1M1R1
+2,4,Ing/Eng III - 1/b1m1r1 B1C1M1R1
+3,13,Ing/Eng III - 1/b1m1r1 B1C1M1R1
+3,14,Ing/Eng III - 1/b1m1r1 B1C1M1R1
+@MPR 213,2,1,
+#1,A
+1,3,Ing/Eng III - 1/b3c3m3n3p3s3 B2C2M2N2P2S3
+1,4,Ing/Eng III - 1/b3c3m3n3p3s3 B2C2M2N2P2S3
+2,15,Ing/Eng III - 6/b3c3m3n3p3s3 B2C2M2N2P2S3
+2,16,Ing/Eng III - 6/b3c3m3n3p3s3 B2C2M2N2P2S3
+3,3,Ing/Eng III - 7/b3c3m3n3p3s3 B2C2M2N2P2S3
+3,4,Ing/Eng III - 7/b3c3m3n3p3s3 B2C2M2N2P2S3
+4,5,Ing/Eng III - 6/b3c3m3n3p3s3 B2C2M2N2P2S3
+4,6,Ing/Eng III - 6/b3c3m3n3p3s3 B2C2M2N2P2S3
+#2,E
+2,17,Thuto 1-2/b3c3m3n3p3s3 B2C2M2N2P2S3
+2,18,Thuto 1-2/b3c3m3n3p3s3 B2C2M2N2P2S3
+2,19,Thuto 1-2/b3c3m3n3p3s3 B2C2M2N2P2S3
+2,20,Thuto 1-2/b3c3m3n3p3s3 B2C2M2N2P2S3
+4,9,Thuto 1-1/b3c3m3n3p3s3 B2C2M2N2P2S3
+4,10,Thuto 1-1/b3c3m3n3p3s3 B2C2M2N2P2S3
+4,11,Thuto 1-1/b3c3m3n3p3s3 B2C2M2N2P2S3
+4,12,Thuto 1-1/b3c3m3n3p3s3 B2C2M2N2P2S3
+@MJJ 210,2,1,
+#1,B
+1,5,Ing/Eng III - 7/m3 M2
+1,6,Ing/Eng III - 7/m3 M2
+1,7,Ing/Eng III - 7/m3 M2
+1,8,Ing/Eng III - 7/m3 M2
+@SIN 223,2,2,
+#1,B
+1,9,Ing/Eng III - 6/s3 S2
+1,10,Ing/Eng III - 6/s3 S2
+2,7,Ing/Eng III- 4/s3 S2
+2,8,Ing/Eng III- 4/s3 S2
+3,9,Ing/Eng III- 4/s3 S2
+3,10,Ing/Eng III- 4/s3 S2
+5,1,Ing/Eng III- 4/s3 S2
+5,2,Ing/Eng III- 4/s3 S2
+@MGC 110 P,1,1,
+#1,A
+4,3,Ing/Eng III - 7/c2e2m2n2p2s2z2 B1C1E1N1P1Z1
+4,4,Ing/Eng III - 7/c2e2m2n2p2s2z2 B1C1E1N1P1Z1
+4,5,Ing/Eng III - 7/c2e2m2n2p2s2z2 B1C1E1N1P1Z1
+4,6,Ing/Eng III - 7/c2e2m2n2p2s2z2 B1C1E1N1P1Z1
+4,7,Ing/Eng III - 7/c2e2m2n2p2s2z2 B1C1E1N1P1Z1
+4,8,Ing/Eng III - 7/c2e2m2n2p2s2z2 B1C1E1N1P1Z1
+#2,E
+2,1,Ing/Eng III - 7/c2 B1C1E1M1
+2,2,Ing/Eng III - 7/c2 B1C1E1M1
+2,3,Ing/Eng III - 7/c2 B1C1E1M1
+2,4,Ing/Eng III - 7/c2 B1C1E1M1
+2,5,Ing/Eng III - 7/c2 B1C1E1M1
+2,6,Ing/Eng III - 7/c2 B1C1E1M1
+#3,E
+3,15,Ing/Eng III - 7/b2e2m2n2p2s2z2 N1P1S1Z1
+3,16,Ing/Eng III - 7/b2e2m2n2p2s2z2 N1P1S1Z1
+3,17,Ing/Eng III - 7/b2e2m2n2p2s2z2 N1P1S1Z1
+3,18,Ing/Eng III - 7/b2e2m2n2p2s2z2 N1P1S1Z1
+3,19,Ing/Eng III - 7/b2e2m2n2p2s2z2 N1P1S1Z1
+3,20,Ing/Eng III - 7/b2e2m2n2p2s2z2 N1P1S1Z1
+#4,A
+2,7,Ing/Eng III - 7/b2 M1S1
+2,8,Ing/Eng III - 7/b2 M1S1
+2,9,Ing/Eng III - 7/b2 M1S1
+2,10,Ing/Eng III - 7/b2 M1S1
+2,11,Ing/Eng III - 7/b2 M1S1
+2,12,Ing/Eng III - 7/b2 M1S1
+@JPO 111 T,1,1,
+#1,B
+1,11,Ing/Eng II 1-5/s1
+1,12,Ing/Eng II 1-5/s1
+3,11,Ing/Eng II 1-5/s1
+3,12,Ing/Eng II 1-5/s1
+5,1,Ing/Eng II 3-31/s1
+5,2,Ing/Eng II 3-31/s1
+#2,B
+1,13,Ing/Eng II 1-2/s1
+1,14,Ing/Eng II 1-2/s1
+2,7,Ing/Eng II 1-2/s1
+2,8,Ing/Eng II 1-2/s1
+4,1,Ing/Eng II 4-21/s1
+4,2,Ing/Eng II 4-21/s1
+#3,B
+1,3,Ing/Eng II 1-1/b1
+1,4,Ing/Eng II 1-1/b1
+3,9,Ing/Eng II 2-36/b1
+3,10,Ing/Eng II 2-36/b1
+5,9,Ing/Eng II 1-1/b1
+5,10,Ing/Eng II 1-1/b1
+#4,B
+1,15,Ing/Eng II 1-2/c1
+1,16,Ing/Eng II 1-2/c1
+3,15,Ing/Eng II 1-5/c1
+3,16,Ing/Eng II 1-5/c1
+4,11,Ing/Eng II 3-31/c1
+4,12,Ing/Eng II 3-31/c1
+@EHN 410,4,1,
+#1,B
+1,9,Ing/Eng II 1-5/R4
+1,10,Ing/Eng II 1-5/R4
+3,5,Ing/Eng II 1-5/R4
+3,6,Ing/Eng II 1-5/R4
+4,3,Ing/Eng II 1-5/R4
+4,4,Ing/Eng II 1-5/R4
+5,7,Ing/Eng II 1-5/R4
+5,8,Ing/Eng II 1-5/R4
+@JPO 123 T,1,2,
+#1,B
+2,15,Ing/Eng II 4-30/m2
+2,16,Ing/Eng II 4-30/m2
+4,9,Ing/Eng II 3-31/m2
+4,10,Ing/Eng II 3-31/m2
+5,3,Ing/Eng II 1-1/m2
+5,4,Ing/Eng II 1-1/m2
+#2,B
+1,7,Ing/Eng II 1-2/e2p2z2
+1,8,Ing/Eng II 1-2/e2p2z2
+2,13,Ing/Eng II 3-34/e2p2z2
+2,14,Ing/Eng II 3-34/e2p2z2
+4,1,Ing/Eng II 1-1/e2p2z2
+4,2,Ing/Eng II 1-1/e2p2z2
+#3,B
+1,17,Ing/Eng II 3-31/b2n2
+1,18,Ing/Eng II 3-31/b2n2
+3,7,Ing/Eng II 3-31/b2n2
+3,8,Ing/Eng II 3-31/b2n2
+4,11,Ing/Eng II 1-2/b2n2
+4,12,Ing/Eng II 1-2/b2n2
+#4,B
+1,13,Ing/Eng II 2-27/s2
+1,14,Ing/Eng II 2-27/s2
+3,3,GW/HB 3-24/s2
+3,4,GW/HB 3-24/s2
+4,5,Ing/Eng II 4-30/s2
+4,6,Ing/Eng II 4-30/s2
+@EBT 410,4,1,
+#1,B
+1,13,Ing/Eng II 2-36/E4Z4
+1,14,Ing/Eng II 2-36/E4Z4
+3,7,Ing/Eng III - 2/E4Z4
+3,8,Ing/Eng III - 2/E4Z4
+4,13,Ing/Eng II 4-38/E4Z4
+4,14,Ing/Eng II 4-38/E4Z4
+5,1,Ing/Eng II 3-40/E4Z4
+5,2,Ing/Eng II 3-40/E4Z4
+@MII 420,4,2,
+#1,B
+3,1,Ing/Eng II 1-1/M4
+3,2,Ing/Eng II 1-1/M4
+3,3,Ing/Eng II 1-1/M4
+3,4,Ing/Eng II 1-1/M4
+3,5,Ing/Eng II 1-1/M4
+3,6,Ing/Eng II 1-1/M4
+@NPW 411,4,1,
+#1,B
+2,7,Ing/Eng II 3-43/N4
+2,8,Ing/Eng II 3-43/N4
+3,7,Ing/Eng II 3-28/N4
+3,8,Ing/Eng II 3-28/N4
+4,5,Ing/Eng II 3-28/N4
+4,6,Ing/Eng II 3-28/N4
+4,7,Ing/Eng II 3-28/N4
+4,8,Ing/Eng II 3-28/N4
+@NMC 313 P,3,1,
+#1,B
+4,15,Ing/Eng II 4-30/N3
+4,16,Ing/Eng II 4-30/N3
+4,17,Ing/Eng II 4-30/N3
+4,18,Ing/Eng II 4-30/N3
+4,19,Ing/Eng II 4-30/N3
+4,20,Ing/Eng II 4-30/N3
+@NVM 321 P,3,2,
+#1,B
+1,17,Ing/Eng II 1-2/N3
+1,18,Ing/Eng II 1-2/N3
+1,19,Ing/Eng II 1-2/N3
+1,20,Ing/Eng II 1-2/N3
+@JPO 121 T,1,2,
+#1,B
+3,1,Ing/Eng II 3-43/c2
+3,2,Ing/Eng II 3-43/c2
+4,17,Ing/Eng II 3-43/c2
+4,18,Ing/Eng II 3-43/c2
+5,9,Ing/Eng II 3-43/c2
+5,10,Ing/Eng II 3-43/c2
+@ESC 320,3,2,
+#1,A
+1,5,Ing/Eng II 3-40/Z3
+1,6,Ing/Eng II 3-40/Z3
+2,7,Ing/Eng II 3-34/Z3
+2,8,Ing/Eng II 3-34/Z3
+4,1,Ing/Eng II 4-36/Z3
+4,2,Ing/Eng II 4-36/Z3
+5,3,Ing/Eng II 2-37/Z3
+5,4,Ing/Eng II 2-37/Z3
+#2,E
+1,3,Ing/Eng II 4-36/Z3
+1,4,Ing/Eng II 4-36/Z3
+2,1,Ing/Eng II 3-34/Z3
+2,2,Ing/Eng II 3-34/Z3
+4,13,Ing/Eng II 4-36/Z3
+4,14,Ing/Eng II 4-36/Z3
+5,1,Ing/Eng II 3-34/Z3
+5,2,Ing/Eng II 3-34/Z3
+@EDC 310 P,3,2,
+#1,B
+3,15,Ing/Eng II 3-31/R3
+3,16,Ing/Eng II 3-31/R3
+3,17,Ing/Eng II 3-31/R3
+3,18,Ing/Eng II 3-31/R3
+3,19,Ing/Eng II 3-31/R3
+3,20,Ing/Eng II 3-31/R3
+@ELO 320,3,2,
+#1,B
+2,9,Ing/Eng III -3/Z3
+2,10,Ing/Eng III -3/Z3
+4,7,Ing/Eng II 2-37/Z3
+4,8,Ing/Eng II 2-37/Z3
+@EMK 310,3,1,
+#1,A
+1,1,Ing/Eng II 4-39/E3R3Z3
+1,2,Ing/Eng II 4-39/E3R3Z3
+3,5,Ing/Eng II 4-39/E3R3Z3
+3,6,Ing/Eng II 4-39/E3R3Z3
+5,15,Ing/Eng II 4-38/E3R3Z3
+5,16,Ing/Eng II 4-38/E3R3Z3
+#2,E
+1,11,Ing/Eng III - 2/E3R3Z3
+1,12,Ing/Eng III - 2/E3R3Z3
+2,1,Ing/Eng II 4-39/E3R3Z3
+2,2,Ing/Eng II 4-39/E3R3Z3
+5,5,Ing/Eng II 4-39/E3R3Z3
+5,6,Ing/Eng II 4-39/E3R3Z3
+@NHM 322,3,2,
+#1,B
+1,13,Ing/Eng II 1-2/N3
+1,14,Ing/Eng II 1-2/N3
+2,1,Ing/Eng II 4-36/N3
+2,2,Ing/Eng II 4-36/N3
+4,5,Ing/Eng II 4-36/N3
+4,6,Ing/Eng II 4-36/N3
+@MTX 311,3,1,
+#1,B
+1,3,Ing/Eng III - 7/M3
+1,4,Ing/Eng III - 7/M3
+2,11,Ing/Eng III - 1/M3
+2,12,Ing/Eng III - 1/M3
+4,13,Ing/Eng III -3/M3
+4,14,Ing/Eng III -3/M3
+@MOW 323,3,2,
+#1,B
+2,5,Ing/Eng III - 6/M3
+2,6,Ing/Eng III - 6/M3
+3,1,Ing/Eng III - 7/M3
+3,2,Ing/Eng III - 7/M3
+3,3,Ing/Eng III - 7/M3
+3,4,Ing/Eng III - 7/M3
+3,5,Ing/Eng III - 7/M3
+3,6,Ing/Eng III - 7/M3
+4,1,Ing/Eng III - 6/M3
+4,2,Ing/Eng III - 6/M3
+4,15,Ing/Eng III - 7/M3
+4,16,Ing/Eng III - 7/M3
+4,17,Ing/Eng III - 7/M3
+4,18,Ing/Eng III - 7/M3
+@JPO 113 T,1,1,
+#1,B
+1,13,Ing/Eng II 3-31/b2c2e2
+1,14,Ing/Eng II 3-31/b2c2e2
+3,1,Ing/Eng II 3-31/b2c2e2
+3,2,Ing/Eng II 3-31/b2c2e2
+4,13,Ing/Eng II 3-34/b2c2e2
+4,14,Ing/Eng II 3-34/b2c2e2
+#2,B
+2,5,Ing/Eng II 3-31/s2z2
+2,6,Ing/Eng II 3-31/s2z2
+3,3,Ing/Eng II 2-37/s2z2
+3,4,Ing/Eng II 2-37/s2z2
+4,9,Ing/Eng II 4-30/s2z2
+4,10,Ing/Eng II 4-30/s2z2
+#3,B
+1,11,Ing/Eng II 1-2/m2
+1,12,Ing/Eng II 1-2/m2
+3,7,Ing/Eng II 4-36/m2
+3,8,Ing/Eng II 4-36/m2
+5,5,Ing/Eng II 1-2/m2
+5,6,Ing/Eng II 1-2/m2
+#4,B
+1,19,Ing/Eng II 2-27/n2p2z2
+1,20,Ing/Eng II 2-27/n2p2z2
+4,1,Ing/Eng II 3-40/n2p2z2
+4,2,Ing/Eng II 3-40/n2p2z2
+5,13,Ing/Eng II 3-31/n2p2z2
+5,14,Ing/Eng II 3-31/n2p2z2
+@EES 424,4,2,
+#1,B
+1,5,Ing/Eng II 2-27/Z4
+1,6,Ing/Eng II 2-27/Z4
+2,11,Ing/Eng III - 2/Z4
+2,12,Ing/Eng III - 2/Z4
+3,13,Ing/Eng II 2-27/Z4
+3,14,Ing/Eng II 2-27/Z4
+4,5,Ing/Eng III - 5/Z4
+4,6,Ing/Eng III - 5/Z4
+@ESC 320 P,3,2,
+#1,B
+3,15,ING Elekriese Lab B & Ing I 1-1/Z3
+3,16,ING Elekriese Lab B & Ing I 1-1/Z3
+3,17,ING Elekriese Lab B & Ing I 1-1/Z3
+3,18,ING Elekriese Lab B & Ing I 1-1/Z3
+3,19,ING Elekriese Lab B & Ing I 1-1/Z3
+3,20,ING Elekriese Lab B & Ing I 1-1/Z3
+@MGC 110,1,1,
+#1,A
+1,5,Roossaal/Roos hall/b2c2e2m2n2p2s2z2 B1C1E1M1N1P1S1Z1
+1,6,Roossaal/Roos hall/b2c2e2m2n2p2s2z2 B1C1E1M1N1P1S1Z1
+2,13,Roossaal/Roos hall/b2c2e2m2n2p2s2z2 B1C1E1M1N1P1S1Z1
+2,14,Roossaal/Roos hall/b2c2e2m2n2p2s2z2 B1C1E1M1N1P1S1Z1
+5,11,AE Oudit/Audit/b2c2e2m2n2p2s2z2 B1C1E1M1N1P1S1Z1
+5,12,AE Oudit/Audit/b2c2e2m2n2p2s2z2 B1C1E1M1N1P1S1Z1
+#2,E
+3,5,Ing/Eng III - 1/b2c2m2n2p2s2z2 C1E1P1Z1
+3,6,Ing/Eng III - 1/b2c2m2n2p2s2z2 C1E1P1Z1
+4,7,Thuto 1-1/b2c2m2n2p2s2z2 C1E1P1Z1
+4,8,Thuto 1-1/b2c2m2n2p2s2z2 C1E1P1Z1
+5,9,Ing/Eng III - 1/b2c2m2n2p2s2z2 C1E1P1Z1
+5,10,Ing/Eng III - 1/b2c2m2n2p2s2z2 C1E1P1Z1
+#3,E
+1,7,Ing/Eng III - 1/e2 B1M1N1S1
+1,8,Ing/Eng III - 1/e2 B1M1N1S1
+3,7,Ing/Eng III - 1/e2 B1M1N1S1
+3,8,Ing/Eng III - 1/e2 B1M1N1S1
+5,5,Ing/Eng III - 1/e2 B1M1N1S1
+5,6,Ing/Eng III - 1/e2 B1M1N1S1
+@EAI 320 P,3,1,
+#1,B
+3,15,Netwerke/Networks Lab/R3
+3,16,Netwerke/Networks Lab/R3
+3,17,Netwerke/Networks Lab/R3
+3,18,Netwerke/Networks Lab/R3
+3,19,Netwerke/Networks Lab/R3
+3,20,Netwerke/Networks Lab/R3
+4,13,Netwerke/Networks Lab/R3
+4,14,Netwerke/Networks Lab/R3
+4,15,Netwerke/Networks Lab/R3
+4,16,Netwerke/Networks Lab/R3
+4,17,Netwerke/Networks Lab/R3
+4,18,Netwerke/Networks Lab/R3
+@SHC 321,3,2,
+#1,B
+1,7,Ing/Eng III - 2/S3
+1,8,Ing/Eng III - 2/S3
+2,9,Ing/Eng III - 2/S3
+2,10,Ing/Eng III - 2/S3
+3,1,Ing/Eng III - 5/S3
+3,2,Ing/Eng III - 5/S3
+5,9,Eeufees/Centenary 2/S3
+5,10,Eeufees/Centenary 2/S3
+@MOO 420,4,2,
+#1,B
+1,9,Ing/Eng III - 1/M4
+1,10,Ing/Eng III - 1/M4
+1,15,Ing/Eng III - 2/M4
+1,16,Ing/Eng III - 2/M4
+1,17,Ing/Eng III - 2/M4
+1,18,Ing/Eng III - 2/M4
+@MHM 420,4,2,
+#1,B
+5,7,Ing/Eng III -3/M4
+5,8,Ing/Eng III -3/M4
+5,13,Ing/Eng III - 2/M4
+5,14,Ing/Eng III - 2/M4
+5,15,Ing/Eng III - 2/M4
+5,16,Ing/Eng III - 2/M4
+@CLB 321,3,2,
+#1,B
+1,9,Raadpleeg/Consult Dept/C3
+1,10,Raadpleeg/Consult Dept/C3
+3,15,Raadpleeg/Consult Dept/C3
+3,16,Raadpleeg/Consult Dept/C3
+3,17,Raadpleeg/Consult Dept/C3
+3,18,Raadpleeg/Consult Dept/C3
+3,19,Raadpleeg/Consult Dept/C3
+3,20,Raadpleeg/Consult Dept/C3
+@SVC 323,3,2,
+#1,B
+1,5,AE Anneks/Annex/S3
+1,6,AE Anneks/Annex/S3
+3,3,Ing/Eng III - 5/S3
+3,4,Ing/Eng III - 5/S3
+3,5,Ing/Eng III - 5/S3
+3,6,Ing/Eng III - 5/S3
+4,3,Eeufees/Centenary 6/S3
+4,4,Eeufees/Centenary 6/S3
+@MSD 210 P,2,1,
+#1,B
+3,13,Ing/Eng III - 6/b3e3e3m3m3z3 B2E2E2M2Z2Z2
+3,14,Ing/Eng III - 6/b3e3e3m3m3z3 B2E2E2M2Z2Z2
+3,15,Ing/Eng III - 6/b3e3e3m3m3z3 B2E2E2M2Z2Z2
+3,16,Ing/Eng III - 6/b3e3e3m3m3z3 B2E2E2M2Z2Z2
+#2,B
+2,7,Ing/Eng III - 1/b3n3n3p3p3z3 B2M2N2N2P2P2
+2,8,Ing/Eng III - 1/b3n3n3p3p3z3 B2M2N2N2P2P2
+2,9,Ing/Eng III - 1/b3n3n3p3p3z3 B2M2N2N2P2P2
+2,10,Ing/Eng III - 1/b3n3n3p3p3z3 B2M2N2N2P2P2
+@SUR 210,2,1,
+#1,A
+1,1,Ing/Eng II 2-27/s3 S2
+1,2,Ing/Eng II 2-27/s3 S2
+3,7,Teologie/Theology 2-1/s3 S2
+3,8,Teologie/Theology 2-1/s3 S2
+5,3,Ing/Eng II 2-37/s3 S2
+5,4,Ing/Eng II 2-37/s3 S2
+#2,E
+1,7,Noordsaal/North hall/s3 S2
+1,8,Noordsaal/North hall/s3 S2
+3,9,Ing/Eng II 2-27/s3 S2
+3,10,Ing/Eng II 2-27/s3 S2
+4,3,GW/HB 3-15/s3 S2
+4,4,GW/HB 3-15/s3 S2
+@SIN 413 P,4,1,
+#1,B
+5,3,Thuto 3-1/S4
+5,4,Thuto 3-1/S4
+@SGM 311,3,1,
+#1,B
+1,7,Ing/Eng III- 4/S3
+1,8,Ing/Eng III- 4/S3
+3,9,Ing/Eng III- 4/S3
+3,10,Ing/Eng III- 4/S3
+5,9,VD Bijlsaal/VD Bijl hall/S3
+5,10,VD Bijlsaal/VD Bijl hall/S3
+@JPO 120,1,2,
+#1,B
+1,9,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+1,10,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+1,11,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+1,12,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+4,7,Ing/Eng III - 7/c1e1m1
+4,8,Ing/Eng III - 7/c1e1m1
+4,9,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+4,10,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+5,13,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+5,14,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+5,15,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+5,16,NW2 Rek/Comp lab 1,2,3,4/c1e1m1
+#2,B
+2,7,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+2,8,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+2,9,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+2,10,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+4,13,Ing/Eng III - 7/b1n1p1r1s1z1
+4,14,Ing/Eng III - 7/b1n1p1r1s1z1
+4,15,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+4,16,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+5,5,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+5,6,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+5,7,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+5,8,NW2 Rek/Comp lab 1,2,3,4/b1n1p1r1s1z1
+@JPO 110,1,1,
+#1,B
+1,5,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+1,6,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+1,7,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+1,8,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+3,5,Ing/Eng III - 7/b1c1s1
+3,6,Ing/Eng III - 7/b1c1s1
+3,7,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+3,8,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+4,5,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+4,6,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+4,7,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+4,8,NW2 Rek/Comp lab 1,2,3,4/b1c1s1
+#2,B
+2,17,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+2,18,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+2,19,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+2,20,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+3,15,Roossaal/Roos hall/e1m1n1p1r1z1
+3,16,Roossaal/Roos hall/e1m1n1p1r1z1
+3,17,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+3,18,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+4,9,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+4,10,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+4,11,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+4,12,NW2 Rek/Comp lab 1,2,3,4/e1m1n1p1r1z1
+@EPR 402,4,0,
+#1,A
+2,13,Ing/Eng II 2-37/R4
+2,14,Ing/Eng II 2-37/R4
+#2,E
+2,15,GW/HB 3-23/R4
+2,16,GW/HB 3-23/R4
+@ERA 284,2,2,
+#1,A
+1,19,IT 2-23/r2 R1
+1,20,IT 2-23/r2 R1
+3,13,IT 4-4/r2 R1
+3,14,IT 4-4/r2 R1
+4,3,GW/HB 4-12/r2 R1
+4,4,GW/HB 4-12/r2 R1
+#2,E
+2,5,Eeufees/Centenary 1/r2 R1
+2,6,Eeufees/Centenary 1/r2 R1
+3,15,IT 4-5/r2 R1
+3,16,IT 4-5/r2 R1
+4,5,VD Bijlsaal/VD Bijl hall/r2 R1
+4,6,VD Bijlsaal/VD Bijl hall/r2 R1
+#3,E
+2,19,GW/HB 4-3/
+2,20,GW/HB 4-3/
+3,7,Eeufees/Centenary 6/
+3,8,Eeufees/Centenary 6/
+4,13,GW/HB 4-3/
+4,14,GW/HB 4-3/
+@MKM 410 P,4,1,
+#1,B
+1,7,Ing/Eng III - 2/M4
+1,8,Ing/Eng III - 2/M4
+1,9,Ing/Eng III - 2/M4
+1,10,Ing/Eng III - 2/M4
+3,19,NW2 Rek/Comp lab 1,2/M4
+3,20,NW2 Rek/Comp lab 1,2/M4
+3,21,NW2 Rek/Comp lab 1,2/M4
+3,22,NW2 Rek/Comp lab 1,2/M4
+@JPO 161,1,2,
+#1,B
+2,5,Ing/Eng II 4-21/m1
+2,6,Ing/Eng II 4-21/m1
+#2,B
+1,3,Ing/Eng II 2-37/e1n1p1z1
+1,4,Ing/Eng II 2-37/e1n1p1z1
+@ELI 220,2,2,
+#1,A
+1,9,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+1,10,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+3,13,Ing/Eng III- 4/e3r3z3 E2R2Z2
+3,14,Ing/Eng III- 4/e3r3z3 E2R2Z2
+4,13,Ing/Eng II 3-40/e3r3z3 E2R2Z2
+4,14,Ing/Eng II 3-40/e3r3z3 E2R2Z2
+5,3,Ing/Eng II 4-38/e3r3z3 E2R2Z2
+5,4,Ing/Eng II 4-38/e3r3z3 E2R2Z2
+#2,E
+1,3,Ing/Eng III - 5/e3r3z3 E2R2Z2
+1,4,Ing/Eng III - 5/e3r3z3 E2R2Z2
+3,1,Ing/Eng II 4-38/e3r3z3 E2R2Z2
+3,2,Ing/Eng II 4-38/e3r3z3 E2R2Z2
+4,13,Ing/Eng III -3/e3r3z3 E2R2Z2
+4,14,Ing/Eng III -3/e3r3z3 E2R2Z2
+5,1,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+5,2,Ing/Eng II 2-37/e3r3z3 E2R2Z2
+@CIR 113,1,1,
+#1,A
+3,7,Ing/Eng II 1-2/c2 C1
+3,8,Ing/Eng II 1-2/c2 C1
+4,11,Ing/Eng II 4-30/c2 C1
+4,12,Ing/Eng II 4-30/c2 C1
+#2,E
+1,7,Thuto 1-2/c2 C1
+1,8,Thuto 1-2/c2 C1
+4,15,Louwsaal/Louw hall/c2 C1
+4,16,Louwsaal/Louw hall/c2 C1
+@SGM 323,3,2,
+#1,B
+1,1,AE Anneks/Annex/S3
+1,2,AE Anneks/Annex/S3
+2,7,Te Watersaal/Te Water hall/S3
+2,8,Te Watersaal/Te Water hall/S3
+3,13,Ing/Eng III - 7/S3
+3,14,Ing/Eng III - 7/S3
+3,15,Ing/Eng III - 7/S3
+3,16,Ing/Eng III - 7/S3
+4,5,AE Anneks/Annex/S3
+4,6,AE Anneks/Annex/S3
+@PRX 321,3,2,
+#1,B
+4,1,Teologie/Theology 2-1/P3
+4,2,Teologie/Theology 2-1/P3
+4,3,Teologie/Theology 2-1/P3
+4,4,Teologie/Theology 2-1/P3
+4,5,Teologie/Theology 2-1/P3
+4,6,Teologie/Theology 2-1/P3
+@FSK 116,1,1,
+#1,A
+1,3,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+1,4,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+2,5,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+2,6,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+3,3,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+3,4,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+5,1,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+5,2,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+#2,E
+1,5,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+1,6,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+2,13,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+2,14,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+4,1,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+4,2,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+5,3,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+5,4,AE Oudit/Audit/e1m1n1p1z1 B1C1M1
+@COS 131 P,1,1,
+#1,B
+1,19,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+1,20,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+1,21,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+1,22,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+5,17,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+5,18,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+5,19,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+5,20,Raadpleeg/Consult Dept/e3r2z3 E2Z2
+#2,B
+1,21,Raadpleeg/Consult Dept/R1
+1,22,Raadpleeg/Consult Dept/R1
+1,23,Raadpleeg/Consult Dept/R1
+1,24,Raadpleeg/Consult Dept/R1
+2,5,Raadpleeg/Consult Dept/R1
+2,6,Raadpleeg/Consult Dept/R1
+2,7,Raadpleeg/Consult Dept/R1
+2,8,Raadpleeg/Consult Dept/R1
+@MOW 217 P,2,1,
+#1,B
+1,11,Ing/Eng III - 7/b3 B2
+1,12,Ing/Eng III - 7/b3 B2
+1,13,Ing/Eng III - 7/b3 B2
+1,14,Ing/Eng III - 7/b3 B2
+1,15,Ing/Eng III - 7/b3 B2
+1,16,Ing/Eng III - 7/b3 B2
+1,17,Ing/Eng III - 7/b3 B2
+1,18,Ing/Eng III - 7/b3 B2
+#2,B
+5,5,Ing/Eng III - 7/M2
+5,6,Ing/Eng III - 7/M2
+5,7,Ing/Eng III - 7/M2
+5,8,Ing/Eng III - 7/M2
+5,9,Ing/Eng III - 7/M2
+5,10,Ing/Eng III - 7/M2
+5,11,Ing/Eng III - 7/M2
+5,12,Ing/Eng III - 7/M2
+@BSR 410,4,1,
+#1,B
+2,9,Ing/Eng II 4-36/B4
+2,10,Ing/Eng II 4-36/B4
+2,11,Ing/Eng II 4-36/B4
+2,12,Ing/Eng II 4-36/B4
+4,9,Ing/Eng II 4-36/B4
+4,10,Ing/Eng II 4-36/B4
+4,11,Ing/Eng II 4-36/B4
+4,12,Ing/Eng II 4-36/B4
+5,3,Ing/Eng III - 2/B4
+5,4,Ing/Eng III - 2/B4
+5,5,Ing/Eng III - 2/B4
+5,6,Ing/Eng III - 2/B4
+@WTW 256,2,1,
+#1,A
+2,3,IT 4-4/n3s3z3 N2S2Z2
+2,4,IT 4-4/n3s3z3 N2S2Z2
+4,1,EB/EMB 4-150/n3s3z3 N2S2Z2
+4,2,EB/EMB 4-150/n3s3z3 N2S2Z2
+#2,A
+2,13,Ing/Eng III -3/c3m3p3 C2M2P2
+2,14,Ing/Eng III -3/c3m3p3 C2M2P2
+4,11,Ing/Eng III - 2/c3m3p3 C2M2P2
+4,12,Ing/Eng III - 2/c3m3p3 C2M2P2
+#3,A
+2,3,Ing/Eng II 4-38/b3e3r3 B2E2R2
+2,4,Ing/Eng II 4-38/b3e3r3 B2E2R2
+5,7,Teologie/Theology 1-25/b3e3r3 B2E2R2
+5,8,Teologie/Theology 1-25/b3e3r3 B2E2R2
+#4,E
+2,5,Ing/Eng III- 4/m3n3p3s3 N2P2
+2,6,Ing/Eng III- 4/m3n3p3s3 N2P2
+3,5,Ing/Eng III - 5/m3n3p3s3 N2P2
+3,6,Ing/Eng III - 5/m3n3p3s3 N2P2
+#5,E
+1,5,Ing/Eng III - 5/e3z3 E2S2
+1,6,Ing/Eng III - 5/e3z3 E2S2
+4,7,Ing/Eng II 2-37/e3z3 E2S2
+4,8,Ing/Eng II 2-37/e3z3 E2S2
+#6,E
+1,5,GW/HB 4-1/b3c3 B2C2R2
+1,6,GW/HB 4-1/b3c3 B2C2R2
+3,13,Ing/Eng II 3-40/b3c3 B2C2R2
+3,14,Ing/Eng II 3-40/b3c3 B2C2R2
+#7,E
+2,3,AE Anneks/Annex/r3 M2Z2
+2,4,AE Anneks/Annex/r3 M2Z2
+4,7,Ing/Eng III- 4/r3 M2Z2
+4,8,Ing/Eng III- 4/r3 M2Z2
+@SGM 210,2,1,
+#1,B
+2,13,Ing/Eng III - 5/s3 S2
+2,14,Ing/Eng III - 5/s3 S2
+3,13,Ing/Eng III- 4/s3 S2
+3,14,Ing/Eng III- 4/s3 S2
+4,13,Ing/Eng III - 5/s3 S2
+4,14,Ing/Eng III - 5/s3 S2
+5,9,Ing/Eng III - 2/s3 S2
+5,10,Ing/Eng III - 2/s3 S2
+@BOZ 312,3,1,
+#1,B
+1,13,Ing/Eng II 4-38/B3
+1,14,Ing/Eng II 4-38/B3
+1,15,Ing/Eng II 4-38/B3
+1,16,Ing/Eng II 4-38/B3
+2,1,Ing/Eng II 3-40/B3
+2,2,Ing/Eng II 3-40/B3
+2,3,Ing/Eng II 3-40/B3
+2,4,Ing/Eng II 3-40/B3
+3,3,Ing/Eng II 3-40/B3
+3,4,Ing/Eng II 3-40/B3
+3,5,Ing/Eng II 3-40/B3
+3,6,Ing/Eng II 3-40/B3
+@BLK 320 T,3,2,
+#1,B
+2,17,Teologie/Theology 1-9/B3
+2,18,Teologie/Theology 1-9/B3
+2,19,Teologie/Theology 1-9/B3
+2,20,Teologie/Theology 1-9/B3
+@MOW 312,3,1,
+#1,B
+2,7,Ing/Eng III- 4/M3
+2,8,Ing/Eng III- 4/M3
+3,13,Ing/Eng III - 2/M3
+3,14,Ing/Eng III - 2/M3
+4,3,Ing/Eng III - 2/M3
+4,4,Ing/Eng III - 2/M3
+5,13,Ing/Eng III - 7/M3
+5,14,Ing/Eng III - 7/M3
+5,15,Ing/Eng III - 7/M3
+5,16,Ing/Eng III - 7/M3
+5,17,Ing/Eng III - 7/M3
+5,18,Ing/Eng III - 7/M3
+@COP 311,3,1,
+#1,B
+2,5,Ing/Eng II 2-36/C3
+2,6,Ing/Eng II 2-36/C3
+3,11,Ing/Eng II 2-37/C3
+3,12,Ing/Eng II 2-37/C3
+4,5,Ing/Eng II 2-36/C3
+4,6,Ing/Eng II 2-36/C3
+5,9,AE Anneks/Annex/C3
+5,10,AE Anneks/Annex/C3
+@CMO 320,3,1,
+#1,A
+1,1,Ing/Eng II 3-25/C3
+1,2,Ing/Eng II 3-25/C3
+2,1,Ing/Eng II 4-21/C3
+2,2,Ing/Eng II 4-21/C3
+4,1,Ing/Eng II 4-30/C3
+4,2,Ing/Eng II 4-30/C3
+5,5,Ing/Eng II 4-21/C3
+5,6,Ing/Eng II 4-21/C3
+#2,E
+1,3,Ing/Eng II 3-25/C3
+1,4,Ing/Eng II 3-25/C3
+2,3,Ing/Eng II 3-25/C3
+2,4,Ing/Eng II 3-25/C3
+4,3,Ing/Eng II 4-30/C3
+4,4,Ing/Eng II 4-30/C3
+5,1,Ing/Eng II 3-25/C3
+5,2,Ing/Eng II 3-25/C3
+@WTW 161,1,2,
+#1,A
+1,1,GW/HB 4-7/e1r1z1 E1R1Z1
+1,2,GW/HB 4-7/e1r1z1 E1R1Z1
+3,5,Teologie/Theology 2-1/e1r1z1 E1R1Z1
+3,6,Teologie/Theology 2-1/e1r1z1 E1R1Z1
+#2,A
+1,1,Ing/Eng III - 6/c1n1s1 C1N1S1
+1,2,Ing/Eng III - 6/c1n1s1 C1N1S1
+5,11,Ing/Eng III - 6/c1n1s1 C1N1S1
+5,12,Ing/Eng III - 6/c1n1s1 C1N1S1
+#3,A
+1,1,Ing/Eng III - 1/b1m1p1 B1M1P1
+1,2,Ing/Eng III - 1/b1m1p1 B1M1P1
+4,5,Suidsaal/South hall/b1m1p1 B1M1P1
+4,6,Suidsaal/South hall/b1m1p1 B1M1P1
+#4,E
+1,1,Ing/Eng III -3/c1n1 C1N1
+1,2,Ing/Eng III -3/c1n1 C1N1
+2,15,Ing/Eng III -3/c1n1 C1N1
+2,16,Ing/Eng III -3/c1n1 C1N1
+#5,E
+3,5,Ing/Eng III- 4/e1r1z1 E1R1Z1
+3,6,Ing/Eng III- 4/e1r1z1 E1R1Z1
+5,9,Ing/Eng III- 4/e1r1z1 E1R1Z1
+5,10,Ing/Eng III- 4/e1r1z1 E1R1Z1
+#6,E
+3,17,Ing/Eng III -3/m1 M1
+3,18,Ing/Eng III -3/m1 M1
+5,7,Ing/Eng III - 2/m1 M1
+5,8,Ing/Eng III - 2/m1 M1
+#7,E
+2,15,Ing/Eng III - 5/b1p1 B1
+2,16,Ing/Eng III - 5/b1p1 B1
+5,9,Ing/Eng II 2-37/b1p1 B1P1
+5,10,Ing/Eng II 2-37/b1p1 B1P1
+#8,E
+2,3,Suidsaal/South hall/s1 S1
+2,4,Suidsaal/South hall/s1 S1
+5,11,Ing/Eng II 2-37/s1 S1
+5,12,Ing/Eng II 2-37/s1 S1
+@WTW 158 P,1,1,
+#1,A
+1,15,Teologie/Theology 1-9/e1s1z1 C1R1
+1,16,Teologie/Theology 1-9/e1s1z1 C1R1
+1,17,Teologie/Theology 1-9/e1s1z1 C1R1
+1,18,Teologie/Theology 1-9/e1s1z1 C1R1
+1,19,Teologie/Theology 1-9/e1s1z1 C1R1
+1,20,Teologie/Theology 1-9/e1s1z1 C1R1
+#2,A
+2,15,Ing/Eng III - 7/b1 B1E1N1S1Z1
+2,16,Ing/Eng III - 7/b1 B1E1N1S1Z1
+2,17,Ing/Eng III - 7/b1 B1E1N1S1Z1
+2,18,Ing/Eng III - 7/b1 B1E1N1S1Z1
+2,19,Ing/Eng III - 7/b1 B1E1N1S1Z1
+2,20,Ing/Eng III - 7/b1 B1E1N1S1Z1
+#3,A
+4,15,Teologie/Theology 2-1/r1 M1
+4,16,Teologie/Theology 2-1/r1 M1
+4,17,Teologie/Theology 2-1/r1 M1
+4,18,Teologie/Theology 2-1/r1 M1
+4,19,Teologie/Theology 2-1/r1 M1
+4,20,Teologie/Theology 2-1/r1 M1
+#4,A
+4,15,Ing/Eng III -3/c1m1n1p1 P1
+4,16,Ing/Eng III -3/c1m1n1p1 P1
+4,17,Ing/Eng III -3/c1m1n1p1 P1
+4,18,Ing/Eng III -3/c1m1n1p1 P1
+4,19,Ing/Eng III -3/c1m1n1p1 P1
+4,20,Ing/Eng III -3/c1m1n1p1 P1
+#5,E
+1,15,Ing/Eng III - 1/e1r1 C1E1P1R1
+1,16,Ing/Eng III - 1/e1r1 C1E1P1R1
+1,17,Ing/Eng III - 1/e1r1 C1E1P1R1
+1,18,Ing/Eng III - 1/e1r1 C1E1P1R1
+1,19,Ing/Eng III - 1/e1r1 C1E1P1R1
+1,20,Ing/Eng III - 1/e1r1 C1E1P1R1
+#6,E
+2,15,Ing/Eng II 2-36/S1
+2,16,Ing/Eng II 2-36/S1
+2,17,Ing/Eng II 2-36/S1
+2,18,Ing/Eng II 2-36/S1
+2,19,Ing/Eng II 2-36/S1
+2,20,Ing/Eng II 2-36/S1
+#7,E
+2,9,Ing/Eng II 2-36/Z1
+2,10,Ing/Eng II 2-36/Z1
+2,11,Ing/Eng II 2-36/Z1
+2,12,Ing/Eng II 2-36/Z1
+2,13,Ing/Eng II 2-36/Z1
+2,14,Ing/Eng II 2-36/Z1
+#8,E
+4,15,Ing/Eng III - 7/b1c1m1n1p1s1z1 B1M1N1
+4,16,Ing/Eng III - 7/b1c1m1n1p1s1z1 B1M1N1
+4,17,Ing/Eng III - 7/b1c1m1n1p1s1z1 B1M1N1
+4,18,Ing/Eng III - 7/b1c1m1n1p1s1z1 B1M1N1
+4,19,Ing/Eng III - 7/b1c1m1n1p1s1z1 B1M1N1
+4,20,Ing/Eng III - 7/b1c1m1n1p1s1z1 B1M1N1
+@SIN 413,4,1,
+#1,B
+1,11,Thuto 3-1/S4
+1,12,Thuto 3-1/S4
+5,1,Thuto 3-1/S4
+5,2,Thuto 3-1/S4
+@SIN 411,4,1,
+#1,B
+1,1,Ing/Eng III - 5/S4
+1,2,Ing/Eng III - 5/S4
+2,15,Ing/Eng III - 5/S4
+2,16,Ing/Eng III - 5/S4
+@PSZ 410,4,1,
+#1,B
+2,1,Ing/Eng II 3-28/P4
+2,2,Ing/Eng II 3-28/P4
+3,7,Ing/Eng II 3-43/P4
+3,8,Ing/Eng II 3-43/P4
+3,9,Ing/Eng II 3-43/P4
+3,10,Ing/Eng II 3-43/P4
+@PMZ 422,4,2,
+#1,B
+3,13,Ing/Eng II 3-28/P4
+3,14,Ing/Eng II 3-28/P4
+3,15,Ing/Eng II 3-28/P4
+3,16,Ing/Eng II 3-28/P4
+3,17,Ing/Eng II 3-28/P4
+3,18,Ing/Eng II 3-28/P4
+4,15,Ing/Eng II 3-28/P4
+4,16,Ing/Eng II 3-28/P4
+4,17,Ing/Eng II 3-28/P4
+4,18,Ing/Eng II 3-28/P4
+4,19,Ing/Eng II 3-28/P4
+4,20,Ing/Eng II 3-28/P4
+@NSC 412,4,1,
+#1,B
+5,9,Ing/Eng II 3-27/N4
+5,10,Ing/Eng II 3-27/N4
+@NOP 421,4,2,
+#1,B
+1,3,Ing/Eng II 3-27/N4
+1,4,Ing/Eng II 3-27/N4
+1,5,Ing/Eng II 3-27/N4
+1,6,Ing/Eng II 3-27/N4
+3,3,Ing/Eng II 3-27/N4
+3,4,Ing/Eng II 3-27/N4
+3,5,Ing/Eng II 3-28/N4
+3,6,Ing/Eng II 3-28/N4
+@MTV 410,4,1,
+#1,B
+1,5,Ing/Eng III - 2/M4
+1,6,Ing/Eng III - 2/M4
+2,15,Ing/Eng III -3/M4
+2,16,Ing/Eng III -3/M4
+4,7,Ing/Eng III - 2/M4
+4,8,Ing/Eng III - 2/M4
+@EIR 221 T,2,2,
+#1,A
+5,11,Ing/Eng III - 7/c3n3 C2M3
+5,12,Ing/Eng III - 7/c3n3 C2M3
+#2,E
+5,11,Ing/Eng III - 7/c3n3 C2M3N2
+5,12,Ing/Eng III - 7/c3n3 C2M3N2
+@GLY 162 P,1,2,
+#1,B
+4,15,Min Wet/Science 3-46/P3
+4,16,Min Wet/Science 3-46/P3
+4,17,Min Wet/Science 3-46/P3
+4,18,Min Wet/Science 3-46/P3
+4,19,Min Wet/Science 3-46/P3
+4,20,Min Wet/Science 3-46/P3
+#2,B
+3,7,Min Wet/Science 3-46/P3
+3,8,Min Wet/Science 3-46/P3
+3,9,Min Wet/Science 3-46/P3
+3,10,Min Wet/Science 3-46/P3
+3,11,Min Wet/Science 3-46/P3
+3,12,Min Wet/Science 3-46/P3
+#3,B
+2,15,Min Wet/Science 3-46/
+2,16,Min Wet/Science 3-46/
+2,17,Min Wet/Science 3-46/
+2,18,Min Wet/Science 3-46/
+2,19,Min Wet/Science 3-46/
+2,20,Min Wet/Science 3-46/
+@GLY 162,1,2,
+#1,A
+1,1,GW/HB 3-14/P3
+1,2,GW/HB 3-14/P3
+3,17,Teologie/Theology 1-19/P3
+3,18,Teologie/Theology 1-19/P3
+3,19,Teologie/Theology 1-19/P3
+3,20,Teologie/Theology 1-19/P3
+4,13,GW/HB 3-24/P3
+4,14,GW/HB 3-24/P3
+#2,E
+1,1,VD Bijlsaal/VD Bijl hall/
+1,2,VD Bijlsaal/VD Bijl hall/
+2,1,Te Watersaal/Te Water hall/P3
+2,2,Te Watersaal/Te Water hall/P3
+3,15,Eeufees/Centenary 1/P3
+3,16,Eeufees/Centenary 1/P3
+5,9,Te Watersaal/Te Water hall/P3
+5,10,Te Watersaal/Te Water hall/P3
+@CIR 113 P,1,1,
+#1,B
+3,15,Ing/Eng II 2-27/c2 C1C1
+3,16,Ing/Eng II 2-27/c2 C1C1
+3,17,Ing/Eng II 2-27/c2 C1C1
+3,18,Ing/Eng II 2-27/c2 C1C1
+3,19,Ing/Eng II 2-27/c2 C1C1
+3,20,Ing/Eng II 2-27/c2 C1C1
+@FBS 110,1,1,
+#1,A
+1,17,Eeufees/Centenary 1/B3
+1,18,Eeufees/Centenary 1/B3
+1,19,Eeufees/Centenary 1/B3
+1,20,Eeufees/Centenary 1/B3
+3,1,GW/HB 4-9/B3
+3,2,GW/HB 4-9/B3
+#2,E
+1,17,Eeufees/Centenary 2/B3
+1,18,Eeufees/Centenary 2/B3
+1,19,Eeufees/Centenary 2/B3
+1,20,Eeufees/Centenary 2/B3
+4,13,Eeufees/Centenary 6/B3
+4,14,Eeufees/Centenary 6/B3
+@COS 131,1,1,
+#1,A
+1,5,IT 4-2/e3r2z3 E2R1Z2
+1,6,IT 4-2/e3r2z3 E2R1Z2
+2,15,IT 2-25/e3r2z3 E2R1Z2
+2,16,IT 2-25/e3r2z3 E2R1Z2
+4,3,Eeufees/Centenary 5/e3r2z3 E2R1Z2
+4,4,Eeufees/Centenary 5/e3r2z3 E2R1Z2
+5,11,IT 2-24/e3z3 E2R1Z2
+5,12,IT 2-24/e3z3 E2R1Z2
+#2,E
+1,13,AE Anneks/Annex/e3r2z3 E2R1Z2
+1,14,AE Anneks/Annex/e3r2z3 E2R1Z2
+2,15,IT 2-26/e3r2z3 E2R1Z2
+2,16,IT 2-26/e3r2z3 E2R1Z2
+4,13,IT 2-26/e3r2z3 E2R1Z2
+4,14,IT 2-26/e3r2z3 E2R1Z2
+5,5,IT 4-5/e3r2z3 E2R1Z2
+5,6,IT 4-5/e3r2z3 E2R1Z2
+@MTX 311 P,3,1,
+#1,B
+5,7,Ing/Eng III -3/M3
+5,8,Ing/Eng III -3/M3
+5,9,Ing/Eng III -3/M3
+5,10,Ing/Eng III -3/M3
+@GLY 361 P,3,2,
+#1,B
+2,15,Min Wet/Science 2-36/P4
+2,16,Min Wet/Science 2-36/P4
+2,17,Min Wet/Science 2-36/P4
+2,18,Min Wet/Science 2-36/P4
+2,19,Min Wet/Science 2-36/P4
+2,20,Min Wet/Science 2-36/P4
+4,7,Min Wet/Science 2-36/P4
+4,8,Min Wet/Science 2-36/P4
+4,9,Min Wet/Science 2-36/P4
+4,10,Min Wet/Science 2-36/P4
+4,11,Min Wet/Science 2-36/P4
+4,12,Min Wet/Science 2-36/P4
+@JPO 125,1,2,
+#1,B
+1,1,Mullersaal/Muller hall/b2c2e2m2
+1,2,Mullersaal/Muller hall/b2c2e2m2
+#2,B
+1,5,Ing/Eng III- 4/n2p2s2z2
+1,6,Ing/Eng III- 4/n2p2s2z2
+@CHM 226,2,2,
+#1,A
+1,7,Regsgebou/Law building 1-31/c3 C2
+1,8,Regsgebou/Law building 1-31/c3 C2
+5,7,Regsgebou/Law building 1-31/c3 C2
+5,8,Regsgebou/Law building 1-31/c3 C2
+#2,E
+1,9,Ing/Eng II 2-27/c3 C2
+1,10,Ing/Eng II 2-27/c3 C2
+5,5,GW/HB 3-15/c3 C2
+5,6,GW/HB 3-15/c3 C2
+@CHM 215,2,1,
+#1,A
+1,5,Ing/Eng II 3-31/c3 C2
+1,6,Ing/Eng II 3-31/c3 C2
+2,17,Ing/Eng II 1-2/c3 C2
+2,18,Ing/Eng II 1-2/c3 C2
+3,7,Ing/Eng II 4-21/c3 C2
+3,8,Ing/Eng II 4-21/c3 C2
+4,13,Ing/Eng II 4-30/c3 C2
+4,14,Ing/Eng II 4-30/c3 C2
+#2,E
+1,7,Ing/Eng II 1-2/c3 C2
+1,8,Ing/Eng II 1-2/c3 C2
+3,5,Groot Chemie/Large Chemistry/c3 C2
+3,6,Groot Chemie/Large Chemistry/c3 C2
+3,15,Ing/Eng II 1-2/c3 C2
+3,16,Ing/Eng II 1-2/c3 C2
+4,5,Ing/Eng II 2-37/c3 C2
+4,6,Ing/Eng II 2-37/c3 C2
+@GLY 155,1,1,
+#2,E
+1,19,AE Anneks/Annex/P3
+1,20,AE Anneks/Annex/P3
+2,7,VD Bijlsaal/VD Bijl hall/P3
+2,8,VD Bijlsaal/VD Bijl hall/P3
+3,7,AE Anneks/Annex/P3
+3,8,AE Anneks/Annex/P3
+4,13,VD Bijlsaal/VD Bijl hall/P3
+4,14,VD Bijlsaal/VD Bijl hall/P3
+@EKK 320,3,2,
+#1,B
+2,15,GW/HB 3-14/E3
+2,16,GW/HB 3-14/E3
+2,17,GW/HB 3-14/E3
+2,18,GW/HB 3-14/E3
+3,5,Ing/Eng II 3-34/E3
+3,6,Ing/Eng II 3-34/E3
+4,7,Ing/Eng III -3/E3
+4,8,Ing/Eng III -3/E3
+@EDF 320,3,2,
+#1,B
+1,13,Ing/Eng II 4-30/E3
+1,14,Ing/Eng II 4-30/E3
+3,9,Ing/Eng II 3-34/E3
+3,10,Ing/Eng II 3-34/E3
+5,7,Ing/Eng II 1-2/E3
+5,8,Ing/Eng II 1-2/E3
+5,9,Ing/Eng II 4-21/E3
+5,10,Ing/Eng II 4-21/E3
+@CIO 310,3,2,
+#1,A
+1,3,Ing/Eng II 2-27/C3
+1,4,Ing/Eng II 2-27/C3
+2,3,Teologie/Theology 1-28/C3
+2,4,Teologie/Theology 1-28/C3
+4,7,Ing/Eng II 3-34/C3
+4,8,Ing/Eng II 3-34/C3
+5,3,Ing/Eng II 2-36/C3
+5,4,Ing/Eng II 2-36/C3
+#2,E
+1,5,Ing/Eng II 4-21/C3
+1,6,Ing/Eng II 4-21/C3
+2,1,Teologie/Theology 1-28/C3
+2,2,Teologie/Theology 1-28/C3
+4,5,Ing/Eng II 3-34/C3
+4,6,Ing/Eng II 3-34/C3
+5,1,Ing/Eng II 2-36/C3
+5,2,Ing/Eng II 2-36/C3
+@GLY 254,2,1,
+#1,B
+1,1,IT 4-1/P4
+1,2,IT 4-1/P4
+2,3,Teologie/Theology 1-25/P4
+2,4,Teologie/Theology 1-25/P4
+3,5,Eeufees/Centenary 1/P4
+3,6,Eeufees/Centenary 1/P4
+5,9,Eeufees/Centenary 2/P4
+5,10,Eeufees/Centenary 2/P4
+@ELI 220 P,2,2,
+#1,B
+1,13,Elek/Elec Lab A & B/e3r3z3 E2R2Z2
+1,14,Elek/Elec Lab A & B/e3r3z3 E2R2Z2
+1,15,Elek/Elec Lab A & B/e3r3z3 E2R2Z2
+1,16,Elek/Elec Lab A & B/e3r3z3 E2R2Z2
+1,17,Elek/Elec Lab A & B/e3r3z3 E2R2Z2
+1,18,Elek/Elec Lab A & B/e3r3z3 E2R2Z2
+@EIR 221 P,2,2,
+#1,B
+2,7,CAEC Lab & Elek/Elec Lab A/c3n3 C2M3N2
+2,8,CAEC Lab & Elek/Elec Lab A/c3n3 C2M3N2
+2,9,CAEC Lab & Elek/Elec Lab A/c3n3 C2M3N2
+2,10,CAEC Lab & Elek/Elec Lab A/c3n3 C2M3N2
+2,11,CAEC Lab & Elek/Elec Lab A/c3n3 C2M3N2
+2,12,CAEC Lab & Elek/Elec Lab A/c3n3 C2M3N2
+#2,B
+5,3,CAEC Lab & Elek/Elec Lab A/M3
+5,4,CAEC Lab & Elek/Elec Lab A/M3
+5,5,CAEC Lab & Elek/Elec Lab A/M3
+5,6,CAEC Lab & Elek/Elec Lab A/M3
+5,7,CAEC Lab & Elek/Elec Lab A/M3
+5,8,CAEC Lab & Elek/Elec Lab A/M3
+@MJJ 210 T,2,1,
+#1,B
+4,15,Thuto 3-1/m3 M2
+4,16,Thuto 3-1/m3 M2
+4,17,Thuto 3-1/m3 M2
+4,18,Thuto 3-1/m3 M2
+@EEO 420,4,2,
+#1,B
+1,9,GW/HB 4-5/E4
+1,10,GW/HB 4-5/E4
+2,11,Ing/Eng II 3-31/E4
+2,12,Ing/Eng II 3-31/E4
+3,13,Ing/Eng II 1-2/E4
+3,14,Ing/Eng II 1-2/E4
+@ENR 320 P,3,2,
+#1,B
+3,15,Elek/Elec Lab/E3
+3,16,Elek/Elec Lab/E3
+3,17,Elek/Elec Lab/E3
+3,18,Elek/Elec Lab/E3
+3,19,Elek/Elec Lab/E3
+3,20,Elek/Elec Lab/E3
+@EKK 320 P,3,2,
+#1,B
+4,13,Elek/Elec Lab/E3
+4,14,Elek/Elec Lab/E3
+4,15,Elek/Elec Lab/E3
+4,16,Elek/Elec Lab/E3
+4,17,Elek/Elec Lab/E3
+4,18,Elek/Elec Lab/E3
+@EJJ 210 T,2,1,
+#1,B
+3,9,Ing/Eng III - 5/e3r3z3 E2R2Z2
+3,10,Ing/Eng III - 5/e3r3z3 E2R2Z2
+3,11,Ing/Eng III - 5/e3r3z3 E2R2Z2
+3,12,Ing/Eng III - 5/e3r3z3 E2R2Z2
+@EAD 410,4,1,
+#1,B
+1,9,Ing/Eng II 3-31/E4
+1,10,Ing/Eng II 3-31/E4
+2,5,Teologie/Theology 2-1/E4
+2,6,Teologie/Theology 2-1/E4
+4,9,Ing/Eng II 4-21/E4
+4,10,Ing/Eng II 4-21/E4
+4,11,Ing/Eng II 4-21/E4
+4,12,Ing/Eng II 4-21/E4
+@MBB 410 P,4,2,
+#1,B
+3,13,NW2 Rek/Comp lab 1,2/M4
+3,14,NW2 Rek/Comp lab 1,2/M4
+3,15,NW2 Rek/Comp lab 1,2/M4
+3,16,NW2 Rek/Comp lab 1,2/M4
+3,17,NW2 Rek/Comp lab 1,2/M4
+3,18,NW2 Rek/Comp lab 1,2/M4
+@CSS 420,4,2,
+#1,B
+1,15,Ing/Eng III- 4/C4
+1,16,Ing/Eng III- 4/C4
+1,17,Ing/Eng III- 4/C4
+1,18,Ing/Eng III- 4/C4
+3,13,Ing/Eng III - 5/C4
+3,14,Ing/Eng III - 5/C4
+3,15,Ing/Eng III - 5/C4
+3,16,Ing/Eng III - 5/C4
+@CPJ 421,4,2,
+#1,B
+3,3,Ing/Eng II 2-36/C4
+3,4,Ing/Eng II 2-36/C4
+5,5,Ing/Eng II 4-36/C4
+5,6,Ing/Eng II 4-36/C4
+@MVR 320,3,2,
+#1,B
+1,15,Ing/Eng III - 5/M3
+1,16,Ing/Eng III - 5/M3
+2,1,Ing/Eng III - 5/M3
+2,2,Ing/Eng III - 5/M3
+5,9,Ing/Eng III - 5/M3
+5,10,Ing/Eng III - 5/M3
+@NMC 223,2,2,
+#1,B
+1,13,Ing/Eng II 4-36/n3n3 N2N2
+1,14,Ing/Eng II 4-36/n3n3 N2N2
+3,9,Ing/Eng II 4-36/n3n3 N2N2
+3,10,Ing/Eng II 4-36/n3n3 N2N2
+4,11,Ing/Eng II 4-21/n3n3 N2N2
+4,12,Ing/Eng II 4-21/n3n3 N2N2
+5,5,Ing/Eng II 1-2/n3n3 N2N2
+5,6,Ing/Eng II 1-2/n3n3 N2N2
+@PME 320,3,2,
+#1,B
+1,5,Ing/Eng II 1-2/P3
+1,6,Ing/Eng II 1-2/P3
+1,11,Ing/Eng II 4-21/P3
+1,12,Ing/Eng II 4-21/P3
+2,5,Ing/Eng II 4-36/P3
+2,6,Ing/Eng II 4-36/P3
+3,3,Ing/Eng II 4-21/P3
+3,4,Ing/Eng II 4-21/P3
+4,7,Ing/Eng II 3-31/P3
+4,8,Ing/Eng II 3-31/P3
+@EBB 320 P,3,2,
+#1,B
+5,13,Elek/Elec Lab A/E3R3Z3
+5,14,Elek/Elec Lab A/E3R3Z3
+5,15,Elek/Elec Lab A/E3R3Z3
+5,16,Elek/Elec Lab A/E3R3Z3
+5,17,Elek/Elec Lab A/E3R3Z3
+5,18,Elek/Elec Lab A/E3R3Z3
+@SUR 210 T,2,1,
+#1,A
+3,9,Geografie/Geography 2-9/s3 S2
+3,10,Geografie/Geography 2-9/s3 S2
+3,11,Geografie/Geography 2-9/s3 S2
+3,12,Geografie/Geography 2-9/s3 S2
+#2,E
+3,15,Geografie/Geography 2-11/s3 S2
+3,16,Geografie/Geography 2-11/s3 S2
+3,17,Geografie/Geography 2-11/s3 S2
+3,18,Geografie/Geography 2-11/s3 S2
+#3,A
+5,11,Geografie/Geography 2-9/s3 S2
+5,12,Geografie/Geography 2-9/s3 S2
+5,13,Geografie/Geography 2-9/s3 S2
+5,14,Geografie/Geography 2-9/s3 S2
+#4,E
+3,1,Geografie/Geography 2-9/s3 S2
+3,2,Geografie/Geography 2-9/s3 S2
+3,3,Geografie/Geography 2-9/s3 S2
+3,4,Geografie/Geography 2-9/s3 S2
+@CIR 123 P,1,2,
+#1,B
+3,7,Thuto 1-1/c2 C1
+3,8,Thuto 1-1/c2 C1
+3,9,Thuto 1-1/c2 C1
+3,10,Thuto 1-1/c2 C1
+3,11,Thuto 1-1/c2 C1
+3,12,Thuto 1-1/c2 C1
+@SIN 323,3,2,
+#1,B
+1,9,Ing/Eng III - 2/S3
+1,10,Ing/Eng III - 2/S3
+2,5,Ing/Eng III - 2/S3
+2,6,Ing/Eng III - 2/S3
+4,1,Ing/Eng III - 2/S3
+4,2,Ing/Eng III - 2/S3
+5,3,Ing/Eng III- 4/S3
+5,4,Ing/Eng III- 4/S3
+@SHC 310 T,3,1,
+#1,B
+5,7,Thuto 3-1/S3
+5,8,Thuto 3-1/S3
+@MTV 310,3,1,
+#1,B
+3,1,Ing/Eng III - 1/M3N3P3
+3,2,Ing/Eng III - 1/M3N3P3
+3,3,Ing/Eng III - 1/M3N3P3
+3,4,Ing/Eng III - 1/M3N3P3
+5,3,Ing/Eng III - 1/M3N3P3
+5,4,Ing/Eng III - 1/M3N3P3
+@WTW 256 P,2,1,
+#1,B
+2,7,Ing/Eng II 3-40/m3 E2R2
+2,8,Ing/Eng II 3-40/m3 E2R2
+2,9,Ing/Eng II 3-40/m3 E2R2
+2,10,Ing/Eng II 3-40/m3 E2R2
+2,11,Ing/Eng II 3-40/m3 E2R2
+2,12,Ing/Eng II 3-40/m3 E2R2
+#3,A
+3,15,Teologie/Theology 2-1/M2
+3,16,Teologie/Theology 2-1/M2
+3,17,Teologie/Theology 2-1/M2
+3,18,Teologie/Theology 2-1/M2
+3,19,Teologie/Theology 2-1/M2
+3,20,Teologie/Theology 2-1/M2
+#4,B
+4,17,Ing/Eng II 4-21/r3 N2P2
+4,18,Ing/Eng II 4-21/r3 N2P2
+4,19,Ing/Eng II 4-21/r3 N2P2
+4,20,Ing/Eng II 4-21/r3 N2P2
+4,21,Ing/Eng II 4-21/r3 N2P2
+4,22,Ing/Eng II 4-21/r3 N2P2
+#5,B
+2,7,Teologie/Theology 2-1/e3 Z2
+2,8,Teologie/Theology 2-1/e3 Z2
+2,9,Teologie/Theology 2-1/e3 Z2
+2,10,Teologie/Theology 2-1/e3 Z2
+2,11,Teologie/Theology 2-1/e3 Z2
+2,12,Teologie/Theology 2-1/e3 Z2
+#6,A
+3,7,Wisk/Maths 1-1/B2
+3,8,Wisk/Maths 1-1/B2
+3,9,Wisk/Maths 1-1/B2
+3,10,Wisk/Maths 1-1/B2
+3,11,Wisk/Maths 1-1/B2
+3,12,Wisk/Maths 1-1/B2
+#7,B
+5,13,Teologie/Theology 1-9/b3c3n3p3
+5,14,Teologie/Theology 1-9/b3c3n3p3
+5,15,Teologie/Theology 1-9/b3c3n3p3
+5,16,Teologie/Theology 1-9/b3c3n3p3
+5,17,Teologie/Theology 1-9/b3c3n3p3
+5,18,Teologie/Theology 1-9/b3c3n3p3
+#8,A
+4,15,Ing/Eng II 3-40/C2
+4,16,Ing/Eng II 3-40/C2
+4,17,Ing/Eng II 3-40/C2
+4,18,Ing/Eng II 3-40/C2
+4,19,Ing/Eng II 3-40/C2
+4,20,Ing/Eng II 3-40/C2
+#9,E
+3,7,Ing/Eng II 4-38/M2
+3,8,Ing/Eng II 4-38/M2
+3,9,Ing/Eng II 4-38/M2
+3,10,Ing/Eng II 4-38/M2
+3,11,Ing/Eng II 4-38/M2
+3,12,Ing/Eng II 4-38/M2
+#10,B
+4,15,GW/HB 4-9/r3s3z3 S2S2
+4,16,GW/HB 4-9/r3s3z3 S2S2
+4,17,GW/HB 4-9/r3s3z3 S2S2
+4,18,GW/HB 4-9/r3s3z3 S2S2
+4,19,GW/HB 4-9/r3s3z3 S2S2
+4,20,GW/HB 4-9/r3s3z3 S2S2
+#11,E
+4,15,Ing/Eng II 3-34/S2
+4,16,Ing/Eng II 3-34/S2
+4,17,Ing/Eng II 3-34/S2
+4,18,Ing/Eng II 3-34/S2
+4,19,Ing/Eng II 3-34/S2
+4,20,Ing/Eng II 3-34/S2
+#12,A
+3,15,Ing/Eng II 3-34/M2
+3,16,Ing/Eng II 3-34/M2
+3,17,Ing/Eng II 3-34/M2
+3,18,Ing/Eng II 3-34/M2
+3,19,Ing/Eng II 3-34/M2
+3,20,Ing/Eng II 3-34/M2
+#13,E
+3,7,Ing/Eng II 3-40/B2
+3,8,Ing/Eng II 3-40/B2
+3,9,Ing/Eng II 3-40/B2
+3,10,Ing/Eng II 3-40/B2
+3,11,Ing/Eng II 3-40/B2
+3,12,Ing/Eng II 3-40/B2
+#14,E
+3,7,Ing/Eng II 3-34/M2
+3,8,Ing/Eng II 3-34/M2
+3,9,Ing/Eng II 3-34/M2
+3,10,Ing/Eng II 3-34/M2
+3,11,Ing/Eng II 3-34/M2
+3,12,Ing/Eng II 3-34/M2
+#15,E
+4,15,Ing/Eng II 4-36/C2
+4,16,Ing/Eng II 4-36/C2
+4,17,Ing/Eng II 4-36/C2
+4,18,Ing/Eng II 4-36/C2
+4,19,Ing/Eng II 4-36/C2
+4,20,Ing/Eng II 4-36/C2
+#16,E
+4,15,Ing/Eng II 2-27/C2
+4,16,Ing/Eng II 2-27/C2
+4,17,Ing/Eng II 2-27/C2
+4,18,Ing/Eng II 2-27/C2
+4,19,Ing/Eng II 2-27/C2
+4,20,Ing/Eng II 2-27/C2
+#17,B
+1,11,Ing/Eng II 3-34/S2
+1,12,Ing/Eng II 3-34/S2
+1,13,Ing/Eng II 3-34/S2
+1,14,Ing/Eng II 3-34/S2
+1,15,Ing/Eng II 3-34/S2
+1,16,Ing/Eng II 3-34/S2
+#18,B
+1,11,Regsgebou/Law building 2-42/S2
+1,12,Regsgebou/Law building 2-42/S2
+1,13,Regsgebou/Law building 2-42/S2
+1,14,Regsgebou/Law building 2-42/S2
+1,15,Regsgebou/Law building 2-42/S2
+1,16,Regsgebou/Law building 2-42/S2
+@PSC 321,3,2,
+#1,B
+5,11,Ing/Eng II 3-25/P3
+5,12,Ing/Eng II 3-25/P3
+5,13,Ing/Eng II 3-25/P3
+5,14,Ing/Eng II 3-25/P3
+@FSK 116 P,1,1,
+#1,B
+1,13,Raadpleeg/Consult Dept/m1n1n1p1 B1
+1,14,Raadpleeg/Consult Dept/m1n1n1p1 B1
+1,15,Raadpleeg/Consult Dept/m1n1n1p1 B1
+1,16,Raadpleeg/Consult Dept/m1n1n1p1 B1
+1,17,Raadpleeg/Consult Dept/m1n1n1p1 B1
+1,18,Raadpleeg/Consult Dept/m1n1n1p1 B1
+#2,B
+2,7,AE Oudit/Audit/e1e1z1 C1
+2,8,AE Oudit/Audit/e1e1z1 C1
+2,9,AE Oudit/Audit/e1e1z1 C1
+2,10,AE Oudit/Audit/e1e1z1 C1
+2,11,AE Oudit/Audit/e1e1z1 C1
+2,12,AE Oudit/Audit/e1e1z1 C1
+#3,B
+3,15,AE Oudit/Audit/M1
+3,16,AE Oudit/Audit/M1
+3,17,AE Oudit/Audit/M1
+3,18,AE Oudit/Audit/M1
+3,19,AE Oudit/Audit/M1
+3,20,AE Oudit/Audit/M1
+@BPJ 421,4,2,
+#1,B
+2,1,Ing/Eng II 2-27/B4
+2,2,Ing/Eng II 2-27/B4
+2,3,Ing/Eng II 2-27/B4
+2,4,Ing/Eng II 2-27/B4
+2,5,Ing/Eng II 2-27/B4
+2,6,Ing/Eng II 2-27/B4
+2,7,Ing/Eng II 2-27/B4
+2,8,Ing/Eng II 2-27/B4
+2,9,Ing/Eng II 2-27/B4
+2,10,Ing/Eng II 2-27/B4
+2,11,Ing/Eng II 2-27/B4
+2,12,Ing/Eng II 2-27/B4
+2,13,Ing/Eng II 2-27/B4
+2,14,Ing/Eng II 2-27/B4
+2,15,Ing/Eng II 2-27/B4
+2,16,Ing/Eng II 2-27/B4
+2,17,Ing/Eng II 2-27/B4
+2,18,Ing/Eng II 2-27/B4
+2,19,Ing/Eng II 2-27/B4
+2,20,Ing/Eng II 2-27/B4
+@SUR 220 P,2,2,
+#1,B
+5,11,Geografie/Geography 2-9/p3 P2
+5,12,Geografie/Geography 2-9/p3 P2
+5,13,Geografie/Geography 2-9/p3 P2
+5,14,Geografie/Geography 2-9/p3 P2
+5,15,Geografie/Geography 2-9/p3 P2
+5,16,Geografie/Geography 2-9/p3 P2
+#2,B
+3,15,Geografie/Geography 2-9/
+3,16,Geografie/Geography 2-9/
+3,17,Geografie/Geography 2-9/
+3,18,Geografie/Geography 2-9/
+3,19,Geografie/Geography 2-9/
+3,20,Geografie/Geography 2-9/
+@JPO 112,1,1,
+#1,B
+1,9,Ing/Eng III - 7/b2c2e2m2
+1,10,Ing/Eng III - 7/b2c2e2m2
+#2,B
+1,1,Ing/Eng II 2-37/n2p2r2s2z2
+1,2,Ing/Eng II 2-37/n2p2r2s2z2
+@SGM 210 P,2,1,
+#1,B
+2,15,Ing/Eng II 4-36/s3 S2
+2,16,Ing/Eng II 4-36/s3 S2
+2,17,Ing/Eng II 4-36/s3 S2
+2,18,Ing/Eng II 4-36/s3 S2
+2,19,Ing/Eng II 4-36/s3 S2
+2,20,Ing/Eng II 4-36/s3 S2
+@MKM 320,3,2,
+#1,B
+1,13,Ing/Eng III - 2/M3
+1,14,Ing/Eng III - 2/M3
+2,15,Ing/Eng III - 2/M3
+2,16,Ing/Eng III - 2/M3
+3,9,Ing/Eng III - 1/M3
+3,10,Ing/Eng III - 1/M3
+3,11,Ing/Eng III - 1/M3
+3,12,Ing/Eng III - 1/M3
+4,7,Ing/Eng III - 2/M3
+4,8,Ing/Eng III - 2/M3
+@SPV 420,4,2,
+#1,B
+3,11,AE Anneks/Annex/S4
+3,12,AE Anneks/Annex/S4
+3,13,AE Anneks/Annex/S4
+3,14,AE Anneks/Annex/S4
+5,7,AE Anneks/Annex/S4
+5,8,AE Anneks/Annex/S4
+@SDO 420,4,2,
+#1,B
+1,1,Ing/Eng III - 7/S4
+1,2,Ing/Eng III - 7/S4
+1,3,Ing/Eng III - 7/S4
+1,4,Ing/Eng III - 7/S4
+1,5,Ing/Eng III - 7/S4
+1,6,Ing/Eng III - 7/S4
+3,15,Ing/Eng III -3/S4
+3,16,Ing/Eng III -3/S4
+5,1,Ing/Eng III - 7/S4
+5,2,Ing/Eng III - 7/S4
+5,3,Ing/Eng III - 7/S4
+5,4,Ing/Eng III - 7/S4
+5,5,Ing/Eng III - 7/S4
+5,6,Ing/Eng III - 7/S4
+@PMY 423,4,2,
+#1,B
+1,17,Ing/Eng II 3-25/P4
+1,18,Ing/Eng II 3-25/P4
+1,19,Ing/Eng II 3-25/P4
+1,20,Ing/Eng II 3-25/P4
+@PMY 410,4,1,
+#1,B
+1,13,Ing/Eng II 3-28/P4
+1,14,Ing/Eng II 3-28/P4
+3,1,Ing/Eng II 3-43/P4
+3,2,Ing/Eng II 3-43/P4
+3,3,Ing/Eng II 3-43/P4
+3,4,Ing/Eng II 3-43/P4
+@NHM 412,4,1,
+#1,B
+1,11,Ing/Eng II 3-28/N4
+1,12,Ing/Eng II 3-28/N4
+2,5,Ing/Eng II 3-25/N4
+2,6,Ing/Eng II 3-25/N4
+3,3,Ing/Eng II 3-28/N4
+3,4,Ing/Eng II 3-28/N4
+3,5,Ing/Eng II 3-28/N4
+3,6,Ing/Eng II 3-28/N4
+5,7,Ing/Eng II 3-28/N4
+5,8,Ing/Eng II 3-28/N4
+@MTV 420,4,2,
+#1,B
+1,3,Ing/Eng III - 2/M4M4
+1,4,Ing/Eng III - 2/M4M4
+1,5,Ing/Eng III - 2/M4M4
+1,6,Ing/Eng III - 2/M4M4
+4,5,Ing/Eng III - 2/M4M4
+4,6,Ing/Eng III - 2/M4M4
+@MLV 420,4,2,
+#1,B
+2,9,Ing/Eng II 3-34/M4
+2,10,Ing/Eng II 3-34/M4
+2,11,Ing/Eng II 3-34/M4
+2,12,Ing/Eng II 3-34/M4
+4,11,Ing/Eng II 3-34/M4
+4,12,Ing/Eng II 3-34/M4
+@EIR 221,2,2,
+#1,A
+1,1,Ing/Eng II 2-36/c3n3 C2M3
+1,2,Ing/Eng II 2-36/c3n3 C2M3
+2,3,Ing/Eng III - 2/c3n3 C2M3
+2,4,Ing/Eng III - 2/c3n3 C2M3
+4,3,Ing/Eng III- 4/c3n3 C2M3
+4,4,Ing/Eng III- 4/c3n3 C2M3
+#2,E
+1,17,Ing/Eng III - 6/c3n3 C2M3N2
+1,18,Ing/Eng III - 6/c3n3 C2M3N2
+4,3,Ing/Eng III - 1/c3n3 C2M3N2
+4,4,Ing/Eng III - 1/c3n3 C2M3N2
+4,13,AE Oudit/Audit/c3n3 C2M3N2
+4,14,AE Oudit/Audit/c3n3 C2M3N2
+@JPO 123,1,2,
+#1,B
+3,13,Ing/Eng II 4-38/b2e2m2z2
+3,14,Ing/Eng II 4-38/b2e2m2z2
+#2,B
+2,15,Ing/Eng II 2-37/n2p2s2
+2,16,Ing/Eng II 2-37/n2p2s2
+@GLY 161 P,1,2,
+#1,B
+2,15,Min Wet/Science 3-46/P3
+2,16,Min Wet/Science 3-46/P3
+2,17,Min Wet/Science 3-46/P3
+2,18,Min Wet/Science 3-46/P3
+2,19,Min Wet/Science 3-46/P3
+2,20,Min Wet/Science 3-46/P3
+#2,B
+3,7,Min Wet/Science 3-46/P3
+3,8,Min Wet/Science 3-46/P3
+3,9,Min Wet/Science 3-46/P3
+3,10,Min Wet/Science 3-46/P3
+3,11,Min Wet/Science 3-46/P3
+3,12,Min Wet/Science 3-46/P3
+#3,B
+4,7,Min Wet/Science 3-46/
+4,8,Min Wet/Science 3-46/
+4,9,Min Wet/Science 3-46/
+4,10,Min Wet/Science 3-46/
+4,11,Min Wet/Science 3-46/
+4,12,Min Wet/Science 3-46/
+@NHM 322 P,3,2,
+#1,B
+3,7,GW/HB 4-5/N3
+3,8,GW/HB 4-5/N3
+3,9,GW/HB 4-5/N3
+3,10,GW/HB 4-5/N3
+3,11,GW/HB 1-13/N3
+3,12,GW/HB 1-13/N3
+3,13,GW/HB 1-13/N3
+3,14,GW/HB 1-13/N3
+@SIN 324,3,2,
+#1,B
+1,3,Ing/Eng III -3/S3
+1,4,Ing/Eng III -3/S3
+2,3,Te Watersaal/Te Water hall/S3
+2,4,Te Watersaal/Te Water hall/S3
+@CRO 410 P,4,1,
+#1,B
+4,7,Ing/Eng II 3-34/C4
+4,8,Ing/Eng II 3-34/C4
+4,9,Ing/Eng II 3-34/C4
+4,10,Ing/Eng II 3-34/C4
+@COP 311 P,3,1,
+#1,B
+3,13,Ing/Eng II 2-37/C3
+3,14,Ing/Eng II 2-37/C3
+3,15,Ing/Eng II 2-37/C3
+3,16,Ing/Eng II 2-37/C3
+@FSK 176 P,1,2,
+#1,B
+2,7,AE Oudit/Audit/N1P1R1Z1
+2,8,AE Oudit/Audit/N1P1R1Z1
+2,9,AE Oudit/Audit/N1P1R1Z1
+2,10,AE Oudit/Audit/N1P1R1Z1
+2,11,AE Oudit/Audit/N1P1R1Z1
+2,12,AE Oudit/Audit/N1P1R1Z1
+#2,B
+2,15,AE Oudit/Audit/s1 E1S1
+2,16,AE Oudit/Audit/s1 E1S1
+2,17,AE Oudit/Audit/s1 E1S1
+2,18,AE Oudit/Audit/s1 E1S1
+2,19,AE Oudit/Audit/s1 E1S1
+2,20,AE Oudit/Audit/s1 E1S1
+#3,B
+3,15,AE Oudit/Audit/b1c1r1 Z1
+3,16,AE Oudit/Audit/b1c1r1 Z1
+3,17,AE Oudit/Audit/b1c1r1 Z1
+3,18,AE Oudit/Audit/b1c1r1 Z1
+3,19,AE Oudit/Audit/b1c1r1 Z1
+3,20,AE Oudit/Audit/b1c1r1 Z1
+@EBB 320,3,2,
+#1,B
+2,19,Ing/Eng II 4-38/E3R3Z3
+2,20,Ing/Eng II 4-38/E3R3Z3
+3,3,Ing/Eng II 4-38/E3R3Z3
+3,4,Ing/Eng II 4-38/E3R3Z3
+3,13,Ing/Eng II 2-36/E3R3Z3
+3,14,Ing/Eng II 2-36/E3R3Z3
+5,11,Ing/Eng III- 4/E3R3Z3
+5,12,Ing/Eng III- 4/E3R3Z3
+@NMC 123 P,1,2,
+#1,A
+2,5,Raadpleeg/Consult Dept/b2n2p2s2z2 B1
+2,6,Raadpleeg/Consult Dept/b2n2p2s2z2 B1
+2,7,Raadpleeg/Consult Dept/b2n2p2s2z2 B1
+2,8,Raadpleeg/Consult Dept/b2n2p2s2z2 B1
+2,9,Raadpleeg/Consult Dept/b2n2p2s2z2 B1
+2,10,Raadpleeg/Consult Dept/b2n2p2s2z2 B1
+#2,A
+3,7,Raadpleeg/Consult Dept/e2 M1
+3,8,Raadpleeg/Consult Dept/e2 M1
+3,9,Raadpleeg/Consult Dept/e2 M1
+3,10,Raadpleeg/Consult Dept/e2 M1
+3,11,Raadpleeg/Consult Dept/e2 M1
+3,12,Raadpleeg/Consult Dept/e2 M1
+#4,E
+1,13,Raadpleeg/Consult Dept/B1
+1,14,Raadpleeg/Consult Dept/B1
+1,15,Raadpleeg/Consult Dept/B1
+1,16,Raadpleeg/Consult Dept/B1
+1,17,Raadpleeg/Consult Dept/B1
+1,18,Raadpleeg/Consult Dept/B1
+#5,E
+2,13,Raadpleeg/Consult Dept/M1
+2,14,Raadpleeg/Consult Dept/M1
+2,15,Raadpleeg/Consult Dept/M1
+2,16,Raadpleeg/Consult Dept/M1
+2,17,Raadpleeg/Consult Dept/M1
+2,18,Raadpleeg/Consult Dept/M1
+@MKI 420,4,2,
+#1,B
+2,15,Ing/Eng II 1-2/M4
+2,16,Ing/Eng II 1-2/M4
+2,17,Ing/Eng II 1-2/M4
+2,18,Ing/Eng II 1-2/M4
+4,15,Ing/Eng II 1-2/M4
+4,16,Ing/Eng II 1-2/M4
+@NEC 310,3,1,
+#1,B
+1,9,Ing/Eng II 4-36/N3
+1,10,Ing/Eng II 4-36/N3
+1,11,Ing/Eng II 4-36/N3
+1,12,Ing/Eng II 4-36/N3
+4,1,Ing/Eng II 3-31/N3
+4,2,Ing/Eng II 3-31/N3
+4,13,Ing/Eng II 3-31/N3
+4,14,Ing/Eng II 3-31/N3
+@COS 222 P,2,2,
+#1,B
+2,13,Raadpleeg/Consult Dept/
+2,14,Raadpleeg/Consult Dept/
+2,15,Raadpleeg/Consult Dept/
+#2,B
+3,9,Raadpleeg/Consult Dept/
+3,10,Raadpleeg/Consult Dept/
+3,11,Raadpleeg/Consult Dept/
+#3,B
+4,15,Raadpleeg/Consult Dept/r3 R2
+4,16,Raadpleeg/Consult Dept/r3 R2
+4,17,Raadpleeg/Consult Dept/r3 R2
+#4,B
+4,21,Raadpleeg/Consult Dept/
+4,22,Raadpleeg/Consult Dept/
+4,23,Raadpleeg/Consult Dept/
+@NPT 220,2,2,
+#1,B
+1,15,Ing/Eng II 3-31/n3 N2
+1,16,Ing/Eng II 3-31/n3 N2
+2,15,Ing/Eng II 3-31/n3 N2
+2,16,Ing/Eng II 3-31/n3 N2
+3,3,Ing/Eng II 4-30/n3 N2
+3,4,Ing/Eng II 4-30/n3 N2
+3,11,Ing/Eng II 4-30/n3 N2
+3,12,Ing/Eng II 4-30/n3 N2
+4,15,Ing/Eng II 4-30/n3 N2
+4,16,Ing/Eng II 4-30/n3 N2
+4,17,Ing/Eng II 4-30/n3 N2
+4,18,Ing/Eng II 4-30/n3 N2
+@NMC 223 P,2,2,
+#1,B
+3,13,Raadpleeg/Consult Dept/n3 N2
+3,14,Raadpleeg/Consult Dept/n3 N2
+3,15,Raadpleeg/Consult Dept/n3 N2
+3,16,Raadpleeg/Consult Dept/n3 N2
+@SHC 410 T,4,1,
+#1,B
+1,15,Ing/Eng III - 5/S4
+1,16,Ing/Eng III - 5/S4
+@PJJ 210 T,2,1,
+#1,B
+5,7,Ing/Eng II 4-38/p3 P2
+5,8,Ing/Eng II 4-38/p3 P2
+5,9,Ing/Eng II 4-38/p3 P2
+5,10,Ing/Eng II 4-38/p3 P2
+@NJJ 210,2,1,
+#1,B
+2,11,Ing/Eng III- 4/n3 N2
+2,12,Ing/Eng III- 4/n3 N2
+2,13,Ing/Eng III- 4/n3 N2
+2,14,Ing/Eng III- 4/n3 N2
+@CJJ 210,2,1,
+#1,B
+3,9,Ing/Eng III - 2/c3 C2
+3,10,Ing/Eng III - 2/c3 C2
+3,11,Ing/Eng III - 2/c3 C2
+3,12,Ing/Eng III - 2/c3 C2
+@JPO 152,1,1,
+#2,B
+3,1,Ing/Eng II 4-38/e1n1p1z1
+3,2,Ing/Eng II 4-38/e1n1p1z1
+@IPI 410,4,1,
+#1,B
+2,17,Ing/Eng III - 6/B4E4R4Z4
+2,18,Ing/Eng III - 6/B4E4R4Z4
+#2,B
+2,19,Ing/Eng III - 6/B4M4N4P4S4
+2,20,Ing/Eng III - 6/B4M4N4P4S4
+@ENE 410 P,4,1,
+#1,B
+4,7,Elek/Elec Lab A/Z4
+4,8,Elek/Elec Lab A/Z4
+4,9,Elek/Elec Lab A/Z4
+4,10,Elek/Elec Lab A/Z4
+4,11,Elek/Elec Lab A/Z4
+4,12,Elek/Elec Lab A/Z4
+@NPW 411 P,4,1,
+#1,B
+2,15,Raadpleeg/Consult Dept/N4
+2,16,Raadpleeg/Consult Dept/N4
+2,17,Raadpleeg/Consult Dept/N4
+2,18,Raadpleeg/Consult Dept/N4
+@CRO 410,4,1,
+#1,B
+2,5,Ing/Eng II 4-30/C4
+2,6,Ing/Eng II 4-30/C4
+2,7,Ing/Eng II 4-30/C4
+2,8,Ing/Eng II 4-30/C4
+4,5,Ing/Eng II 3-34/C4
+4,6,Ing/Eng II 3-34/C4
+5,9,Ing/Eng II 3-25/C4
+5,10,Ing/Eng II 3-25/C4
+@EME 310,3,1,
+#1,B
+1,7,Ing/Eng II 4-21/R3
+1,8,Ing/Eng II 4-21/R3
+3,1,Ing/Eng II 3-34/R3
+3,2,Ing/Eng II 3-34/R3
+4,5,Ing/Eng II 4-21/R3
+4,6,Ing/Eng II 4-21/R3
+5,7,Ing/Eng II 3-31/R3
+5,8,Ing/Eng II 3-31/R3
+@EMK 310 T,3,1,
+#1,A
+5,9,Ing/Eng II 2-27/E3R3Z3
+5,10,Ing/Eng II 2-27/E3R3Z3
+#2,E
+2,3,Ing/Eng II 4-39/E3R3Z3
+2,4,Ing/Eng II 4-39/E3R3Z3
+@ENE 310 P,3,1,
+#1,B
+3,9,Ing/Eng III - 7/E3R3Z3
+3,10,Ing/Eng III - 7/E3R3Z3
+3,11,Ing/Eng III - 7/E3R3Z3
+3,12,Ing/Eng III - 7/E3R3Z3
+3,13,Ing/Eng III - 7/E3R3Z3
+3,14,Ing/Eng III - 7/E3R3Z3
+@MAN 420,4,2,
+#1,B
+5,3,Ing/Eng III - 2/M4
+5,4,Ing/Eng III - 2/M4
+5,5,Ing/Eng III - 2/M4
+5,6,Ing/Eng III - 2/M4
+5,9,Ing/Eng III - 2/M4
+5,10,Ing/Eng III - 2/M4
+@MSY 310 P,3,1,
+#1,B
+1,13,Ing/Eng III - 6/M3
+1,14,Ing/Eng III - 6/M3
+1,15,Ing/Eng III - 6/M3
+1,16,Ing/Eng III - 6/M3
+@MOW 227,2,2,
+#1,B
+1,11,Ing/Eng III - 6/m3 M2
+1,12,Ing/Eng III - 6/m3 M2
+2,13,Ing/Eng III - 7/m3 M2
+2,14,Ing/Eng III - 7/m3 M2
+2,15,Ing/Eng III - 7/m3 M2
+2,16,Ing/Eng III - 7/m3 M2
+2,17,Ing/Eng III - 7/m3 M2
+2,18,Ing/Eng III - 7/m3 M2
+2,19,Ing/Eng III - 7/m3 M2
+2,20,Ing/Eng III - 7/m3 M2
+3,3,Ing/Eng III - 6/m3 M2
+3,4,Ing/Eng III - 6/m3 M2
+4,3,Ing/Eng III - 6/m3 M2
+4,4,Ing/Eng III - 6/m3 M2
+@JPO 124 T,1,2,
+#1,B
+2,13,NW2 Rek/Comp Lab 4/r2
+2,14,NW2 Rek/Comp Lab 4/r2
+2,15,NW2 Rek/Comp Lab 4/r2
+2,16,NW2 Rek/Comp Lab 4/r2
+4,1,NW2 Rek/Comp Lab 4/r2
+4,2,NW2 Rek/Comp Lab 4/r2
+@NEX 320,3,2,
+#1,B
+2,7,Raadpleeg/Consult Dept/N3
+2,8,Raadpleeg/Consult Dept/N3
+2,9,Raadpleeg/Consult Dept/N3
+2,10,Raadpleeg/Consult Dept/N3
+2,11,Raadpleeg/Consult Dept/N3
+2,12,Raadpleeg/Consult Dept/N3
+2,13,Raadpleeg/Consult Dept/N3
+2,14,Raadpleeg/Consult Dept/N3
+2,15,Raadpleeg/Consult Dept/N3
+2,16,Raadpleeg/Consult Dept/N3
+2,17,Raadpleeg/Consult Dept/N3
+2,18,Raadpleeg/Consult Dept/N3
+5,7,Ing/Eng II 4-30/N3
+5,8,Ing/Eng II 4-30/N3
+@SGM 311 T,3,1,
+#1,B
+5,1,Ing/Eng III - 2/S3
+5,2,Ing/Eng III - 2/S3
+@MVS 311 T,3,1,
+#1,B
+5,11,Ing/Eng III -3/B3
+5,12,Ing/Eng III -3/B3
+5,13,Ing/Eng III -3/B3
+5,14,Ing/Eng III -3/B3
+5,15,Ing/Eng III -3/B3
+5,16,Ing/Eng III -3/B3
+@BID 320,3,2,
+#1,B
+1,13,NW2 Rek/Comp lab 1,2/B3
+1,14,NW2 Rek/Comp lab 1,2/B3
+1,15,NW2 Rek/Comp lab 1,2/B3
+1,16,NW2 Rek/Comp lab 1,2/B3
+3,9,NW2 Rek/Comp lab 1,2/B3
+3,10,NW2 Rek/Comp lab 1,2/B3
+3,11,NW2 Rek/Comp lab 1,2/B3
+3,12,NW2 Rek/Comp lab 1,2/B3
+4,3,NW2 Rek/Comp lab 1,2/B3
+4,4,NW2 Rek/Comp lab 1,2/B3
+4,5,NW2 Rek/Comp lab 1,2/B3
+4,6,NW2 Rek/Comp lab 1,2/B3
+@BFB 320,3,2,
+#1,B
+5,9,Teologie/Theology 2-1/B3
+5,10,Teologie/Theology 2-1/B3
+5,11,Teologie/Theology 2-1/B3
+5,12,Teologie/Theology 2-1/B3
+@PEE 410,4,1,
+#1,B
+1,7,Ing/Eng II 3-27/P4
+1,8,Ing/Eng II 3-27/P4
+1,9,Ing/Eng II 3-27/P4
+1,10,Ing/Eng II 3-27/P4
+5,7,Ing/Eng II 3-43/P4
+5,8,Ing/Eng II 3-43/P4
+@MKM 410,4,1,
+#1,B
+3,5,Ing/Eng III -3/M4
+3,6,Ing/Eng III -3/M4
+4,11,Ing/Eng III -3/M4
+4,12,Ing/Eng III -3/M4
+4,13,Ing/Eng III - 2/M4
+4,14,Ing/Eng III - 2/M4
+@BAN 313,3,1,
+#1,B
+1,11,Ing/Eng II 4-38/B3
+1,12,Ing/Eng II 4-38/B3
+3,9,Ing/Eng II 2-37/B3
+3,10,Ing/Eng II 2-37/B3
+@SVC 323 T,3,2,
+#1,B
+2,13,Teologie/Theology 1-25/S3
+2,14,Teologie/Theology 1-25/S3
+2,15,Teologie/Theology 1-25/S3
+2,16,Teologie/Theology 1-25/S3
+@SIN 311,3,1,
+#1,B
+4,3,Ing/Eng III - 1/S3
+4,4,Ing/Eng III - 1/S3
+4,7,Ing/Eng III - 6/S3
+4,8,Ing/Eng III - 6/S3
+@SIN 311 P,3,1,
+#1,B
+5,11,Ing/Eng III - 2/S3
+5,12,Ing/Eng III - 2/S3
+5,13,Ing/Eng III - 2/S3
+5,14,Ing/Eng III - 2/S3
+@CPB 410 P,4,1,
+#1,B
+2,13,Ing/Eng II 1-1/C4
+2,14,Ing/Eng II 1-1/C4
+2,15,Ing/Eng II 1-1/C4
+2,16,Ing/Eng II 1-1/C4
+2,17,Ing/Eng II 1-1/C4
+2,18,Ing/Eng II 1-1/C4
+@CMO 320 P,3,1,
+#1,B
+2,7,NW2 Rek/Comp lab 2,3,4/C3
+2,8,NW2 Rek/Comp lab 2,3,4/C3
+2,9,NW2 Rek/Comp lab 2,3,4/C3
+2,10,NW2 Rek/Comp lab 2,3,4/C3
+#2,B
+2,7,Ing/Eng III - 5/C3
+2,8,Ing/Eng III - 5/C3
+2,9,Ing/Eng III - 5/C3
+2,10,Ing/Eng III - 5/C3
+@GLY 361,3,2,
+#1,B
+2,1,Min Wet/Science 2-36/P4
+2,2,Min Wet/Science 2-36/P4
+2,13,Min Wet/Science 2-36/P4
+2,14,Min Wet/Science 2-36/P4
+5,1,Min Wet/Science 2-36/P4
+5,2,Min Wet/Science 2-36/P4
+5,3,Min Wet/Science 2-36/P4
+5,4,Min Wet/Science 2-36/P4
+@BPZ 220 T,2,2,
+#1,A
+1,15,Ing/Eng II 2-27/b3 B2
+1,16,Ing/Eng II 2-27/b3 B2
+#2,E
+4,15,Ing/Eng II 2-27/b3 B2
+4,16,Ing/Eng II 2-27/b3 B2
+@CSC 421,4,2,
+#1,B
+2,7,Ing/Eng II 3-40/C4
+2,8,Ing/Eng II 3-40/C4
+2,9,Ing/Eng II 3-40/C4
+2,10,Ing/Eng II 3-40/C4
+@GMI 210 P,2,1,
+#1,B
+1,9,Raadpleeg/Consult Dept/n3 N2
+1,10,Raadpleeg/Consult Dept/n3 N2
+1,11,Raadpleeg/Consult Dept/n3 N2
+1,12,Raadpleeg/Consult Dept/n3 N2
+1,13,Raadpleeg/Consult Dept/n3 N2
+1,14,Raadpleeg/Consult Dept/n3 N2
+@GMI 210,2,1,
+#1,B
+1,7,Ing/Eng II 3-31/n3 N2
+1,8,Ing/Eng II 3-31/n3 N2
+2,1,Ing/Eng II 1-2/n3 N2
+2,2,Ing/Eng II 1-2/n3 N2
+4,3,Ing/Eng II 3-34/n3 N2
+4,4,Ing/Eng II 3-34/n3 N2
+@EES 424 P,4,2,
+#1,B
+3,15,ING Elekriese Lab A & Ing II 2-36/Z4
+3,16,ING Elekriese Lab A & Ing II 2-36/Z4
+3,17,ING Elekriese Lab A & Ing II 2-36/Z4
+3,18,ING Elekriese Lab A & Ing II 2-36/Z4
+3,19,ING Elekriese Lab A & Ing II 2-36/Z4
+3,20,ING Elekriese Lab A & Ing II 2-36/Z4
+@JPO 111,1,1,
+#1,B
+2,1,Ing/Eng II 2-37/s1
+2,2,Ing/Eng II 2-37/s1
+#2,B
+2,5,Ing/Eng II 4-21/b1c1
+2,6,Ing/Eng II 4-21/b1c1
+@NMP 411,4,1,
+#1,B
+1,7,Ing/Eng II 2-36/N4
+1,8,Ing/Eng II 2-36/N4
+1,9,Ing/Eng II 2-36/N4
+1,10,Ing/Eng II 2-36/N4
+5,3,Teologie/Theology 1-19/N4
+5,4,Teologie/Theology 1-19/N4
+5,5,Teologie/Theology 1-19/N4
+5,6,Teologie/Theology 1-19/N4
+@NVM 321,3,2,
+#1,B
+2,5,Ing/Eng II 1-2/N3
+2,6,Ing/Eng II 1-2/N3
+4,7,Ing/Eng II 1-5/N3
+4,8,Ing/Eng II 1-5/N3
+@PSC 321 T,3,2,
+#1,B
+3,1,Ing/Eng II 3-25/P3
+3,2,Ing/Eng II 3-25/P3
+@NPM 321,3,2,
+#1,B
+1,5,Ing/Eng II 4-36/N3
+1,6,Ing/Eng II 4-36/N3
+2,3,Ing/Eng II 1-1/N3
+2,4,Ing/Eng II 1-1/N3
+3,3,NW2 Rek/Comp lab 3,4/N3
+3,4,NW2 Rek/Comp lab 3,4/N3
+3,5,NW2 Rek/Comp lab 3,4/N3
+3,6,NW2 Rek/Comp lab 3,4/N3
+5,3,Ing/Eng II 3-34/N3
+5,4,Ing/Eng II 3-34/N3
+@EMZ 310 P,3,1,
+#1,B
+4,15,CAEC Lab & Ing/Eng II 4-39/E3Z3
+4,16,CAEC Lab & Ing/Eng II 4-39/E3Z3
+4,17,CAEC Lab & Ing/Eng II 4-39/E3Z3
+4,18,CAEC Lab & Ing/Eng II 4-39/E3Z3
+4,19,CAEC Lab & Ing/Eng II 4-39/E3Z3
+4,20,CAEC Lab & Ing/Eng II 4-39/E3Z3
+@ERD 320 P,3,2,
+#1,B
+2,9,Elek/Elec Lab & Ing/Eng I 1-8/R3
+2,10,Elek/Elec Lab & Ing/Eng I 1-8/R3
+2,11,Elek/Elec Lab & Ing/Eng I 1-8/R3
+2,12,Elek/Elec Lab & Ing/Eng I 1-8/R3
+2,13,Elek/Elec Lab & Ing/Eng I 1-8/R3
+2,14,Elek/Elec Lab & Ing/Eng I 1-8/R3
+@EPR 400,4,1,
+#1,A
+2,13,Ing/Eng II 2-37/E4Z4
+2,14,Ing/Eng II 2-37/E4Z4
+#2,E
+2,15,GW/HB 3-23/E4Z4
+2,16,GW/HB 3-23/E4Z4
+@MUU 420,4,2,
+#1,B
+2,3,Ing/Eng II 3-40/M4
+2,4,Ing/Eng II 3-40/M4
+2,5,Ing/Eng II 3-40/M4
+2,6,Ing/Eng II 3-40/M4
+2,13,Ing/Eng II 4-38/M4
+2,14,Ing/Eng II 4-38/M4
+@PRX 321 P,3,2,
+#1,B
+2,7,Ing/Eng II 3-31/P3
+2,8,Ing/Eng II 3-31/P3
+2,9,Ing/Eng II 3-31/P3
+2,10,Ing/Eng II 3-31/P3
+@MTX 221 P,2,2,
+#1,A
+4,15,Ing/Eng III - 6/b3m3p3 B2M2P2
+4,16,Ing/Eng III - 6/b3m3p3 B2M2P2
+4,17,Ing/Eng III - 6/b3m3p3 B2M2P2
+4,18,Ing/Eng III - 6/b3m3p3 B2M2P2
+4,19,Ing/Eng III - 6/b3m3p3 B2M2P2
+4,20,Ing/Eng III - 6/b3m3p3 B2M2P2
+#2,E
+3,15,Ing/Eng III - 6/b3m3p3 B2M2P2
+3,16,Ing/Eng III - 6/b3m3p3 B2M2P2
+3,17,Ing/Eng III - 6/b3m3p3 B2M2P2
+3,18,Ing/Eng III - 6/b3m3p3 B2M2P2
+3,19,Ing/Eng III - 6/b3m3p3 B2M2P2
+3,20,Ing/Eng III - 6/b3m3p3 B2M2P2
+@SVC 412 P,4,1,
+#1,B
+1,17,IT 2-25/S4
+1,18,IT 2-25/S4
+1,19,IT 2-25/S4
+1,20,IT 2-25/S4
+@SIN 411 P,4,1,
+#1,B
+2,17,Ing/Eng III - 5/S4
+2,18,Ing/Eng III - 5/S4
+@SHC 321 P,3,2,
+#1,B
+5,11,Ing/Eng III - 5/S3
+5,12,Ing/Eng III - 5/S3
+5,13,Ing/Eng III - 5/S3
+5,14,Ing/Eng III - 5/S3
+@SHC 310 P,3,1,
+#1,B
+5,5,Thuto 3-1/S3
+5,6,Thuto 3-1/S3
+@ERA 284 P,2,2,
+#1,A
+2,19,Raadpleeg/Consult Dept/r2 R1
+2,20,Raadpleeg/Consult Dept/r2 R1
+2,21,Raadpleeg/Consult Dept/r2 R1
+2,22,Raadpleeg/Consult Dept/r2 R1
+2,23,Raadpleeg/Consult Dept/r2 R1
+2,24,Raadpleeg/Consult Dept/r2 R1
+#2,E
+1,19,Raadpleeg/Consult Dept/r2 R1
+1,20,Raadpleeg/Consult Dept/r2 R1
+1,21,Raadpleeg/Consult Dept/r2 R1
+1,22,Raadpleeg/Consult Dept/r2 R1
+1,23,Raadpleeg/Consult Dept/r2 R1
+1,24,Raadpleeg/Consult Dept/r2 R1
+@COS 212 P,2,1,
+#1,B
+2,5,Raadpleeg/Consult Dept/r3
+2,6,Raadpleeg/Consult Dept/r3
+2,7,Raadpleeg/Consult Dept/r3
+#2,B
+5,11,Raadpleeg/Consult Dept/
+5,12,Raadpleeg/Consult Dept/
+5,13,Raadpleeg/Consult Dept/
+#3,B
+5,15,Raadpleeg/Consult Dept/R2
+5,16,Raadpleeg/Consult Dept/R2
+5,17,Raadpleeg/Consult Dept/R2
+5,18,Raadpleeg/Consult Dept/R2
+5,19,Raadpleeg/Consult Dept/R2
+5,20,Raadpleeg/Consult Dept/R2
+@JPO 122,1,2,
+#1,B
+1,19,Ing/Eng II 2-27/b1c1r1
+1,20,Ing/Eng II 2-27/b1c1r1
+#2,B
+1,9,Ing/Eng II 4-38/s1
+1,10,Ing/Eng II 4-38/s1
+@CIR 211 P,2,1,
+#1,B
+1,13,Ing/Eng II 2-27/c3 C2
+1,14,Ing/Eng II 2-27/c3 C2
+1,15,Ing/Eng II 2-27/c3 C2
+1,16,Ing/Eng II 2-27/c3 C2
+@JPO 114 T,1,1,
+#1,B
+1,15,NW2 Rek/Comp lab 2,3,4/r2
+1,16,NW2 Rek/Comp lab 2,3,4/r2
+5,13,NW2 Rek/Comp Lab 4/r2
+5,14,NW2 Rek/Comp Lab 4/r2
+5,15,NW2 Rek/Comp Lab 4/r2
+5,16,NW2 Rek/Comp Lab 4/r2
+@JPO 127 T,1,2,
+#1,B
+2,7,Ing/Eng II 4-21/r2
+2,8,Ing/Eng II 4-21/r2
+3,7,Ing/Eng II 1-2/r2
+3,8,Ing/Eng II 1-2/r2
+5,9,Ing/Eng II 3-34/r2
+5,10,Ing/Eng II 3-34/r2
+@SGM 311 P,3,1,
+#1,B
+3,15,Ing/Eng III -3/S3
+3,16,Ing/Eng III -3/S3
+3,17,Ing/Eng III -3/S3
+3,18,Ing/Eng III -3/S3
+@JPO 113,1,1,
+#1,B
+1,1,Ing/Eng II 4-38/b2c2e2m2
+1,2,Ing/Eng II 4-38/b2c2e2m2
+#2,B
+2,15,Ing/Eng II 3-40/n2p2s2z2
+2,16,Ing/Eng II 3-40/n2p2s2z2
+@EIR 211 P,2,1,
+#1,A
+3,17,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+3,18,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+3,19,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+3,20,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+3,21,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+3,22,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+#2,E
+5,9,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+5,10,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+5,11,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+5,12,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+5,13,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+5,14,CAEC Lab & Elek/Elec Lab A/e3r3z3 E2R2Z2
+@SIB 310,3,1,
+#1,B
+1,1,AE Anneks/Annex/S3
+1,2,AE Anneks/Annex/S3
+3,11,Ing/Eng III -3/S3
+3,12,Ing/Eng III -3/S3
+@SGM 323 P,3,2,
+#1,B
+5,5,Te Watersaal/Te Water hall/S3
+5,6,Te Watersaal/Te Water hall/S3
+@ABV 320,3,2,
+#1,A
+3,13,EB/EMB 4-151/B4
+3,14,EB/EMB 4-151/B4
+4,15,EB/EMB 4-151/B4
+4,16,EB/EMB 4-151/B4
+5,11,EB/EMB 4-151/B4
+5,12,EB/EMB 4-151/B4
+#2,E
+3,17,EB/EMB 4-151/B4
+3,18,EB/EMB 4-151/B4
+4,19,IT 2-26/B4
+4,20,IT 2-26/B4
+5,15,IT 4-4/B4
+5,16,IT 4-4/B4
+@SUR 220,2,2,
+#1,B
+1,17,Ing/Eng II 2-27/p3 P2
+1,18,Ing/Eng II 2-27/p3 P2
+3,3,Ing/Eng II 2-27/p3 P2
+3,4,Ing/Eng II 2-27/p3 P2
+4,3,Geografie/Geography 2-9/p3 P2
+4,4,Geografie/Geography 2-9/p3 P2
+@BER 310,3,1,
+#1,A
+1,3,Mullersaal/Muller hall/B3
+1,4,Mullersaal/Muller hall/B3
+1,5,Mullersaal/Muller hall/B3
+1,6,Mullersaal/Muller hall/B3
+4,17,Build Sc/Boukunde 3-3/B3
+4,18,Build Sc/Boukunde 3-3/B3
+4,19,Build Sc/Boukunde 3-3/B3
+4,20,Build Sc/Boukunde 3-3/B3
+#2,E
+1,3,Regsgebou/Law building 1-54/B3
+1,4,Regsgebou/Law building 1-54/B3
+1,5,Regsgebou/Law building 1-54/B3
+1,6,Regsgebou/Law building 1-54/B3
+4,17,Eeufees/Centenary 1/B3
+4,18,Eeufees/Centenary 1/B3
+4,19,Eeufees/Centenary 1/B3
+4,20,Eeufees/Centenary 1/B3
+@MVS 311 P,3,1,
+#1,B
+2,13,Ing/Eng III - 2/B3
+2,14,Ing/Eng III - 2/B3
+2,15,Ing/Eng III - 2/B3
+2,16,Ing/Eng III - 2/B3
+2,17,Ing/Eng III - 2/B3
+2,18,Ing/Eng III - 2/B3
+@SDC 420,4,2,
+#1,B
+2,1,Thuto 3-2/S4
+2,2,Thuto 3-2/S4
+2,3,Thuto 3-2/S4
+2,4,Thuto 3-2/S4
+2,5,Thuto 3-2/S4
+2,6,Thuto 3-2/S4
+@SHC 410,4,1,
+#1,B
+1,5,Ing/Eng II 4-38/S4
+1,6,Ing/Eng II 4-38/S4
+1,7,Ing/Eng II 4-38/S4
+1,8,Ing/Eng II 4-38/S4
+5,9,Teologie/Theology 1-9/S4
+5,10,Teologie/Theology 1-9/S4
+@SIN 324 T,3,2,
+#1,B
+3,11,Ing/Eng III -3/S3
+3,12,Ing/Eng III -3/S3
+@CPN 321 T,3,2,
+#1,B
+2,15,NW2 Rek/Comp lab 1,2/C3
+2,16,NW2 Rek/Comp lab 1,2/C3
+2,17,NW2 Rek/Comp lab 1,2/C3
+2,18,NW2 Rek/Comp lab 1,2/C3
+2,19,NW2 Rek/Comp lab 1,2/C3
+2,20,NW2 Rek/Comp lab 1,2/C3
+@ELX 311,3,1,
+#1,B
+2,7,Ing/Eng II 3-34/E3
+2,8,Ing/Eng II 3-34/E3
+2,9,Ing/Eng II 3-34/E3
+2,10,Ing/Eng II 3-34/E3
+3,1,Ing/Eng III - 2/E3
+3,2,Ing/Eng III - 2/E3
+3,3,Ing/Eng III - 2/E3
+3,4,Ing/Eng III - 2/E3
+@ERS 220 P,2,2,
+#1,B
+5,15,Elek/Elec Lab B & C/e3r3z3 E2R2Z2
+5,16,Elek/Elec Lab B & C/e3r3z3 E2R2Z2
+5,17,Elek/Elec Lab B & C/e3r3z3 E2R2Z2
+5,18,Elek/Elec Lab B & C/e3r3z3 E2R2Z2
+5,19,Elek/Elec Lab B & C/e3r3z3 E2R2Z2
+5,20,Elek/Elec Lab B & C/e3r3z3 E2R2Z2
+@SIE 310,3,1,
+#1,B
+2,3,Raadpleeg/Consult Dept/S3
+2,4,Raadpleeg/Consult Dept/S3
+2,5,Raadpleeg/Consult Dept/S3
+2,6,Raadpleeg/Consult Dept/S3
+3,13,Ing/Eng III - 1/S3
+3,14,Ing/Eng III - 1/S3
+4,13,Ing/Eng III - 7/S3
+4,14,Ing/Eng III - 7/S3
+#2,B
+3,5,Raadpleeg/Consult Dept/S3
+3,6,Raadpleeg/Consult Dept/S3
+3,7,Raadpleeg/Consult Dept/S3
+3,8,Raadpleeg/Consult Dept/S3
+@EKK 410 P,4,1,
+#1,B
+2,7,Elek/Elec Lab/E4
+2,8,Elek/Elec Lab/E4
+2,9,Elek/Elec Lab/E4
+2,10,Elek/Elec Lab/E4
+2,11,Elek/Elec Lab/E4
+2,12,Elek/Elec Lab/E4
+@EBT 410 P,4,1,
+#1,B
+4,15,Elek/Elec Lab A/E4Z4
+4,16,Elek/Elec Lab A/E4Z4
+4,17,Elek/Elec Lab A/E4Z4
+4,18,Elek/Elec Lab A/E4Z4
+4,19,Elek/Elec Lab A/E4Z4
+4,20,Elek/Elec Lab A/E4Z4
+@SJJ 210 T,2,1,
+#1,B
+5,15,AE Anneks/Annex/s3 S2
+5,16,AE Anneks/Annex/s3 S2
+5,17,AE Anneks/Annex/s3 S2
+5,18,AE Anneks/Annex/s3 S2
+@SJJ 210,2,1,
+#1,B
+2,9,Ing/Eng III -3/s3 S2
+2,10,Ing/Eng III -3/s3 S2
+2,11,Ing/Eng III -3/s3 S2
+2,12,Ing/Eng III -3/s3 S2
+@CJJ 210 T,2,1,
+#1,B
+4,3,Ing/Eng II 2-27/c3 C2
+4,4,Ing/Eng II 2-27/c3 C2
+@EHN 410 P,4,1,
+#1,B
+5,13,Netwerke/Networks Lab/R4
+5,14,Netwerke/Networks Lab/R4
+5,15,Netwerke/Networks Lab/R4
+5,16,Netwerke/Networks Lab/R4
+5,17,Netwerke/Networks Lab/R4
+5,18,Netwerke/Networks Lab/R4
+@BJJ 210,2,1,
+#1,B
+1,7,IT 2-26/b3 B2
+1,8,IT 2-26/b3 B2
+1,9,IT 2-26/b3 B2
+1,10,IT 2-26/b3 B2
+@CSC 421 P,4,2,
+#1,B
+2,11,Raadpleeg/Consult Dept/C4
+2,12,Raadpleeg/Consult Dept/C4
+2,13,Raadpleeg/Consult Dept/C4
+2,14,Raadpleeg/Consult Dept/C4
+2,15,Raadpleeg/Consult Dept/C4
+2,16,Raadpleeg/Consult Dept/C4
+2,17,Raadpleeg/Consult Dept/C4
+2,18,Raadpleeg/Consult Dept/C4
+2,19,Raadpleeg/Consult Dept/C4
+2,20,Raadpleeg/Consult Dept/C4
+@EMZ 320 P,3,2,
+#1,B
+3,7,CAEC Lab & Elek/Elec Lab A/Z3
+3,8,CAEC Lab & Elek/Elec Lab A/Z3
+3,9,CAEC Lab & Elek/Elec Lab A/Z3
+3,10,CAEC Lab & Elek/Elec Lab A/Z3
+3,11,CAEC Lab & Elek/Elec Lab A/Z3
+3,12,CAEC Lab & Elek/Elec Lab A/Z3
+@CHM 181 P,1,2,
+#1,B
+3,15,Suidsaal/South hall/c2 C1
+3,16,Suidsaal/South hall/c2 C1
+3,17,Suidsaal/South hall/c2 C1
+3,18,Suidsaal/South hall/c2 C1
+3,19,Suidsaal/South hall/c2 C1
+3,20,Suidsaal/South hall/c2 C1
+@MWN 420,4,2,
+#1,B
+1,13,Ing/Eng III- 4/M4
+1,14,Ing/Eng III- 4/M4
+1,19,Ing/Eng III - 2/M4
+1,20,Ing/Eng III - 2/M4
+1,21,Ing/Eng III - 2/M4
+1,22,Ing/Eng III - 2/M4
+@MEG 421,4,2,
+#1,B
+3,3,Ing/Eng II 3-25/M4
+3,4,Ing/Eng II 3-25/M4
+3,5,Ing/Eng II 3-25/M4
+3,6,Ing/Eng II 3-25/M4
+3,7,Ing/Eng II 3-25/M4
+3,8,Ing/Eng II 3-25/M4
+@COS 121 P,1,2,
+#1,B
+1,13,Raadpleeg/Consult Dept/
+1,14,Raadpleeg/Consult Dept/
+1,15,Raadpleeg/Consult Dept/
+1,16,Raadpleeg/Consult Dept/
+1,17,Raadpleeg/Consult Dept/
+1,18,Raadpleeg/Consult Dept/
+#2,B
+2,7,Raadpleeg/Consult Dept/
+2,8,Raadpleeg/Consult Dept/
+2,9,Raadpleeg/Consult Dept/
+2,10,Raadpleeg/Consult Dept/
+2,11,Raadpleeg/Consult Dept/
+2,12,Raadpleeg/Consult Dept/
+#3,B
+4,7,Raadpleeg/Consult Dept/
+4,8,Raadpleeg/Consult Dept/
+4,9,Raadpleeg/Consult Dept/
+4,10,Raadpleeg/Consult Dept/
+4,11,Raadpleeg/Consult Dept/
+4,12,Raadpleeg/Consult Dept/
+@COS 216 P,2,1,
+#1,B
+3,9,Raadpleeg/Consult Dept/
+3,10,Raadpleeg/Consult Dept/
+3,11,Raadpleeg/Consult Dept/
+3,12,Raadpleeg/Consult Dept/
+3,13,Raadpleeg/Consult Dept/
+3,14,Raadpleeg/Consult Dept/
+#2,B
+2,15,Raadpleeg/Consult Dept/r3 R2
+2,16,Raadpleeg/Consult Dept/r3 R2
+2,17,Raadpleeg/Consult Dept/r3 R2
+2,18,Raadpleeg/Consult Dept/r3 R2
+2,19,Raadpleeg/Consult Dept/r3 R2
+2,20,Raadpleeg/Consult Dept/r3 R2
+@EIR 211 T,2,1,
+#1,A
+3,7,Ing/Eng III - 7/e3r3z3 E2R2Z2
+3,8,Ing/Eng III - 7/e3r3z3 E2R2Z2
+#2,E
+3,7,Ing/Eng III - 7/e3r3z3 E2R2Z2
+3,8,Ing/Eng III - 7/e3r3z3 E2R2Z2
+@SHC 410 P,4,1,
+#1,B
+2,1,Ing/Eng II 2-36/S4
+2,2,Ing/Eng II 2-36/S4
+2,3,Ing/Eng II 2-36/S4
+2,4,Ing/Eng II 2-36/S4
+@NPB 412,4,1,
+#1,B
+1,1,NW2 Rek/Comp lab 3,4/N4
+1,2,NW2 Rek/Comp lab 3,4/N4
+1,3,NW2 Rek/Comp lab 3,4/N4
+1,4,NW2 Rek/Comp lab 3,4/N4
+@BAN 313 T,3,1,
+#1,B
+4,5,Ing/Eng II 4-38/B3
+4,6,Ing/Eng II 4-38/B3
+@JPO 124,1,2,
+#1,B
+1,11,Ing/Eng II 3-25/r2
+1,12,Ing/Eng II 3-25/r2
+@MVR 320 P,3,2,
+#1,B
+5,15,Raadpleeg/Consult Dept/M3
+5,16,Raadpleeg/Consult Dept/M3
+5,17,Raadpleeg/Consult Dept/M3
+5,18,Raadpleeg/Consult Dept/M3
+5,19,Raadpleeg/Consult Dept/M3
+5,20,Raadpleeg/Consult Dept/M3
+@BPZ 220 P,2,2,
+#1,B
+1,17,NW2 Rek/Comp lab 1,2/b3 B2
+1,18,NW2 Rek/Comp lab 1,2/b3 B2
+1,19,NW2 Rek/Comp lab 1,2/b3 B2
+1,20,NW2 Rek/Comp lab 1,2/b3 B2
+@EEO 420 P,4,2,
+#1,B
+4,7,Elek/Elec Lab/E4
+4,8,Elek/Elec Lab/E4
+4,9,Elek/Elec Lab/E4
+4,10,Elek/Elec Lab/E4
+4,11,Elek/Elec Lab/E4
+4,12,Elek/Elec Lab/E4
+@PJJ 210,2,1,
+#1,B
+1,15,Ing/Eng II 2-37/p3 P2
+1,16,Ing/Eng II 2-37/p3 P2
+1,17,Ing/Eng II 2-37/p3 P2
+1,18,Ing/Eng II 2-37/p3 P2
+@NJJ 210 T,2,1,
+#1,B
+5,3,Ing/Eng III - 5/n3 N2
+5,4,Ing/Eng III - 5/n3 N2
+5,5,Ing/Eng III - 5/n3 N2
+5,6,Ing/Eng III - 5/n3 N2
+@EJJ 210,2,1,
+#1,B
+1,7,Ing/Eng III - 5/e3r3z3 E2R2Z2
+1,8,Ing/Eng III - 5/e3r3z3 E2R2Z2
+1,9,Ing/Eng III - 5/e3r3z3 E2R2Z2
+1,10,Ing/Eng III - 5/e3r3z3 E2R2Z2
+@BJJ 210 T,2,1,
+#1,B
+4,1,Ing/Eng II 2-37/b3 B2
+4,2,Ing/Eng II 2-37/b3 B2
+4,3,Ing/Eng II 2-37/b3 B2
+4,4,Ing/Eng II 2-37/b3 B2
+@NMP 411 P,4,1,
+#1,B
+2,11,NW2 Rek/Comp lab 3,4/N4
+2,12,NW2 Rek/Comp lab 3,4/N4
+2,13,NW2 Rek/Comp lab 3,4/N4
+2,14,NW2 Rek/Comp lab 3,4/N4
+@NMP 310,3,1,
+#1,B
+1,3,Ing/Eng II 2-36/N3P3
+1,4,Ing/Eng II 2-36/N3P3
+2,5,Ing/Eng II 4-38/N3P3
+2,6,Ing/Eng II 4-38/N3P3
+4,5,Ing/Eng II 2-27/N3P3
+4,6,Ing/Eng II 2-27/N3P3
+@EMK 310 P,3,1,
+#1,B
+1,15,Elek/Elec Lab A/E3R3Z3
+1,16,Elek/Elec Lab A/E3R3Z3
+1,17,Elek/Elec Lab A/E3R3Z3
+1,18,Elek/Elec Lab A/E3R3Z3
+1,19,Elek/Elec Lab A/E3R3Z3
+1,20,Elek/Elec Lab A/E3R3Z3
+@ELX 311 P,3,1,
+#1,B
+3,15,Teologie/Theology 1-9/E3
+3,16,Teologie/Theology 1-9/E3
+3,17,Teologie/Theology 1-9/E3
+3,18,Teologie/Theology 1-9/E3
+3,19,Teologie/Theology 1-9/E3
+3,20,Teologie/Theology 1-9/E3
+@EME 310 P,3,1,
+#1,B
+2,11,NW2 Rek/Comp Lab 1/R3
+2,12,NW2 Rek/Comp Lab 1/R3
+2,13,NW2 Rek/Comp Lab 1/R3
+2,14,NW2 Rek/Comp Lab 1/R3
+2,15,NW2 Rek/Comp Lab 1/R3
+2,16,NW2 Rek/Comp Lab 1/R3
+@CLB 321 P,3,2,
+#1,B
+3,7,Raadpleeg/Consult Dept/C3
+3,8,Raadpleeg/Consult Dept/C3
+3,9,Raadpleeg/Consult Dept/C3
+3,10,Raadpleeg/Consult Dept/C3
+3,11,Raadpleeg/Consult Dept/C3
+3,12,Raadpleeg/Consult Dept/C3
+3,13,Raadpleeg/Consult Dept/C3
+3,14,Raadpleeg/Consult Dept/C3
+5,5,Raadpleeg/Consult Dept/C3
+5,6,Raadpleeg/Consult Dept/C3
+5,7,Raadpleeg/Consult Dept/C3
+5,8,Raadpleeg/Consult Dept/C3
+5,9,Raadpleeg/Consult Dept/C3
+5,10,Raadpleeg/Consult Dept/C3
+5,11,Raadpleeg/Consult Dept/C3
+5,12,Raadpleeg/Consult Dept/C3
+5,13,Raadpleeg/Consult Dept/C3
+5,14,Raadpleeg/Consult Dept/C3
+5,15,Raadpleeg/Consult Dept/C3
+5,16,Raadpleeg/Consult Dept/C3
+5,17,Raadpleeg/Consult Dept/C3
+5,18,Raadpleeg/Consult Dept/C3
+@SIN 413 T,4,1,
+#1,B
+1,13,Thuto 3-1/S4
+1,14,Thuto 3-1/S4
+@SIB 310 T,3,1,
+#1,B
+4,15,Ing/Eng III- 4/S3
+4,16,Ing/Eng III- 4/S3
+@CPA 310 P,3,1,
+#1,B
+4,15,Ing/Eng III - 1/C3C4
+4,16,Ing/Eng III - 1/C3C4
+4,17,Ing/Eng III - 1/C3C4
+4,18,Ing/Eng III - 1/C3C4
+@BGC 410,4,1,
+#1,B
+2,1,Ing/Eng II 3-34/B4
+2,2,Ing/Eng II 3-34/B4
+2,3,Ing/Eng II 3-34/B4
+2,4,Ing/Eng II 3-34/B4
+@SIN 223 P,2,2,
+#1,B
+4,9,Ing/Eng III- 4/s3 S2
+4,10,Ing/Eng III- 4/s3 S2
+4,11,Ing/Eng III- 4/s3 S2
+4,12,Ing/Eng III- 4/s3 S2
+@SGM 221,2,2,
+#1,B
+2,15,Groot Chemie/Large Chemistry/s3 S2
+2,16,Groot Chemie/Large Chemistry/s3 S2
+2,17,Groot Chemie/Large Chemistry/s3 S2
+2,18,Groot Chemie/Large Chemistry/s3 S2
+@SIN 411 T,4,1,
+#1,B
+5,7,Te Watersaal/Te Water hall/S4
+5,8,Te Watersaal/Te Water hall/S4
+@SSC 412,4,1,
+#1,B
+3,1,IT 2-24/S4
+3,2,IT 2-24/S4
+3,3,IT 2-24/S4
+3,4,IT 2-24/S4
+@CIO 310 T,3,2,
+#2,B
+2,7,Ing/Eng II 2-36/C3C3
+2,8,Ing/Eng II 2-36/C3C3
+2,9,Ing/Eng II 2-36/C3C3
+2,10,Ing/Eng II 2-36/C3C3
+2,11,Ing/Eng II 2-36/C3C3
+2,12,Ing/Eng II 2-36/C3C3
+@PMY 410 P,4,1,
+#1,B
+4,7,Ing/Eng II 3-43/P4
+4,8,Ing/Eng II 3-43/P4
+4,9,Ing/Eng II 3-43/P4
+4,10,Ing/Eng II 3-43/P4
+@GLY 254 P,2,1,
+#1,B
+2,7,Theronsaal/Theron hall/P4
+2,8,Theronsaal/Theron hall/P4
+2,9,Theronsaal/Theron hall/P4
+2,10,Theronsaal/Theron hall/P4
+2,11,Theronsaal/Theron hall/P4
+2,12,Theronsaal/Theron hall/P4
+@EAS 410 P,4,1,
+#1,B
+3,7,Netwerke/Networks Lab/R4
+3,8,Netwerke/Networks Lab/R4
+3,9,Netwerke/Networks Lab/R4
+3,10,Netwerke/Networks Lab/R4
+3,11,Netwerke/Networks Lab/R4
+3,12,Netwerke/Networks Lab/R4
+@NSC 422,4,2,
+#1,B
+5,9,Ing/Eng II 3-28/N4
+5,10,Ing/Eng II 3-28/N4
+@ELO 320 P,3,2,
+#1,B
+4,15,ING Elekriese Lab A & Ing I 1-4/Z3
+4,16,ING Elekriese Lab A & Ing I 1-4/Z3
+4,17,ING Elekriese Lab A & Ing I 1-4/Z3
+4,18,ING Elekriese Lab A & Ing I 1-4/Z3
+4,19,ING Elekriese Lab A & Ing I 1-4/Z3
+4,20,ING Elekriese Lab A & Ing I 1-4/Z3
+@EMS 310 P,3,1,
+#1,B
+3,15,Elek/Elec Lab B/Z3
+3,16,Elek/Elec Lab B/Z3
+3,17,Elek/Elec Lab B/Z3
+3,18,Elek/Elec Lab B/Z3
+3,19,Elek/Elec Lab B/Z3
+3,20,Elek/Elec Lab B/Z3
+@CPR 420 T,4,2,
+#1,B
+4,13,Ing/Eng III - 2/C4
+4,14,Ing/Eng III - 2/C4
+4,15,Ing/Eng III - 2/C4
+4,16,Ing/Eng III - 2/C4
+@COS 110 T,1,2,
+#1,B
+3,21,Raadpleeg/Consult Dept/r2 R1
+3,22,Raadpleeg/Consult Dept/r2 R1
+@JPO 114,1,1,
+#1,B
+2,13,Ing/Eng II 3-43/r2
+2,14,Ing/Eng II 3-43/r2
+@BFB 320 T,3,2,
+#1,B
+1,11,Ing/Eng II 4-38/B3
+1,12,Ing/Eng II 4-38/B3
+@SIN 324 P,3,2,
+#1,B
+3,9,Ing/Eng III -3/S3
+3,10,Ing/Eng III -3/S3
+@SGM 221 P,2,2,
+#1,B
+3,13,Eeufees/Centenary 3/s3 S2
+3,14,Eeufees/Centenary 3/s3 S2
+3,15,Eeufees/Centenary 3/s3 S2
+3,16,Eeufees/Centenary 3/s3 S2
+@SBZ 221 P,2,2,
+#1,B
+1,13,Ing/Eng III -3/s3 S2
+1,14,Ing/Eng III -3/s3 S2
+1,15,Ing/Eng III -3/s3 S2
+1,16,Ing/Eng III -3/s3 S2
+1,17,Ing/Eng III -3/s3 S2
+1,18,Ing/Eng III -3/s3 S2

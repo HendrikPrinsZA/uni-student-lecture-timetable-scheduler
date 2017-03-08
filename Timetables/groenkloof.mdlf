@@ -1,0 +1,4059 @@
+@JTT 120,1,2,
+#11,B
+1,21,Aldoel 1-93
+1,22,Aldoel 1-93
+1,23,Aldoel 1-93
+1,24,Aldoel 1-93
+4,17,B21
+4,18,B21
+4,19,B21
+4,20,B21
+@HONS 900,9,0,
+#1,B
+2,15,B203
+2,16,B203
+2,17,B203
+2,18,B203
+2,19,B203
+2,20,B203
+2,21,B203
+2,22,B203
+2,23,B203
+2,24,B202
+4,16,Lesingteater/Lecture Theatre L3
+4,17,Lesingteater/Lecture Theatre L3
+4,18,Lesingteater/Lecture Theatre L3
+4,19,Lesingteater/Lecture Theatre L3
+4,20,Lesingteater/Lecture Theatre L3
+4,21,Lesingteater/Lecture Theatre L3
+4,22,Lesingteater/Lecture Theatre L3
+4,23,Lesingteater/Lecture Theatre L3
+4,24,Lesingteater/Lecture Theatre L3
+5,16,Lesingteater/Lecture Theatre L6
+5,17,Lesingteater/Lecture Theatre L6
+5,18,Lesingteater/Lecture Theatre L6
+5,19,Lesingteater/Lecture Theatre L6
+5,20,Lesingteater/Lecture Theatre L6
+5,21,Lesingteater/Lecture Theatre L6
+5,22,Lesingteater/Lecture Theatre L6
+5,23,Lesingteater/Lecture Theatre L6
+5,24,Aldoel 2
+@JTK 300,3,2,
+#1,A
+1,13,Lesingteater/Lecture Theatre L4
+1,14,Lesingteater/Lecture Theatre L4
+#2,A
+2,7,Aldoel 2
+2,8,Aldoel 2
+#3,A
+4,13,Lesingteater/Lecture Theatre L6
+4,14,Lesingteater/Lecture Theatre L6
+@ENV 101,1,1,
+#11,B
+1,15,Lesingteater/Lecture Theatre L4
+1,16,Lesingteater/Lecture Theatre L4
+2,1,Lesingteater/Lecture Theatre L2
+2,2,Lesingteater/Lecture Theatre L2
+3,7,A208
+3,8,A208
+@ENV 101 T,1,1,
+#11,B
+2,3,Lesingteater/Lecture Theatre L2
+2,4,Lesingteater/Lecture Theatre L2
+@ENG 210,2,1,
+#11,E
+2,21,Lesingteater/Lecture Theatre L6
+2,22,Lesingteater/Lecture Theatre L6
+3,21,Lesingteater/Lecture Theatre L6
+3,22,Lesingteater/Lecture Theatre L6
+4,21,Lesingteater/Lecture Theatre L6
+4,22,Lesingteater/Lecture Theatre L6
+@ENG 220,2,2,
+#11,E
+2,21,Lesingteater/Lecture Theatre L6
+2,22,Lesingteater/Lecture Theatre L6
+3,21,Lesingteater/Lecture Theatre L6
+3,22,Lesingteater/Lecture Theatre L6
+4,21,Lesingteater/Lecture Theatre L6
+4,22,Lesingteater/Lecture Theatre L6
+@JKU 210 P,2,1,
+#11,A
+2,15,F01
+2,16,F01
+2,17,F01
+2,18,F01
+#12,E
+3,9,F02
+3,10,F02
+3,11,F02
+3,12,F02
+@JKU 210,2,1,
+#11,A
+2,5,F01
+2,6,F01
+2,7,F01
+2,8,F01
+#12,E
+2,11,F02
+2,12,F02
+2,13,F02
+2,14,F02
+@JVK 454,4,2,
+#1,A
+4,9,B203
+4,10,B203
+4,11,B203
+4,12,B203
+#2,E
+4,13,Lesingteater/Lecture Theatre L4
+4,14,Lesingteater/Lecture Theatre L4
+4,15,Lesingteater/Lecture Theatre L4
+4,16,Lesingteater/Lecture Theatre L4
+#3,A
+2,13,Lesingteater/Lecture Theatre L7
+2,14,Lesingteater/Lecture Theatre L7
+2,15,Lesingteater/Lecture Theatre L7
+2,16,Lesingteater/Lecture Theatre L7
+#4,E
+3,11,Lesingteater/Lecture Theatre L5
+3,12,Lesingteater/Lecture Theatre L5
+3,13,Lesingteater/Lecture Theatre L5
+3,14,Lesingteater/Lecture Theatre L5
+@JLZ 110,1,1,
+#11,A
+1,5,B203
+1,6,B203
+2,11,B203
+2,12,B203
+#12,A
+1,5,F03
+1,6,F03
+2,11,F03
+2,12,F03
+#13,A
+1,7,B204
+1,8,B204
+2,13,B204
+2,14,B204
+#14,A
+1,7,B207
+1,8,B207
+2,13,B207
+2,14,B207
+#15,A
+1,9,Lesingteater/Lecture Theatre L3
+1,10,Lesingteater/Lecture Theatre L3
+3,9,Lesingteater/Lecture Theatre L3
+3,10,Lesingteater/Lecture Theatre L3
+#16,A
+1,9,F03
+1,10,F03
+3,9,F03
+3,10,F03
+#17,A
+1,15,A208
+1,16,A208
+3,11,A208
+3,12,A208
+#18,A
+1,15,Lesingteater/Lecture Theatre L2
+1,16,Lesingteater/Lecture Theatre L2
+3,11,Lesingteater/Lecture Theatre L2
+3,12,Lesingteater/Lecture Theatre L2
+#19,A
+2,1,F111
+2,2,F111
+3,13,F111
+3,14,F111
+#20,A
+2,1,G103
+2,2,G103
+3,13,G103
+3,14,G103
+#21,E
+1,5,B204
+1,6,B204
+2,11,B204
+2,12,B204
+#22,E
+1,5,G102
+1,6,G102
+2,11,G102
+2,12,G102
+#23,E
+1,7,Lesingteater/Lecture Theatre L1
+1,8,Lesingteater/Lecture Theatre L1
+2,13,Lesingteater/Lecture Theatre L1
+2,14,Lesingteater/Lecture Theatre L1
+#24,E
+1,7,G102
+1,8,G102
+2,13,G102
+2,14,G102
+#25,E
+1,9,B204
+1,10,B204
+3,9,B204
+3,10,B204
+#27,E
+1,15,B204
+1,16,B204
+3,11,B204
+3,12,B204
+#28,E
+1,15,G102
+1,16,G102
+3,11,G102
+3,12,G102
+#29,E
+2,1,Lesingteater/Lecture Theatre L5
+2,2,Lesingteater/Lecture Theatre L5
+3,13,Lesingteater/Lecture Theatre L2
+3,14,Lesingteater/Lecture Theatre L2
+#30,E
+2,1,G102
+2,2,G102
+3,13,G102
+3,14,G102
+#31,E
+1,11,B203
+1,12,B203
+3,5,B203
+3,6,B203
+#33,E
+1,5,Lesingteater/Lecture Theatre L2
+1,6,Lesingteater/Lecture Theatre L2
+2,11,Lesingteater/Lecture Theatre L2
+2,12,Lesingteater/Lecture Theatre L2
+#34,A
+1,9,F111
+1,10,F111
+3,9,F111
+3,10,F111
+#35,E
+1,5,F107
+1,6,F107
+2,11,F101
+2,12,F101
+#36,E
+2,15,B202
+2,16,B202
+3,15,B202
+3,16,B202
+@JSN 454,4,2,
+#1,A
+1,11,G103
+1,12,G103
+1,13,G103
+1,14,G103
+3,17,G103
+3,18,G103
+3,19,G103
+3,20,G103
+#2,E
+2,1,G103
+2,2,G103
+2,3,G103
+2,4,G103
+4,17,G103
+4,18,G103
+4,19,G103
+4,20,G103
+@JGF 311,3,1,
+#1,B
+2,5,A208
+2,6,A208
+5,1,A208
+5,2,A208
+@JMD 455,4,1,
+#1,B
+5,9,F111
+5,10,F111
+5,11,F111
+5,12,F111
+@JMV 451,4,1,
+#1,B
+3,1,B204
+3,2,B204
+3,3,B204
+3,4,B204
+3,13,F03
+3,14,F03
+3,15,F03
+3,16,F03
+@JMN 457,4,1,
+#1,B
+1,13,NW/NS Lab E/L7
+1,14,NW/NS Lab E/L7
+1,15,NW/NS Lab E/L7
+1,16,NW/NS Lab E/L7
+@JMN 455,4,1,
+#1,B
+3,1,NW/NS Lab G/Aldo F03
+3,2,NW/NS Lab G/Aldo F03
+3,3,NW/NS Lab G/Aldo F03
+3,4,NW/NS Lab G/Aldo F03
+@JMN 454 P,4,1,
+#1,B
+1,9, B203
+1,10, B203
+@JMN 454,4,1,
+#1,B
+2,3, B202
+2,4, B202
+2,5, B202
+2,6, B202
+@JMM 451,4,1,
+#1,B
+2,3,F105
+2,4,F105
+2,5,F105
+2,6,F105
+@JLZ 120 T,1,2,
+#11,A
+4,3,B203
+4,4,B203
+#12,A
+4,3,F03
+4,4,F03
+#13,A
+4,5,B204
+4,6,B204
+#14,A
+4,5,B207
+4,6,B207
+#15,A
+4,11,B207
+4,12,B207
+#16,A
+4,11,F03
+4,12,F03
+#17,A
+4,13,G104
+4,14,G104
+#18,A
+4,13,F106
+4,14,F106
+#19,A
+5,5,F111
+5,6,F111
+#20,A
+5,5,B203
+5,6,B203
+#21,E
+4,3,B204
+4,4,B204
+#22,E
+4,3,G102
+4,4,G102
+#23,E
+4,5,B202
+4,6,B202
+#24,E
+4,5,G102
+4,6,G102
+#25,E
+4,11,F107
+4,12,F107
+#26,E
+4,11,G102
+4,12,G102
+#27,E
+4,13,F107
+4,14,F107
+#29,E
+5,5,B202
+5,6,B202
+#30,E
+5,5,G102
+5,6,G102
+#31,E
+5,7,B203
+5,8,B203
+#32,E
+5,7,G102
+5,8,G102
+#33,E
+4,3,B207
+4,4,B207
+#34,A
+4,11,B204
+4,12,B204
+#36,E
+4,17,Lesingteater/Lecture Theatre L1
+4,18,Lesingteater/Lecture Theatre L1
+#38,A
+4,11,G104
+4,12,G104
+@JLZ 120,1,2,
+#11,A
+1,5,B203
+1,6,B203
+2,11,B203
+2,12,B203
+#12,A
+1,5,F03
+1,6,F03
+2,11,F03
+2,12,F03
+#13,A
+1,7,B204
+1,8,B204
+2,13,B204
+2,14,B204
+#14,A
+1,7,B207
+1,8,B207
+2,13,B207
+2,14,B207
+#15,A
+1,9,B207
+1,10,B207
+3,9,B207
+3,10,B207
+#16,A
+1,9,F03
+1,10,F03
+3,9,F03
+3,10,F03
+#17,A
+1,15,G104
+1,16,G104
+3,11,G104
+3,12,G104
+#18,A
+1,15,F106
+1,16,F106
+3,11,F106
+3,12,F106
+#19,A
+2,1,F111
+2,2,F111
+3,13,F111
+3,14,F111
+#20,A
+2,1,B203
+2,2,B203
+3,13,B203
+3,14,B203
+#21,E
+1,5,B204
+1,6,B204
+2,11,B204
+2,12,B204
+#22,E
+1,5,G102
+1,6,G102
+2,11,G102
+2,12,G102
+#23,E
+1,7,B202
+1,8,B202
+2,13,B202
+2,14,B202
+#24,E
+1,7,G102
+1,8,G102
+2,13,G102
+2,14,G102
+#25,E
+1,9,F107
+1,10,F107
+3,9,F107
+3,10,F107
+#26,E
+1,9,G102
+1,10,G102
+3,9,G102
+3,10,G102
+#27,E
+1,15,F107
+1,16,F107
+3,11,F107
+3,12,F107
+#29,E
+2,1,B202
+2,2,B202
+3,13,B202
+3,14,B202
+#30,E
+2,1,G102
+2,2,G102
+3,13,G102
+3,14,G102
+#31,E
+1,11,B203
+1,12,B203
+3,5,B203
+3,6,B203
+#32,E
+1,11,G102
+1,12,G102
+3,5,G102
+3,6,G102
+#33,E
+1,5,B207
+1,6,B207
+2,11,B207
+2,12,B207
+#34,A
+1,9,B204
+1,10,B204
+3,9,B204
+3,10,B204
+#36,E
+2,15,Lesingteater/Lecture Theatre L1
+2,16,Lesingteater/Lecture Theatre L1
+3,15,Lesingteater/Lecture Theatre L1
+3,16,Lesingteater/Lecture Theatre L1
+#38,A
+1,9,G104
+1,10,G104
+3,9,G104
+3,10,G104
+@JLZ 110 T,1,1,
+#11,A
+4,3,B203
+4,4,B203
+#12,A
+4,5,F03
+4,6,F03
+#13,A
+4,5,B204
+4,6,B204
+#14,A
+4,5,B207
+4,6,B207
+#15,A
+4,11,Lesingteater/Lecture Theatre L3
+4,12,Lesingteater/Lecture Theatre L3
+#16,A
+4,11,F03
+4,12,F03
+#17,A
+4,13,A208
+4,14,A208
+#18,A
+4,13,Lesingteater/Lecture Theatre L2
+4,14,Lesingteater/Lecture Theatre L2
+#19,A
+5,5,F111
+5,6,F111
+#20,A
+5,5,G103
+5,6,G103
+#21,E
+4,3,B204
+4,4,B204
+#22,E
+4,3,G102
+4,4,G102
+#23,E
+4,5,Lesingteater/Lecture Theatre L1
+4,6,Lesingteater/Lecture Theatre L1
+#24,E
+4,5,G102
+4,6,G102
+#25,E
+4,11,B204
+4,12,B204
+#27,E
+4,13,B204
+4,14,B204
+#28,E
+4,13,G102
+4,14,G102
+#29,E
+5,5,Lesingteater/Lecture Theatre L5
+5,6,Lesingteater/Lecture Theatre L5
+#30,E
+5,5,G102
+5,6,G102
+#31,E
+5,7,B203
+5,8,B203
+#33,E
+4,3,Lesingteater/Lecture Theatre L2
+4,4,Lesingteater/Lecture Theatre L2
+#34,A
+4,11,F111
+4,12,F111
+#35,E
+4,3,F03
+4,4,F03
+#36,E
+4,11,B202
+4,12,B202
+@SLK 110,1,1,
+#11,A
+3,15,Lesingteater/Lecture Theatre L7
+3,16,Lesingteater/Lecture Theatre L7
+5,3,Lesingteater/Lecture Theatre L6
+5,4,Lesingteater/Lecture Theatre L6
+#12,E
+1,3,Aldoel 2
+1,4,Aldoel 2
+2,19,Aldoel 2
+2,20,Aldoel 2
+@JWT 230 P,2,1,
+#11,A
+4,7,B206
+4,8,B206
+4,9,B206
+4,10,B206
+#12,E
+4,7,B206
+4,8,B206
+4,9,B206
+4,10,B206
+@JWT 230,2,1,
+#11,A
+1,1,G104
+1,2,G104
+2,7,G104
+2,8,G104
+3,13,G104
+3,14,G104
+5,1,G104
+5,2,G104
+#12,E
+1,1,Lesingteater/Lecture Theatre L3
+1,2,Lesingteater/Lecture Theatre L3
+1,3,Lesingteater/Lecture Theatre L3
+1,4,Lesingteater/Lecture Theatre L3
+3,11,Aldoel 2
+3,12,Aldoel 2
+3,13,Aldoel 2
+3,14,Aldoel 2
+@JOT 240,2,2,
+#11,A
+2,5,G104
+2,6,G104
+2,7,G104
+2,8,G104
+4,15,G102
+4,16,G102
+4,17,G102
+4,18,G102
+#12,E
+2,5,F102
+2,6,F102
+2,7,F102
+2,8,F102
+4,15,F102
+4,16,F102
+4,17,F102
+4,18,F102
+@OPV 222,2,2,
+#11,A
+2,15,Aldoel 1
+2,16,Aldoel 1
+2,17,Aldoel 1
+2,18,Aldoel 1
+4,11,Aldoel 1
+4,12,Aldoel 1
+4,13,Aldoel 1
+4,14,Aldoel 1
+#12,A
+1,9,Lesingteater/Lecture Theatre L6
+1,10,Lesingteater/Lecture Theatre L6
+1,11,Lesingteater/Lecture Theatre L6
+1,12,Lesingteater/Lecture Theatre L6
+4,3,Lesingteater/Lecture Theatre L6
+4,4,Lesingteater/Lecture Theatre L6
+4,5,Lesingteater/Lecture Theatre L6
+4,6,Lesingteater/Lecture Theatre L6
+#13,A
+1,17,Lesingteater/Lecture Theatre L7
+1,18,Lesingteater/Lecture Theatre L7
+1,19,Lesingteater/Lecture Theatre L7
+1,20,Lesingteater/Lecture Theatre L7
+3,17,Lesingteater/Lecture Theatre L7
+3,18,Lesingteater/Lecture Theatre L7
+3,19,Lesingteater/Lecture Theatre L7
+3,20,Lesingteater/Lecture Theatre L7
+#14,E
+1,13,Aldoel 1
+1,14,Aldoel 1
+1,15,Aldoel 1
+1,16,Aldoel 1
+3,7,Aldoel 1
+3,8,Aldoel 1
+3,9,Aldoel 1
+3,10,Aldoel 1
+#15,E
+2,13,Aldoel 2
+2,14,Aldoel 2
+2,15,Aldoel 2
+2,16,Aldoel 2
+4,17,Aldoel 2
+4,18,Aldoel 2
+4,19,Aldoel 2
+4,20,Aldoel 2
+#16,E
+3,11,Aldoel 1
+3,12,Aldoel 1
+3,13,Aldoel 1
+3,14,Aldoel 1
+5,7,Aldoel 1
+5,8,Aldoel 1
+5,9,Aldoel 1
+5,10,Aldoel 1
+@WKD 164,1,2,
+#11,A
+1,7,B206
+1,8,B206
+2,17,B206
+2,18,B206
+3,11,B206
+3,12,B206
+4,9,B206
+4,10,B206
+#12,E
+1,15,B204
+1,16,B204
+2,7,B204
+2,8,B204
+3,7,B204
+3,8,B204
+4,15,B204
+4,16,B204
+@OBS 124,1,2,
+#11,A
+2,7,Lesingteater/Lecture Theatre L1
+2,8,Lesingteater/Lecture Theatre L1
+4,7,Lesingteater/Lecture Theatre L1
+4,8,Lesingteater/Lecture Theatre L1
+5,9,Lesingteater/Lecture Theatre L1
+5,10,Lesingteater/Lecture Theatre L1
+#12,E
+2,3,Lesingteater/Lecture Theatre L7
+2,4,Lesingteater/Lecture Theatre L7
+4,9,Lesingteater/Lecture Theatre L6
+4,10,Lesingteater/Lecture Theatre L6
+5,7,Lesingteater/Lecture Theatre L6
+5,8,Lesingteater/Lecture Theatre L6
+@WTW 133,1,1,
+#11,A
+1,11,Lesingteater/Lecture Theatre L4
+1,12,Lesingteater/Lecture Theatre L4
+1,13,Lesingteater/Lecture Theatre L2
+1,14,Lesingteater/Lecture Theatre L2
+2,11,Lesingteater/Lecture Theatre L5
+2,12,Lesingteater/Lecture Theatre L5
+2,13,Lesingteater/Lecture Theatre L2
+2,14,Lesingteater/Lecture Theatre L2
+5,1,Lesingteater/Lecture Theatre L4
+5,2,Lesingteater/Lecture Theatre L4
+#12,E
+1,9,Lesingteater/Lecture Theatre L5
+1,10,Lesingteater/Lecture Theatre L5
+1,11,Lesingteater/Lecture Theatre L5
+1,12,Lesingteater/Lecture Theatre L5
+2,5,Lesingteater/Lecture Theatre L4
+2,6,Lesingteater/Lecture Theatre L4
+3,5,F107
+3,6,F107
+5,5,Lesingteater/Lecture Theatre L2
+5,6,Lesingteater/Lecture Theatre L2
+@OPV 212,2,1,
+#11,A
+2,15,Lesingteater/Lecture Theatre L5
+2,16,Lesingteater/Lecture Theatre L5
+2,17,Lesingteater/Lecture Theatre L5
+2,18,Lesingteater/Lecture Theatre L5
+4,11,Lesingteater/Lecture Theatre L5
+4,12,Lesingteater/Lecture Theatre L5
+4,13,Lesingteater/Lecture Theatre L5
+4,14,Lesingteater/Lecture Theatre L5
+#12,A
+2,5,Lesingteater/Lecture Theatre L6
+2,6,Lesingteater/Lecture Theatre L6
+2,7,Lesingteater/Lecture Theatre L6
+2,8,Lesingteater/Lecture Theatre L6
+4,3,Lesingteater/Lecture Theatre L6
+4,4,Lesingteater/Lecture Theatre L6
+4,5,Lesingteater/Lecture Theatre L6
+4,6,Lesingteater/Lecture Theatre L6
+#13,A
+1,17,Lesingteater/Lecture Theatre L5
+1,18,Lesingteater/Lecture Theatre L5
+1,19,Lesingteater/Lecture Theatre L5
+1,20,Lesingteater/Lecture Theatre L5
+3,17,Lesingteater/Lecture Theatre L5
+3,18,Lesingteater/Lecture Theatre L5
+3,19,Lesingteater/Lecture Theatre L5
+3,20,Lesingteater/Lecture Theatre L5
+#14,E
+1,13,Aldoel 2
+1,14,Aldoel 2
+1,15,Aldoel 2
+1,16,Aldoel 2
+3,7,Aldoel 2
+3,8,Aldoel 2
+3,9,Aldoel 2
+3,10,Aldoel 2
+#15,E
+1,5,Lesingteater/Lecture Theatre L7
+1,6,Lesingteater/Lecture Theatre L7
+1,7,Lesingteater/Lecture Theatre L7
+1,8,Lesingteater/Lecture Theatre L7
+3,11,Lesingteater/Lecture Theatre L7
+3,12,Lesingteater/Lecture Theatre L7
+3,13,Lesingteater/Lecture Theatre L7
+3,14,Lesingteater/Lecture Theatre L7
+#16,E
+2,1,Lesingteater/Lecture Theatre L7
+2,2,Lesingteater/Lecture Theatre L7
+2,3,Lesingteater/Lecture Theatre L7
+2,4,Lesingteater/Lecture Theatre L7
+4,15,Lesingteater/Lecture Theatre L7
+4,16,Lesingteater/Lecture Theatre L7
+4,17,Lesingteater/Lecture Theatre L7
+4,18,Lesingteater/Lecture Theatre L7
+@JWI 220,2,2,
+#11,A
+1,9,Lesingteater/Lecture Theatre L3
+1,10,Lesingteater/Lecture Theatre L3
+1,11,Lesingteater/Lecture Theatre L3
+1,12,Lesingteater/Lecture Theatre L3
+#12,E
+2,5,F101
+2,6,F101
+2,7,F101
+2,8,F101
+@PHY 154 P,1,1,
+#11,E
+1,13,G104
+1,14,G104
+1,15,G104
+1,16,G104
+2,11,G104
+2,12,G104
+2,13,G104
+2,14,G104
+@INF 164,1,2,
+#11,A
+3,13,G103
+3,14,G103
+#12,E
+5,1,G103
+5,2,G103
+@JWS 220,2,2,
+#1,B
+1,11,F105
+1,12,F105
+1,13,F105
+1,14,F105
+3,9,F105
+3,10,F105
+@JVK 210,2,1,
+#1,B
+1,17,B207
+1,18,B207
+1,19,B207
+1,20,B207
+3,1,B207
+3,2,B207
+@JPK 220,2,2,
+#1,B
+2,9,F106
+2,10,F106
+3,15,F106
+3,16,F106
+@JPK 210 P,2,1,
+#1,B
+4,7,NW/NS Lab H/L3
+4,8,NW/NS Lab H/L3
+4,9,NW/NS Lab H/L3
+4,10,NW/NS Lab H/L3
+@JTT 220,2,2,
+#1,B
+1,19,TECHNIKA 1-5
+1,20,TECHNIKA 1-5
+1,21,TECHNIKA 1-5
+1,22,TECHNIKA 1-5
+4,21,B21
+4,22,B21
+4,23,B21
+4,24,B21
+@JMO 205,2,0,
+#1,B
+3,17,Musiek/Music D11
+3,18,Musiek/Music D11
+@JLS 451,4,1,
+#1,B
+1,13,NW/NS Lab E/L7
+1,14,NW/NS Lab E/L7
+1,15,NW/NS Lab E/L7
+1,16,NW/NS Lab E/L7
+2,13,Lesingteater/Lecture Theatre L3
+2,14,Lesingteater/Lecture Theatre L3
+@JLK 451,4,1,
+#1,B
+2,11,G103
+2,12,G103
+4,1,G103
+4,2,G103
+4,3,G103
+4,4,G103
+#2,B
+2,11,B207
+2,12,B207
+4,1,F105
+4,2,F105
+4,3,F105
+4,4,F105
+@JAS 451,4,1,
+#1,A
+2,7,A208
+2,8,A208
+2,9,A208
+2,10,A208
+#2,E
+2,15,Aldoel 2
+2,16,Aldoel 2
+2,17,Aldoel 2
+2,18,Aldoel 2
+@REL 310,3,1,
+#1,B
+4,1,B202
+4,2,B202
+4,3,B202
+4,4,B202
+@OPV 364,3,2,
+#1,A
+1,5,Lesingteater/Lecture Theatre L7
+1,6,Lesingteater/Lecture Theatre L7
+1,7,Lesingteater/Lecture Theatre L7
+1,8,Lesingteater/Lecture Theatre L7
+4,7,Lesingteater/Lecture Theatre L7
+4,8,Lesingteater/Lecture Theatre L7
+4,9,Lesingteater/Lecture Theatre L7
+4,10,Lesingteater/Lecture Theatre L7
+#2,A
+1,19,Lesingteater/Lecture Theatre L6
+1,20,Lesingteater/Lecture Theatre L6
+2,15,Lesingteater/Lecture Theatre L6
+2,16,Lesingteater/Lecture Theatre L6
+4,15,Lesingteater/Lecture Theatre L6
+4,16,Lesingteater/Lecture Theatre L6
+4,17,Lesingteater/Lecture Theatre L6
+4,18,Lesingteater/Lecture Theatre L6
+#3,E
+1,17,Lesingteater/Lecture Theatre L5
+1,18,Lesingteater/Lecture Theatre L5
+2,17,Lesingteater/Lecture Theatre L2
+2,18,Lesingteater/Lecture Theatre L2
+3,1,Lesingteater/Lecture Theatre L5
+3,2,Lesingteater/Lecture Theatre L5
+3,3,Lesingteater/Lecture Theatre L5
+3,4,Lesingteater/Lecture Theatre L5
+#4,E
+2,1,Lesingteater/Lecture Theatre L6
+2,2,Lesingteater/Lecture Theatre L6
+2,3,Lesingteater/Lecture Theatre L6
+2,4,Lesingteater/Lecture Theatre L6
+3,9,Lesingteater/Lecture Theatre L7
+3,10,Lesingteater/Lecture Theatre L7
+4,13,Lesingteater/Lecture Theatre L7
+4,14,Lesingteater/Lecture Theatre L7
+@JMB 222,2,2,
+#11,B
+2,9,Swembad/SPool L28/L29/L30
+2,10,Swembad/SPool L28/L29/L30
+3,9,Swembad/SPool L28/L29/L30
+3,10,Swembad/SPool L28/L29/L30
+@JMD 307,3,0,
+#1,A
+2,11,NW/NS Lab A/L6
+2,12,NW/NS Lab A/L6
+2,13,NW/NS Lab A/L6
+2,14,NW/NS Lab A/L6
+#2,A
+3,11,NW/NS Lab A/L6
+3,12,NW/NS Lab A/L6
+3,13,NW/NS Lab A/L6
+3,14,NW/NS Lab A/L6
+#3,A
+4,11,B206
+4,12,B206
+4,13,B206
+4,14,B206
+#4,E
+5,9,B206
+5,10,B206
+5,11,B206
+5,12,B206
+@JMO 301,3,0,
+#1,B
+3,5,Musiek/Music D5
+3,6,Musiek/Music D5
+@JKO 310,3,1,
+#1,A
+1,9,F02
+1,10,F02
+1,11,F02
+1,12,F02
+#2,A
+5,9,F01
+5,10,F01
+5,11,F01
+5,12,F01
+#3,A
+1,15,F06
+1,16,F06
+1,17,F06
+1,18,F06
+#4,A
+1,15,F01
+1,16,F01
+1,17,F01
+1,18,F01
+#5,A
+1,5,F02
+1,6,F02
+1,7,F02
+1,8,F02
+#6,A
+1,5,F06
+1,6,F06
+1,7,F06
+1,8,F06
+#7,A
+4,11,F01
+4,12,F01
+4,13,F01
+4,14,F01
+#8,E
+4,11,F06
+4,12,F06
+4,13,F06
+4,14,F06
+@JIT 320,3,2,
+#1,B
+3,17,WEB CT-LAB
+3,18,WEB CT-LAB
+3,19,WEB CT-LAB
+3,20,WEB CT-LAB
+4,11,WEB CT-LAB
+4,12,WEB CT-LAB
+4,13,WEB CT-LAB
+4,14,WEB CT-LAB
+@OPV 261,2,1,
+#11,A
+2,17,Lesingteater/Lecture Theatre L4
+2,18,Lesingteater/Lecture Theatre L4
+2,19,Lesingteater/Lecture Theatre L4
+2,20,Lesingteater/Lecture Theatre L4
+5,5,Lesingteater/Lecture Theatre L4
+5,6,Lesingteater/Lecture Theatre L4
+#12,E
+2,15,Lesingteater/Lecture Theatre L7
+2,16,Lesingteater/Lecture Theatre L7
+2,17,Lesingteater/Lecture Theatre L7
+2,18,Lesingteater/Lecture Theatre L7
+5,9,Lesingteater/Lecture Theatre L7
+5,10,Lesingteater/Lecture Theatre L7
+@OPV 112,1,1,
+#11,A
+1,1,Aldoel 3
+1,2,Aldoel 3
+1,3,Aldoel 3
+1,4,Aldoel 3
+4,17,Aldoel 3
+4,18,Aldoel 3
+#12,A
+1,11,Aldoel 3
+1,12,Aldoel 3
+1,13,Aldoel 3
+1,14,Aldoel 3
+4,9,Aldoel 3
+4,10,Aldoel 3
+#13,A
+2,5,Aldoel 3
+2,6,Aldoel 3
+2,7,Aldoel 3
+2,8,Aldoel 3
+5,1,Aldoel 3
+5,2,Aldoel 3
+#14,A
+3,5,Aldoel 3
+3,6,Aldoel 3
+3,7,Aldoel 3
+3,8,Aldoel 3
+4,1,Aldoel 3
+4,2,Aldoel 3
+#16,E
+1,1,Aldoel 1
+1,2,Aldoel 1
+1,3,Aldoel 1
+1,4,Aldoel 1
+4,17,Aldoel 1
+4,18,Aldoel 1
+#17,E
+1,17,Aldoel 1
+1,18,Aldoel 1
+1,19,Aldoel 1
+1,20,Aldoel 1
+4,9,Aldoel 2
+4,10,Aldoel 2
+#18,E
+2,5,Aldoel 1
+2,6,Aldoel 1
+2,7,Aldoel 1
+2,8,Aldoel 1
+5,1,Aldoel 1
+5,2,Aldoel 1
+#19,E
+3,1,Aldoel 1
+3,2,Aldoel 1
+3,3,Aldoel 1
+3,4,Aldoel 1
+4,1,Aldoel 1
+4,2,Aldoel 1
+#20,E
+3,15,Aldoel 1
+3,16,Aldoel 1
+3,17,Aldoel 1
+3,18,Aldoel 1
+5,3,Aldoel 1
+5,4,Aldoel 1
+@JVK 130,1,1,
+#11,A
+1,5,Aldoel 2
+1,6,Aldoel 2
+1,7,Aldoel 2
+1,8,Aldoel 2
+#12,E
+1,9,Aldoel 2
+1,10,Aldoel 2
+1,11,Aldoel 2
+1,12,Aldoel 2
+@JVK 130 P,1,1,
+#11,A
+3,15,Aldoel 2
+3,16,Aldoel 2
+3,17,Aldoel 2
+3,18,Aldoel 2
+#12,E
+3,5,Aldoel 1
+3,6,Aldoel 1
+3,7,Aldoel 1
+3,8,Aldoel 1
+@JPS 121,1,2,
+#11,A
+2,3,Lesingteater/Lecture Theatre L5
+2,4,Lesingteater/Lecture Theatre L5
+4,7,Lesingteater/Lecture Theatre L5
+4,8,Lesingteater/Lecture Theatre L5
+#12,A
+2,9,Aldoel 3
+2,10,Aldoel 3
+5,17,Aldoel 3
+5,18,Aldoel 3
+#13,A
+2,15,Lesingteater/Lecture Theatre L5
+2,16,Lesingteater/Lecture Theatre L5
+4,15,Lesingteater/Lecture Theatre L5
+4,16,Lesingteater/Lecture Theatre L5
+#14,A
+3,1,Lesingteater/Lecture Theatre L7
+3,2,Lesingteater/Lecture Theatre L7
+5,7,Lesingteater/Lecture Theatre L7
+5,8,Lesingteater/Lecture Theatre L7
+#16,E
+2,3,Lesingteater/Lecture Theatre L4
+2,4,Lesingteater/Lecture Theatre L4
+4,7,Lesingteater/Lecture Theatre L4
+4,8,Lesingteater/Lecture Theatre L4
+#17,E
+2,9,A208
+2,10,A208
+5,15,A208
+5,16,A208
+#18,E
+1,13,F107
+1,14,F107
+2,15,F107
+2,16,F107
+#19,E
+3,7,Lesingteater/Lecture Theatre L5
+3,8,Lesingteater/Lecture Theatre L5
+5,9,Lesingteater/Lecture Theatre L5
+5,10,Lesingteater/Lecture Theatre L5
+#20,E
+2,17,Lesingteater/Lecture Theatre L5
+2,18,Lesingteater/Lecture Theatre L5
+5,13,Lesingteater/Lecture Theatre L5
+5,14,Lesingteater/Lecture Theatre L5
+@JMB 124,1,2,
+#11,A
+1,5,Swembad-SPool/Sportsentrum
+1,6,Swembad-SPool/Sportsentrum
+#12,E
+1,7,Swembad-SPool/Sportsentrum
+1,8,Swembad-SPool/Sportsentrum
+@JMB 112,1,1,
+#11,B
+2,3,Lesingteater/Lecture Theatre L5
+2,4,Lesingteater/Lecture Theatre L5
+3,7,Lesingteater/Lecture Theatre L6
+3,8,Lesingteater/Lecture Theatre L6
+@JMI 451 P,4,1,
+#1,B
+5,13,B21
+5,14,B21
+5,15,B21
+5,16,B21
+@JMG 451,4,1,
+#1,B
+2,11,Aldoel 3
+2,12,Aldoel 3
+2,13,Aldoel 3
+2,14,Aldoel 3
+@JMF 451,4,1,
+#1,B
+2,3,G104
+2,4,G104
+2,5,G104
+2,6,G104
+4,7,G104
+4,8,G104
+4,9,G104
+4,10,G104
+@JME 451,4,1,
+#1,B
+5,9,Aldoel 3
+5,10,Aldoel 3
+5,11,Aldoel 3
+5,12,Aldoel 3
+@JMD 457,4,1,
+#1,B
+3,1,Aldoel 3
+3,2,Aldoel 3
+3,3,Aldoel 3
+3,4,Aldoel 3
+4,3,Aldoel 3
+4,4,Aldoel 3
+4,5,Aldoel 3
+4,6,Aldoel 3
+@JGF 221 P,2,1,
+#1,B
+4,15,A204
+4,16,A204
+@JFK 220 P,2,2,
+#1,B
+4,7,G102
+4,8,G102
+4,9,G102
+4,10,G102
+@JFK 210,2,1,
+#1,B
+1,1,G102
+1,2,G102
+2,7,G102
+2,8,G102
+@JCH 210 P,2,1,
+#1,B
+3,13,F105
+3,14,F105
+3,15,F105
+3,16,F105
+@OPV 363,3,2,
+#1,A
+1,5,Lesingteater/Lecture Theatre L7
+1,6,Lesingteater/Lecture Theatre L7
+1,7,Lesingteater/Lecture Theatre L7
+1,8,Lesingteater/Lecture Theatre L7
+4,7,Lesingteater/Lecture Theatre L7
+4,8,Lesingteater/Lecture Theatre L7
+4,9,Lesingteater/Lecture Theatre L7
+4,10,Lesingteater/Lecture Theatre L7
+#2,A
+1,19,Lesingteater/Lecture Theatre L6
+1,20,Lesingteater/Lecture Theatre L6
+2,15,Lesingteater/Lecture Theatre L6
+2,16,Lesingteater/Lecture Theatre L6
+4,15,Lesingteater/Lecture Theatre L6
+4,16,Lesingteater/Lecture Theatre L6
+4,17,Lesingteater/Lecture Theatre L6
+4,18,Lesingteater/Lecture Theatre L6
+#3,E
+1,17,Lesingteater/Lecture Theatre L5
+1,18,Lesingteater/Lecture Theatre L5
+2,17,Aldoel 3
+2,18,Aldoel 3
+3,1,Lesingteater/Lecture Theatre L5
+3,2,Lesingteater/Lecture Theatre L5
+3,3,Lesingteater/Lecture Theatre L5
+3,4,Lesingteater/Lecture Theatre L5
+#4,E
+2,1,Lesingteater/Lecture Theatre L6
+2,2,Lesingteater/Lecture Theatre L6
+2,3,Lesingteater/Lecture Theatre L6
+2,4,Lesingteater/Lecture Theatre L6
+3,9,Lesingteater/Lecture Theatre L7
+3,10,Lesingteater/Lecture Theatre L7
+4,13,Lesingteater/Lecture Theatre L7
+4,14,Lesingteater/Lecture Theatre L7
+@OPV 362,3,1,
+#1,A
+1,5,Lesingteater/Lecture Theatre L5
+1,6,Lesingteater/Lecture Theatre L5
+1,7,Lesingteater/Lecture Theatre L5
+1,8,Lesingteater/Lecture Theatre L5
+4,7,Lesingteater/Lecture Theatre L7
+4,8,Lesingteater/Lecture Theatre L7
+4,9,Lesingteater/Lecture Theatre L7
+4,10,Lesingteater/Lecture Theatre L7
+#2,A
+1,19,Lesingteater/Lecture Theatre L6
+1,20,Lesingteater/Lecture Theatre L6
+2,15,Lesingteater/Lecture Theatre L6
+2,16,Lesingteater/Lecture Theatre L6
+4,15,Lesingteater/Lecture Theatre L6
+4,16,Lesingteater/Lecture Theatre L6
+4,17,Lesingteater/Lecture Theatre L6
+4,18,Lesingteater/Lecture Theatre L6
+#3,E
+1,17,Lesingteater/Lecture Theatre L2
+1,18,Lesingteater/Lecture Theatre L2
+2,17,Lesingteater/Lecture Theatre L2
+2,18,Lesingteater/Lecture Theatre L2
+3,1,Lesingteater/Lecture Theatre L2
+3,2,Lesingteater/Lecture Theatre L2
+3,3,Lesingteater/Lecture Theatre L2
+3,4,Lesingteater/Lecture Theatre L2
+#4,E
+2,1,Aldoel 1
+2,2,Aldoel 1
+2,3,Aldoel 1
+2,4,Aldoel 1
+3,9,Aldoel 1
+3,10,Aldoel 1
+4,13,Aldoel 1
+4,14,Aldoel 1
+@JWS 320,3,2,
+#1,B
+1,15,Lesingteater/Lecture Theatre L1
+1,16,Lesingteater/Lecture Theatre L1
+1,17,Lesingteater/Lecture Theatre L1
+1,18,Lesingteater/Lecture Theatre L1
+3,1,Lesingteater/Lecture Theatre L1
+3,2,Lesingteater/Lecture Theatre L1
+3,3,Lesingteater/Lecture Theatre L1
+3,4,Lesingteater/Lecture Theatre L1
+@JSB 310,3,1,
+#1,B
+3,5,Swembad/SPool L27
+3,6,Swembad/SPool L27
+3,7,Swembad/SPool L27
+3,8,Swembad/SPool L27
+@JLK 110,1,1,
+#11,A
+2,9,Musiek/Music D103
+2,10,Musiek/Music D103
+2,11,Musiek/Music D103
+2,12,Musiek/Music D103
+#12,A
+2,15,Musiek/Music D103
+2,16,Musiek/Music D103
+2,17,Musiek/Music D103
+2,18,Musiek/Music D103
+#13,E
+4,7,Musiek/Music D103
+4,8,Musiek/Music D103
+4,9,Musiek/Music D103
+4,10,Musiek/Music D103
+#14,E
+4,13,Musiek/Music D103
+4,14,Musiek/Music D103
+4,15,Musiek/Music D103
+4,16,Musiek/Music D103
+@JLD 120,1,2,
+#11,A
+2,5,Lesingteater/Lecture Theatre L5
+2,6,Lesingteater/Lecture Theatre L5
+2,7,Lesingteater/Lecture Theatre L5
+2,8,Lesingteater/Lecture Theatre L5
+5,1,Lesingteater/Lecture Theatre L5
+5,2,Lesingteater/Lecture Theatre L5
+5,3,Lesingteater/Lecture Theatre L5
+5,4,Lesingteater/Lecture Theatre L5
+#12,E
+1,1,Aldoel 2
+1,2,Aldoel 2
+1,3,Aldoel 2
+1,4,Aldoel 2
+4,3,Aldoel 3
+4,4,Aldoel 3
+4,5,Aldoel 3
+4,6,Aldoel 3
+@GGY 166,1,2,
+#11,B
+1,7,Lesingteater/Lecture Theatre L2
+1,8,Lesingteater/Lecture Theatre L2
+2,3,Lesingteater/Lecture Theatre L2
+2,4,Lesingteater/Lecture Theatre L2
+3,7,Lesingteater/Lecture Theatre L1
+3,8,Lesingteater/Lecture Theatre L1
+4,17,Lesingteater/Lecture Theatre L2
+4,18,Lesingteater/Lecture Theatre L2
+@GGY 156,1,1,
+#11,B
+1,15,Lesingteater/Lecture Theatre L3
+1,16,Lesingteater/Lecture Theatre L3
+2,1,Lesingteater/Lecture Theatre L2
+2,2,Lesingteater/Lecture Theatre L2
+3,7,Lesingteater/Lecture Theatre L1
+3,8,Lesingteater/Lecture Theatre L1
+@GES 110,1,1,
+#11,A
+2,17,A208
+2,18,A208
+4,7,A208
+4,8,A208
+#12,E
+2,15,A208
+2,16,A208
+4,5,A208
+4,6,A208
+@ENG 110,1,1,
+#11,E
+2,9,Aldoel 2
+2,10,Aldoel 2
+4,15,Aldoel 1
+4,16,Aldoel 1
+5,11,Aldoel 1
+5,12,Aldoel 1
+#12,E
+2,9,Lesingteater/Lecture Theatre L6
+2,10,Lesingteater/Lecture Theatre L6
+4,15,Aldoel 3
+4,16,Aldoel 3
+5,11,Lesingteater/Lecture Theatre L6
+5,12,Lesingteater/Lecture Theatre L6
+#13,E
+2,9,Lesingteater/Lecture Theatre L5
+2,10,Lesingteater/Lecture Theatre L5
+4,15,Lesingteater/Lecture Theatre L5
+4,16,Lesingteater/Lecture Theatre L5
+5,11,Lesingteater/Lecture Theatre L5
+5,12,Lesingteater/Lecture Theatre L5
+@CMY 133 P,1,1,
+#12,B
+2,15,NW/NS Lab B
+2,16,NW/NS Lab B
+2,17,NW/NS Lab B
+2,18,NW/NS Lab B
+2,19,NW/NS Lab B
+2,20,NW/NS Lab B
+@JAF 310,3,1,
+#1,A
+4,9,Lesingteater/Lecture Theatre L4
+4,10,Lesingteater/Lecture Theatre L4
+4,11,Lesingteater/Lecture Theatre L4
+4,12,Lesingteater/Lecture Theatre L4
+@RTT 200,2,0,
+#1,B
+1,19,B21
+1,20,B21
+1,21,B21
+1,22,B21
+1,23,B21
+1,24,B21
+@ZUL 120,1,2,
+#11,B
+2,9,B206
+2,10,B206
+5,11,F106
+5,12,F106
+@WKD 164 T,1,2,
+#11,A
+3,3,B206
+3,4,B206
+#12,E
+5,7,B204
+5,8,B204
+@STK 123,1,2,
+#11,A
+2,13,Lesingteater/Lecture Theatre L2
+2,14,Lesingteater/Lecture Theatre L2
+3,17,Lesingteater/Lecture Theatre L2
+3,18,Lesingteater/Lecture Theatre L2
+4,1,Lesingteater/Lecture Theatre L2
+4,2,Lesingteater/Lecture Theatre L2
+#12,E
+2,1,Lesingteater/Lecture Theatre L4
+2,2,Lesingteater/Lecture Theatre L4
+3,5,Lesingteater/Lecture Theatre L4
+3,6,Lesingteater/Lecture Theatre L4
+4,3,Lesingteater/Lecture Theatre L4
+4,4,Lesingteater/Lecture Theatre L4
+@STK 113,1,1,
+#11,A
+1,9,Lesingteater/Lecture Theatre L2
+1,10,Lesingteater/Lecture Theatre L2
+3,15,Lesingteater/Lecture Theatre L2
+3,16,Lesingteater/Lecture Theatre L2
+5,3,Lesingteater/Lecture Theatre L2
+5,4,Lesingteater/Lecture Theatre L2
+#12,E
+3,1,Lesingteater/Lecture Theatre L4
+3,2,Lesingteater/Lecture Theatre L4
+3,3,Lesingteater/Lecture Theatre L4
+3,4,Lesingteater/Lecture Theatre L4
+4,3,Aldoel 1
+4,4,Aldoel 1
+@PHY 143 P,1,2,
+#11,A
+1,11,NW/NS Lab D
+1,12,NW/NS Lab D
+1,13,NW/NS Lab D
+1,14,NW/NS Lab D
+#12,A
+3,5,NW/NS Lab D
+3,6,NW/NS Lab D
+3,7,NW/NS Lab D
+3,8,NW/NS Lab D
+#13,A
+5,7,NW/NS Lab D
+5,8,NW/NS Lab D
+5,9,NW/NS Lab D
+5,10,NW/NS Lab D
+#14,E
+2,13,NW/NS Lab D
+2,14,NW/NS Lab D
+2,15,NW/NS Lab D
+2,16,NW/NS Lab D
+#15,E
+3,1,NW/NS Lab D
+3,2,NW/NS Lab D
+3,3,NW/NS Lab D
+3,4,NW/NS Lab D
+#16,E
+4,11,NW/NS Lab D
+4,12,NW/NS Lab D
+4,13,NW/NS Lab D
+4,14,NW/NS Lab D
+@OPV 122,1,2,
+#11,A
+1,1,Aldoel 3
+1,2,Aldoel 3
+1,3,Aldoel 3
+1,4,Aldoel 3
+5,19,Aldoel 3
+5,20,Aldoel 3
+#12,A
+1,11,Aldoel 3
+1,12,Aldoel 3
+1,13,Aldoel 3
+1,14,Aldoel 3
+4,9,Aldoel 3
+4,10,Aldoel 3
+#13,A
+2,5,Aldoel 3
+2,6,Aldoel 3
+2,7,Aldoel 3
+2,8,Aldoel 3
+5,1,Aldoel 3
+5,2,Aldoel 3
+#14,A
+3,5,Aldoel 3
+3,6,Aldoel 3
+3,7,Aldoel 3
+3,8,Aldoel 3
+4,1,Aldoel 3
+4,2,Aldoel 3
+#16,E
+1,1,Aldoel 1
+1,2,Aldoel 1
+1,3,Aldoel 1
+1,4,Aldoel 1
+4,17,Aldoel 1
+4,18,Aldoel 1
+#17,E
+1,17,Aldoel 1
+1,18,Aldoel 1
+1,19,Aldoel 1
+1,20,Aldoel 1
+4,9,Aldoel 1
+4,10,Aldoel 1
+#18,E
+2,5,Aldoel 1
+2,6,Aldoel 1
+2,7,Aldoel 1
+2,8,Aldoel 1
+5,1,Aldoel 1
+5,2,Aldoel 1
+#19,E
+3,1,Aldoel 1
+3,2,Aldoel 1
+3,3,Aldoel 1
+3,4,Aldoel 1
+4,1,Aldoel 1
+4,2,Aldoel 1
+#20,E
+3,15,Aldoel 1
+3,16,Aldoel 1
+3,17,Aldoel 1
+3,18,Aldoel 1
+5,3,Aldoel 1
+5,4,Aldoel 1
+@JMN 207,2,0,
+#1,B
+5,5,Lesingteater/Lecture Theatre L3
+5,6,Lesingteater/Lecture Theatre L3
+@JMM 200,2,0,
+#1,B
+4,5,Musiek/Music D103
+4,6,Musiek/Music D103
+@JLD 200,2,0,
+#1,B
+3,1,B203
+3,2,B203
+3,3,B203
+3,4,B203
+@AFR 120,1,2,
+#11,A
+2,9,Aldoel 2
+2,10,Aldoel 2
+2,11,Aldoel 2
+2,12,Aldoel 2
+5,3,Aldoel 2
+5,4,Aldoel 2
+5,5,Aldoel 2
+5,6,Aldoel 2
+@EKN 110,1,1,
+#11,A
+2,5,B207
+2,6,B207
+2,7,B207
+2,8,B207
+5,9,B207
+5,10,B207
+5,11,B207
+5,12,B207
+#12,E
+1,1,B203
+1,2,B203
+1,3,B203
+1,4,B203
+3,15,B203
+3,16,B203
+3,17,B203
+3,18,B203
+@REL 153,1,2,
+#11,A
+4,17,B204
+4,18,B204
+4,19,B204
+4,20,B204
+#12,E
+2,15,B204
+2,16,B204
+2,17,B204
+2,18,B204
+@JMA 451,4,1,
+#1,A
+5,5,Lesingteater/Lecture Theatre L6
+5,6,Lesingteater/Lecture Theatre L6
+5,7,Lesingteater/Lecture Theatre L6
+5,8,Lesingteater/Lecture Theatre L6
+@SLK 110 T,1,1,
+#11,A
+1,3,Lesingteater/Lecture Theatre L7
+1,4,Lesingteater/Lecture Theatre L7
+2,19,Lesingteater/Lecture Theatre L7
+2,20,Lesingteater/Lecture Theatre L7
+#12,E
+4,7,Aldoel 2
+4,8,Aldoel 2
+5,3,Aldoel 2
+5,4,Aldoel 2
+@JLO 220,2,2,
+#11,A
+1,3,Lesingteater/Lecture Theatre L1
+1,4,Lesingteater/Lecture Theatre L1
+2,5,Lesingteater/Lecture Theatre L1
+2,6,Lesingteater/Lecture Theatre L1
+#12,E
+1,11,Lesingteater/Lecture Theatre L5
+1,12,Lesingteater/Lecture Theatre L5
+3,15,Lesingteater/Lecture Theatre L5
+3,16,Lesingteater/Lecture Theatre L5
+@WTW 144,1,2,
+#12,B
+1,9,F106
+1,10,F106
+2,1,F106
+2,2,F106
+3,3,F106
+3,4,F106
+3,5,F106
+3,6,F106
+@AFT 220,2,2,
+#11,B
+1,5,F111
+1,6,F111
+3,1,F111
+3,2,F111
+@JWG 210,2,1,
+#11,A
+1,13,B203
+1,14,B203
+1,15,B203
+1,16,B203
+#12,E
+1,1,B202
+1,2,B202
+1,3,B202
+1,4,B202
+@JWI 210 P,2,1,
+#11,A
+3,9,Lesingteater/Lecture Theatre L1
+3,10,Lesingteater/Lecture Theatre L1
+3,11,Lesingteater/Lecture Theatre L1
+3,12,Lesingteater/Lecture Theatre L1
+#12,E
+4,9,B207
+4,10,B207
+4,11,B207
+4,12,B207
+@JWI 210,2,1,
+#11,A
+2,1,Lesingteater/Lecture Theatre L1
+2,2,Lesingteater/Lecture Theatre L1
+2,3,Lesingteater/Lecture Theatre L1
+2,4,Lesingteater/Lecture Theatre L1
+#12,E
+2,17,B204
+2,18,B204
+2,19,B204
+2,20,B204
+@EKN 120,1,2,
+#11,A
+1,1,B207
+1,2,B207
+1,3,B207
+1,4,B207
+2,17,B207
+2,18,B207
+2,19,B207
+2,20,B207
+#12,E
+2,5,B203
+2,6,B203
+2,7,B203
+2,8,B203
+4,13,B203
+4,14,B203
+4,15,B203
+4,16,B203
+@PHY 154,1,1,
+#11,E
+2,5,G103
+2,6,G103
+3,9,G103
+3,10,G103
+4,5,G103
+4,6,G103
+5,13,G103
+5,14,G103
+@NDE 210,2,1,
+#11,E
+1,11,Lesingteater/Lecture Theatre L3
+1,12,Lesingteater/Lecture Theatre L3
+4,13,Lesingteater/Lecture Theatre L3
+4,14,Lesingteater/Lecture Theatre L3
+@JLO 210,2,1,
+#11,A
+1,3,Lesingteater/Lecture Theatre L4
+1,4,Lesingteater/Lecture Theatre L4
+3,1,Lesingteater/Lecture Theatre L6
+3,2,Lesingteater/Lecture Theatre L6
+#12,E
+1,9,Lesingteater/Lecture Theatre L7
+1,10,Lesingteater/Lecture Theatre L7
+2,7,Lesingteater/Lecture Theatre L7
+2,8,Lesingteater/Lecture Theatre L7
+@AFT 121,1,2,
+#11,B
+1,1,G104
+1,2,G104
+5,11,F105
+5,12,F105
+@JWG 220,2,2,
+#11,A
+1,13,B203
+1,14,B203
+1,15,B203
+1,16,B203
+#12,E
+1,15,B202
+1,16,B202
+1,17,B202
+1,18,B202
+@JWG 220 P,2,2,
+#11,A
+4,3,F105
+4,4,F105
+4,5,F105
+4,6,F105
+#12,E
+4,13,F03
+4,14,F03
+4,15,F03
+4,16,F03
+@ZUL 220,2,2,
+#11,B
+1,7,F111
+1,8,F111
+4,11,F111
+4,12,F111
+@ZUL 210,2,1,
+#11,B
+3,5,F111
+3,6,F111
+5,7,F111
+5,8,F111
+@JAW 310,3,1,
+#1,A
+1,15,F107
+1,16,F107
+1,17,F107
+1,18,F107
+3,1,F107
+3,2,F107
+3,3,F107
+3,4,F107
+#2,E
+2,15,F101
+2,16,F101
+2,17,F101
+2,18,F101
+5,3,F101
+5,4,F101
+5,5,F101
+5,6,F101
+@JLO 300,3,0,
+#1,B
+2,11,A208
+2,12,A208
+3,5,A208
+3,6,A208
+@JLG 310,3,1,
+#1,A
+2,11,Lesingteater/Lecture Theatre L4
+2,12,Lesingteater/Lecture Theatre L4
+2,13,Lesingteater/Lecture Theatre L4
+2,14,Lesingteater/Lecture Theatre L4
+3,5,Lesingteater/Lecture Theatre L3
+3,6,Lesingteater/Lecture Theatre L3
+3,7,Lesingteater/Lecture Theatre L3
+3,8,Lesingteater/Lecture Theatre L3
+@JLV 253,2,2,
+#1,B
+1,3,B202
+1,4,B202
+@JLD 300,3,2,
+#1,A
+2,1,Lesingteater/Lecture Theatre L3
+2,2,Lesingteater/Lecture Theatre L3
+2,3,Lesingteater/Lecture Theatre L3
+2,4,Lesingteater/Lecture Theatre L3
+#2,E
+2,11,Lesingteater/Lecture Theatre L3
+2,12,Lesingteater/Lecture Theatre L3
+2,13,Lesingteater/Lecture Theatre L3
+2,14,Lesingteater/Lecture Theatre L3
+@ENG 120,1,2,
+#11,E
+1,5,Lesingteater/Lecture Theatre L1
+1,6,Lesingteater/Lecture Theatre L1
+2,11,Lesingteater/Lecture Theatre L1
+2,12,Lesingteater/Lecture Theatre L1
+5,11,Lesingteater/Lecture Theatre L1
+5,12,Lesingteater/Lecture Theatre L1
+#12,E
+1,5,Lesingteater/Lecture Theatre L2
+1,6,Lesingteater/Lecture Theatre L2
+2,11,Lesingteater/Lecture Theatre L2
+2,12,Lesingteater/Lecture Theatre L2
+5,11,Lesingteater/Lecture Theatre L2
+5,12,Lesingteater/Lecture Theatre L2
+#13,E
+1,5,Lesingteater/Lecture Theatre L5
+1,6,Lesingteater/Lecture Theatre L5
+2,11,Lesingteater/Lecture Theatre L5
+2,12,Lesingteater/Lecture Theatre L5
+5,11,Lesingteater/Lecture Theatre L5
+5,12,Lesingteater/Lecture Theatre L5
+@JNM 454,4,2,
+#1,A
+1,5,A208
+1,6,A208
+1,7,A208
+1,8,A208
+#2,E
+2,5,F107
+2,6,F107
+2,7,F107
+2,8,F107
+@JWS 310,3,1,
+#1,B
+1,15,Lesingteater/Lecture Theatre L1
+1,16,Lesingteater/Lecture Theatre L1
+1,17,Lesingteater/Lecture Theatre L1
+1,18,Lesingteater/Lecture Theatre L1
+3,1,Lesingteater/Lecture Theatre L1
+3,2,Lesingteater/Lecture Theatre L1
+3,3,Lesingteater/Lecture Theatre L1
+3,4,Lesingteater/Lecture Theatre L1
+@JIT 210,2,1,
+#1,B
+1,11,WEB CT-LAB
+1,12,WEB CT-LAB
+1,13,WEB CT-LAB
+1,14,WEB CT-LAB
+3,5,WEB CT-LAB
+3,6,WEB CT-LAB
+3,7,WEB CT-LAB
+3,8,WEB CT-LAB
+@JLP 451 P,4,1,
+#1,A
+3,1,Aldoel 2
+3,2,Aldoel 2
+3,3,Aldoel 2
+3,4,Aldoel 2
+#2,E
+3,13,Lesingteater/Lecture Theatre L5
+3,14,Lesingteater/Lecture Theatre L5
+3,15,Lesingteater/Lecture Theatre L5
+3,16,Lesingteater/Lecture Theatre L5
+@RTT 300,3,0,
+#1,B
+2,21,Aldoel 1-93
+2,22,Aldoel 1-93
+2,23,Aldoel 1-93
+2,24,Aldoel 1-93
+2,25,Aldoel 1-93
+2,26,Aldoel 1-93
+#2,B
+4,21,Aldoel 1-93
+4,22,Aldoel 1-93
+4,23,Aldoel 1-93
+4,24,Aldoel 1-93
+4,25,Aldoel 1-93
+4,26,Aldoel 1-93
+@REL 320,3,2,
+#1,B
+4,1,B202
+4,2,B202
+4,3,B202
+4,4,B202
+@JMT 200,2,0,
+#1,B
+4,19,Lesingteater/Lecture Theatre L1
+4,20,Lesingteater/Lecture Theatre L1
+@JMV 300,3,0,
+#1,B
+2,11,F106
+2,12,F106
+2,13,F106
+2,14,F106
+@JMT 304,3,0,
+#1,B
+4,21,Lesingteater/Lecture Theatre L1
+4,22,Lesingteater/Lecture Theatre L1
+4,23,Lesingteater/Lecture Theatre L1
+4,24,Lesingteater/Lecture Theatre L1
+@JMG 320,3,2,
+#1,B
+2,9,A204
+2,10,A204
+@JGS 310,3,1,
+#1,A
+1,5,A208
+1,6,A208
+1,7,A208
+1,8,A208
+3,13,A208
+3,14,A208
+#2,E
+2,11,Lesingteater/Lecture Theatre L7
+2,12,Lesingteater/Lecture Theatre L7
+2,13,Lesingteater/Lecture Theatre L7
+2,14,Lesingteater/Lecture Theatre L7
+4,5,Lesingteater/Lecture Theatre L7
+4,6,Lesingteater/Lecture Theatre L7
+@JGD 320,3,2,
+#1,B
+5,5,B207
+5,6,B207
+5,7,B207
+5,8,B207
+@JFK 320,3,2,
+#1,B
+1,7,B203
+1,8,B203
+2,9,B203
+2,10,B203
+@JDK 310,3,1,
+#1,B
+1,11,B207
+1,12,B207
+3,5,B207
+3,6,B207
+4,1,B207
+4,2,B207
+4,3,B207
+4,4,B207
+@OPV 262,2,1,
+#11,A
+2,17,Lesingteater/Lecture Theatre L4
+2,18,Lesingteater/Lecture Theatre L4
+2,19,Lesingteater/Lecture Theatre L4
+2,20,Lesingteater/Lecture Theatre L4
+5,5,Lesingteater/Lecture Theatre L4
+5,6,Lesingteater/Lecture Theatre L4
+#12,E
+2,15,Lesingteater/Lecture Theatre L7
+2,16,Lesingteater/Lecture Theatre L7
+2,17,Lesingteater/Lecture Theatre L7
+2,18,Lesingteater/Lecture Theatre L7
+5,9,Lesingteater/Lecture Theatre L7
+5,10,Lesingteater/Lecture Theatre L7
+@OBS 114,1,1,
+#11,A
+1,5,Lesingteater/Lecture Theatre L1
+1,6,Lesingteater/Lecture Theatre L1
+2,11,Lesingteater/Lecture Theatre L1
+2,12,Lesingteater/Lecture Theatre L1
+5,1,Lesingteater/Lecture Theatre L1
+5,2,Lesingteater/Lecture Theatre L1
+#12,E
+1,7,Lesingteater/Lecture Theatre L6
+1,8,Lesingteater/Lecture Theatre L6
+2,3,Lesingteater/Lecture Theatre L6
+2,4,Lesingteater/Lecture Theatre L6
+4,1,Lesingteater/Lecture Theatre L6
+4,2,Lesingteater/Lecture Theatre L6
+@NDE 110,1,1,
+#11,B
+1,5,G103
+1,6,G103
+5,3,G103
+5,4,G103
+@JMB 123 P,1,2,
+#11,B
+4,11,Swembad-SPool/Sportsentrum
+4,12,Swembad-SPool/Sportsentrum
+4,13,Swembad-SPool/Sportsentrum
+4,14,Swembad-SPool/Sportsentrum
+@WTW 153 T,1,1,
+#11,E
+4,15,Lesingteater/Lecture Theatre L2
+4,16,Lesingteater/Lecture Theatre L2
+4,17,Lesingteater/Lecture Theatre L2
+4,18,Lesingteater/Lecture Theatre L2
+@JMI 451,4,1,
+#1,B
+3,5,B21
+3,6,B21
+3,7,B21
+3,8,B21
+@OPV 263,2,2,
+#11,A
+2,17,Lesingteater/Lecture Theatre L4
+2,18,Lesingteater/Lecture Theatre L4
+2,19,Lesingteater/Lecture Theatre L4
+2,20,Lesingteater/Lecture Theatre L4
+5,5,Lesingteater/Lecture Theatre L4
+5,6,Lesingteater/Lecture Theatre L4
+#12,E
+2,15,A208
+2,16,A208
+2,17,A208
+2,18,A208
+5,9,A208
+5,10,A208
+@JEN 251,2,1,
+#1,E
+1,9,F106
+1,10,F106
+4,11,F106
+4,12,F106
+@JCH 220,2,2,
+#1,B
+1,3,F105
+1,4,F105
+2,3,F105
+2,4,F105
+@JCH 210,2,1,
+#1,B
+1,3,F105
+1,4,F105
+2,9,F105
+2,10,F105
+@JAF 210,2,1,
+#1,A
+3,13,B204
+3,14,B204
+3,15,B204
+3,16,B204
+@OPV 361,3,1,
+#1,A
+1,5,Lesingteater/Lecture Theatre L5
+1,6,Lesingteater/Lecture Theatre L5
+1,7,Lesingteater/Lecture Theatre L5
+1,8,Lesingteater/Lecture Theatre L5
+4,7,Lesingteater/Lecture Theatre L7
+4,8,Lesingteater/Lecture Theatre L7
+4,9,Lesingteater/Lecture Theatre L7
+4,10,Lesingteater/Lecture Theatre L7
+#2,A
+1,19,Lesingteater/Lecture Theatre L6
+1,20,Lesingteater/Lecture Theatre L6
+2,15,Lesingteater/Lecture Theatre L6
+2,16,Lesingteater/Lecture Theatre L6
+4,15,Lesingteater/Lecture Theatre L6
+4,16,Lesingteater/Lecture Theatre L6
+4,17,Lesingteater/Lecture Theatre L6
+4,18,Lesingteater/Lecture Theatre L6
+#3,E
+1,17,Lesingteater/Lecture Theatre L6
+1,18,Lesingteater/Lecture Theatre L6
+2,17,Aldoel 3
+2,18,Aldoel 3
+3,1,Lesingteater/Lecture Theatre L5
+3,2,Lesingteater/Lecture Theatre L5
+3,3,Lesingteater/Lecture Theatre L5
+3,4,Lesingteater/Lecture Theatre L5
+#4,E
+2,1,Aldoel 1
+2,2,Aldoel 1
+2,3,Aldoel 1
+2,4,Aldoel 1
+3,9,Aldoel 1
+3,10,Aldoel 1
+4,13,Aldoel 1
+4,14,Aldoel 1
+@JTT 320,3,2,
+#1,B
+2,7,TECHNIKA 1-5
+2,8,TECHNIKA 1-5
+2,9,TECHNIKA 1-5
+2,10,TECHNIKA 1-5
+3,17,TECHNIKA 1-5
+3,18,TECHNIKA 1-5
+3,19,TECHNIKA 1-5
+3,20,TECHNIKA 1-5
+@JPK 320 P,3,2,
+#1,B
+2,11,NW/NS Lab H/L6
+2,12,NW/NS Lab H/L6
+2,13,NW/NS Lab H/L6
+2,14,NW/NS Lab H/L6
+@JOT 354,3,2,
+#1,B
+1,15,F102
+1,16,F102
+1,17,F102
+1,18,F102
+3,1,F102
+3,2,F102
+3,3,F102
+3,4,F102
+@JGS 120,1,2,
+#11,A
+2,3,Aldoel 3
+2,4,Aldoel 3
+5,7,Aldoel 3
+5,8,Aldoel 3
+#12,E
+3,1,Aldoel 3
+3,2,Aldoel 3
+5,9,Aldoel 3
+5,10,Aldoel 3
+@FRK 111,1,1,
+#11,A
+1,17,F101
+1,18,F101
+2,3,F101
+2,4,F101
+4,15,F101
+4,16,F101
+5,13,F101
+5,14,F101
+#12,E
+2,9,F101
+2,10,F101
+3,7,F101
+3,8,F101
+4,7,F101
+4,8,F101
+5,9,F101
+5,10,F101
+@CMY 143 T,1,2,
+#11,A
+2,17,F106
+2,18,F106
+2,19,F106
+4,1,F106
+4,2,F106
+4,3,F106
+#12,E
+3,9,G103
+3,10,G103
+3,11,G103
+5,13,F106
+5,14,F106
+5,15,F106
+@CMY 143,1,2,
+#11,A
+1,1,B206
+1,2,B206
+1,3,B206
+1,4,B206
+#12,E
+1,17,F105
+1,18,F105
+1,19,F105
+1,20,F105
+@CMY 133 T,1,1,
+#11,B
+1,17,G104
+1,18,G104
+1,19,G104
+5,7,G104
+5,8,G104
+5,9,G104
+@SEP 110,1,1,
+#11,B
+1,5,Lesingteater/Lecture Theatre L6
+1,6,Lesingteater/Lecture Theatre L6
+2,11,Aldoel 1
+2,12,Aldoel 1
+@JMW 200,2,0,
+#1,B
+2,13,B203
+2,14,B203
+@JMF 200,2,0,
+#1,B
+3,3,F105
+3,4,F105
+@JLG 210,2,1,
+#1,B
+4,7,G103
+4,8,G103
+4,9,G103
+4,10,G103
+@SLK 120 T,1,2,
+#11,A
+3,15,Lesingteater/Lecture Theatre L7
+3,16,Lesingteater/Lecture Theatre L7
+4,1,Lesingteater/Lecture Theatre L7
+4,2,Lesingteater/Lecture Theatre L7
+#12,E
+3,3,Aldoel 2
+3,4,Aldoel 2
+4,1,Aldoel 2
+4,2,Aldoel 2
+@JBA 451 P,4,1,
+#1,E
+3,13,Lesingteater/Lecture Theatre L4
+3,14,Lesingteater/Lecture Theatre L4
+4,3,Lesingteater/Lecture Theatre L7
+4,4,Lesingteater/Lecture Theatre L7
+@JMD 453,4,1,
+#1,B
+3,1,F111
+3,2,F111
+3,3,F111
+3,4,F111
+@TBE 110,1,1,
+#11,A
+1,13,Lesingteater/Lecture Theatre L5
+1,14,Lesingteater/Lecture Theatre L5
+1,15,Lesingteater/Lecture Theatre L5
+1,16,Lesingteater/Lecture Theatre L5
+3,5,Lesingteater/Lecture Theatre L2
+3,6,Lesingteater/Lecture Theatre L2
+3,7,Lesingteater/Lecture Theatre L2
+3,8,Lesingteater/Lecture Theatre L2
+#12,E
+1,9,Lesingteater/Lecture Theatre L6
+1,10,Lesingteater/Lecture Theatre L6
+1,11,Lesingteater/Lecture Theatre L6
+1,12,Lesingteater/Lecture Theatre L6
+3,1,Lesingteater/Lecture Theatre L3
+3,2,Lesingteater/Lecture Theatre L3
+3,3,Lesingteater/Lecture Theatre L3
+3,4,Lesingteater/Lecture Theatre L3
+@JMR 451,4,1,
+#1,B
+1,19,WEB CT-LAB
+1,20,WEB CT-LAB
+1,21,WEB CT-LAB
+1,22,WEB CT-LAB
+@JMN 457 P,4,1,
+#1,B
+2,13,Lesingteater/Lecture Theatre L3
+2,14,Lesingteater/Lecture Theatre L3
+@JML 451,4,1,
+#1,B
+3,1,Swembad-SPool/Sportsentrum
+3,2,Swembad-SPool/Sportsentrum
+3,3,Swembad-SPool/Sportsentrum
+3,4,Swembad-SPool/Sportsentrum
+@RTT 240,2,2,
+#11,B
+2,13,Aldoel 1-93
+2,14,Aldoel 1-93
+4,19,Aldoel 1-93
+4,20,Aldoel 1-93
+@JOT 240 P,2,2,
+#11,A
+3,15,F102
+3,16,F102
+#12,E
+3,15,F102
+3,16,F102
+@JAW 210,2,1,
+#1,B
+2,1,Lesingteater/Lecture Theatre L1
+2,2,Lesingteater/Lecture Theatre L1
+2,3,Lesingteater/Lecture Theatre L1
+2,4,Lesingteater/Lecture Theatre L1
+3,9,Lesingteater/Lecture Theatre L1
+3,10,Lesingteater/Lecture Theatre L1
+3,11,Lesingteater/Lecture Theatre L1
+3,12,Lesingteater/Lecture Theatre L1
+@JST 220,2,2,
+#11,A
+1,7,Aldoel 2
+1,8,Aldoel 2
+1,9,Aldoel 2
+1,10,Aldoel 2
+3,5,Aldoel 2
+3,6,Aldoel 2
+3,7,Aldoel 2
+3,8,Aldoel 2
+4,9,Aldoel 2
+4,10,Aldoel 2
+4,11,Aldoel 2
+4,12,Aldoel 2
+4,15,Aldoel 3
+4,16,Aldoel 3
+4,17,Aldoel 3
+4,18,Aldoel 3
+@JGS 210,2,1,
+#11,A
+3,5,Lesingteater/Lecture Theatre L7
+3,6,Lesingteater/Lecture Theatre L7
+3,7,Lesingteater/Lecture Theatre L7
+3,8,Lesingteater/Lecture Theatre L7
+3,15,Aldoel 3
+3,16,Aldoel 3
+3,17,Aldoel 3
+3,18,Aldoel 3
+@JGL 200,2,0,
+#11,A
+1,13,Lesingteater/Lecture Theatre L6
+1,14,Lesingteater/Lecture Theatre L6
+1,15,Lesingteater/Lecture Theatre L6
+1,16,Lesingteater/Lecture Theatre L6
+3,3,Lesingteater/Lecture Theatre L6
+3,4,Lesingteater/Lecture Theatre L6
+#12,E
+1,17,Aldoel 3
+1,18,Aldoel 3
+4,5,Aldoel 1
+4,6,Aldoel 1
+4,7,Aldoel 1
+4,8,Aldoel 1
+@JAW 220,2,2,
+#1,B
+1,11,B202
+1,12,B202
+1,13,B202
+1,14,B202
+3,7,B202
+3,8,B202
+3,9,B202
+3,10,B202
+@JGF 321 P,3,2,
+#1,B
+3,11,B21
+3,12,B21
+3,13,B21
+3,14,B21
+3,15,B21
+3,16,B21
+3,17,B21
+3,18,B21
+@REL 210,2,1,
+#11,B
+3,17,Lesingteater/Lecture Theatre L1
+3,18,Lesingteater/Lecture Theatre L1
+3,19,Lesingteater/Lecture Theatre L1
+3,20,Lesingteater/Lecture Theatre L1
+@JWT 225,2,2,
+#1,B
+2,3,F106
+2,4,F106
+5,3,F106
+5,4,F106
+@JPK 210,2,1,
+#1,B
+2,9,Lesingteater/Lecture Theatre L3
+2,10,Lesingteater/Lecture Theatre L3
+3,15,Lesingteater/Lecture Theatre L3
+3,16,Lesingteater/Lecture Theatre L3
+@JOO 254,2,2,
+#1,B
+2,5,A208
+2,6,A208
+@TBE 120,1,2,
+#11,A
+1,13,Lesingteater/Lecture Theatre L7
+1,14,Lesingteater/Lecture Theatre L7
+1,15,Lesingteater/Lecture Theatre L7
+1,16,Lesingteater/Lecture Theatre L7
+3,5,Lesingteater/Lecture Theatre L2
+3,6,Lesingteater/Lecture Theatre L2
+3,7,Lesingteater/Lecture Theatre L2
+3,8,Lesingteater/Lecture Theatre L2
+#12,E
+1,9,Lesingteater/Lecture Theatre L7
+1,10,Lesingteater/Lecture Theatre L7
+1,11,Lesingteater/Lecture Theatre L7
+1,12,Lesingteater/Lecture Theatre L7
+3,1,Lesingteater/Lecture Theatre L2
+3,2,Lesingteater/Lecture Theatre L2
+3,3,Lesingteater/Lecture Theatre L2
+3,4,Lesingteater/Lecture Theatre L2
+@REL 154,1,2,
+#11,A
+4,17,B204
+4,18,B204
+4,19,B204
+4,20,B204
+#12,E
+2,15,B204
+2,16,B204
+2,17,B204
+2,18,B204
+@INF 153,1,1,
+#11,A
+2,15,G103
+2,16,G103
+2,17,G103
+2,18,G103
+#12,E
+5,9,G103
+5,10,G103
+5,11,G103
+5,12,G103
+@JLW 210,2,1,
+#1,B
+2,7,F101
+2,8,F101
+3,3,F101
+3,4,F101
+4,5,F101
+4,6,F101
+@JLO 451 P,4,1,
+#1,A
+3,1,Aldoel 2
+3,2,Aldoel 2
+3,3,Aldoel 2
+3,4,Aldoel 2
+#2,E
+3,13,Lesingteater/Lecture Theatre L5
+3,14,Lesingteater/Lecture Theatre L5
+3,15,Lesingteater/Lecture Theatre L5
+3,16,Lesingteater/Lecture Theatre L5
+@JPE 454,4,1,
+#1,A
+2,15,Aldoel 1
+2,16,Aldoel 1
+2,17,Aldoel 1
+2,18,Aldoel 1
+#2,E
+2,7,Lesingteater/Lecture Theatre L4
+2,8,Lesingteater/Lecture Theatre L4
+2,9,Lesingteater/Lecture Theatre L4
+2,10,Lesingteater/Lecture Theatre L4
+@JLP 451,4,1,
+#1,A
+3,9,Aldoel 3
+3,10,Aldoel 3
+#2,E
+2,1,Aldoel 2
+2,2,Aldoel 2
+@JGL 451,4,1,
+#1,A
+5,7,Lesingteater/Lecture Theatre L4
+5,8,Lesingteater/Lecture Theatre L4
+#2,E
+5,3,Lesingteater/Lecture Theatre L1
+5,4,Lesingteater/Lecture Theatre L1
+@JMS 300,3,0,
+#1,B
+2,5,Swembad/SPool L28/L29/L30
+2,6,Swembad/SPool L28/L29/L30
+@JMO 304,3,0,
+#1,B
+1,13,Musiek/Music D103
+1,14,Musiek/Music D103
+@JMK 301,3,0,
+#1,B
+2,7,F03
+2,8,F03
+3,11,F03
+3,12,F03
+@JMD 306,3,0,
+#1,B
+3,15,B206
+3,16,B206
+3,17,B206
+3,18,B206
+@JMC 300,3,0,
+#1,B
+5,9,B203
+5,10,B203
+5,11,B203
+5,12,B203
+5,13,B203
+5,14,B203
+@JMB 321,3,2,
+#1,B
+4,3,Swembad-SPool/Sportsentrum
+4,4,Swembad-SPool/Sportsentrum
+4,5,Swembad-SPool/Sportsentrum
+4,6,Swembad-SPool/Sportsentrum
+@JMB 320,3,2,
+#1,B
+2,11,Aldoel 3
+2,12,Aldoel 3
+2,13,Aldoel 3
+2,14,Aldoel 3
+@JMA 300,3,0,
+#1,A
+1,9,Lesingteater/Lecture Theatre L4
+1,10,Lesingteater/Lecture Theatre L4
+@JLO 320,3,2,
+#1,B
+4,17,A208
+4,18,A208
+4,19,A208
+4,20,A208
+@JKG 300,3,0,
+#1,B
+2,9,F03
+2,10,F03
+@JGV 320,3,2,
+#1,A
+4,1,Lesingteater/Lecture Theatre L3
+4,2,Lesingteater/Lecture Theatre L3
+4,3,Lesingteater/Lecture Theatre L3
+4,4,Lesingteater/Lecture Theatre L3
+4,5,Lesingteater/Lecture Theatre L3
+4,6,Lesingteater/Lecture Theatre L3
+#2,E
+4,1,Lesingteater/Lecture Theatre L1
+4,2,Lesingteater/Lecture Theatre L1
+4,3,Lesingteater/Lecture Theatre L1
+4,4,Lesingteater/Lecture Theatre L1
+4,5,Lesingteater/Lecture Theatre L1
+4,6,Lesingteater/Lecture Theatre L1
+@JEN 354,3,2,
+#1,E
+1,3,Lesingteater/Lecture Theatre L6
+1,4,Lesingteater/Lecture Theatre L6
+4,7,Lesingteater/Lecture Theatre L6
+4,8,Lesingteater/Lecture Theatre L6
+@JDK 320,3,2,
+#1,B
+1,11,B206
+1,12,B206
+3,5,B206
+3,6,B206
+4,1,B206
+4,2,B206
+4,3,B206
+4,4,B206
+@JCH 320 P,3,2,
+#1,B
+5,3,NW/NS Lab G/Aldo F03
+5,4,NW/NS Lab G/Aldo F03
+5,5,NW/NS Lab G/Aldo F03
+5,6,NW/NS Lab G/Aldo F03
+@OPV 264,2,2,
+#11,A
+2,17,Lesingteater/Lecture Theatre L4
+2,18,Lesingteater/Lecture Theatre L4
+2,19,Lesingteater/Lecture Theatre L4
+2,20,Lesingteater/Lecture Theatre L4
+5,5,Lesingteater/Lecture Theatre L4
+5,6,Lesingteater/Lecture Theatre L4
+#12,E
+2,15,A208
+2,16,A208
+2,17,A208
+2,18,A208
+5,9,A208
+5,10,A208
+@REL 151,1,1,
+#11,A
+2,5,B204
+2,6,B204
+2,7,B204
+2,8,B204
+#12,E
+4,17,B204
+4,18,B204
+4,19,B204
+4,20,B204
+@JMB 122,1,2,
+#11,B
+2,5,Lesingteater/Lecture Theatre L4
+2,6,Lesingteater/Lecture Theatre L4
+3,11,Lesingteater/Lecture Theatre L4
+3,12,Lesingteater/Lecture Theatre L4
+@JGS 220,2,2,
+#1,B
+3,5,G103
+3,6,G103
+3,7,G103
+3,8,G103
+@JGL 220,2,2,
+#1,B
+1,1,F101
+1,2,F101
+1,3,F101
+1,4,F101
+4,7,F101
+4,8,F101
+@JGF 211 P,2,2,
+#1,B
+4,13,A204
+4,14,A204
+@JDK 220,2,2,
+#1,B
+1,5,F106
+1,6,F106
+1,7,F106
+1,8,F106
+2,7,F106
+2,8,F106
+3,13,F106
+3,14,F106
+@JWT 324,3,2,
+#1,B
+3,15,F107
+3,16,F107
+4,5,F107
+4,6,F107
+@JTT 310,3,1,
+#1,B
+2,7,TECHNIKA 1-5
+2,8,TECHNIKA 1-5
+2,9,TECHNIKA 1-5
+2,10,TECHNIKA 1-5
+3,17,TECHNIKA 1-5
+3,18,TECHNIKA 1-5
+3,19,TECHNIKA 1-5
+3,20,TECHNIKA 1-5
+@JPK 320,3,2,
+#1,B
+1,9,B203
+1,10,B203
+4,11,B203
+4,12,B203
+@JPK 310,3,1,
+#1,B
+1,9,F101
+1,10,F101
+4,11,F101
+4,12,F101
+@JPK 310 P,3,1,
+#1,B
+2,11,NW/NS Lab H/L6
+2,12,NW/NS Lab H/L6
+2,13,NW/NS Lab H/L6
+2,14,NW/NS Lab H/L6
+@JOT 310,3,1,
+#1,B
+1,15,F102
+1,16,F102
+1,17,F102
+1,18,F102
+3,1,F102
+3,2,F102
+3,3,F102
+3,4,F102
+@JGL 120,1,2,
+#11,A
+4,15,Lesingteater/Lecture Theatre L7
+4,16,Lesingteater/Lecture Theatre L7
+4,17,Lesingteater/Lecture Theatre L7
+4,18,Lesingteater/Lecture Theatre L7
+#12,E
+4,11,Lesingteater/Lecture Theatre L5
+4,12,Lesingteater/Lecture Theatre L5
+4,13,Lesingteater/Lecture Theatre L5
+4,14,Lesingteater/Lecture Theatre L5
+@GES 120,1,2,
+#11,A
+1,11,A208
+1,12,A208
+4,5,A208
+4,6,A208
+#12,E
+1,9,A208
+1,10,A208
+4,3,A208
+4,4,A208
+@CMY 133,1,1,
+#11,B
+3,1,G104
+3,2,G104
+3,3,G104
+3,4,G104
+@WTW 143,1,2,
+#11,A
+1,15,Lesingteater/Lecture Theatre L3
+1,16,Lesingteater/Lecture Theatre L3
+1,17,Lesingteater/Lecture Theatre L3
+1,18,Lesingteater/Lecture Theatre L3
+2,15,Lesingteater/Lecture Theatre L2
+2,16,Lesingteater/Lecture Theatre L2
+3,9,Lesingteater/Lecture Theatre L2
+3,10,Lesingteater/Lecture Theatre L2
+#12,E
+2,17,Lesingteater/Lecture Theatre L7
+2,18,Lesingteater/Lecture Theatre L7
+2,19,Lesingteater/Lecture Theatre L7
+2,20,Lesingteater/Lecture Theatre L7
+4,1,Lesingteater/Lecture Theatre L4
+4,2,Lesingteater/Lecture Theatre L4
+5,1,Lesingteater/Lecture Theatre L4
+5,2,Lesingteater/Lecture Theatre L4
+@WTW 143 P,1,2,
+#11,A
+4,15,Lesingteater/Lecture Theatre L2
+4,16,Lesingteater/Lecture Theatre L2
+#12,E
+4,5,Lesingteater/Lecture Theatre L4
+4,6,Lesingteater/Lecture Theatre L4
+@PHY 133 P,1,1,
+#11,A
+1,7,NW/NS Lab C
+1,8,NW/NS Lab C
+1,9,NW/NS Lab C
+1,10,NW/NS Lab C
+#12,A
+3,15,NW/NS Lab C
+3,16,NW/NS Lab C
+3,17,NW/NS Lab C
+3,18,NW/NS Lab C
+#13,A
+4,11,NW/NS Lab C
+4,12,NW/NS Lab C
+4,13,NW/NS Lab C
+4,14,NW/NS Lab C
+#14,E
+1,1,NW/NS Lab C
+1,2,NW/NS Lab C
+1,3,NW/NS Lab C
+1,4,NW/NS Lab C
+#15,E
+4,17,NW/NS Lab D
+4,18,NW/NS Lab D
+4,19,NW/NS Lab D
+4,20,NW/NS Lab D
+#16,E
+2,1,NW/NS Lab C
+2,2,NW/NS Lab C
+2,3,NW/NS Lab C
+2,4,NW/NS Lab C
+@JMH 200,2,0,
+#1,B
+2,11,B202
+2,12,B202
+@SLK 120,1,2,
+#11,A
+1,3,Lesingteater/Lecture Theatre L7
+1,4,Lesingteater/Lecture Theatre L7
+2,1,Lesingteater/Lecture Theatre L7
+2,2,Lesingteater/Lecture Theatre L7
+#12,E
+1,19,Aldoel 2
+1,20,Aldoel 2
+2,19,Aldoel 2
+2,20,Aldoel 2
+@JTT 240,2,2,
+#11,B
+2,19,B21
+2,20,B21
+5,3,B21
+5,4,B21
+@JSN 451,4,1,
+#1,A
+1,9,G103
+1,10,G103
+1,11,G103
+1,12,G103
+#2,E
+2,7,G103
+2,8,G103
+2,9,G103
+2,10,G103
+@JMT 454,4,1,
+#1,B
+3,13,TECHNIKA 1-5
+3,14,TECHNIKA 1-5
+3,15,TECHNIKA 1-5
+3,16,TECHNIKA 1-5
+5,5,TECHNIKA 1-5
+5,6,TECHNIKA 1-5
+5,7,TECHNIKA 1-5
+5,8,TECHNIKA 1-5
+@JMN 458 P,4,1,
+#1,B
+2,1, B202
+2,2, B202
+@WTW 144 T,1,2,
+#12,B
+4,7,G104
+4,8,G104
+4,9,G104
+4,10,G104
+@WTW 144 P,1,2,
+#12,B
+5,3,G104
+5,4,G104
+@AFR 214,2,1,
+#11,A
+1,11,Aldoel 1
+1,12,Aldoel 1
+3,5,Aldoel 2
+3,6,Aldoel 2
+5,9,Aldoel 2
+5,10,Aldoel 2
+5,11,Aldoel 2
+5,12,Aldoel 2
+@SEP 211,2,1,
+#11,B
+3,5,F101
+3,6,F101
+5,7,F101
+5,8,F101
+@SEP 210,2,1,
+#11,B
+1,11,F111
+1,12,F111
+4,13,F111
+4,14,F111
+@AFR 220,2,2,
+#11,A
+1,5,Aldoel 2
+1,6,Aldoel 2
+3,1,Aldoel 2
+3,2,Aldoel 2
+5,11,Aldoel 2
+5,12,Aldoel 2
+5,13,Aldoel 2
+5,14,Aldoel 2
+@SEP 111,1,1,
+#11,B
+1,7,F105
+1,8,F105
+3,19,F105
+3,20,F105
+@ZUL 211,2,1,
+#11,B
+3,1,B202
+3,2,B202
+5,9,B202
+5,10,B202
+@JPK 220 P,2,2,
+#1,B
+4,7,F106
+4,8,F106
+4,9,F106
+4,10,F106
+@JOT 220,2,2,
+#1,B
+1,11,F102
+1,12,F102
+1,13,F102
+1,14,F102
+3,9,F102
+3,10,F102
+3,11,F102
+3,12,F102
+@JMO 203,2,0,
+#1,B
+3,13,Musiek/Music D111
+3,14,Musiek/Music D111
+@JMB 220,2,2,
+#1,B
+2,9,Swembad/SPool L28/L29/L30
+2,10,Swembad/SPool L28/L29/L30
+3,9,Swembad/SPool L28/L29/L30
+3,10,Swembad/SPool L28/L29/L30
+@INF 154,1,1,
+#11,A
+3,13,IT LAB
+3,14,IT LAB
+#12,E
+4,3,IT LAB
+4,4,IT LAB
+@JTT 210,2,1,
+#1,B
+1,19,TECHNIKA 1-5
+1,20,TECHNIKA 1-5
+1,21,TECHNIKA 1-5
+1,22,TECHNIKA 1-5
+4,21,B21
+4,22,B21
+4,23,B21
+4,24,B21
+@JOA 451,4,1,
+#1,A
+1,1,Lesingteater/Lecture Theatre L6
+1,2,Lesingteater/Lecture Theatre L6
+1,3,Lesingteater/Lecture Theatre L6
+1,4,Lesingteater/Lecture Theatre L6
+1,11,A208
+1,12,A208
+#2,E
+1,1,Lesingteater/Lecture Theatre L5
+1,2,Lesingteater/Lecture Theatre L5
+1,3,Lesingteater/Lecture Theatre L5
+1,4,Lesingteater/Lecture Theatre L5
+1,11,Lesingteater/Lecture Theatre L7
+1,12,Lesingteater/Lecture Theatre L7
+@JLT 451,4,2,
+#1,B
+3,11,B203
+3,12,B203
+3,13,B203
+3,14,B203
+4,13,B204
+4,14,B204
+@JLE 451,4,1,
+#1,B
+4,5,B202
+4,6,B202
+5,13,B202
+5,14,B202
+5,15,B202
+5,16,B202
+@JMW 300,3,0,
+#1,B
+1,13,Lesingteater/Lecture Theatre L3
+1,14,Lesingteater/Lecture Theatre L3
+#2,B
+3,11,Lesingteater/Lecture Theatre L3
+3,12,Lesingteater/Lecture Theatre L3
+@JMN 308 P,3,0,
+#1,B
+3,13,NW/NS Lab E/L1
+3,14,NW/NS Lab E/L1
+@JMN 307 P,3,0,
+#1,B
+4,9,NW/NS Lab A/L1
+4,10,NW/NS Lab A/L1
+@JMN 306,3,0,
+#1,B
+1,3,B204
+1,4,B204
+3,13,B206
+3,14,B206
+@JMI 300,3,0,
+#1,B
+3,21,Aldoel 1-93
+3,22,Aldoel 1-93
+3,23,Aldoel 1-93
+3,24,Aldoel 1-93
+@JMD 301,3,0,
+#1,B
+3,19,B202
+3,20,B202
+@JMB 311,3,1,
+#1,B
+4,3,Swembad-SPool/Sportsentrum
+4,4,Swembad-SPool/Sportsentrum
+4,5,Swembad-SPool/Sportsentrum
+4,6,Swembad-SPool/Sportsentrum
+@JST 320,3,2,
+#1,A
+2,9,Lesingteater/Lecture Theatre L3
+2,10,Lesingteater/Lecture Theatre L3
+2,11,Lesingteater/Lecture Theatre L3
+2,12,Lesingteater/Lecture Theatre L3
+#2,E
+2,3,F111
+2,4,F111
+2,5,F111
+2,6,F111
+@JKU 301 P,3,0,
+#1,B
+5,3,F06
+5,4,F06
+5,5,F06
+5,6,F06
+5,7,F06
+5,8,F06
+#2,B
+5,3,F01
+5,4,F01
+5,5,F01
+5,6,F01
+5,7,F01
+5,8,F01
+@JFK 320 P,3,2,
+#1,B
+4,1,F111
+4,2,F111
+4,3,F111
+4,4,F111
+@JFK 310,3,1,
+#1,B
+1,7,B203
+1,8,B203
+2,9,B203
+2,10,B203
+@JEN 353,3,2,
+#1,E
+1,3,Lesingteater/Lecture Theatre L6
+1,4,Lesingteater/Lecture Theatre L6
+4,7,Lesingteater/Lecture Theatre L6
+4,8,Lesingteater/Lecture Theatre L6
+@JCH 310,3,1,
+#1,B
+1,5,B206
+1,6,B206
+2,11,B206
+2,12,B206
+@JTK 200 P,2,0,
+#1,B
+4,15,Raadpleeg/Consult Dept
+4,16,Raadpleeg/Consult Dept
+4,17,Raadpleeg/Consult Dept
+4,18,Raadpleeg/Consult Dept
+@JLL 451,4,1,
+#1,A
+4,7,Lesingteater/Lecture Theatre L2
+4,8,Lesingteater/Lecture Theatre L2
+4,9,Lesingteater/Lecture Theatre L2
+4,10,Lesingteater/Lecture Theatre L2
+4,11,Lesingteater/Lecture Theatre L2
+4,12,Lesingteater/Lecture Theatre L2
+#2,E
+4,5,Lesingteater/Lecture Theatre L5
+4,6,Lesingteater/Lecture Theatre L5
+4,7,Lesingteater/Lecture Theatre L5
+4,8,Lesingteater/Lecture Theatre L5
+4,9,Lesingteater/Lecture Theatre L5
+4,10,Lesingteater/Lecture Theatre L5
+@JMH 451,4,1,
+#1,B
+4,15,F107
+4,16,F107
+4,17,F107
+4,18,F107
+@JGF 221,2,1,
+#1,B
+5,1,Lesingteater/Lecture Theatre L5
+5,2,Lesingteater/Lecture Theatre L5
+5,3,Lesingteater/Lecture Theatre L5
+5,4,Lesingteater/Lecture Theatre L5
+@JEN 254,2,2,
+#1,E
+1,9,Lesingteater/Lecture Theatre L1
+1,10,Lesingteater/Lecture Theatre L1
+4,11,Lesingteater/Lecture Theatre L1
+4,12,Lesingteater/Lecture Theatre L1
+@JEN 252,2,1,
+#1,E
+1,9,Lesingteater/Lecture Theatre L1
+1,10,Lesingteater/Lecture Theatre L1
+4,11,Lesingteater/Lecture Theatre L1
+4,12,Lesingteater/Lecture Theatre L1
+@JVK 320,3,2,
+#1,A
+1,1,G103
+1,2,G103
+2,13,G103
+2,14,G103
+2,15,G103
+2,16,G103
+#2,E
+2,11,G103
+2,12,G103
+4,15,G103
+4,16,G103
+4,17,G103
+4,18,G103
+@JSN 320 P,3,2,
+#1,A
+3,13,F101
+3,14,F101
+#2,E
+5,3,F107
+5,4,F107
+@JOT 353,3,2,
+#1,B
+1,15,F102
+1,16,F102
+1,17,F102
+1,18,F102
+3,1,F102
+3,2,F102
+3,3,F102
+3,4,F102
+@JMV 200,2,0,
+#1,B
+4,9,F105
+4,10,F105
+@JLK 120,1,2,
+#11,A
+2,9,F01
+2,10,F01
+2,11,F01
+2,12,F01
+#12,A
+2,15,F01
+2,16,F01
+2,17,F01
+2,18,F01
+#13,E
+4,7,F01
+4,8,F01
+4,9,F01
+4,10,F01
+#14,E
+4,13,F01
+4,14,F01
+4,15,F01
+4,16,F01
+@JGV 152,1,1,
+#11,A
+1,17,Aldoel 2
+1,18,Aldoel 2
+1,19,Aldoel 2
+1,20,Aldoel 2
+3,1,Aldoel 2
+3,2,Aldoel 2
+3,3,Aldoel 2
+3,4,Aldoel 2
+#12,E
+2,1,Aldoel 3
+2,2,Aldoel 3
+2,3,Aldoel 3
+2,4,Aldoel 3
+5,11,Aldoel 3
+5,12,Aldoel 3
+5,13,Aldoel 3
+5,14,Aldoel 3
+@FRK 121,1,2,
+#11,A
+1,17,F101
+1,18,F101
+2,3,F101
+2,4,F101
+4,17,F101
+4,18,F101
+5,13,F101
+5,14,F101
+#12,E
+2,9,F101
+2,10,F101
+3,7,F101
+3,8,F101
+4,5,F101
+4,6,F101
+5,9,F101
+5,10,F101
+@WTW 133 P,1,1,
+#11,A
+1,5,B21
+1,6,B21
+#12,E
+4,9,B21
+4,10,B21
+@JMN 206,2,0,
+#1,B
+4,13,F105
+4,14,F105
+@JMN 204,2,0,
+#1,B
+1,3,F106
+1,4,F106
+@JME 200,2,0,
+#1,B
+3,17,B202
+3,18,B202
+@JMG 200,2,0,
+#1,B
+2,3,B207
+2,4,B207
+@JNM 321,3,2,
+#1,A
+2,17,Lesingteater/Lecture Theatre L6
+2,18,Lesingteater/Lecture Theatre L6
+#2,E
+2,19,Lesingteater/Lecture Theatre L6
+2,20,Lesingteater/Lecture Theatre L6
+#3,E
+2,15,Aldoel 3
+2,16,Aldoel 3
+@JBA 451,4,1,
+#1,E
+3,11,Lesingteater/Lecture Theatre L4
+3,12,Lesingteater/Lecture Theatre L4
+4,1,Lesingteater/Lecture Theatre L7
+4,2,Lesingteater/Lecture Theatre L7
+@JMD 456,4,1,
+#1,B
+3,11,F107
+3,12,F107
+3,13,F107
+3,14,F107
+@INF 163,1,2,
+#11,A
+1,15,G103
+1,16,G103
+1,17,G103
+1,18,G103
+#12,E
+3,1,G103
+3,2,G103
+3,3,G103
+3,4,G103
+@JTT 230 P,2,1,
+#11,B
+4,15,B21
+4,16,B21
+4,17,B21
+4,18,B21
+@SEP 220,2,2,
+#11,B
+1,7,F101
+1,8,F101
+4,11,F101
+4,12,F101
+@INF 112,1,1,
+#11,A
+1,1,G103
+1,2,G103
+1,3,G103
+1,4,G103
+#12,E
+3,1,G103
+3,2,G103
+3,3,G103
+3,4,G103
+@JWT 215,2,1,
+#1,B
+2,3,F106
+2,4,F106
+4,13,F106
+4,14,F106
+@JWT 215 P,2,1,
+#1,B
+4,15,F106
+4,16,F106
+4,17,F106
+4,18,F106
+@JSB 220,2,2,
+#1,B
+2,7,Swembad/SPool L28/L29/L30
+2,8,Swembad/SPool L28/L29/L30
+2,9,Swembad/SPool L28/L29/L30
+2,10,Swembad/SPool L28/L29/L30
+@JMO 240,2,2,
+#1,B
+2,1,Musiek/Music D105
+2,2,Musiek/Music D105
+2,3,Musiek/Music D105
+2,4,Musiek/Music D105
+@JMO 202,2,0,
+#1,B
+3,15,Musiek/Music D11
+3,16,Musiek/Music D11
+@JMO 201,2,0,
+#1,B
+1,5,Musiek/Music D105
+1,6,Musiek/Music D105
+@AFR 110,1,1,
+#11,A
+2,9,Aldoel 1
+2,10,Aldoel 1
+3,19,Aldoel 2
+3,20,Aldoel 2
+5,7,Aldoel 1
+5,8,Aldoel 1
+5,9,Aldoel 1
+5,10,Aldoel 1
+@JAS 220,2,2,
+#1,B
+2,11,Lesingteater/Lecture Theatre L4
+2,12,Lesingteater/Lecture Theatre L4
+2,13,Lesingteater/Lecture Theatre L4
+2,14,Lesingteater/Lecture Theatre L4
+@JLM 451 P,4,1,
+#1,B
+4,7,A204
+4,8,A204
+@JMN 204 P,2,0,
+#1,B
+3,13,Lesingteater/Lecture Theatre L3
+3,14,Lesingteater/Lecture Theatre L3
+@JMR 300,3,0,
+#1,B
+5,9,WEB CT-LAB
+5,10,WEB CT-LAB
+5,11,WEB CT-LAB
+5,12,WEB CT-LAB
+5,13,WEB CT-LAB
+5,14,WEB CT-LAB
+@JMN 307,3,0,
+#1,B
+2,5,NW/NS Lab A/L2
+2,6,NW/NS Lab A/L2
+@JMN 304,3,0,
+#1,B
+3,17,B204
+3,18,B204
+3,19,B204
+3,20,B204
+@JML 300,3,0,
+#1,B
+3,13,Swembad/SPool L27
+3,14,Swembad/SPool L27
+@JMG 310,3,1,
+#1,B
+1,11,A204
+1,12,A204
+@JMF 300,3,0,
+#1,B
+3,5,G104
+3,6,G104
+3,7,G104
+3,8,G104
+@JMB 310,3,1,
+#1,B
+2,11,Aldoel 2
+2,12,Aldoel 2
+2,13,Aldoel 2
+2,14,Aldoel 2
+@JKU 301,3,0,
+#1,B
+3,15,F06
+3,16,F06
+3,17,F06
+3,18,F06
+5,13,F06
+5,14,F06
+5,15,F06
+5,16,F06
+#2,B
+1,1,F01
+1,2,F01
+1,3,F01
+1,4,F01
+3,15,F01
+3,16,F01
+3,17,F01
+3,18,F01
+@JIT 310,3,1,
+#1,B
+3,17,WEB CT-LAB
+3,18,WEB CT-LAB
+3,19,WEB CT-LAB
+3,20,WEB CT-LAB
+4,11,WEB CT-LAB
+4,12,WEB CT-LAB
+4,13,WEB CT-LAB
+4,14,WEB CT-LAB
+@JFK 310 P,3,1,
+#1,B
+4,1,F111
+4,2,F111
+4,3,F111
+4,4,F111
+@JMC 451,4,1,
+#1,B
+3,5,B202
+3,6,B202
+3,7,B202
+3,8,B202
+@JGD 220,2,2,
+#1,B
+3,13,B207
+3,14,B207
+3,15,B207
+3,16,B207
+@JFK 220,2,2,
+#1,B
+1,1,G102
+1,2,G102
+2,7,G102
+2,8,G102
+@JDK 210,2,1,
+#1,B
+1,5,F106
+1,6,F106
+1,7,F106
+1,8,F106
+2,7,F106
+2,8,F106
+3,13,F106
+3,14,F106
+@JCH 220 P,2,2,
+#1,B
+3,13,F105
+3,14,F105
+3,15,F105
+3,16,F105
+@JWT 314,3,1,
+#1,B
+3,15,F107
+3,16,F107
+5,7,B204
+5,8,B204
+@JWT 314 P,3,1,
+#1,B
+2,7, B202
+2,8, B202
+2,9, B202
+2,10, B202
+@JVB 300,3,0,
+#1,B
+4,1,F107
+4,2,F107
+4,3,F107
+4,4,F107
+@JNM 311,3,1,
+#1,A
+2,17,Lesingteater/Lecture Theatre L6
+2,18,Lesingteater/Lecture Theatre L6
+#2,E
+2,19,Lesingteater/Lecture Theatre L6
+2,20,Lesingteater/Lecture Theatre L6
+#3,E
+2,15,Lesingteater/Lecture Theatre L4
+2,16,Lesingteater/Lecture Theatre L4
+@GGY 158 P,1,1,
+#11,B
+5,13,A204
+5,14,A204
+5,15,A204
+5,16,A204
+5,17,A204
+5,18,A204
+#12,B
+4,9,A204
+4,10,A204
+4,11,A204
+4,12,A204
+4,13,A204
+4,14,A204
+@GGY 156 T,1,1,
+#11,B
+2,3,Lesingteater/Lecture Theatre L2
+2,4,Lesingteater/Lecture Theatre L2
+@JAW 320,3,2,
+#1,B
+1,15,Lesingteater/Lecture Theatre L2
+1,16,Lesingteater/Lecture Theatre L2
+1,17,Lesingteater/Lecture Theatre L2
+1,18,Lesingteater/Lecture Theatre L2
+3,1,Lesingteater/Lecture Theatre L4
+3,2,Lesingteater/Lecture Theatre L4
+3,3,Lesingteater/Lecture Theatre L4
+3,4,Lesingteater/Lecture Theatre L4
+@ZUL 110,1,1,
+#11,B
+2,9,Lesingteater/Lecture Theatre L7
+2,10,Lesingteater/Lecture Theatre L7
+4,15,Aldoel 2
+4,16,Aldoel 2
+@WTW 143 T,1,2,
+#11,A
+5,13,G103
+5,14,G103
+5,15,G103
+5,16,G103
+#12,E
+1,11,Lesingteater/Lecture Theatre L1
+1,12,Lesingteater/Lecture Theatre L1
+1,13,Lesingteater/Lecture Theatre L1
+1,14,Lesingteater/Lecture Theatre L1
+@WTW 133 T,1,1,
+#11,A
+4,5,Lesingteater/Lecture Theatre L4
+4,6,Lesingteater/Lecture Theatre L4
+4,7,Lesingteater/Lecture Theatre L4
+4,8,Lesingteater/Lecture Theatre L4
+#12,E
+3,9,F101
+3,10,F101
+3,11,F101
+3,12,F101
+@SEP 120,1,2,
+#11,B
+1,5,F105
+1,6,F105
+2,11,F105
+2,12,F105
+@PHY 133,1,1,
+#11,B
+2,7,B206
+2,8,B206
+@WTW 153,1,1,
+#11,E
+1,17,Lesingteater/Lecture Theatre L4
+1,18,Lesingteater/Lecture Theatre L4
+1,19,Lesingteater/Lecture Theatre L4
+1,20,Lesingteater/Lecture Theatre L4
+3,1,Lesingteater/Lecture Theatre L7
+3,2,Lesingteater/Lecture Theatre L7
+3,3,Lesingteater/Lecture Theatre L7
+3,4,Lesingteater/Lecture Theatre L7
+@JGL 451 P,4,1,
+#1,A
+5,9,Lesingteater/Lecture Theatre L4
+5,10,Lesingteater/Lecture Theatre L4
+#2,E
+5,5,Lesingteater/Lecture Theatre L1
+5,6,Lesingteater/Lecture Theatre L1
+@JMD 303,3,0,
+#1,B
+1,21,B202
+1,22,B202
+@JMS 451,4,1,
+#1,B
+3,1,Swembad-SPool/Sportsentrum
+3,2,Swembad-SPool/Sportsentrum
+3,3,Swembad-SPool/Sportsentrum
+3,4,Swembad-SPool/Sportsentrum
+@JMR 451 P,4,1,
+#1,B
+2,19,WEB CT-LAB
+2,20,WEB CT-LAB
+@JMN 456,4,1,
+#1,B
+4,3,G104
+4,4,G104
+4,5,G104
+4,6,G104
+@RTT 240 P,2,2,
+#11,B
+5,15,Aldoel 1-93
+5,16,Aldoel 1-93
+5,17,Aldoel 1-93
+5,18,Aldoel 1-93
+@RTT 230 P,2,1,
+#11,B
+5,13,Aldoel 1-93
+5,14,Aldoel 1-93
+5,15,Aldoel 1-93
+5,16,Aldoel 1-93
+@RTT 230,2,1,
+#11,B
+3,15,Aldoel 1-93
+3,16,Aldoel 1-93
+4,19,Aldoel 1-93
+4,20,Aldoel 1-93
+@JMO 220 P,2,2,
+#11,B
+2,17,Musiek/Music D105
+2,18,Musiek/Music D105
+2,19,Musiek/Music D105
+2,20,Musiek/Music D105
+@JMO 220,2,2,
+#11,B
+3,11,Musiek/Music D105
+3,12,Musiek/Music D105
+3,13,Musiek/Music D105
+3,14,Musiek/Music D105
+@JLP 220,2,2,
+#11,E
+3,9,Aldoel 2
+3,10,Aldoel 2
+3,11,Aldoel 2
+3,12,Aldoel 2
+4,13,Aldoel 2
+4,14,Aldoel 2
+4,15,Aldoel 2
+4,16,Aldoel 2
+@JGS 210 P,2,1,
+#11,A
+5,1,Aldoel 2
+5,2,Aldoel 2
+@INF 154 P,1,1,
+#11,A
+3,15,IT LAB
+3,16,IT LAB
+3,17,IT LAB
+3,18,IT LAB
+#12,E
+4,5,IT LAB
+4,6,IT LAB
+4,7,IT LAB
+4,8,IT LAB
+@JWS 210,2,1,
+#1,B
+1,11,F105
+1,12,F105
+1,13,F105
+1,14,F105
+3,9,F105
+3,10,F105
+@JSN 210 P,2,1,
+#1,B
+4,3,F101
+4,4,F101
+@JRE 252,2,1,
+#1,B
+2,1,B204
+2,2,B204
+@JMO 206,2,0,
+#1,B
+1,7,Musiek/Music D103
+1,8,Musiek/Music D103
+@JLW 451,4,1,
+#1,B
+2,5,Lesingteater/Lecture Theatre L1
+2,6,Lesingteater/Lecture Theatre L1
+3,5,Lesingteater/Lecture Theatre L1
+3,6,Lesingteater/Lecture Theatre L1
+3,7,Lesingteater/Lecture Theatre L1
+3,8,Lesingteater/Lecture Theatre L1
+@JLO 451,4,1,
+#2,E
+2,1,Aldoel 3
+2,2,Aldoel 3
+@JMH 300,3,0,
+#1,B
+3,3,B207
+3,4,B207
+5,3,B207
+5,4,B207
+@JMD 305,3,0,
+#1,B
+4,17, B202
+4,18, B202
+4,19, B202
+4,20, B202
+@JMR 200,2,0,
+#1,B
+1,7,WEB CT-LAB
+1,8,WEB CT-LAB
+@JMD 207,2,0,
+#1,B
+1,15,F03
+1,16,F03
+@JGD 310,3,1,
+#1,B
+5,5,B207
+5,6,B207
+5,7,B207
+5,8,B207
+@JEN 352,3,1,
+#1,E
+1,3,Lesingteater/Lecture Theatre L5
+1,4,Lesingteater/Lecture Theatre L5
+4,7,Lesingteater/Lecture Theatre L6
+4,8,Lesingteater/Lecture Theatre L6
+@JEN 351,3,1,
+#1,E
+1,1,Lesingteater/Lecture Theatre L7
+1,2,Lesingteater/Lecture Theatre L7
+4,7,Lesingteater/Lecture Theatre L6
+4,8,Lesingteater/Lecture Theatre L6
+@JCH 320,3,2,
+#1,B
+1,5,B206
+1,6,B206
+2,11,B206
+2,12,B206
+@JCH 310 P,3,1,
+#1,B
+3,5,NW/NS Lab G/Aldo F03
+3,6,NW/NS Lab G/Aldo F03
+3,7,NW/NS Lab G/Aldo F03
+3,8,NW/NS Lab G/Aldo F03
+@REL 152,1,1,
+#11,A
+2,5,B204
+2,6,B204
+2,7,B204
+2,8,B204
+#12,E
+4,17,B204
+4,18,B204
+4,19,B204
+4,20,B204
+@JMB 113 P,1,1,
+#11,B
+4,11,Swembad-SPool/Sportsentrum
+4,12,Swembad-SPool/Sportsentrum
+4,13,Swembad-SPool/Sportsentrum
+4,14,Swembad-SPool/Sportsentrum
+@WTW 153 P,1,1,
+#11,E
+5,7,B21
+5,8,B21
+@JGD 210,2,1,
+#1,B
+3,13,B207
+3,14,B207
+3,15,B207
+3,16,B207
+@JEN 253,2,2,
+#1,E
+1,9,Lesingteater/Lecture Theatre L1
+1,10,Lesingteater/Lecture Theatre L1
+4,11,Lesingteater/Lecture Theatre L1
+4,12,Lesingteater/Lecture Theatre L1
+@JAF 220,2,2,
+#1,A
+3,13,B204
+3,14,B204
+3,15,B204
+3,16,B204
+@JSB 320,3,2,
+#1,B
+3,5,Swembad/SPool L28/L29/L30
+3,6,Swembad/SPool L28/L29/L30
+3,7,Swembad/SPool L28/L29/L30
+3,8,Swembad/SPool L28/L29/L30
+@GGY 166 T,1,2,
+#11,B
+4,19,Lesingteater/Lecture Theatre L2
+4,20,Lesingteater/Lecture Theatre L2
+@JAF 320,3,2,
+#1,A
+4,9,Lesingteater/Lecture Theatre L4
+4,10,Lesingteater/Lecture Theatre L4
+4,11,Lesingteater/Lecture Theatre L4
+4,12,Lesingteater/Lecture Theatre L4
+@PHY 143,1,2,
+#11,B
+1,9,B206
+1,10,B206
+@JMC 200,2,0,
+#1,B
+2,13,B206
+2,14,B206
+@INF 164 P,1,2,
+#11,A
+3,15,IT LAB
+3,16,IT LAB
+3,17,IT LAB
+3,18,IT LAB
+#12,E
+5,3,IT LAB
+5,4,IT LAB
+5,5,IT LAB
+5,6,IT LAB
+@JMN 456 P,4,1,
+#1,B
+1,9,B206
+1,10,B206
+@JTT 240 P,2,2,
+#11,B
+3,5,B21
+3,6,B21
+3,7,B21
+3,8,B21
+@JWG 210 P,2,1,
+#11,A
+3,9,B206
+3,10,B206
+3,11,B206
+3,12,B206
+#12,E
+2,15,B206
+2,16,B206
+2,17,B206
+2,18,B206
+@JWI 220 P,2,2,
+#11,A
+4,7,Lesingteater/Lecture Theatre L2
+4,8,Lesingteater/Lecture Theatre L2
+4,9,Lesingteater/Lecture Theatre L2
+4,10,Lesingteater/Lecture Theatre L2
+#12,E
+4,13,F101
+4,14,F101
+4,15,F101
+4,16,F101
+@GES 210,2,1,
+#11,A
+2,1,A208
+2,2,A208
+2,3,A208
+2,4,A208
+#12,E
+3,1,A208
+3,2,A208
+3,3,A208
+3,4,A208
+@JTK 200,2,0,
+#1,B
+1,5,B202
+1,6,B202
+@JSN 210,2,1,
+#1,B
+1,1,F101
+1,2,F101
+1,3,F101
+1,4,F101
+@JOT 210,2,1,
+#1,B
+1,11,F102
+1,12,F102
+1,13,F102
+1,14,F102
+3,9,F102
+3,10,F102
+3,11,F102
+3,12,F102
+@JMB 230,2,1,
+#1,B
+1,7,Swembad-SPool/Sportsentrum
+1,8,Swembad-SPool/Sportsentrum
+1,9,Swembad-SPool/Sportsentrum
+1,10,Swembad-SPool/Sportsentrum
+@JNM 451,4,1,
+#1,A
+1,5,Aldoel 3
+1,6,Aldoel 3
+1,7,Aldoel 3
+1,8,Aldoel 3
+#2,E
+3,17,Lesingteater/Lecture Theatre L6
+3,18,Lesingteater/Lecture Theatre L6
+3,19,Lesingteater/Lecture Theatre L6
+3,20,Lesingteater/Lecture Theatre L6
+@JWS 220 P,2,2,
+#1,B
+3,11,F105
+3,12,F105
+@JWS 210 P,2,1,
+#1,B
+3,11,F111
+3,12,F111
+@JMO 303,3,0,
+#1,B
+3,7,Musiek/Music D111
+3,8,Musiek/Music D111
+@JMO 302,3,0,
+#1,B
+1,11,Musiek/Music D103
+1,12,Musiek/Music D103
+@JMN 305,3,0,
+#1,B
+1,11,B204
+1,12,B204
+1,13,B204
+1,14,B204
+@JMM 300,3,0,
+#1,B
+1,9,Musiek/Music D103
+1,10,Musiek/Music D103
+@JME 300,3,0,
+#1,E
+1,5,Aldoel 1
+1,6,Aldoel 1
+1,7,Aldoel 1
+1,8,Aldoel 1
+@JLO 310,3,1,
+#1,B
+4,17,A208
+4,18,A208
+4,19,A208
+4,20,A208
+@JLO 200,2,0,
+#1,B
+1,1,A208
+1,2,A208
+1,3,A208
+1,4,A208
+@JMA 200,2,0,
+#1,B
+2,5,B206
+2,6,B206
+@JSN 320,3,2,
+#1,A
+1,5,F107
+1,6,F107
+1,7,F107
+1,8,F107
+#2,E
+3,5,F107
+3,6,F107
+3,7,F107
+3,8,F107
+@JFP 110,1,1,
+#11,A
+5,5,Lesingteater/Lecture Theatre L7
+5,6,Lesingteater/Lecture Theatre L7
+5,7,Lesingteater/Lecture Theatre L7
+5,8,Lesingteater/Lecture Theatre L7
+#12,E
+2,5,Lesingteater/Lecture Theatre L5
+2,6,Lesingteater/Lecture Theatre L5
+2,7,Lesingteater/Lecture Theatre L5
+2,8,Lesingteater/Lecture Theatre L5
+@JMN 208,2,0,
+#1,B
+5,5,Lesingteater/Lecture Theatre L3
+5,6,Lesingteater/Lecture Theatre L3
+@JMN 205,2,0,
+#1,B
+4,13,G103
+4,14,G103
+@JMD 451,4,1,
+#1,B
+5,1,F111
+5,2,F111
+5,3,F111
+5,4,F111
+@JMW 451,4,1,
+#1,B
+4,11,Aldoel 3
+4,12,Aldoel 3
+4,13,Aldoel 3
+4,14,Aldoel 3
+@JMN 458,4,1,
+#1,B
+4,7, B202
+4,8, B202
+4,9, B202
+4,10, B202
+@JMN 455 P,4,1,
+#1,B
+4,15,NW/NS Lab G/Aldo F03
+4,16,NW/NS Lab G/Aldo F03
+@JMK 451,4,1,
+#1,B
+3,5,F01
+3,6,F01
+3,7,F01
+3,8,F01
+@JTT 230,2,1,
+#11,B
+2,1,B21
+2,2,B21
+2,3,B21
+2,4,B21
+@JMN 305 P,3,0,
+#1,B
+1,11,NW/NS Lab G
+1,12,NW/NS Lab G
+1,13,NW/NS Lab G
+1,14,NW/NS Lab G
+@ZUL 111,1,1,
+#11,B
+2,7,Lesingteater/Lecture Theatre L1
+2,8,Lesingteater/Lecture Theatre L1
+4,17,Lesingteater/Lecture Theatre L1
+4,18,Lesingteater/Lecture Theatre L1
+@JWT 225 P,2,2,
+#1,B
+4,13,F106
+4,14,F106
+4,15,F106
+4,16,F106
+@JVB 200,2,0,
+#1,B
+4,3,Swembad/SPool L27
+4,4,Swembad/SPool L27
+4,5,Swembad/SPool L27
+4,6,Swembad/SPool L27
+@JMD 205,2,0,
+#1,B
+4,11,F105
+4,12,F105
+@JLM 451,4,1,
+#1,B
+2,11,Aldoel 3
+2,12,Aldoel 3
+2,13,Aldoel 3
+2,14,Aldoel 3
+@JMN 308,3,0,
+#1,B
+2,5,F106
+2,6,F106
+@JGF 321,3,2,
+#1,B
+3,7,A208
+3,8,A208
+@JGF 311 P,3,1,
+#1,B
+3,15,A204
+3,16,A204
+3,17,A204
+3,18,A204
+3,19,A204
+3,20,A204
+@JKL 251,2,1,
+#1,B
+4,1,B203
+4,2,B203
+@JGF 211,2,2,
+#1,B
+5,1,A208
+5,2,A208
+5,3,A208
+5,4,A208
+@JFK 210 P,2,1,
+#1,B
+4,7,G102
+4,8,G102
+4,9,G102
+4,10,G102
+@JWT 324 P,3,2,
+#1,B
+2,7, B202
+2,8, B202
+2,9, B202
+2,10, B202
+@JMI 200,2,0,
+#1,B
+5,19,B21
+5,20,B21
+@CMY 143 P,1,2,
+#11,B
+3,15,NW/NS Lab B
+3,16,NW/NS Lab B
+3,17,NW/NS Lab B
+3,18,NW/NS Lab B
+3,19,NW/NS Lab B
+3,20,NW/NS Lab B
+@REL 220,2,2,
+#11,B
+2,1,Lesingteater/Lecture Theatre L1
+2,2,Lesingteater/Lecture Theatre L1
+2,3,Lesingteater/Lecture Theatre L1
+2,4,Lesingteater/Lecture Theatre L1
+@JMS 200,2,0,
+#1,B
+3,15,Swembad/SPool L27
+3,16,Swembad/SPool L27
+@JML 200,2,0,
+#1,B
+5,7,Swembad/SPool L27
+5,8,Swembad/SPool L27

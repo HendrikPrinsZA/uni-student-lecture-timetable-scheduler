@@ -1,0 +1,15 @@
+unit module_u;
+interface
+type
+  subject = Record;
+    sName: string;
+    iGroupsNmr: Integer;
+    sClasses: array[1..40] of array[1..5,1..28] of string;
+    sLang: array[1..40] of string;
+    iType: Integer;//0: 1st Sem, 1: 2nd, 3: Year
+    iYear: Integer;
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,20 @@
+
+===User statistics for the Timetable generator===
+Total clicks:			5
+User errors:			0
+Times assisted:			0
+
+Modules added:			4
+Custom modules added:		0
+Modules removed:		0
+
+Modules viewed:			0
+Groups viewed:			0
+Timetable types viewed:		0
+
+Files Loaded:			0
+Files saved:			0
+
+==Time statistics==
+Time taken to add modules:	0min
+Full time:			0min

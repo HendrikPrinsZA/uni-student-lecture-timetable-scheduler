@@ -1,0 +1,1142 @@
+<HTML>
+<HEAD>
+<title>Groenkloof Campus</title>
+<script type='text/javascript' src='table.js'></script>
+</HEAD>
+<img style='LEFT: 103px' height='71' hspace='0' src='up_logo.gif' width=270 border=0>
+<FONT FACE='Arial'>
+<address><font size='5'><strong>Lecture Timetable - Groenkloof Campus</strong></font></address>
+<address><font size='2'>
+<script type='text/javascript' src='filectime.js'></script>
+</font></address>
+<p><font size='2'>CTRL + F (Find text on this page)</font></p>
+<p><address><font size='2'><a href='http://www.up.ac.za/services/academic-admin/support/webreg/2011/2011r004.pdf' target=_blank>Timetable notes and abbreviations</a>
+<font size='2'><a href='http://wrb.up.ac.za:90/plts.xls' target=_blank> / Personal Lecture Timetable Schedule</a>
+<font size='2'><a href='http://web.up.ac.za/interactivemaps/mapeng/index.html' target=_blank> / University Map</a></address></p>
+<a href='javascript:window.history.back(-1)'><strong> Back</strong></a><address><font size='2'><strong>Click on any underlined column heading to sort. (Click once - sort ascending / Click twice - sort descending)</font></strong></address>
+<table id='myTable' class='table-autosort:0 table-autofilter' border=1>
+<thead>
+<tr>
+<th class='table-sortable:default'><u>Year / Module / Group / Lang / A No</u></th>
+<th class='table-filterable'>Type</th>
+<th class='table-filterable'>Day</th>
+<th class='table-filterable table-sortable:default'><u>Start-Time</u></th>
+<th>End-Time</th>
+<th class='table-filterable table-sortable:default'><u>Venue</u></th>
+</tr>
+</thead>
+<tbody>
+<tr><td>1/JTT 120/G51/B/L2</td><td>S2</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>9/HONS 900/G01/B/L25</td><td>J/Y</td><td>Friday</td><td>16:30:00</td><td>19:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JTK 300/G02/A/L2/S2</td><td>S2</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/ENV 101/G51/B/L2</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/ENV 101/G51/B/T1</td><td>K1/Q1</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/ENV 101/G51/B/L3</td><td>K1/Q1</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/ENV 101/G51/B/L1</td><td>K1/Q1</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/ENG 210/G51/E/L3</td><td>S1</td><td>Thursday</td><td>17:30:00</td><td>18:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/ENG 220/G51/E/L3</td><td>S2</td><td>Thursday</td><td>17:30:00</td><td>18:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/JKU 210/G51/A/P1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>2/JKU 210/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>4/JVK 454/G03/A/L1</td><td>K4/Q4</td><td>Tuesday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/JLZ 110/G52/A/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>4/JSN 454/G02/E/L1/K4</td><td>K4/Q4</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>3/JGF 311/G01/B/L2</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>4/JMD 455/G01/B/L1</td><td>K1/Q1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>4/JMV 451/LG01/B/L2</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>4/JMN 457/G01/B/L1</td><td>K1/Q1</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>NW/NS Lab E/L7</td></tr>
+<tr><td>4/JMN 455/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>NW/NS Lab G/Aldo F03</td></tr>
+<tr><td>4/JMN 454/G01/B/P1</td><td>K1/Q1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>NW/NS Lab F/Aldo 3-26 ( B203)</td></tr>
+<tr><td>4/JMN 454/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>08:30:00</td><td>10:30:00</td><td>NW/NS Lab F/Aldo 3-27 ( B202)</td></tr>
+<tr><td>4/JMM 451/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/JLZ 120/G73/E/T1</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G72/E/T1</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G69/E/T1</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/JLZ 120/G65/E/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JLZ 120/G65/E/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JLZ 120/G64/E/L2</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G59/A/T1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 110/G57/A/T1</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/JLZ 110/G57/A/L2</td><td>S1</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/JLZ 110/G55/A/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/JLZ 110/G54/A/T1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/SLK 110/G52/E/L1</td><td>S1</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JMB 223/G51/B/P1/*</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>2/JMB 212/G51/B/L1/*</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>2/JWT 230/G52/E/P1</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab A/Aldo 3-23 (B206)</td></tr>
+<tr><td>2/JWT 230/G52/E/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JWT 230/G51/A/P1</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab A/Aldo 3-23 (B206)</td></tr>
+<tr><td>1/JLZ 120/G78/A/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>2/JOT 240/G52/E/L2</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/OPV 222/LG56/E/L1</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/OPV 222/LG55/E/L2</td><td>S2</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/OPV 222/LG53/A/L1</td><td>S2</td><td>Monday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/WKD 164/G52/E/L3*</td><td>K4/Q4</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/OBS 124/G51/A/L2</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/WTW 133/G51/A/L2</td><td>S1</td><td>Monday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>2/OPV 212/LG56/E/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/OPV 212/LG55/E/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/SLK 110/G51/A/L2</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/JWI 220/G52/E/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/PHY 154/G51/E/P1</td><td>S1</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/JLZ 110/G76/E/L1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/JLZ 110/G75/E/T1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>2/EFK 210/G52/E/L2/*</td><td>S1</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JLZ 120/G59/A/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 120/G56/A/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 120/G51/A/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G73/E/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JLZ 110/G71/E/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G69/E/T1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JLZ 110/G62/E/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JHM 151/PG53/B/P1/*</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 1-143 (F07)</td></tr>
+<tr><td>1/INF 164/G51/A/L1</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>2/JWS 220/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JVK 210/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>2/JPK 220/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JPK 210/G01/B/P1</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab H/L3</td></tr>
+<tr><td>2/JMB 221/G01/B/P1/*</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>2/JWS 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JTT 220/G01/B/L2</td><td>S2</td><td>Thursday</td><td>17:30:00</td><td>19:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>4/JLO 451/G01/A/L1</td><td>K1/Q1</td><td></td><td></td><td></td><td>Aldoel 3</td></tr>
+<tr><td>2/JMO 205/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>15:30:00</td><td>16:30:00</td><td>Musiek/Music D11</td></tr>
+<tr><td>4/JLS 451/G01/B/L2</td><td>K1/Q1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>4/JLK 451/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>4/JAS 451/G01/A/L1</td><td>K1/Q1</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/REL 310/G01/B/L1</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>3/OPV 364/G04/E/L2</td><td>K4/Q4</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JMB 222/G51/B/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>3/JMD 307/G01/A/L1</td><td>J/Y</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab A/L6</td></tr>
+<tr><td>3/JMO 301/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Musiek/Music D5</td></tr>
+<tr><td>3/JKO 310/G04/A/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>3/JKO 310/G01/A/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 1-131 (F02)</td></tr>
+<tr><td>3/JIT 320/G01/B/L1</td><td>S2</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>2/OPV 261/G51/A/L2</td><td>K1/Q1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/OPV 112/G52/A/L2</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OBS 124/G52/E/L1</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/OBS 124/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/JVK 130/G52/E/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/JVK 130/G51/A/P1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/JPS 121/G58/E/L2</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JPS 121/G57/E/L2</td><td>S2</td><td>Friday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/JPS 121/G54/A/L2</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/JPS 121/G52/A/L2</td><td>S2</td><td>Friday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JMB 124/LG51/A/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>1/JMB 112/LG51/B/L1</td><td>S1</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/OPV 112/G60/E/L2</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>4/JMI 451/G01/B/P1</td><td>K1/Q1</td><td>Friday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>4/JMG 451/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JMF 451/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>4/JME 451/G01/B/L1</td><td>K1/Q1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JMD 457/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>2/JGF 221/G01/B/P1</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>2/JFK 220/G01/B/P1</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab D/Aldo 2-95 (G102)</td></tr>
+<tr><td>2/JFK 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>2/JCH 210/G01/B/P1</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>NW/NS Lab G/Aldo 2-86 (F105)</td></tr>
+<tr><td>3/OPV 364/G02/A/L1</td><td>K4/Q4</td><td>Monday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 363/G03/E/L3</td><td>K3/Q3</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>3/OPV 362/G04/E/L3</td><td>K2/Q2</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>3/OPV 362/G03/E/L1</td><td>K2/Q2</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/JWS 320/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JWS 320/G01/B/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JSB 310/G01/B/L1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Swembad/SPool L27</td></tr>
+<tr><td>1/JLK 110/G53/E/L1</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>1/JLD 120/G52/E/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/GGY 166/G51/B/L4</td><td>K3/Q3</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/GGY 156/G51/B/L2</td><td>K2/Q2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/GES 110/G51/A/L2</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/ENG 110/G51/E/O1</td><td>S1</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/EFK 110/G52/E/L1/*</td><td>S1</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/CMY 133/G52/B/P1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>17:30:00</td><td>NW/NS Lab B</td></tr>
+<tr><td>3/JAF 310/G01/A/L1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/RTT 200/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>16:30:00</td><td>19:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>1/ZUL 120/G51/B/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/WTW 133/G52/E/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/WKD 164/G51/A/T1</td><td>K4/Q4</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/STK 123/G51/A/L3</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/STK 113/G51/A/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/PHY 143/G53/A/P3</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab D</td></tr>
+<tr><td>1/OPV 122/G58/E/L2</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OPV 122/G57/E/L1</td><td>S2</td><td>Monday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JMN 207/G01/B/L1</td><td>J/Y</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JMM 200/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>2/JLD 200/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>9/HONS 900/G01/B/L2</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>4/JSN 454/G02/E/L1/K1</td><td>K1/Q1</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/JLZ 110/G53/A/T1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G52/A/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/AFR 120/G51/A/B1</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/EKN 110/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/REL 153/G52/E/L1</td><td>K3/Q3</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 120/G72/E/L2</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G70/E/L2</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G62/E/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G60/A/L2</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G60/A/T1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/JLZ 110/G56/A/T1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>4/JMA 451/G01/A/L1</td><td>K1/Q1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/SLK 110/G52/E/T1</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JMB 222/G51/B/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>2/JWT 230/G51/A/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/JLZ 120/G78/A/T1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>2/JLO 220/G52/E/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/OPV 222/LG53/A/L2</td><td>S2</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/WKD 164/G52/E/L4*</td><td>K4/Q4</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>9/HONS 900/G01/B/L15</td><td>J/Y</td><td>Thursday</td><td>16:00:00</td><td>17:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/WTW 144/G52/B/L4</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/AFT 220/G51/B/L2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/SLK 110/G51/A/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JWG 210/G52/E/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JWI 210/G52/E/P1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>2/JWI 210/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/OBS 124/G51/A/L3</td><td>S2</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/EKN 120/G52/E/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/PHY 154/G51/E/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/JLZ 110/G76/E/L2</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/NDE 210/G51/E/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/PHY 143/G56/E/P3</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab D</td></tr>
+<tr><td>1/PHY 143/G55/E/P2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>NW/NS Lab D</td></tr>
+<tr><td>1/PHY 143/G54/E/P1</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>15:30:00</td><td>NW/NS Lab D</td></tr>
+<tr><td>2/JLO 210/G51/A/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/JMB 210/G01/B/L2/*</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>1/STK 113/G52/E/L1</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/JLZ 120/G76/E/T1</td><td>S2</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/AFT 121/G51/B/L2</td><td>S2</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JWG 220/G52/E/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JWG 220/G52/E/P1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 120/G59/A/L2</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 120/G56/A/T1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 120/G52/A/T1</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 120/G51/A/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G74/A/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 110/G73/E/T1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JLZ 110/G68/E/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G63/E/T1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/JLZ 110/G62/E/T1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G61/E/T1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JHM 151/LG51/A/L1/*</td><td>K1/Q1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/ZUL 220/G51/B/L2</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>2/ZUL 210/G51/B/L1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>3/JAW 310/G02/E/L2</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>3/JLO 300/G01/B/L2</td><td>J/Y</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/JVK 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>3/JLG 310/G01/A/L1</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/JLV 253/G01/B/L1</td><td>K4/Q4</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>3/JLD 300/G02/E/L1/S2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>9/HONS 900/G01/B/L24</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>17:00:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>9/HONS 900/G01/B/L23</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/ENG 120/G52/E/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/ENG 110/G53/E/O1</td><td>S1</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>4/JNM 454/G01/A/L1</td><td>K4/Q4</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JWS 310/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JIT 210/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>4/JLP 451/G02/E/P1</td><td>K1/Q1</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>3/RTT 300/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>17:30:00</td><td>20:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>3/RTT 300/G02/B/L1</td><td>J/Y</td><td>Thursday</td><td>17:30:00</td><td>20:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>3/REL 320/G01/B/L1</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JMT 200/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JMV 300/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>3/JMT 304/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>17:30:00</td><td>18:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JMG 320/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>3/JGS 310/G02/E/L2</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>3/JGS 310/G01/A/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JGD 320/G01/B/L1</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>3/JFK 320/G01/B/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>3/JDK 310/G01/B/L3</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>2/OPV 262/G51/A/L1</td><td>K2/Q2</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>3/OPV 364/G01/A/L2</td><td>K4/Q4</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/OPV 112/G51/A/L2</td><td>S1</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OBS 114/G52/E/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/NDE 110/G51/B/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/JPS 121/G53/A/L1</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JMB 123/PG51/B/P1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>1/OPV 122/G54/A/L1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 112/G58/E/L2</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/WTW 153/G51/E/T1</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>4/JMI 451/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>2/OPV 263/G52/E/L2</td><td>K3/Q3</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/OPV 263/G52/E/L1</td><td>K3/Q3</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/OPV 262/G52/E/L1</td><td>K2/Q2</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JEN 251/G01/E/L1</td><td>K1/Q1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JCH 220/G01/B/L2</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JCH 210/G01/B/L2</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JAF 210/G01/A/L1</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>3/OPV 363/G02/A/L3</td><td>K3/Q3</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 361/G03/E/L2</td><td>K1/Q1</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>3/JTT 320/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>3/JPK 320/G01/B/P1</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab H/L6</td></tr>
+<tr><td>3/JOT 354/G01/B/L1</td><td>K4/Q4</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>1/JLK 110/G54/E/L1</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>1/JGS 120/G52/E/L1</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JGS 120/G51/A/L2</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/GGY 166/G51/B/L2</td><td>K3/Q3</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/FRK 111/G52/E/L4</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 111/G52/E/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/ENG 120/G51/E/O1</td><td>S2</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/ENG 120/G51/E/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/CMY 143/G52/E/T2</td><td>S2</td><td>Friday</td><td>13:30:00</td><td>15:00:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/CMY 143/G52/E/T1</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>13:00:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/CMY 143/G51/A/T1</td><td>S2</td><td>Tuesday</td><td>15:30:00</td><td>17:00:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/CMY 143/G51/A/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/CMY 133/G51/B/T1</td><td>S1</td><td>Monday</td><td>15:30:00</td><td>17:00:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>3/JAW 310/G01/A/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/WKD 164/G51/A/L2</td><td>K4/Q4</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/SEP 110/G51/B/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/OPV 122/G59/E/L2</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JMW 200/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>2/JMF 200/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JLG 210/G01/B/L1</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>9/HONS 900/G01/B/L10</td><td>J/Y</td><td>Tuesday</td><td>14:30:00</td><td>18:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>9/HONS 900/G01/B/L3</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/SLK 120/G51/A/T2</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JWT 230/G51/A/L3</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>4/JBA 451/G01/E/P1</td><td>K1/Q1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>4/JBA 451/G01/A/P1</td><td>K1/Q1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>4/JMD 453/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/TBE 110/G52/E/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>4/JMR 451/G01/B/L1</td><td>K1/Q1</td><td>Monday</td><td>16:30:00</td><td>18:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>4/JMN 457/G01/B/P1</td><td>K1/Q1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>4/JML 451/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>1/JLZ 120/G71/E/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 120/G70/E/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G66/E/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G61/E/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G59/A/L2</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 110/G58/A/T1</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JLZ 110/G56/A/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 110/G54/A/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>2/JMB 213/G51/B/P1/*</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>2/RTT 240/G51/B/O1</td><td>S2</td><td>Thursday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>2/RTT 240/G51/B/L1</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>2/JOT 240/G51/A/P1</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JKU 210/G52/E/P1</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 1-131 (F02)</td></tr>
+<tr><td>1/WKD 164/G52/E/L1*</td><td>K4/Q4</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>9/HONS 900/G01/B/L22</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>9/HONS 900/G01/B/L16</td><td>J/Y</td><td>Thursday</td><td>16:00:00</td><td>17:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JAW 210/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/SLK 110/G51/A/T2</td><td>S1</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JWI 220/G51/A/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JWI 210/G51/A/P1</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/OPV 361/G03/E/L1</td><td>K1/Q1</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/OPV 212/LG52/A/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/PHY 154/G51/E/P2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/PHY 154/G51/E/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/JLZ 120/G76/E/L2</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/OPV 222/LG51/A/L1</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/GES 220/G51/A/L1/*</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/EFK 210/G51/A/L1/*</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/ENG 210/G51/E/L2</td><td>S1</td><td>Wednesday</td><td>17:30:00</td><td>18:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/JLO 220/G51/A/L1</td><td>S2</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JMB 212/G51/B/L2/*</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>1/STK 123/G52/E/L2</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/STK 123/G52/E/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/JLZ 120/G58/A/L2</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/JLZ 120/G55/A/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G53/A/T1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 120/G52/A/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 110/G64/E/L2</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G63/E/L2</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/JHM 151/PG54/B/P1/*</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 1-143 (F07)</td></tr>
+<tr><td>2/JST 220/G51/A/L2</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>2/JGS 210/G51/A/L1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JGL 200/G52/E/L2</td><td>J/Y</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/WTW 133/G51/A/L5</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/JAW 220/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JAW 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>3/JGF 321/G01/B/P1</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/REL 210/G51/B/L1</td><td>S1</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JWT 225/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JPK 210/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JOO 254/G01/B/L1</td><td>K3/Q3</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/JMB 210/G01/B/L1/*</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>1/TBE 120/G52/E/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/REL 154/G52/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/INF 153/G52/E/L1</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>9/HONS 900/G01/B/L12</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JLW 210/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>4/JLO 451/G01/A/P1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>4/JPE 454/G02/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>4/JLP 451/G01/A/L1</td><td>K1/Q1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JGL 451/G01/A/L1</td><td>K1/Q1</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>4/JAS 451/G02/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>3/OPV 364/G03/E/L2</td><td>K4/Q4</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/JMS 300/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>3/JMD 307/G03/A/L1</td><td>J/Y</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab A/Aldo 3-23 (B206)</td></tr>
+<tr><td>3/JMO 304/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>13:30:00</td><td>14:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>3/JMK 301/G01/B/L2</td><td>J/Y</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>3/JMD 306/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>NW/NS Lab D/Aldo 3-23 (B206)</td></tr>
+<tr><td>3/JMC 300/G01/B/L1</td><td>J/Y</td><td>Friday</td><td>11:30:00</td><td>14:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>3/JMB 321/G01/B/L1</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>3/JMB 320/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>3/JMA 300/G01/A/L1</td><td>J/Y</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>3/JLO 320/G01/B/L1</td><td>S2</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JLD 300/G02/E/L1/S1</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>3/JKO 310/G08/E/L1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 1-145 (F06)</td></tr>
+<tr><td>3/JKO 310/G05/A/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1-131 (F02)</td></tr>
+<tr><td>3/JKG 300/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>3/JGV 320/G02/E/L2</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JEN 354/G01/E/L1</td><td>K3/Q3</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JDK 320/G01/B/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>3/JDK 310/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>3/JCH 320/G01/B/P1</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>NW/NS Lab G/Aldo F03</td></tr>
+<tr><td>2/OPV 264/G51/A/L2</td><td>K4/Q4</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/OPV 263/G51/A/L1</td><td>K3/Q3</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/REL 151/G52/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>3/OPV 364/G01/A/L1</td><td>K4/Q4</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>3/OPV 361/G01/A/L2</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/OPV 112/G54/A/L1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 112/G53/A/L2</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OBS 114/G51/A/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/OBS 114/G51/A/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/JPS 121/G54/A/L1</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/JMB 122/LG51/B/L2</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/JMB 122/LG51/B/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/OPV 122/G54/A/L2</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 122/G52/A/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JMD 457/G01/B/L2</td><td>K1/Q1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>2/JGS 220/G01/B/L1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>2/JGL 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JGF 211/G01/B/P1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>2/JFK 210/G01/B/L2</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>2/JDK 220/G01/B/L3</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JCH 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>3/OPV 363/G04/E/L3</td><td>K3/Q3</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>3/OPV 363/G03/E/L2</td><td>K3/Q3</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>3/OPV 361/G04/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>3/JWT 324/G01/B/L2</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>3/JWS 310/G01/B/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JTT 310/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>3/JPK 320/G01/B/L2</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>3/JPK 310/G01/B/L2</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>3/JPK 310/G01/B/P1</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab H/L6</td></tr>
+<tr><td>3/JOT 310/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>1/JLK 110/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>1/JLD 120/G52/E/L2</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JGL 120/G51/A/L1</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/GES 120/G52/E/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/GES 110/G52/E/L2</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/FRK 111/G51/A/L3</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/ENG 120/G51/E/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/ENG 110/G51/E/L2</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/ENG 110/G51/E/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/CMY 143/G52/E/L1</td><td>S2</td><td>Monday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/CMY 133/G51/B/L1</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/AFT 121/G51/B/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/WTW 143/G52/E/L4</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/JLO 210/G52/E/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/WTW 143/G52/E/P1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/WTW 143/G52/E/L3</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/WTW 143/G52/E/L1</td><td>S2</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/PHY 133/G52/A/P2</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>NW/NS Lab C</td></tr>
+<tr><td>1/OPV 122/G56/E/L2</td><td>S2</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JMH 200/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/SLK 120/G52/E/L1</td><td>S2</td><td>Monday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/SLK 120/G51/A/T1</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/SLK 120/G51/A/L2</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/SLK 120/G51/A/L1</td><td>S2</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/JLZ 110/G51/A/T1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>2/JTT 240/G51/B/L2</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>4/JSN 451/G02/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/EKN 110/G51/A/L2</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>4/JMT 454/G01/B/L2</td><td>K1/Q1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>4/JMN 458/G01/B/P1</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>NW/NS Lab E/Aldo 3-27 ( B202)</td></tr>
+<tr><td>1/JLZ 120/G74/A/T1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 120/G74/A/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 120/G66/E/T1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G65/E/T1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JLZ 120/G61/E/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G60/A/L2</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>2/JTT 240/G51/B/L1</td><td>S2</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>2/OPV 222/LG52/A/L2</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>9/HONS 900/G01/B/L17</td><td>J/Y</td><td>Thursday</td><td>16:00:00</td><td>17:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/WTW 144/G52/B/T1</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/WTW 144/G52/B/P1</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/WTW 144/G52/B/L2</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/WTW 143/G52/E/L2</td><td>S2</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/AFR 214/G51/A/B1</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/OPV 212/LG51/A/L2</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JLZ 110/G75/E/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/SEP 211/G51/B/L1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/SEP 210/G51/B/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>2/ENG 210/G51/E/L1</td><td>S1</td><td>Tuesday</td><td>17:30:00</td><td>18:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/AFR 220/G51/A/B1</td><td>S2</td><td>Friday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/AFR 220/G51/A/L2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JLO 210/G52/E/L2</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JLO 220/G52/E/L2</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/STK 123/G52/E/L3</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/JWG 220/G51/A/P1</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/SEP 111/G51/B/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/JLZ 120/G57/A/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/JLZ 110/G74/A/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 110/G73/E/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JLZ 110/G71/E/L2</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G69/E/L2</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JLZ 110/G62/E/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>2/OPV 212/LG54/E/L1</td><td>S1</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JST 220/G51/E/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JLP 220/G51/E/L1/*</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/ZUL 211/G51/B/L1</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/ZUL 210/G51/B/L2</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>2/JLW 210/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JPK 220/G01/B/P1</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab H/Aldo 2-85 (F106)</td></tr>
+<tr><td>2/JOT 220/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JMO 203/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Musiek/Music D111</td></tr>
+<tr><td>2/JMB 220/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>2/JMB 211/G01/B/P1/*</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>1/INF 154/G52/E/L1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>IT LAB</td></tr>
+<tr><td>1/ENG 120/G53/E/O1</td><td>S2</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/ENG 120/G52/E/O1</td><td>S2</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/ENG 120/G53/E/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/ENG 110/G52/E/O1</td><td>S1</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JEN 354/G01/E/L2</td><td>K3/Q3</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/JTT 210/G01/B/L2</td><td>S1</td><td>Thursday</td><td>17:30:00</td><td>19:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>4/JOA 451/G01/A/L1</td><td>K1/Q1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>4/JSN 454/G01/A/L1/K4</td><td>K4/Q4</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>4/JPE 454/G01/A/L1</td><td>K1/Q1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>4/JLT 451/G01/B/L2</td><td>K4/Q4</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>4/JLP 451/G01/A/P1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>4/JLK 451/G02/B/L2</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>4/JLE 451/G01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>3/JMW 300/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>3/JMN 308/G01/B/P1</td><td>J/Y</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>NW/NS Lab E/L1</td></tr>
+<tr><td>3/JMN 307/G01/B/P1</td><td>J/Y</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>NW/NS Lab A/L1</td></tr>
+<tr><td>3/JMN 306/G01/B/L2</td><td>J/Y</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>NW/NS Lab D/Aldo 3-23 (B206)</td></tr>
+<tr><td>3/JMI 300/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>17:30:00</td><td>19:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>3/JMD 301/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>3/JMB 311/G01/B/L1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>3/JST 320/G01/A/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>3/JKU 301/G02/B/P1</td><td>J/Y</td><td>Friday</td><td>08:30:00</td><td>11:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>3/JKO 310/G02/A/L1</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>3/JGS 310/G02/E/L1</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>3/JFK 320/G01/B/P1</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>NW/NS Lab D/Aldo 2-91 (F111)</td></tr>
+<tr><td>3/JFK 320/G01/B/L2</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>3/JFK 310/G01/B/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>3/JEN 353/G01/E/L2</td><td>K4/Q4</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JDK 320/G01/B/L3</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>3/JDK 320/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>3/JCH 310/G01/B/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>3/OPV 362/G01/A/L1</td><td>K2/Q2</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/JTK 200/G01/B/P1</td><td>J/Y</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Raadpleeg/Consult Dept</td></tr>
+<tr><td>4/JLL 451/G02/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>09:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/OPV 112/G56/E/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OPV 112/G51/A/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OBS 114/G52/E/L3</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/OBS 114/G52/E/L2</td><td>S1</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/JPS 121/G58/E/L1</td><td>S2</td><td>Monday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JPS 121/G53/A/L2</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/OPV 122/G51/A/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 112/G60/E/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OPV 112/G59/E/L2</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>4/JMH 451/G01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>4/JMF 451/G01/B/L2</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>2/JGF 221/G01/B/L1</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/JEN 254/G01/E/L1</td><td>K4/Q4</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JEN 252/G01/E/L1</td><td>K2/Q2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/OPV 362/G03/E/L2</td><td>K2/Q2</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/OPV 361/G02/A/L1</td><td>K1/Q1</td><td>Monday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JWT 324/G01/B/L1</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>3/JVK 320/G01/A/L2</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>3/JSN 320/G01/A/P1</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>3/JOT 353/G01/B/L1</td><td>K3/Q3</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JMV 200/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/JLK 120/G53/E/L1</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>1/JGV 152/G51/A/L1</td><td>K2/Q2</td><td>Monday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/GGY 156/G51/B/L3</td><td>K2/Q2</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/GES 120/G52/E/L2</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/GES 110/G52/E/L1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/FRK 121/G51/A/L2</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 111/G51/A/L4</td><td>S1</td><td>Friday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 111/G51/A/L2</td><td>S1</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/EKN 110/G52/E/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/WTW 133/G52/E/P1</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>1/WTW 133/G51/A/L3</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/WKD 164/G51/A/L1</td><td>K4/Q4</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/OPV 122/G57/E/L2</td><td>S2</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OPV 122/G56/E/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JMN 206/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JMN 204/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JME 200/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JMG 200/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>9/HONS 900/G01/B/L4</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>3/JNM 321/G03/E/L1</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JSN 454/G01/A/L1/K1</td><td>K1/Q1</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>2/JOT 240/G51/A/L2</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/WTW 133/G52/E/L5</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>4/JBA 451/G01/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>4/JVK 454/G02/E/L1</td><td>K1/Q1</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>4/JMD 456/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/INF 163/G52/E/L1</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>4/JMT 454/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>1/JTT 120/G51/B/L1</td><td>S2</td><td>Monday</td><td>17:30:00</td><td>19:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>1/JLZ 120/G71/E/L2</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 120/G69/E/L2</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/JLZ 120/G64/E/T1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G64/E/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G63/E/L2</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/JLZ 120/G62/E/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G61/E/T1</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 120/G60/A/T1</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G58/A/L2</td><td>S1</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JLZ 110/G56/A/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 110/G55/A/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/SLK 110/G52/E/T2</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/SLK 110/G52/E/L2</td><td>S1</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JWT 230/G51/A/L2</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>2/JTT 230/G51/B/P1</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>2/JOT 240/G52/E/P1</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JKU 210/G52/E/L1</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 1-131 (F02)</td></tr>
+<tr><td>2/OPV 222/LG56/E/L2</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/OPV 222/LG51/A/L2</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/WKD 164/G52/E/T1</td><td>K4/Q4</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/WKD 164/G52/E/L2*</td><td>K4/Q4</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>9/HONS 900/G01/B/L20</td><td>J/Y</td><td>Thursday</td><td>17:30:00</td><td>19:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>9/HONS 900/G01/B/L18</td><td>J/Y</td><td>Thursday</td><td>16:00:00</td><td>17:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/WTW 133/G51/A/L4</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JHM 151/PG55/B/P1/*</td><td>K1/Q1</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1-143 (F07)</td></tr>
+<tr><td>2/JWI 210/G52/E/L1</td><td>S1</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/EFK 120/G52/E/L2/*</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/JLZ 110/G75/E/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>2/SEP 220/G51/B/L2</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/SEP 220/G51/B/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/SEP 210/G51/B/L2</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>2/ENG 220/G51/E/L1</td><td>S2</td><td>Tuesday</td><td>17:30:00</td><td>18:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/PHY 133/G56/E/P3</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>NW/NS Lab C</td></tr>
+<tr><td>2/JWG 220/G51/A/L1</td><td>S2</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 120/G56/A/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 120/G54/A/T1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G51/A/T1</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G71/E/T1</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G70/E/L2</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G70/E/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G68/E/L2</td><td>S1</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G65/E/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G64/E/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/INF 112/G51/A/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>3/JGF 321/G01/B/P3</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>2/JWT 215/G01/B/L2</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JWT 215/G01/B/P1</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>NW/NS Lab A/Aldo 2-85 (F106)</td></tr>
+<tr><td>2/JSB 220/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>2/JSB 210/G01/B/L1/*</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>2/JPK 210/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JMO 240/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Musiek/Music D105</td></tr>
+<tr><td>2/JMO 202/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Musiek/Music D11</td></tr>
+<tr><td>2/JMO 201/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Musiek/Music D105</td></tr>
+<tr><td>1/TBE 120/G52/E/L2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/AFR 110/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JAS 220/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>4/JLM 451/G01/B/P1</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>4/JLB 451/G01/A/L1/*</td><td>K1/Q1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>4/JLB 451/G02/E/L1/*</td><td>K1/Q1</td><td>Tuesday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>4/JBA 451/G01/A/L1</td><td>K1/Q1</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>3/OPV 364/G03/E/L1</td><td>K4/Q4</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/JMN 204/G01/B/P1</td><td>J/Y</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>3/JMR 300/G01/B/L1</td><td>J/Y</td><td>Friday</td><td>11:30:00</td><td>14:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>3/JMN 307/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>NW/NS Lab A/L2</td></tr>
+<tr><td>3/JMN 306/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>NW/NS Lab D/Aldo 3-25 (B204)</td></tr>
+<tr><td>3/JMN 304/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>NW/NS Lab F/Aldo 3-25 (B204)</td></tr>
+<tr><td>3/JML 300/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Swembad/SPool L27</td></tr>
+<tr><td>3/JMG 310/G01/B/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>3/JMF 300/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>3/JMB 310/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>3/JKU 301/G02/B/L1</td><td>J/Y</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>3/JKO 310/G03/A/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-145 (F06)</td></tr>
+<tr><td>3/JIT 310/G01/B/L2</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>3/JIT 310/G01/B/L1</td><td>S1</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>3/JGV 320/G02/E/L1</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JGV 320/G01/A/L1</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>3/JFK 310/G01/B/P1</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>NW/NS Lab D/Aldo 2-91 (F111)</td></tr>
+<tr><td>2/OPV 264/G51/A/L1</td><td>K4/Q4</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/OPV 262/G51/A/L2</td><td>K2/Q2</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/OPV 112/G56/E/L2</td><td>S1</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OBS 114/G51/A/L3</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/JPS 121/G60/E/L2</td><td>S2</td><td>Friday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/OPV 122/G53/A/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 112/G59/E/L1</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OPV 112/G58/E/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>4/JMC 451/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JGD 220/G01/B/L1</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>2/JFK 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>2/JEN 254/G01/E/L2</td><td>K4/Q4</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JEN 251/G01/E/L2</td><td>K1/Q1</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JDK 220/G01/B/L2</td><td>S2</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JDK 210/G01/B/L2</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JCH 220/G01/B/P1</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>NW/NS Lab G/Aldo 2-86 (F105)</td></tr>
+<tr><td>2/JCH 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>3/OPV 364/G02/A/L3</td><td>K4/Q4</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 363/G04/E/L1</td><td>K3/Q3</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 363/G02/A/L1</td><td>K3/Q3</td><td>Monday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 362/G02/A/L1</td><td>K2/Q2</td><td>Monday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 361/G04/E/L2</td><td>K1/Q1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>3/OPV 361/G02/A/L2</td><td>K1/Q1</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JWT 314/G01/B/L2</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>3/JWT 314/G01/B/P1</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab C/Aldo 3-27 ( B202)</td></tr>
+<tr><td>3/JVK 320/G02/E/L1</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>3/JVB 300/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>3/JTK 300/G01/A/L1</td><td>J/Y</td><td>Monday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>3/JOT 354/G01/B/L2</td><td>K4/Q4</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>3/JOT 310/G01/B/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>3/JNM 311/G01/A/L1</td><td>S1</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/GGY 158/G51/B/P1</td><td>S1</td><td>Friday</td><td>13:30:00</td><td>16:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>1/GGY 156/G51/B/T1</td><td>K2/Q2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/FRK 111/G52/E/L3</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/EKN 120/G51/A/L2</td><td>S2</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/EKN 120/G51/A/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/CMY 143/G51/A/T2</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>09:00:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/WTW 143/G51/A/L4</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/JAW 320/G01/B/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/JAW 310/G01/A/L2</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/ZUL 110/G51/B/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/WTW 143/G52/E/T1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/WTW 143/G51/A/P1</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/WTW 143/G51/A/L3</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/WTW 133/G51/A/T1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/WKD 164/G51/A/L4</td><td>K4/Q4</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/TBE 120/G51/A/L1</td><td>S2</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/SEP 120/G51/B/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/SEP 120/G51/B/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/REL 154/G51/A/L1</td><td>K4/Q4</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/REL 151/G51/A/L1</td><td>K1/Q1</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/PHY 143/G52/A/P2</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>NW/NS Lab D</td></tr>
+<tr><td>1/PHY 133/G51/B/L1</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>9/HONS 900/G01/B/L5</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>9/HONS 900/G01/B/L1</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/SLK 120/G52/E/T2</td><td>S2</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/SLK 120/G52/E/L2</td><td>S2</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>4/JVK 454/G04/E/L1</td><td>K4/Q4</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/WTW 153/G51/E/L3</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>4/JNM 454/G02/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>4/JGL 451/G02/E/P1</td><td>K1/Q1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>4/JGL 451/G01/A/P1</td><td>K1/Q1</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/GGY 158/G52/B/P2</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>14:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>3/JMD 303/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>17:30:00</td><td>18:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>3/JNM 311/G03/E/L1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/INF 164/G52/E/L1</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>4/JMS 451/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>4/JMR 451/G01/B/P1</td><td>K1/Q1</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>4/JMN 456/G01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>NW/NS Lab C/Aldo 2-97 (G104)</td></tr>
+<tr><td>1/JLZ 120/G72/E/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G67/E/T1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JLZ 120/G63/E/T1</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/JLZ 120/G62/E/T1</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G61/E/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G58/A/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/JLZ 110/G55/A/T1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/RTT 240/G51/B/P1</td><td>S2</td><td>Friday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>2/RTT 230/G51/B/P1</td><td>S1</td><td>Friday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>2/RTT 230/G51/B/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>2/JOT 240/G52/E/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JMO 220/G51/B/P1</td><td>S2</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Musiek/Music D105</td></tr>
+<tr><td>2/JMO 220/G51/B/L1</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Musiek/Music D105</td></tr>
+<tr><td>2/OPV 222/LG52/A/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>9/HONS 900/G01/B/L19</td><td>J/Y</td><td>Thursday</td><td>16:00:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>9/HONS 900/G01/B/L14</td><td>J/Y</td><td>Thursday</td><td>15:00:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/AFT 220/G51/B/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/SLK 110/G51/A/T1</td><td>S1</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/JHM 151/PG59/B/P1/*</td><td>K1/Q1</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1-143 (F07)</td></tr>
+<tr><td>1/JHM 151/PG57/B/P1/*</td><td>K1/Q1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1-143 (F07)</td></tr>
+<tr><td>2/JWG 210/G51/A/L1</td><td>S1</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>3/OPV 361/G01/A/L1</td><td>K1/Q1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/OPV 212/LG51/A/L1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JLZ 110/G76/E/T1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/SEP 211/G51/B/L2</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/NDE 210/G51/E/L2</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/ENG 220/G51/E/L2</td><td>S2</td><td>Wednesday</td><td>17:30:00</td><td>18:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/STK 113/G52/E/L2</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/AFR 110/G51/A/L2</td><td>S1</td><td>Wednesday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/SEP 111/G51/B/L2</td><td>S1</td><td>Wednesday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>1/JLZ 120/G60/A/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 120/G58/A/T1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/JLZ 120/G55/A/T1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G55/A/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G54/A/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G53/A/L2</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 120/G52/A/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 110/G74/A/T1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 110/G69/E/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JLZ 110/G67/E/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G65/E/T1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JHM 151/LG52/E/L1/*</td><td>K1/Q1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/JLP 220/G51/E/L2</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JGS 210/G51/E/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>2/JGS 210/G51/A/P1</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JGL 200/G52/E/L1</td><td>J/Y</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/INF 154/G51/A/P1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>IT LAB</td></tr>
+<tr><td>1/INF 153/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>2/ZUL 211/G51/B/L2</td><td>S1</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JWS 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JSN 210/G01/B/P1</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JRE 252/G01/B/L1</td><td>K2/Q2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>2/JMO 206/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>1/INF 154/G52/E/P1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>11:30:00</td><td>IT LAB</td></tr>
+<tr><td>1/ENG 110/G53/E/L2</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/ENG 110/G52/E/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/AFR 120/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>3/JTT 320/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>3/JTT 310/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>4/JOA 451/G01/A/L2</td><td>K1/Q1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>4/JLW 451/G01/B/L2</td><td>K1/Q1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>4/JLO 451/G02/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JLL 451/G01/A/L1</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/OPV 364/G04/E/L3</td><td>K4/Q4</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>3/JMK 301/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>3/JMH 300/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>3/JMD 305/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>NW/NS Lab C/Aldo 3-27 ( B202)</td></tr>
+<tr><td>3/JLO 300/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/JMR 200/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>3/JKU 301/G01/B/P1</td><td>J/Y</td><td>Friday</td><td>08:30:00</td><td>11:30:00</td><td>Aldoel 1-145 (F06)</td></tr>
+<tr><td>3/JGV 320/G01/A/L2</td><td>S2</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JMD 207/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>3/JGF 321/G01/B/P2</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JGD 310/G01/B/L1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>3/JEN 352/G01/E/L2</td><td>K2/Q2</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JEN 352/G01/E/L1</td><td>K2/Q2</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>3/JEN 351/G01/E/L2</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JEN 351/G01/E/L1</td><td>K1/Q1</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>3/JCH 320/G01/B/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>3/JCH 310/G01/B/P1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>NW/NS Lab G/Aldo F03</td></tr>
+<tr><td>2/JWT 230/G51/A/L4</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/REL 152/G52/E/L1</td><td>K2/Q2</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>3/OPV 362/G01/A/L2</td><td>K2/Q2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/OPV 112/G54/A/L2</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 112/G52/A/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/NDE 110/G51/B/L2</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/JVK 130/G52/E/P1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/JPS 121/G59/E/L2</td><td>S2</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JPS 121/G57/E/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/JPS 121/G52/A/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JMB 113/PG51/B/P1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>1/WTW 153/G51/E/P1</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>2/OPV 264/G52/E/L2</td><td>K4/Q4</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/OPV 261/G52/E/L2</td><td>K1/Q1</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JGL 220/G01/B/L2</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JGD 210/G01/B/L1</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>2/JEN 253/G01/E/L2</td><td>K3/Q3</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JEN 253/G01/E/L1</td><td>K3/Q3</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JAF 220/G01/A/L1</td><td>S2</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>3/OPV 362/G02/A/L3</td><td>K2/Q2</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JTK 300/G03/A/L1</td><td>J/Y</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JTK 300/G02/A/L1/S1</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>3/JSN 320/G02/E/P1</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>3/JSB 320/G01/B/L1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>3/JNM 311/G02/E/L1</td><td>S1</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JMW 300/G02/B/L1</td><td>J/Y</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/JLD 120/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JGS 120/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JGL 120/G52/E/L1</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/GGY 166/G51/B/T1</td><td>K3/Q3</td><td>Thursday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/GGY 166/G51/B/L3</td><td>K3/Q3</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/GES 120/G51/A/L2</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/FRK 121/G52/E/L4</td><td>S2</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 121/G52/E/L3</td><td>S2</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 121/G51/A/L3</td><td>S2</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/EFK 120/G51/A/L1/*</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/EFK 110/G52/E/L2/*</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JAF 320/G01/A/L1</td><td>S2</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/WTW 143/G51/A/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/STK 113/G51/A/L3</td><td>S1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/REL 153/G51/A/L1</td><td>K3/Q3</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/PHY 143/G51/A/P1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab D</td></tr>
+<tr><td>1/PHY 143/G51/B/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/PHY 133/G51/A/P1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab C</td></tr>
+<tr><td>1/OPV 122/G60/E/L1</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OPV 122/G58/E/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JMC 200/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>9/HONS 900/G01/B/L11</td><td>J/Y</td><td>Tuesday</td><td>14:30:00</td><td>18:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>9/HONS 900/G01/B/L8</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>9/HONS 900/G01/B/L7</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/JLZ 110/G52/A/T1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>1/JLZ 110/G51/A/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 110/G51/A/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/ZUL 110/G51/B/L2</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/INF 164/G52/E/P1</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>10:30:00</td><td>IT LAB</td></tr>
+<tr><td>4/JMN 456/G01/B/P1</td><td>K1/Q1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>NW/NS Lab D/Aldo 3-23 (B206)</td></tr>
+<tr><td>1/JLZ 120/G74/A/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 120/G73/E/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G70/E/T1</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 120/G67/E/L2</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JLZ 120/G67/E/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/JLZ 120/G63/E/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/JLZ 110/G61/E/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G54/A/L2</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>2/RTT 230/G51/B/O1</td><td>S1</td><td>Thursday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 1-93</td></tr>
+<tr><td>1/JLZ 120/G78/A/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>2/JTT 240/G51/B/P1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>2/JOT 240/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>2/OPV 222/LG55/E/L1</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/OBS 124/G52/E/L2</td><td>S2</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>9/HONS 900/G01/B/L21</td><td>J/Y</td><td>Thursday</td><td>17:30:00</td><td>19:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/WTW 144/G52/B/L3</td><td>S2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/WTW 153/G51/E/L4</td><td>S1</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/WTW 143/G51/A/L2</td><td>S2</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JAW 210/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/AFR 214/G51/A/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/JHM 151/PG58/B/P1/*</td><td>K1/Q1</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1-143 (F07)</td></tr>
+<tr><td>2/JWG 210/G51/A/P1</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>2/JWI 220/G52/E/P1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JWI 220/G51/A/P1</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>2/OPV 212/LG53/A/L1</td><td>S1</td><td>Monday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/OPV 212/LG52/A/L2</td><td>S1</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/PHY 154/G51/E/L4</td><td>S1</td><td>Friday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/PHY 154/G51/E/L3</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>2/GES 210/G52/E/L1</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/GES 210/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/EFK 210/G52/E/L1/*</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>2/AFR 220/G51/A/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/PHY 133/G54/E/P1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>NW/NS Lab C</td></tr>
+<tr><td>2/JLO 220/G51/A/L2</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/JLZ 120/G59/A/T1</td><td>S2</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 120/G57/A/T1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/JLZ 120/G53/A/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G70/E/T1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G67/E/L2</td><td>S1</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G65/E/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G64/E/T1</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>2/OPV 222/LG54/E/L2</td><td>S2</td><td>Wednesday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JST 220/G51/E/L2</td><td>S2</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JST 220/G51/A/L1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JLP 220/G51/A/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JLP 220/G51/A/L1/*</td><td>S2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JGS 210/G51/E/P1</td><td>S1</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JGL 200/G51/A/L2</td><td>J/Y</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JGF 321/G01/B/P4</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>2/JWT 225/G01/B/L2</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JWT 215/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JTT 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>16:30:00</td><td>18:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>2/JTT 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>16:30:00</td><td>18:30:00</td><td>TECHNIKA 1-5</td></tr>
+<tr><td>2/JTK 200/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>2/JSN 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JPK 220/G01/B/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JOT 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JOT 210/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JOT 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JMB 230/G01/B/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>12:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>1/ENG 110/G53/E/L1</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>4/JNM 451/G02/E/L1</td><td>K1/Q1</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/JWS 220/G01/B/P1</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>2/JWS 210/G01/B/P1</td><td>S1</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>2/JWS 210/G01/B/L2</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>4/JVK 454/G01/A/L1</td><td>K1/Q1</td><td>Thursday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>4/JNM 451/G01/A/L1</td><td>K1/Q1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JLS 451/G01/B/L1</td><td>K1/Q1</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>NW/NS Lab E/L7</td></tr>
+<tr><td>4/JLP 451/G02/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>4/JGL 451/G02/E/L1</td><td>K1/Q1</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JMB 220/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Swembad/SPool L28/L29/L30</td></tr>
+<tr><td>3/JMD 307/G04/E/L1</td><td>J/Y</td><td>Friday</td><td>11:30:00</td><td>13:30:00</td><td>NW/NS Lab A/Aldo 3-23 (B206)</td></tr>
+<tr><td>3/JMD 307/G02/A/L1</td><td>J/Y</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab A/L6</td></tr>
+<tr><td>3/JMO 303/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Musiek/Music D111</td></tr>
+<tr><td>3/JMO 302/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>3/JMN 305/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>3/JMM 300/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>3/JMH 300/G01/B/L2</td><td>J/Y</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>3/JME 300/G01/E/L1</td><td>J/Y</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>3/JST 320/G02/E/L1</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>10:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>3/JLO 310/G01/B/L1</td><td>S1</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JLD 300/G01/A/L1</td><td>J/Y</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>3/JKU 301/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-145 (F06)</td></tr>
+<tr><td>3/JKO 310/G07/A/L1</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>3/JGS 310/G01/A/L2</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JGF 311/G01/B/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JDK 310/G01/B/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>3/JCH 320/G01/B/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>2/OPV 263/G51/A/L2</td><td>K3/Q3</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/OPV 261/G51/A/L1</td><td>K1/Q1</td><td>Tuesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>3/OPV 363/G01/A/L1</td><td>K3/Q3</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JLO 200/G01/B/L1</td><td>J/Y</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/OPV 112/G57/E/L1</td><td>S1</td><td>Monday</td><td>15:30:00</td><td>17:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/JPS 121/G60/E/L1</td><td>S2</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JPS 121/G59/E/L1</td><td>S2</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JPS 121/G56/E/L1</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/JPS 121/G51/A/L2</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JMB 112/LG51/B/L2</td><td>S1</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/OPV 122/G52/A/L2</td><td>S2</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 122/G51/A/L2</td><td>S2</td><td>Friday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/OPV 112/G57/E/L2</td><td>S1</td><td>Thursday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/OPV 264/G52/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/JMA 200/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>2/JFK 220/G01/B/L2</td><td>S2</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>2/JDK 220/G01/B/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>2/JDK 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>3/OPV 363/G04/E/L2</td><td>K3/Q3</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>3/OPV 362/G04/E/L2</td><td>K2/Q2</td><td>Wednesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>3/OPV 362/G04/E/L1</td><td>K2/Q2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>3/OPV 362/G03/E/L3</td><td>K2/Q2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/OPV 362/G02/A/L2</td><td>K2/Q2</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 361/G04/E/L3</td><td>K1/Q1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>3/OPV 361/G02/A/L3</td><td>K1/Q1</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JWT 314/G01/B/L1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>3/JVK 320/G01/A/L1</td><td>S2</td><td>Monday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>3/JSN 320/G01/A/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>3/JPK 320/G01/B/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLK 120/G54/E/L1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>1/JLK 120/G52/A/L1</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>1/JLD 120/G51/A/L2</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JGV 152/G52/E/L2</td><td>K2/Q2</td><td>Friday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JGV 152/G51/A/L2</td><td>K2/Q2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/JFP 110/G51/A/L1</td><td>S1</td><td>Friday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/FRK 121/G52/E/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 121/G51/A/L1</td><td>S2</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/EKN 110/G52/E/L2</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/EFK 120/G51/A/L2/*</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/ZUL 120/G51/B/L2</td><td>S2</td><td>Friday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/TBE 110/G51/A/L1</td><td>S1</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/TBE 110/G51/A/L2</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/STK 123/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>2/JMN 208/G01/B/L1</td><td>J/Y</td><td>Friday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>2/JMN 205/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>9/HONS 900/G01/B/L6</td><td>J/Y</td><td>Friday</td><td>15:00:00</td><td>19:00:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/SLK 120/G52/E/T1</td><td>S2</td><td>Wednesday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/JLZ 110/G53/A/L2</td><td>S1</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G53/A/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/AFR 110/G51/A/B1</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>4/JSN 451/G01/A/L1</td><td>K1/Q1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>4/JMD 451/G01/B/L1</td><td>K1/Q1</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/TBE 110/G52/E/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>4/JMW 451/LG01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JMV 451/LG01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 1-133 (F03)</td></tr>
+<tr><td>4/JMN 458/G01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab E/Aldo 3-27 ( B202)</td></tr>
+<tr><td>4/JMN 455/G01/B/P1</td><td>K1/Q1</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>NW/NS Lab G/Aldo F03</td></tr>
+<tr><td>4/JMK 451/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>1/JLZ 120/G73/E/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 120/G71/E/T1</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/JLZ 120/G69/E/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/JLZ 120/G66/E/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G60/A/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/JLZ 110/G59/A/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>1/JLZ 110/G57/A/L1</td><td>S1</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/JWT 230/G52/E/L2</td><td>S1</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JTT 230/G51/B/L1</td><td>S1</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>9/HONS 900/G01/B/L13</td><td>J/Y</td><td>Tuesday</td><td>16:00:00</td><td>19:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>1/WTW 144/G52/B/L1</td><td>S2</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/WTW 133/G52/E/L2</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/WTW 153/G51/E/L2</td><td>S1</td><td>Monday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/OPV 212/LG56/E/L2</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/OPV 212/LG55/E/L2</td><td>S1</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/AFR 214/G51/A/L2</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/JHM 151/PG56/B/P1/*</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 1-143 (F07)</td></tr>
+<tr><td>2/JWG 210/G52/E/P1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/OBS 124/G52/E/L3</td><td>S2</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/EKN 120/G52/E/L2</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>1/EFK 120/G52/E/L1/*</td><td>S2</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/OPV 361/G03/E/L3</td><td>K1/Q1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/OPV 212/LG53/A/L2</td><td>S1</td><td>Wednesday</td><td>15:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JLZ 120/G76/E/L1</td><td>S2</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/GES 220/G52/E/L1/*</td><td>S2</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>2/EFK 220/G51/E/T1/*</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>2/EFK 220/G51/E/L1/*</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JMN 305/G01/B/P1</td><td>J/Y</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab G</td></tr>
+<tr><td>1/PHY 133/G55/E/P2</td><td>S1</td><td>Thursday</td><td>15:30:00</td><td>17:30:00</td><td>NW/NS Lab D</td></tr>
+<tr><td>1/ZUL 111/G51/B/L1</td><td>S1</td><td>Tuesday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/ZUL 111/G51/B/L2</td><td>S1</td><td>Thursday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>1/JLZ 120/G58/A/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>1/JLZ 120/G57/A/L2</td><td>S2</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/JLZ 120/G54/A/L2</td><td>S2</td><td>Tuesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>1/JLZ 110/G68/E/T1</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-95 (G102)</td></tr>
+<tr><td>1/JLZ 110/G67/E/T1</td><td>S1</td><td>Thursday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/JLZ 110/G63/E/L1</td><td>S1</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/OPV 222/LG54/E/L1</td><td>S2</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/OPV 212/LG54/E/L2</td><td>S1</td><td>Wednesday</td><td>10:30:00</td><td>12:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>2/JGL 200/G51/A/L1</td><td>J/Y</td><td>Monday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/INF 164/G51/A/P1</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>IT LAB</td></tr>
+<tr><td>1/INF 163/G51/A/L1</td><td>S2</td><td>Monday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/INF 154/G51/A/L1</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>IT LAB</td></tr>
+<tr><td>1/WTW 133/G52/E/L3</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/ZUL 220/G51/B/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-91 (F111)</td></tr>
+<tr><td>3/JAW 310/G02/E/L1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JLW 210/G01/B/L3</td><td>S1</td><td>Thursday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>2/JWT 225/G01/B/P1</td><td>S2</td><td>Thursday</td><td>13:30:00</td><td>15:30:00</td><td>NW/NS Lab A/Aldo 2-85 (F106)</td></tr>
+<tr><td>2/JVB 200/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>08:30:00</td><td>10:30:00</td><td>Swembad/SPool L27</td></tr>
+<tr><td>3/JLG 310/G01/E/L1</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/EFK 110/G51/A/L2/*</td><td>S1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/EFK 110/G51/A/L1/*</td><td>S1</td><td>Monday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/INF 112/G52/E/L1</td><td>S1</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/WTW 143/G51/A/T1</td><td>S2</td><td>Friday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>1/ENG 120/G53/E/L2</td><td>S2</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/ENG 120/G52/E/L1</td><td>S2</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/ENG 110/G52/E/L2</td><td>S1</td><td>Thursday</td><td>14:30:00</td><td>15:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>2/JMD 205/G01/B/L1</td><td>J/Y</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 2-86 (F105)</td></tr>
+<tr><td>4/JLW 451/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>4/JLT 451/G01/B/L1</td><td>K1/Q1</td><td>Wednesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>4/JLO 451/G02/E/P1</td><td>K1/Q1</td><td>Wednesday</td><td>13:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>4/JLM 451/G01/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>12:30:00</td><td>14:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>4/JLK 451/G02/B/L1</td><td>K1/Q1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-22 (B207)</td></tr>
+<tr><td>4/JLK 451/G01/B/L2</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>4/JLE 451/G01/B/L2</td><td>K1/Q1</td><td>Friday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 3-27 (B202)</td></tr>
+<tr><td>3/OPV 364/G04/E/L1</td><td>K4/Q4</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 364/G03/E/L3</td><td>K4/Q4</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>3/JMT 304/G01/B/L2</td><td>J/Y</td><td>Thursday</td><td>18:30:00</td><td>19:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>3/JMN 308/G01/B/L1</td><td>J/Y</td><td>Tuesday</td><td>09:30:00</td><td>10:30:00</td><td>NW/NS Lab H/Aldo 2-85 (F106)</td></tr>
+<tr><td>3/JKU 301/G02/B/L2</td><td>J/Y</td><td>Wednesday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>3/JKU 301/G01/B/L2</td><td>J/Y</td><td>Friday</td><td>13:30:00</td><td>15:30:00</td><td>Aldoel 1-145 (F06)</td></tr>
+<tr><td>3/JKO 310/G06/A/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 1-145 (F06)</td></tr>
+<tr><td>3/JIT 320/G01/B/L2</td><td>S2</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>3/JGF 321/G01/B/L1</td><td>S2</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>3/JGF 311/G01/B/P1</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>17:30:00</td><td>Aldoel 3-4 (A204)</td></tr>
+<tr><td>3/JFK 310/G01/B/L2</td><td>S1</td><td>Tuesday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>3/JEN 353/G01/E/L1</td><td>K4/Q4</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JCH 310/G01/B/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>3/OPV 363/G01/A/L2</td><td>K3/Q3</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>4/JOA 451/G02/E/L1</td><td>K1/Q1</td><td>Monday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>4/JOA 451/G02/E/L2</td><td>K1/Q1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>1/OPV 112/G53/A/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JVK 130/G51/A/L1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2</td></tr>
+<tr><td>1/JPS 121/G56/E/L2</td><td>S2</td><td>Thursday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/JPS 121/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/JMB 124/LG52/E/L1</td><td>S2</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Swembad-SPool/Sportsentrum</td></tr>
+<tr><td>1/OPV 122/G53/A/L2</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/WTW 153/G51/E/L1</td><td>S1</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/OPV 262/G52/E/L2</td><td>K2/Q2</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/OPV 261/G52/E/L1</td><td>K1/Q1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L7</td></tr>
+<tr><td>2/JKL 251/G01/B/L1</td><td>K1/Q1</td><td>Thursday</td><td>07:30:00</td><td>08:30:00</td><td>Aldoel 3-26 (B203)</td></tr>
+<tr><td>2/JIT 210/G01/B/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>14:30:00</td><td>WEB CT-LAB</td></tr>
+<tr><td>2/JGF 211/G01/B/L1</td><td>S2</td><td>Friday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>2/JFK 210/G01/B/P1</td><td>S1</td><td>Thursday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab D/Aldo 2-95 (G102)</td></tr>
+<tr><td>2/JEN 252/G01/E/L2</td><td>K2/Q2</td><td>Thursday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JDK 210/G01/B/L3</td><td>S1</td><td>Wednesday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-85 (F106)</td></tr>
+<tr><td>3/OPV 364/G02/A/L2</td><td>K4/Q4</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/OPV 363/G03/E/L1</td><td>K3/Q3</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>3/OPV 363/G02/A/L2</td><td>K3/Q3</td><td>Tuesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JWT 324/G01/B/P1</td><td>S2</td><td>Tuesday</td><td>10:30:00</td><td>12:30:00</td><td>NW/NS Lab C/Aldo 3-27 ( B202)</td></tr>
+<tr><td>3/JVK 320/G02/E/L2</td><td>S2</td><td>Thursday</td><td>14:30:00</td><td>16:30:00</td><td>Aldoel 2-98 (G103)</td></tr>
+<tr><td>3/JSN 320/G02/E/L1</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>3/JPK 310/G01/B/L1</td><td>S1</td><td>Monday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>3/JOT 353/G01/B/L2</td><td>K3/Q3</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 2-81 (F102)</td></tr>
+<tr><td>2/JMI 200/G01/B/L1</td><td>J/Y</td><td>Friday</td><td>16:30:00</td><td>17:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>3/JNM 321/G02/E/L1</td><td>S2</td><td>Tuesday</td><td>16:30:00</td><td>17:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>3/JNM 321/G01/A/L1</td><td>S2</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L6</td></tr>
+<tr><td>1/JLK 120/G51/A/L1</td><td>S2</td><td>Tuesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 1-132 (F01)</td></tr>
+<tr><td>1/JLK 110/G52/A/L1</td><td>S1</td><td>Tuesday</td><td>14:30:00</td><td>16:30:00</td><td>Musiek/Music D103</td></tr>
+<tr><td>1/JGV 152/G52/E/L1</td><td>K2/Q2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JGS 120/G52/E/L2</td><td>S2</td><td>Friday</td><td>11:30:00</td><td>12:30:00</td><td>Aldoel 3</td></tr>
+<tr><td>1/JFP 110/G52/E/L1</td><td>S1</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L5</td></tr>
+<tr><td>1/GGY 156/G51/B/L1</td><td>K2/Q2</td><td>Monday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L3</td></tr>
+<tr><td>1/GES 120/G51/A/L1</td><td>S2</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/GES 110/G51/A/L1</td><td>S1</td><td>Tuesday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 3-12 (A208)</td></tr>
+<tr><td>1/FRK 121/G52/E/L2</td><td>S2</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 121/G51/A/L4</td><td>S2</td><td>Friday</td><td>13:30:00</td><td>14:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 111/G52/E/L2</td><td>S1</td><td>Wednesday</td><td>10:30:00</td><td>11:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/FRK 111/G51/A/L1</td><td>S1</td><td>Monday</td><td>15:30:00</td><td>16:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/CMY 143/G51/B/P1</td><td>S2</td><td>Wednesday</td><td>14:30:00</td><td>17:30:00</td><td>NW/NS Lab B</td></tr>
+<tr><td>1/CMY 133/G51/B/T2</td><td>S1</td><td>Friday</td><td>10:30:00</td><td>12:00:00</td><td>Aldoel 2-97 (G104)</td></tr>
+<tr><td>1/GGY 166/G51/B/L1</td><td>K3/Q3</td><td>Monday</td><td>10:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>3/JAW 320/G01/B/L2</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>2/REL 220/G51/B/L1</td><td>S2</td><td>Tuesday</td><td>07:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L1</td></tr>
+<tr><td>2/JLO 210/G51/A/L1</td><td>S1</td><td>Monday</td><td>08:30:00</td><td>09:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/WTW 133/G52/E/L4</td><td>S1</td><td>Wednesday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 2-89 (F107)</td></tr>
+<tr><td>1/WTW 133/G52/E/T1</td><td>S1</td><td>Wednesday</td><td>11:30:00</td><td>13:30:00</td><td>Aldoel 2-83 (F101)</td></tr>
+<tr><td>1/WTW 133/G51/A/P1</td><td>S1</td><td>Monday</td><td>09:30:00</td><td>10:30:00</td><td>Aldoel 1-89 (B21)</td></tr>
+<tr><td>1/WTW 133/G51/A/L1</td><td>S1</td><td>Monday</td><td>12:30:00</td><td>13:30:00</td><td>Lesingteater/Lecture Theatre L4</td></tr>
+<tr><td>1/WKD 164/G51/A/L3</td><td>K4/Q4</td><td>Wednesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 3-23 (B206)</td></tr>
+<tr><td>1/TBE 120/G51/A/L2</td><td>S2</td><td>Wednesday</td><td>09:30:00</td><td>11:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/STK 123/G51/A/L2</td><td>S2</td><td>Wednesday</td><td>15:30:00</td><td>16:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/STK 113/G51/A/L2</td><td>S1</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Lesingteater/Lecture Theatre L2</td></tr>
+<tr><td>1/SEP 110/G51/B/L2</td><td>S1</td><td>Tuesday</td><td>12:30:00</td><td>13:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/REL 152/G51/A/L1</td><td>K2/Q2</td><td>Tuesday</td><td>09:30:00</td><td>11:30:00</td><td>Aldoel 3-25 (B204)</td></tr>
+<tr><td>1/PHY 133/G53/A/P3</td><td>S1</td><td>Thursday</td><td>12:30:00</td><td>14:30:00</td><td>NW/NS Lab C</td></tr>
+<tr><td>1/OPV 122/G60/E/L2</td><td>S2</td><td>Friday</td><td>08:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>1/OPV 122/G59/E/L1</td><td>S2</td><td>Wednesday</td><td>07:30:00</td><td>09:30:00</td><td>Aldoel 1</td></tr>
+<tr><td>2/JMS 200/G01/B/L1</td><td>J/Y</td><td>Wednesday</td><td>14:30:00</td><td>15:30:00</td><td>Swembad/SPool L27</td></tr>
+<tr><td>2/JML 200/G01/B/L1</td><td>J/Y</td><td>Friday</td><td>10:30:00</td><td>11:30:00</td><td>Swembad/SPool L27</td></tr>
+<tr><td>9/HONS 900/G01/B/L9</td><td>J/Y</td><td>Tuesday</td><td>14:30:00</td><td>19:00:00</td><td>Aldoel 3-26 (B203)</td></tr>
+</tbody>
+</FONT>
+</table>
+</HTML>
